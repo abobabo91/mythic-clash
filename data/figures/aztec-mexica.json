@@ -1,0 +1,526 @@
+{
+  "culture_slug": "aztec-mexica",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Huitzilopochtli",
+      "type": "god",
+      "domains": [
+        "sun",
+        "war",
+        "fire",
+        "kingship"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Huitzilopochtli is a god from Aztec / Mexica tradition associated with sun, war, fire, and kingship.",
+      "id": "aztec-mexica-001",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Quetzalcoatl",
+      "type": "god",
+      "domains": [
+        "wind",
+        "wisdom",
+        "creation",
+        "serpent"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Quetzalcoatl is a god from Aztec / Mexica tradition associated with wind, wisdom, creation, and serpent.",
+      "id": "aztec-mexica-002",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Tezcatlipoca",
+      "type": "god",
+      "domains": [
+        "darkness",
+        "night",
+        "war",
+        "magic"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Tezcatlipoca is a god from Aztec / Mexica tradition associated with darkness, night, war, and magic.",
+      "id": "aztec-mexica-003",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Tlaloc",
+      "type": "god",
+      "domains": [
+        "rain",
+        "storm",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Tlaloc is a god from Aztec / Mexica tradition associated with rain, storm, water, and fertility.",
+      "id": "aztec-mexica-004",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Coatlicue",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "serpent",
+        "motherhood",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Coatlicue is a goddess from Aztec / Mexica tradition associated with earth, serpent, motherhood, and death.",
+      "id": "aztec-mexica-005",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Xipe Totec",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "war",
+        "spring",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Xipe Totec is a god from Aztec / Mexica tradition associated with fertility, war, spring, and sacrifice.",
+      "id": "aztec-mexica-006",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Mictlantecuhtli",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "darkness",
+        "bone"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Mictlantecuhtli is a god from Aztec / Mexica tradition associated with underworld, death, darkness, and bone.",
+      "id": "aztec-mexica-007",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Mictecacihuatl",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "underworld",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Mictecacihuatl is a goddess from Aztec / Mexica tradition associated with death, underworld, night, and spirit.",
+      "id": "aztec-mexica-008",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Tonatiuh",
+      "type": "god",
+      "domains": [
+        "sun",
+        "fire",
+        "light",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Tonatiuh is a god from Aztec / Mexica tradition associated with sun, fire, light, and war.",
+      "id": "aztec-mexica-009",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Xolotl",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "lightning",
+        "dog",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Xolotl is a god from Aztec / Mexica tradition associated with underworld, lightning, dog, and death.",
+      "id": "aztec-mexica-010",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Cihuacoatl",
+      "type": "goddess",
+      "domains": [
+        "motherhood",
+        "war",
+        "death",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Cihuacoatl is a goddess from Aztec / Mexica tradition associated with motherhood, war, death, and earth.",
+      "id": "aztec-mexica-011",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Chalchiuhtlicue",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "river",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Chalchiuhtlicue is a goddess from Aztec / Mexica tradition associated with water, river, fertility, and light.",
+      "id": "aztec-mexica-012",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Mayahuel",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "plant",
+        "abundance",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Mayahuel is a goddess from Aztec / Mexica tradition associated with fertility, plant, abundance, and earth.",
+      "id": "aztec-mexica-013",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Coyolxauhqui",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "war",
+        "night",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Coyolxauhqui is a goddess from Aztec / Mexica tradition associated with moon, war, night, and fate.",
+      "id": "aztec-mexica-014",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Xiuhtecuhtli",
+      "type": "god",
+      "domains": [
+        "fire",
+        "hearth",
+        "time",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Xiuhtecuhtli is a god from Aztec / Mexica tradition associated with fire, hearth, time, and light.",
+      "id": "aztec-mexica-015",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Tlazolteotl",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "purification",
+        "lust",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Tlazolteotl is a goddess from Aztec / Mexica tradition associated with love, purification, lust, and earth.",
+      "id": "aztec-mexica-016",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Tlaltecuhtli",
+      "type": "monster",
+      "domains": [
+        "earth",
+        "monster",
+        "creation",
+        "hunger"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Tlaltecuhtli is a monster from Aztec / Mexica tradition associated with earth, monster, creation, and hunger.",
+      "id": "aztec-mexica-017",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Mixcoatl",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "storm",
+        "sky",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Mixcoatl is a god from Aztec / Mexica tradition associated with hunting, storm, sky, and war.",
+      "id": "aztec-mexica-018",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Itzpapalotl",
+      "type": "goddess",
+      "domains": [
+        "night",
+        "star",
+        "butterfly",
+        "death"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Itzpapalotl is a goddess from Aztec / Mexica tradition associated with night, star, butterfly, and death.",
+      "id": "aztec-mexica-019",
+      "culture_slug": "aztec-mexica"
+    },
+    {
+      "name": "Cipactli",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "earth",
+        "sea",
+        "creation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Cipactli is a monster from Aztec / Mexica tradition associated with monster, earth, sea, and creation.",
+      "id": "aztec-mexica-020",
+      "culture_slug": "aztec-mexica"
+    }
+  ]
+}

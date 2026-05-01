@@ -1,0 +1,526 @@
+{
+  "culture_slug": "muisca-colombian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Chiminigagua",
+      "type": "god",
+      "domains": [
+        "creation",
+        "light",
+        "sky",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Chiminigagua is a god from Muisca (Colombian) tradition associated with creation, light, sky, and wisdom.",
+      "id": "muisca-colombian-001",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Bochica",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "light",
+        "justice",
+        "civilization"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Bochica is a hero from Muisca (Colombian) tradition associated with wisdom, light, justice, and civilization.",
+      "id": "muisca-colombian-002",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Bachue",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "water",
+        "motherhood",
+        "creation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Bachue is a goddess from Muisca (Colombian) tradition associated with fertility, water, motherhood, and creation.",
+      "id": "muisca-colombian-003",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Chia",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "night",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Chia is a goddess from Muisca (Colombian) tradition associated with moon, night, fertility, and light.",
+      "id": "muisca-colombian-004",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Sue",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "sky",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Sue is a god from Muisca (Colombian) tradition associated with sun, light, sky, and life.",
+      "id": "muisca-colombian-005",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Huitaca",
+      "type": "goddess",
+      "domains": [
+        "trickster",
+        "moon",
+        "beauty",
+        "rebellion"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Huitaca is a goddess from Muisca (Colombian) tradition associated with trickster, moon, beauty, and rebellion.",
+      "id": "muisca-colombian-006",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Chibchacum",
+      "type": "god",
+      "domains": [
+        "rain",
+        "storm",
+        "earth",
+        "strength"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Chibchacum is a god from Muisca (Colombian) tradition associated with rain, storm, earth, and strength.",
+      "id": "muisca-colombian-007",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Cuchavira",
+      "type": "spirit",
+      "domains": [
+        "rainbow",
+        "healing",
+        "light",
+        "water"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Cuchavira is a spirit from Muisca (Colombian) tradition associated with rainbow, healing, light, and water.",
+      "id": "muisca-colombian-008",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Chaquen",
+      "type": "god",
+      "domains": [
+        "war",
+        "fertility",
+        "fields",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Chaquen is a god from Muisca (Colombian) tradition associated with war, fertility, fields, and strength.",
+      "id": "muisca-colombian-009",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Nencatacoa",
+      "type": "god",
+      "domains": [
+        "music",
+        "drink",
+        "festivity",
+        "trickster"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Nencatacoa is a god from Muisca (Colombian) tradition associated with music, drink, festivity, and trickster.",
+      "id": "muisca-colombian-010",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Sugunsua",
+      "type": "hero",
+      "domains": [
+        "origin",
+        "family",
+        "earth",
+        "fate"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Sugunsua is a hero from Muisca (Colombian) tradition associated with origin, family, earth, and fate.",
+      "id": "muisca-colombian-011",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Fu",
+      "type": "spirit",
+      "domains": [
+        "night",
+        "sleep",
+        "dream",
+        "darkness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Fu is a spirit from Muisca (Colombian) tradition associated with night, sleep, dream, and darkness.",
+      "id": "muisca-colombian-012",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Goranchacha",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "kingship",
+        "gold",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Goranchacha is a hero from Muisca (Colombian) tradition associated with sun, kingship, gold, and justice.",
+      "id": "muisca-colombian-013",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Pacanchique",
+      "type": "hero",
+      "domains": [
+        "love",
+        "plants",
+        "healing",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Pacanchique is a hero from Muisca (Colombian) tradition associated with love, plants, healing, and quest.",
+      "id": "muisca-colombian-014",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Azay",
+      "type": "heroine",
+      "domains": [
+        "love",
+        "fate",
+        "rebirth",
+        "beauty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Azay is a heroine from Muisca (Colombian) tradition associated with love, fate, rebirth, and beauty.",
+      "id": "muisca-colombian-015",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Guatavita Spirit",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "gold",
+        "ritual",
+        "mystery"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Guatavita Spirit is a spirit from Muisca (Colombian) tradition associated with water, gold, ritual, and mystery.",
+      "id": "muisca-colombian-016",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Nemqueteba",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "journey",
+        "light",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Nemqueteba is a hero from Muisca (Colombian) tradition associated with wisdom, journey, light, and law.",
+      "id": "muisca-colombian-017",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Moon Owl",
+      "type": "creature",
+      "domains": [
+        "moon",
+        "night",
+        "bird",
+        "warning"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Moon Owl is a creature from Muisca (Colombian) tradition associated with moon, night, bird, and warning.",
+      "id": "muisca-colombian-018",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Golden Raft Keeper",
+      "type": "guardian",
+      "domains": [
+        "gold",
+        "water",
+        "ritual",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Golden Raft Keeper is a guardian from Muisca (Colombian) tradition associated with gold, water, ritual, and earth.",
+      "id": "muisca-colombian-019",
+      "culture_slug": "muisca-colombian"
+    },
+    {
+      "name": "Iguaque Guardian",
+      "type": "guardian",
+      "domains": [
+        "lake",
+        "creation",
+        "water",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Iguaque Guardian is a guardian from Muisca (Colombian) tradition associated with lake, creation, water, and earth.",
+      "id": "muisca-colombian-020",
+      "culture_slug": "muisca-colombian"
+    }
+  ]
+}

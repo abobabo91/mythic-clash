@@ -1,0 +1,526 @@
+{
+  "culture_slug": "taino-caribbean",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Yucahu",
+      "type": "god",
+      "domains": [
+        "cassava",
+        "sea",
+        "fertility",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Yucahu is a god from Taino (Caribbean) tradition associated with cassava, sea, fertility, and life.",
+      "id": "taino-caribbean-001",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Atabey",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "fertility",
+        "motherhood",
+        "creation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Atabey is a goddess from Taino (Caribbean) tradition associated with water, fertility, motherhood, and creation.",
+      "id": "taino-caribbean-002",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Juracan",
+      "type": "spirit",
+      "domains": [
+        "storm",
+        "wind",
+        "destruction",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Juracan is a spirit from Taino (Caribbean) tradition associated with storm, wind, destruction, and sky.",
+      "id": "taino-caribbean-003",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Guabancex",
+      "type": "goddess",
+      "domains": [
+        "storm",
+        "hurricane",
+        "wind",
+        "rage"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Guabancex is a goddess from Taino (Caribbean) tradition associated with storm, hurricane, wind, and rage.",
+      "id": "taino-caribbean-004",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Boinayel",
+      "type": "god",
+      "domains": [
+        "rain",
+        "water",
+        "fertility",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Boinayel is a god from Taino (Caribbean) tradition associated with rain, water, fertility, and sky.",
+      "id": "taino-caribbean-005",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Marohu",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "clear sky",
+        "day"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Marohu is a god from Taino (Caribbean) tradition associated with sun, light, clear sky, and day.",
+      "id": "taino-caribbean-006",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Guatauba",
+      "type": "spirit",
+      "domains": [
+        "thunder",
+        "storm",
+        "warning",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Guatauba is a spirit from Taino (Caribbean) tradition associated with thunder, storm, warning, and sky.",
+      "id": "taino-caribbean-007",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Coatrisquie",
+      "type": "spirit",
+      "domains": [
+        "flood",
+        "water",
+        "storm",
+        "sea"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Coatrisquie is a spirit from Taino (Caribbean) tradition associated with flood, water, storm, and sea.",
+      "id": "taino-caribbean-008",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Opiyelguobiran",
+      "type": "creature",
+      "domains": [
+        "dog",
+        "underworld",
+        "night",
+        "guidance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Opiyelguobiran is a creature from Taino (Caribbean) tradition associated with dog, underworld, night, and guidance.",
+      "id": "taino-caribbean-009",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Deminan Caracaracol",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "sea",
+        "culture",
+        "wit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Deminan Caracaracol is a hero from Taino (Caribbean) tradition associated with trickster, sea, culture, and wit.",
+      "id": "taino-caribbean-010",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Bayamanaco",
+      "type": "hero",
+      "domains": [
+        "fire",
+        "culture",
+        "craft",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Bayamanaco is a hero from Taino (Caribbean) tradition associated with fire, culture, craft, and wisdom.",
+      "id": "taino-caribbean-011",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Itiba Cahubaba",
+      "type": "goddess",
+      "domains": [
+        "motherhood",
+        "fertility",
+        "cave",
+        "birth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Itiba Cahubaba is a goddess from Taino (Caribbean) tradition associated with motherhood, fertility, cave, and birth.",
+      "id": "taino-caribbean-012",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Maquetaurie Guayaba",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Maquetaurie Guayaba is a god from Taino (Caribbean) tradition associated with underworld, death, night, and spirit.",
+      "id": "taino-caribbean-013",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Baibrama",
+      "type": "god",
+      "domains": [
+        "healing",
+        "cassava",
+        "ritual",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Baibrama is a god from Taino (Caribbean) tradition associated with healing, cassava, ritual, and earth.",
+      "id": "taino-caribbean-014",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Cacibajagua",
+      "type": "guardian",
+      "domains": [
+        "cave",
+        "creation",
+        "ancestor",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Cacibajagua is a guardian from Taino (Caribbean) tradition associated with cave, creation, ancestor, and earth.",
+      "id": "taino-caribbean-015",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Corocote",
+      "type": "spirit",
+      "domains": [
+        "messenger",
+        "sea",
+        "guidance",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Corocote is a spirit from Taino (Caribbean) tradition associated with messenger, sea, guidance, and spirit.",
+      "id": "taino-caribbean-016",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Faraguvaol",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "storm",
+        "sea",
+        "warning"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Faraguvaol is a spirit from Taino (Caribbean) tradition associated with wind, storm, sea, and warning.",
+      "id": "taino-caribbean-017",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Guabonito",
+      "type": "heroine",
+      "domains": [
+        "love",
+        "cave",
+        "beauty",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Guabonito is a heroine from Taino (Caribbean) tradition associated with love, cave, beauty, and water.",
+      "id": "taino-caribbean-018",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Yaya",
+      "type": "god",
+      "domains": [
+        "creation",
+        "water",
+        "wisdom",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Yaya is a god from Taino (Caribbean) tradition associated with creation, water, wisdom, and sky.",
+      "id": "taino-caribbean-019",
+      "culture_slug": "taino-caribbean"
+    },
+    {
+      "name": "Cemi Keeper",
+      "type": "guardian",
+      "domains": [
+        "spirit",
+        "ancestor",
+        "ritual",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 3,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Cemi Keeper is a guardian from Taino (Caribbean) tradition associated with spirit, ancestor, ritual, and protection.",
+      "id": "taino-caribbean-020",
+      "culture_slug": "taino-caribbean"
+    }
+  ]
+}

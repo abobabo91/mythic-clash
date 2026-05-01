@@ -1,0 +1,513 @@
+{
+  "culture_slug": "tamil-dravidian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Murugan",
+      "type": "god",
+      "domains": [
+        "war",
+        "youth",
+        "divine beauty",
+        "peacock",
+        "Vel spear"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vel Spear",
+        "description": "Deal 8 damage to one enemy; if demon type, deal 12 damage."
+      },
+      "description": "The uniquely Tamil god of war and divine youth who wields the Vel spear and rides a peacock.",
+      "id": "tamil-dravidian-001",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Korravai",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "victory",
+        "fierce mother",
+        "Tamil Kali"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Victory Dance",
+        "description": "After any enemy is defeated, all allies gain +2 power from Korravai's war dance."
+      },
+      "description": "The fierce Tamil war goddess who dances on the battlefield in victory, ancestor of the pan-Indian Kali.",
+      "id": "tamil-dravidian-002",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Kannagi",
+      "type": "heroine",
+      "domains": [
+        "chastity",
+        "righteous anger",
+        "Silappathikaram"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Chastity's Fire",
+        "description": "Deal 6 fire damage to the most powerful enemy from absolute righteous rage."
+      },
+      "description": "The wronged wife of Silappathikaram who burned the city of Madurai with her righteous fury.",
+      "id": "tamil-dravidian-003",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Valli",
+      "type": "goddess",
+      "domains": [
+        "Murugan's wife",
+        "hunter girl",
+        "forest"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Grace",
+        "description": "Grant one ally +3 to all stats from the grace of unconditional love."
+      },
+      "description": "The tribal hunter girl who became one of Murugan's wives through the god's persistent and tricky courtship.",
+      "id": "tamil-dravidian-004",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Thirumal (Vishnu)",
+      "type": "god",
+      "domains": [
+        "Tamil Vishnu",
+        "ocean",
+        "preservation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Southern Vishnu",
+        "description": "All Tamil and Dravidian allies gain +2 to all stats from southern divine power."
+      },
+      "description": "The Tamil form of Vishnu worshipped in the Sangam tradition with a distinctly southern identity.",
+      "id": "tamil-dravidian-005",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Agastya",
+      "type": "hero",
+      "domains": [
+        "sage",
+        "Vindhya mountains",
+        "Tamil grammar",
+        "south"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Southern Mission",
+        "description": "Grant all allies +2 wisdom; enemy mountain or barrier abilities are nullified."
+      },
+      "description": "The great sage who crossed the Vindhya mountains, calming them forever, and created Tamil grammar.",
+      "id": "tamil-dravidian-006",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Seyon",
+      "type": "god",
+      "domains": [
+        "red god",
+        "Murugan alternate",
+        "youth",
+        "hills"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Red Hill God",
+        "description": "All hill and mountain allies gain +3 power; deal 5 damage to demon enemies."
+      },
+      "description": "Ancient Dravidian red god of the hills whose identification with Murugan is one of the oldest religious fusions.",
+      "id": "tamil-dravidian-007",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Senguttuvan",
+      "type": "ancestor",
+      "domains": [
+        "Chera king",
+        "divine honor",
+        "Kannagi's stone"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Chera's Honor",
+        "description": "Grant one ally a permanent +2 to defense from the honor of a king."
+      },
+      "description": "The Chera king who honored the chaste Kannagi by bringing stone from the Himalayas to carve her image.",
+      "id": "tamil-dravidian-008",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Mayon",
+      "type": "god",
+      "domains": [
+        "Tamil Krishna",
+        "black god",
+        "cowherd"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Black God's Grace",
+        "description": "Charm one enemy with divine flute music; they cannot attack for 1 turn."
+      },
+      "description": "The Tamil form of Krishna as the dark-skinned cowherd god worshipped in pastoral Sangam traditions.",
+      "id": "tamil-dravidian-009",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Murukan's Peacock",
+      "type": "creature",
+      "domains": [
+        "peacock mount",
+        "beauty",
+        "demon slayer"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Peacock Strike",
+        "description": "Deal 4 damage to all demon enemies; they are blinded for 1 turn."
+      },
+      "description": "Murugan's divine peacock mount who defeated the demon Surapadma and became eternally loyal to the war god.",
+      "id": "tamil-dravidian-010",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Siddhar",
+      "type": "hero",
+      "domains": [
+        "Tamil mystic",
+        "alchemist",
+        "immortality",
+        "18 siddhars"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Siddha Power",
+        "description": "Grant one ally a permanent +1 to all stats from Siddha mastery."
+      },
+      "description": "One of the 18 Tamil Siddha masters who attained immortality and supernatural powers through yoga and alchemy.",
+      "id": "tamil-dravidian-011",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Idumban",
+      "type": "monster",
+      "domains": [
+        "Murugan's devotee",
+        "hills bearer",
+        "atonement"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hill Bearer",
+        "description": "This card can carry another ally: protect them from all damage for 1 turn."
+      },
+      "description": "The demon who became Murugan's devotee after being defeated and is now the keeper of Murugan's twin hills.",
+      "id": "tamil-dravidian-012",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Vel Spear Spirit",
+      "type": "spirit",
+      "domains": [
+        "divine weapon",
+        "light",
+        "demon slayer"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Unerring Light",
+        "description": "This card's attack cannot be blocked, dodged or redirected by any means."
+      },
+      "description": "The spirit of Murugan's divine Vel spear given by Parvati, which flies unerringly to destroy all demons.",
+      "id": "tamil-dravidian-013",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Surapadman",
+      "type": "monster",
+      "domains": [
+        "arch-demon",
+        "mango tree",
+        "peacock transformation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Split Demon",
+        "description": "When this card is destroyed, split into two half-power versions that attack separately."
+      },
+      "description": "The great demon king who ruled the three worlds and was split by Murugan's Vel, half becoming his peacock mount.",
+      "id": "tamil-dravidian-014",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Ainkurunuru Spirit",
+      "type": "spirit",
+      "domains": [
+        "Sangam poetry",
+        "landscape",
+        "love"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tinai Harmony",
+        "description": "Match terrain to warrior: allied cards gain +2 to all stats in their native landscape type."
+      },
+      "description": "The spirit of the Sangam Tinai system linking specific gods, landscapes and emotions in Tamil poetic geography.",
+      "id": "tamil-dravidian-015",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Pari",
+      "type": "ancestor",
+      "domains": [
+        "chieftain",
+        "generosity",
+        "patron of bards"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Patron's Gift",
+        "description": "Grant one ally +2 to all stats from the generosity of the patron."
+      },
+      "description": "The legendary generous Tamil chieftain who gave his chariot to a jasmine vine to support it.",
+      "id": "tamil-dravidian-016",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Neytal Deity",
+      "type": "goddess",
+      "domains": [
+        "coastal landscape",
+        "sorrow",
+        "longing",
+        "sea"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coastal Longing",
+        "description": "Inflict longing on one enemy: they are distracted and lose 2 speed for 1 turn."
+      },
+      "description": "The deity of the seashore landscape presiding over love's patient waiting and the sorrow of separation.",
+      "id": "tamil-dravidian-017",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Kudal Azhakar",
+      "type": "god",
+      "domains": [
+        "Madurai Vishnu",
+        "Tamil god",
+        "pillar"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Temple Pillar",
+        "description": "While in play, all Tamil allies gain +1 defense per turn."
+      },
+      "description": "The particular Vishnu of the Madurai temple whose local name and form are uniquely Tamil.",
+      "id": "tamil-dravidian-018",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Eeyar",
+      "type": "creature",
+      "domains": [
+        "Sangam tiger",
+        "strength",
+        "forest Tamil"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Tiger",
+        "description": "All forest and nature enemies flee from this card: they cannot use ambush abilities."
+      },
+      "description": "The sacred tiger of the Sangam literature's mountainous Kurinchi landscape representing heroic valor.",
+      "id": "tamil-dravidian-019",
+      "culture_slug": "tamil-dravidian"
+    },
+    {
+      "name": "Pandian King",
+      "type": "ancestor",
+      "domains": [
+        "Pandya dynasty",
+        "Tamil sovereignty",
+        "fish symbol"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Meenakshi's Banner",
+        "description": "All Tamil warrior allies gain +1 power per turn for 2 turns."
+      },
+      "description": "The archetypal Pandya king under whose fish banner the Tamil nation flourished for centuries.",
+      "id": "tamil-dravidian-020",
+      "culture_slug": "tamil-dravidian"
+    }
+  ]
+}

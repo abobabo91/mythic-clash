@@ -1,0 +1,518 @@
+{
+  "culture_slug": "slavic",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Perun",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "oak",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Oak Lightning",
+        "description": "Strike all dark-alignment enemies for 5 damage; remove all dark buffs."
+      },
+      "description": "Supreme thunder god who wields a golden axe and eternally battles Veles for cosmic supremacy.",
+      "id": "slavic-001",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Veles",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "cattle",
+        "magic",
+        "wealth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Serpent Form",
+        "description": "Shapeshift: steal 3 HP from all enemies and add to own HP."
+      },
+      "description": "Shape-shifting underworld god of cattle and magic who steals Perun's cattle and retreats underground.",
+      "id": "slavic-002",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Baba Yaga",
+      "type": "witch",
+      "domains": [
+        "death",
+        "forest",
+        "wisdom",
+        "transformation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Iron Mortar",
+        "description": "Fly to any position; reveal all hidden cards; the next question asked must be answered."
+      },
+      "description": "Ancient forest witch who lives in a hut on chicken legs and either destroys or rewards those bold enough to seek her.",
+      "id": "slavic-003",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Mokosh",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "fertility",
+        "fate",
+        "spinning"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Spinner of Fate",
+        "description": "Choose one ally: guarantee their next action succeeds and deals maximum damage."
+      },
+      "description": "Earth mother and spinner of fate who protects women and was the only goddess in the original Slavic pantheon.",
+      "id": "slavic-004",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Svarog",
+      "type": "god",
+      "domains": [
+        "fire",
+        "sky",
+        "forge",
+        "smithcraft"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Forge",
+        "description": "Permanently upgrade one ally's stats by +2 power and +2 defense."
+      },
+      "description": "Sky and forge god father of the sun who established laws of civilization and the institution of marriage.",
+      "id": "slavic-005",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Rod",
+      "type": "god",
+      "domains": [
+        "creation",
+        "fate",
+        "family",
+        "ancestors"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestral Blood",
+        "description": "Summon an ancestor spirit ally with identical stats to a fallen ally for 2 turns."
+      },
+      "description": "Creator god and originator of all life whose cult links the living to all their ancestors.",
+      "id": "slavic-006",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Koschei the Deathless",
+      "type": "sorcerer",
+      "domains": [
+        "immortality",
+        "evil",
+        "hidden soul"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Deathless Secret",
+        "description": "Cannot be destroyed until his hidden soul (needle in egg in duck in chest) ability is revealed and attacked."
+      },
+      "description": "Undying evil sorcerer whose soul is hidden in a needle inside an egg inside a duck inside a chest on an island.",
+      "id": "slavic-007",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Firebird",
+      "type": "creature",
+      "domains": [
+        "fire",
+        "beauty",
+        "fortune",
+        "quests"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Feather",
+        "description": "Grant one ally a golden feather: +3 to all stats for 1 turn; the feather then passes to another ally."
+      },
+      "description": "Magical bird of blazing fire whose feathers illuminate entire kingdoms and whose capture is every hero's quest.",
+      "id": "slavic-008",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Marzanna",
+      "type": "goddess",
+      "domains": [
+        "winter",
+        "death",
+        "dreaming",
+        "plague"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Winter's Grip",
+        "description": "Slow all enemies' speed by 3 for 2 turns; deal 2 cold damage per turn."
+      },
+      "description": "Death goddess of winter and plague effigy drowned each spring to end the cold season.",
+      "id": "slavic-009",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Lada",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "beauty",
+        "spring",
+        "marriage"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Spring Awakening",
+        "description": "Remove all cold/death debuffs; grant all allies +2 magic for 1 turn."
+      },
+      "description": "Goddess of love and beauty who presides over spring, marriage and the flowering of the world.",
+      "id": "slavic-010",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Stribog",
+      "type": "god",
+      "domains": [
+        "wind",
+        "air",
+        "breath",
+        "storms"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wind Scatter",
+        "description": "Disperse all buffs on one enemy; redistribute them randomly across the field."
+      },
+      "description": "God of winds who blows across the world to distribute messages and disperse the breath of life.",
+      "id": "slavic-011",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Leshy",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "animals",
+        "hunting",
+        "lost travelers"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Maze",
+        "description": "Enemy must skip next turn while lost in the forest illusion."
+      },
+      "description": "Wild forest spirit who leads travelers astray, mirrors their appearance and can expand or shrink at will.",
+      "id": "slavic-012",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Rusalka",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "drowned dead",
+        "seduction"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Watery Embrace",
+        "description": "Charm one male enemy: they cannot attack this card and lose 2 stats."
+      },
+      "description": "Beautiful and deadly water spirit of drowned women who drag men beneath the surface on moonlit nights.",
+      "id": "slavic-013",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Zmey Gorynych",
+      "type": "monster",
+      "domains": [
+        "dragon",
+        "fire",
+        "chaos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Triple Fire Breath",
+        "description": "Deal 3 fire damage to three different enemies simultaneously."
+      },
+      "description": "Three-headed fire-breathing dragon that regrows each head when cut off, terror of the Russian folktale.",
+      "id": "slavic-014",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Poludnitsa",
+      "type": "spirit",
+      "domains": [
+        "noon",
+        "heatstroke",
+        "questions"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Noon Interrogation",
+        "description": "Freeze one enemy and ask a riddle: if unanswered, that enemy loses 4 wisdom permanently."
+      },
+      "description": "Lady Midday who appears as a dust whirlwind at noon and afflicts anyone who cannot answer her endless questions.",
+      "id": "slavic-015",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Domovoi",
+      "type": "spirit",
+      "domains": [
+        "household",
+        "protection",
+        "domestic"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hearth Guard",
+        "description": "Prevent the next debuff from affecting any ally; warn of incoming powerful attacks."
+      },
+      "description": "Small hairy household spirit who lives behind the stove and protects the family if treated with respect.",
+      "id": "slavic-016",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Vodyanoy",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "drowning",
+        "rivers",
+        "mills"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mill Drag",
+        "description": "Reduce one enemy's speed to 1 for 2 turns."
+      },
+      "description": "Waterlogged old spirit who drowns swimmers and capsizes boats unless offered tobacco and bread.",
+      "id": "slavic-017",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Ilya Muromets",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "peasant hero",
+        "protection"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 4,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Cossack's Stand",
+        "description": "Take the next attack aimed at any ally; deal it back at double power."
+      },
+      "description": "Legendary bogatyr hero who lay paralyzed for 33 years before rising to defend Holy Russia.",
+      "id": "slavic-018",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Dobrynya Nikitich",
+      "type": "hero",
+      "domains": [
+        "diplomacy",
+        "dragon-slaying",
+        "heroism"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Courteous Warrior",
+        "description": "After defeating an enemy, restore 2 HP to all allies."
+      },
+      "description": "Noble bogatyr hero famed as much for his diplomacy and courtly manners as for his skill against monsters.",
+      "id": "slavic-019",
+      "culture_slug": "slavic"
+    },
+    {
+      "name": "Kikimora",
+      "type": "spirit",
+      "domains": [
+        "nightmares",
+        "spinning chaos",
+        "household"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Nightmare Web",
+        "description": "Target enemy loses 2 wisdom and cannot use wisdom-based abilities next turn."
+      },
+      "description": "Malevolent household spirit that tangles spinning threads, causes nightmares and pinches sleeping people.",
+      "id": "slavic-020",
+      "culture_slug": "slavic"
+    }
+  ]
+}

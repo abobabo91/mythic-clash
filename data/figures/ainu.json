@@ -1,0 +1,509 @@
+{
+  "culture_slug": "ainu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Kamuy Fuchi",
+      "type": "goddess",
+      "domains": [
+        "hearth fire",
+        "divine grandmother",
+        "home",
+        "prayers"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Hearth",
+        "description": "Restore 3 HP to all allies; all evil kamuy cannot enter while the hearth goddess burns."
+      },
+      "description": "The supreme domestic goddess of the Ainu hearth who transmits all prayers to the divine and protects the home.",
+      "id": "ainu-001",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Okikurmi",
+      "type": "hero",
+      "domains": [
+        "culture hero",
+        "civilization giver",
+        "Ainu savior"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Culture Gift",
+        "description": "Grant all allies +2 to wisdom and magic from the culture hero's teaching."
+      },
+      "description": "The Ainu culture hero who descended from heaven to teach humanity all arts of civilization.",
+      "id": "ainu-002",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Repun Kamuy",
+      "type": "god",
+      "domains": [
+        "killer whale kamuy",
+        "sea lord",
+        "fisherman's god"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Orca Hunt",
+        "description": "Grant all fishing and sea allies +3 power; summon one killer whale ally with 7/7/8/5/5 stats."
+      },
+      "description": "The killer whale deity who appears in the sea as an orca and brings good catches to respectful fishermen.",
+      "id": "ainu-003",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Kim-un Kamuy",
+      "type": "god",
+      "domains": [
+        "bear kamuy",
+        "mountain lord",
+        "hunt"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bear Spirit Visit",
+        "description": "Grant all hunting allies +4 power; the bear visit brings sacred meat and gifts."
+      },
+      "description": "The bear deity who visits the human world in bear form and must be sent back to the divine world with ceremony.",
+      "id": "ainu-004",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Ae-oina Kamuy",
+      "type": "god",
+      "domains": [
+        "ainu-race kamuy",
+        "cultural teacher",
+        "Okikurmi counterpart"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ainu Teaching",
+        "description": "All Ainu cultural abilities gain +2 power; grant +2 wisdom to all allies."
+      },
+      "description": "The 'kamuy who became an Ainu' who taught humanity and mediated between human and divine worlds.",
+      "id": "ainu-005",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Moshiri Huchi",
+      "type": "goddess",
+      "domains": [
+        "world grandmother",
+        "earth",
+        "creation",
+        "aged"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World Grandmother",
+        "description": "Grant +2 to all stats to every card on your side from the ancient world grandmother."
+      },
+      "description": "The grandmother of the world who sits at the foundation of the earth and governs all earthly processes.",
+      "id": "ainu-006",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Nitne Kamuy",
+      "type": "spirit",
+      "domains": [
+        "disease kamuy",
+        "illness",
+        "ambiguous",
+        "dangerous"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Disease Wind",
+        "description": "Inflict disease on one enemy: they lose 2 HP per turn for 2 turns."
+      },
+      "description": "The disease kamuy who sends illness when proper respect is not shown; also capable of healing when appeased.",
+      "id": "ainu-007",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Kotan-kar-kamuy",
+      "type": "god",
+      "domains": [
+        "world maker",
+        "owl",
+        "creator"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Owl Wisdom",
+        "description": "Reveal all hidden enemy information; grant +2 wisdom to all kamuy allies."
+      },
+      "description": "The world-making owl deity who created the earth and its villages and observes all with keen nocturnal eyes.",
+      "id": "ainu-008",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Ainurakkur",
+      "type": "spirit",
+      "domains": [
+        "divine helper",
+        "protective kamuy",
+        "guardian"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Guard",
+        "description": "Grant one ally complete protection from the next attack."
+      },
+      "description": "The protective divine helper kamuy who assists humans in times of danger when properly called upon.",
+      "id": "ainu-009",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Rimse Kamuy",
+      "type": "spirit",
+      "domains": [
+        "dance spirit",
+        "ceremony",
+        "joy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Dance",
+        "description": "Grant all allies +2 speed and remove all paralysis from the joy of ceremony."
+      },
+      "description": "The dance-kamuy who inhabits the sacred ritual performances of the Ainu and elevates the ceremony.",
+      "id": "ainu-010",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Yuk Kamuy",
+      "type": "creature",
+      "domains": [
+        "deer kamuy",
+        "mountain hunt",
+        "food"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Deer Gift",
+        "description": "When this card is in play, all hunting and food abilities restore 1 additional HP."
+      },
+      "description": "The deer deity who gives itself to hunters and must be honored with the iyomante ceremony of return.",
+      "id": "ainu-011",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Sea Otter Kamuy",
+      "type": "creature",
+      "domains": [
+        "sea otter",
+        "humor",
+        "jokes",
+        "kamuy"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sea Joke",
+        "description": "Make all enemies laugh: they lose 2 wisdom from distraction for 1 turn."
+      },
+      "description": "The sea otter kamuy renowned for its sense of humor who makes the other kamuy laugh with its antics.",
+      "id": "ainu-012",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Pisekamuy",
+      "type": "spirit",
+      "domains": [
+        "magic treasure",
+        "spirit tool",
+        "valuable kamuy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Treasure",
+        "description": "Grant one ally a divine tool: +2 to their highest stat for 2 turns."
+      },
+      "description": "The kamuy that inhabits sacred treasures and inao prayer sticks, empowering Ainu ceremonies.",
+      "id": "ainu-013",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Inaw Spirit",
+      "type": "spirit",
+      "domains": [
+        "prayer stick",
+        "divine conduit",
+        "ceremony"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Prayer Conduit",
+        "description": "This card transmits one ally's prayer directly: guarantee their next ability's maximum effect."
+      },
+      "description": "The spirit that inhabits the sacred inaw prayer sticks offered to the kamuy in every Ainu ceremony.",
+      "id": "ainu-014",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Turep",
+      "type": "creature",
+      "domains": [
+        "plant spirit",
+        "water parsley",
+        "Ainu food"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Food Gift",
+        "description": "Restore 2 HP to one ally from the sacred plant spirit's nourishment."
+      },
+      "description": "The water parsley plant spirit that provides essential nourishment to the Ainu people throughout the year.",
+      "id": "ainu-015",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Apemeru-ko-yan-mat",
+      "type": "goddess",
+      "domains": [
+        "small beauty kamuy",
+        "divine maiden"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Beautiful Blessing",
+        "description": "Grant one ally +3 magic from divine beauty."
+      },
+      "description": "The small beautiful divine maiden kamuy who blesses those who maintain proper ceremonial purity.",
+      "id": "ainu-016",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Chironnup",
+      "type": "creature",
+      "domains": [
+        "fox kamuy",
+        "trickster",
+        "message bringer"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Fox Message",
+        "description": "Deliver a confusing message: one enemy misinterprets their own ability and it backfires."
+      },
+      "description": "The fox kamuy who carries messages between the human and divine worlds but sometimes causes mischief.",
+      "id": "ainu-017",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Pakoro Kamuy",
+      "type": "god",
+      "domains": [
+        "disease and healing",
+        "ambiguous power",
+        "rain"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Gift",
+        "description": "When this card heals an ally, remove one disease effect from all allies."
+      },
+      "description": "The deity of rain and certain diseases whose nature encompasses both harm and healing.",
+      "id": "ainu-018",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Upopo Singer",
+      "type": "hero",
+      "domains": [
+        "Ainu song",
+        "ceremony",
+        "tradition bearer"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Upopo Song",
+        "description": "Remove one debuff from all allies through the healing power of traditional song."
+      },
+      "description": "The keeper of Ainu traditional songs (upopo) who preserves the oral tradition and maintains ceremony.",
+      "id": "ainu-019",
+      "culture_slug": "ainu"
+    },
+    {
+      "name": "Yukar Bard",
+      "type": "hero",
+      "domains": [
+        "epic singer",
+        "oral tradition",
+        "Ainu hero tales"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Epic Song",
+        "description": "Reveal the full story of one enemy: expose all their abilities and weaknesses."
+      },
+      "description": "The Ainu epic bard who sings the Yukar hero tales all night long, preserving divine history in song.",
+      "id": "ainu-020",
+      "culture_slug": "ainu"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "culture_slug": "shaiva-hindu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Shiva",
+      "type": "god",
+      "domains": [
+        "destruction",
+        "transformation",
+        "yoga",
+        "cosmic dance",
+        "asceticism"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tandava",
+        "description": "Deal 5 damage to all enemies; reset all card positions; ally stats cannot be reduced for 1 turn."
+      },
+      "description": "The supreme Shaiva deity who destroys the universe at the end of time and dances it back into being.",
+      "id": "shaiva-hindu-001",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Parvati",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "devotion",
+        "power",
+        "mountains",
+        "Uma"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Shakti's Grace",
+        "description": "Restore full HP to one ally; grant all goddess allies +3 to all stats."
+      },
+      "description": "Divine consort of Shiva whose fierce love and absolute devotion transformed her into the embodiment of Shakti power.",
+      "id": "shaiva-hindu-002",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Ganesha",
+      "type": "god",
+      "domains": [
+        "beginnings",
+        "obstacles",
+        "wisdom",
+        "writing",
+        "elephants"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Remover of Obstacles",
+        "description": "Remove all negative effects from all allies; the next enemy ability is automatically blocked."
+      },
+      "description": "Elephant-headed son of Shiva who must be propitiated at the start of all undertakings to remove obstacles.",
+      "id": "shaiva-hindu-003",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Kali",
+      "type": "goddess",
+      "domains": [
+        "destruction",
+        "time",
+        "liberation",
+        "fierce mother"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Kali's Dance",
+        "description": "Destroy one enemy permanently; all dark-aligned allies gain +3 power from the energy released."
+      },
+      "description": "The fierce black goddess of time and destruction who dances on Shiva's body and drinks demon blood.",
+      "id": "shaiva-hindu-004",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Nandi",
+      "type": "creature",
+      "domains": [
+        "sacred bull",
+        "doorway guardian",
+        "Shiva's vehicle"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Gate Keeper",
+        "description": "Block all enemy abilities that have not been previously witnessed; guard Shiva allies."
+      },
+      "description": "The sacred white bull and vehicle of Shiva who stands guard at all Shaiva temples and transmits teachings.",
+      "id": "shaiva-hindu-005",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Bhairava",
+      "type": "god",
+      "domains": [
+        "fearsome Shiva",
+        "time",
+        "fear",
+        "cremation grounds"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Terror of Time",
+        "description": "Inflict fear on all enemies: each loses 2 of their highest stat from existential dread."
+      },
+      "description": "The fierce form of Shiva who roams cremation grounds and represents the terrifying aspect of liberation.",
+      "id": "shaiva-hindu-006",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Virabhadra",
+      "type": "hero",
+      "domains": [
+        "Shiva's wrath",
+        "warrior",
+        "Daksha's sacrifice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Daksha's Ruin",
+        "description": "Destroy one enemy's most powerful ability permanently as Virabhadra destroyed the sacrifice."
+      },
+      "description": "Shiva's wrathful warrior manifestation created from his matted hair who destroyed Daksha's cosmic sacrifice.",
+      "id": "shaiva-hindu-007",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Sati",
+      "type": "goddess",
+      "domains": [
+        "devotion",
+        "self-immolation",
+        "first Shakti"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Fire",
+        "description": "When this card is destroyed, grant all remaining allies +3 to all stats from the power of sacrifice."
+      },
+      "description": "Shiva's first wife who immolated herself when her father Daksha dishonored Shiva, reborn as Parvati.",
+      "id": "shaiva-hindu-008",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Skanda/Kartikeya (Shaiva)",
+      "type": "god",
+      "domains": [
+        "war",
+        "divine youth",
+        "peacock",
+        "Shiva's son"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Lance",
+        "description": "Deal 7 damage and pierce all defenses; cannot be dodged or blocked."
+      },
+      "description": "God of war and Shiva's martial son born from the Pleiades, commander of the divine armies.",
+      "id": "shaiva-hindu-009",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Andhaka",
+      "type": "monster",
+      "domains": [
+        "blind demon",
+        "Shiva's son",
+        "darkness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blindness Curse",
+        "description": "Inflict blindness on one enemy: they attack randomly for 2 turns."
+      },
+      "description": "The blind demon born from Shiva's blinded gaze who was defeated after a cosmic battle and eventually liberated.",
+      "id": "shaiva-hindu-010",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Tripurasura",
+      "type": "monster",
+      "domains": [
+        "triple city demon",
+        "air",
+        "earth",
+        "sky cities"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Three Cities",
+        "description": "Protect three different allies simultaneously for 1 turn from the triple-city defense."
+      },
+      "description": "The great demon who ruled the three floating cities and was destroyed in a single arrow shot by Shiva.",
+      "id": "shaiva-hindu-011",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Daksha",
+      "type": "ancestor",
+      "domains": [
+        "cosmic sacrifice",
+        "pride",
+        "Sati's father",
+        "Prajapati"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wounded Pride",
+        "description": "Reduce one enemy's wisdom by 3 permanently for failing to acknowledge higher power."
+      },
+      "description": "The proud Prajapati whose exclusion of Shiva from his sacrifice led to Sati's death and cosmic destruction.",
+      "id": "shaiva-hindu-012",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Chandeshvara",
+      "type": "hero",
+      "domains": [
+        "devotee of Shiva",
+        "lunar deity",
+        "grace"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Devotee's Grace",
+        "description": "Gain 2 HP each turn that a Shiva-affiliated ally is in play."
+      },
+      "description": "The supreme devotee who was made a commander in Shiva's divine retinue for his absolute unwavering devotion.",
+      "id": "shaiva-hindu-013",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Manasa",
+      "type": "goddess",
+      "domains": [
+        "serpents",
+        "Bengali overlap",
+        "fertility",
+        "Shiva's daughter"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Snake Queen",
+        "description": "Inflict snake venom on one enemy; all serpent allies gain +2 power."
+      },
+      "description": "Goddess of serpents born from Shiva's mind who rules over snakebite and fertility in the eastern traditions.",
+      "id": "shaiva-hindu-014",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Ardhanarishvara",
+      "type": "god",
+      "domains": [
+        "half-man half-woman",
+        "unity",
+        "Shiva-Parvati"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Perfect Union",
+        "description": "This card has both power and magic at their combined maximum; choose which to apply each turn."
+      },
+      "description": "The androgynous form of Shiva united with Parvati representing the inseparable nature of masculine and feminine.",
+      "id": "shaiva-hindu-015",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Shiva Lingam",
+      "type": "spirit",
+      "domains": [
+        "cosmic pillar",
+        "formless worship",
+        "fire",
+        "infinite"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Pillar of Fire",
+        "description": "This card has no position; it cannot be targeted or moved and grants +2 magic to all Shiva allies."
+      },
+      "description": "The formless pillar of fire and light representing Shiva's infinite nature that neither Brahma nor Vishnu could measure.",
+      "id": "shaiva-hindu-016",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Veerbhadra",
+      "type": "hero",
+      "domains": [
+        "alternative Virabhadra",
+        "fierce warrior",
+        "Gana"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Gana Strike",
+        "description": "Deal 4 damage to one enemy; summon one gana warrior ally with 4/4/4/4/4 stats."
+      },
+      "description": "One of Shiva's fierce Gana (attendant) warriors who fights on behalf of the great god in cosmic battles.",
+      "id": "shaiva-hindu-017",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Nandikesvara",
+      "type": "god",
+      "domains": [
+        "Nandi as teacher",
+        "Shiva's teachings",
+        "grace"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Transmitter of Grace",
+        "description": "Grant one ally the knowledge of one sealed enemy ability."
+      },
+      "description": "Nandi in his divine human form as teacher who transmits Shiva's cosmic wisdom to seekers.",
+      "id": "shaiva-hindu-018",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Mahakala",
+      "type": "god",
+      "domains": [
+        "great time",
+        "destroyer of time",
+        "Shiva's fierce form"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Great Time",
+        "description": "Skip one enemy's turn: time devours their action before it can manifest."
+      },
+      "description": "The form of Shiva as great time (Mahakala) who devours all existence in his relentless advance.",
+      "id": "shaiva-hindu-019",
+      "culture_slug": "shaiva-hindu"
+    },
+    {
+      "name": "Dhumavati",
+      "type": "goddess",
+      "domains": [
+        "smoke",
+        "widow",
+        "inauspicious",
+        "chaos"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Widow's Smoke",
+        "description": "Inflict smoke on all enemies: each loses 2 speed and cannot see clearly for 1 turn."
+      },
+      "description": "The smoky widow Mahavidya associated with inauspiciousness, chaos and the transformative power of rejection.",
+      "id": "shaiva-hindu-020",
+      "culture_slug": "shaiva-hindu"
+    }
+  ]
+}

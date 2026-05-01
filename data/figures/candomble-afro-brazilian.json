@@ -1,0 +1,526 @@
+{
+  "culture_slug": "candomble-afro-brazilian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Exu",
+      "type": "god",
+      "domains": [
+        "trickster",
+        "crossroads",
+        "fire",
+        "speech"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Exu is a god from Candomble (Afro-Brazilian) tradition associated with trickster, crossroads, fire, and speech.",
+      "id": "candomble-afro-brazilian-001",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Oxala",
+      "type": "god",
+      "domains": [
+        "creation",
+        "light",
+        "wisdom",
+        "peace"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Oxala is a god from Candomble (Afro-Brazilian) tradition associated with creation, light, wisdom, and peace.",
+      "id": "candomble-afro-brazilian-002",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Iemanja",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "motherhood",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Iemanja is a goddess from Candomble (Afro-Brazilian) tradition associated with sea, motherhood, water, and fertility.",
+      "id": "candomble-afro-brazilian-003",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Ogun",
+      "type": "god",
+      "domains": [
+        "iron",
+        "war",
+        "fire",
+        "craft"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forged Will",
+        "description": "Gain +3 power and +2 defense until the end of the turn."
+      },
+      "description": "Ogun is a god from Candomble (Afro-Brazilian) tradition associated with iron, war, fire, and craft.",
+      "id": "candomble-afro-brazilian-004",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Xango",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "fire",
+        "justice",
+        "kingship"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Xango is a god from Candomble (Afro-Brazilian) tradition associated with thunder, fire, justice, and kingship.",
+      "id": "candomble-afro-brazilian-005",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Oxum",
+      "type": "goddess",
+      "domains": [
+        "river",
+        "love",
+        "beauty",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Oxum is a goddess from Candomble (Afro-Brazilian) tradition associated with river, love, beauty, and fertility.",
+      "id": "candomble-afro-brazilian-006",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Iansa",
+      "type": "goddess",
+      "domains": [
+        "storm",
+        "wind",
+        "fire",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Iansa is a goddess from Candomble (Afro-Brazilian) tradition associated with storm, wind, fire, and war.",
+      "id": "candomble-afro-brazilian-007",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Obaluaye",
+      "type": "god",
+      "domains": [
+        "plague",
+        "healing",
+        "earth",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Obaluaye is a god from Candomble (Afro-Brazilian) tradition associated with plague, healing, earth, and death.",
+      "id": "candomble-afro-brazilian-008",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Nanã Buruku",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "ancestor",
+        "water",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Nanã Buruku is a goddess from Candomble (Afro-Brazilian) tradition associated with earth, ancestor, water, and wisdom.",
+      "id": "candomble-afro-brazilian-009",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Oxossi",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "forest",
+        "animal",
+        "abundance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Oxossi is a god from Candomble (Afro-Brazilian) tradition associated with hunting, forest, animal, and abundance.",
+      "id": "candomble-afro-brazilian-010",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Logunede",
+      "type": "hero",
+      "domains": [
+        "hunting",
+        "river",
+        "beauty",
+        "youth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 10,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Logunede is a hero from Candomble (Afro-Brazilian) tradition associated with hunting, river, beauty, and youth.",
+      "id": "candomble-afro-brazilian-011",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Ossain",
+      "type": "god",
+      "domains": [
+        "forest",
+        "healing",
+        "herb",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Ossain is a god from Candomble (Afro-Brazilian) tradition associated with forest, healing, herb, and wisdom.",
+      "id": "candomble-afro-brazilian-012",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Oba",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "river",
+        "strength",
+        "loyalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Oba is a goddess from Candomble (Afro-Brazilian) tradition associated with war, river, strength, and loyalty.",
+      "id": "candomble-afro-brazilian-013",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Ibeji",
+      "type": "spirit",
+      "domains": [
+        "twins",
+        "joy",
+        "luck",
+        "youth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Ibeji is a spirit from Candomble (Afro-Brazilian) tradition associated with twins, joy, luck, and youth.",
+      "id": "candomble-afro-brazilian-014",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Eua",
+      "type": "goddess",
+      "domains": [
+        "mist",
+        "cemetery",
+        "night",
+        "transformation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Eua is a goddess from Candomble (Afro-Brazilian) tradition associated with mist, cemetery, night, and transformation.",
+      "id": "candomble-afro-brazilian-015",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Tempo",
+      "type": "god",
+      "domains": [
+        "time",
+        "wind",
+        "storm",
+        "change"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Tempo is a god from Candomble (Afro-Brazilian) tradition associated with time, wind, storm, and change.",
+      "id": "candomble-afro-brazilian-016",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Oxumare",
+      "type": "god",
+      "domains": [
+        "rainbow",
+        "serpent",
+        "wealth",
+        "cycle"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Oxumare is a god from Candomble (Afro-Brazilian) tradition associated with rainbow, serpent, wealth, and cycle.",
+      "id": "candomble-afro-brazilian-017",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Iroko",
+      "type": "god",
+      "domains": [
+        "tree",
+        "time",
+        "earth",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Iroko is a god from Candomble (Afro-Brazilian) tradition associated with tree, time, earth, and ancestor.",
+      "id": "candomble-afro-brazilian-018",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Egungun",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "spirit",
+        "ritual",
+        "memory"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Egungun is an ancestor from Candomble (Afro-Brazilian) tradition associated with ancestor, spirit, ritual, and memory.",
+      "id": "candomble-afro-brazilian-019",
+      "culture_slug": "candomble-afro-brazilian"
+    },
+    {
+      "name": "Omolu",
+      "type": "god",
+      "domains": [
+        "healing",
+        "plague",
+        "earth",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Omolu is a god from Candomble (Afro-Brazilian) tradition associated with healing, plague, earth, and death.",
+      "id": "candomble-afro-brazilian-020",
+      "culture_slug": "candomble-afro-brazilian"
+    }
+  ]
+}

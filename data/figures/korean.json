@@ -1,0 +1,520 @@
+{
+  "culture_slug": "korean",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Dangun Wanggeom",
+      "type": "ancestor",
+      "domains": [
+        "first Korean king",
+        "Gojoseon",
+        "divine birth",
+        "bear woman"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bear Mother's Son",
+        "description": "All Korean allies gain +2 to all stats from the divine ancestral blessing."
+      },
+      "description": "The legendary founder of Gojoseon born of the divine prince Hwanung and a bear-woman who became human.",
+      "id": "korean-001",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Haemosu",
+      "type": "god",
+      "domains": [
+        "sun prince",
+        "Goguryeo",
+        "chariot of five dragons"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Five Dragon Chariot",
+        "description": "Deal 5 damage to all enemies; all allies gain +2 speed from the solar chariot's blessing."
+      },
+      "description": "The divine sun prince of ancient Goguryeo who rode a chariot pulled by five dragons and fathered Jumong.",
+      "id": "korean-002",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Jumong",
+      "type": "hero",
+      "domains": [
+        "archer hero",
+        "Goguryeo founder",
+        "flight",
+        "divine birth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Never Miss Arrow",
+        "description": "Deal 7 damage to one target; this attack cannot be dodged, blocked or reflected."
+      },
+      "description": "The legendary founding hero of Goguryeo who fled enemies by parting the river and founded the kingdom.",
+      "id": "korean-003",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Cheoyong",
+      "type": "god",
+      "domains": [
+        "dragon son",
+        "disease spirit",
+        "dance",
+        "apotropaic"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cheoyong Dance",
+        "description": "Ward off all disease and plague effects for 3 turns through the divine dance."
+      },
+      "description": "The dragon king's son whose mask-dance drives away disease spirits and whose generosity reformed evil.",
+      "id": "korean-004",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Dragon King of the Sea",
+      "type": "god",
+      "domains": [
+        "ocean",
+        "Korean undersea palace",
+        "rain",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Palace",
+        "description": "Call all water allies from reserve; grant all water allies +3 to all stats."
+      },
+      "description": "The Korean sea dragon king who rules an underwater crystal palace and governs rain and sea fortune.",
+      "id": "korean-005",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Baridegi",
+      "type": "goddess",
+      "domains": [
+        "abandoned princess",
+        "underworld journey",
+        "healing",
+        "mudang"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Underworld Flowers",
+        "description": "Retrieve three flowers: fully restore one ally's HP and remove all death effects."
+      },
+      "description": "The seventh daughter abandoned by her parents who journeys to the underworld to retrieve the medicine of life.",
+      "id": "korean-006",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Dokkaebi",
+      "type": "creature",
+      "domains": [
+        "goblin",
+        "club",
+        "mischief",
+        "supernatural energy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Magic Club",
+        "description": "Steal one buff from an enemy and grant it to one ally; the goblin's club cannot be foreseen."
+      },
+      "description": "The Korean goblin born from abandoned objects who causes mischief, loves games and wields a magic club.",
+      "id": "korean-007",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Jeseok",
+      "type": "god",
+      "domains": [
+        "Buddhist king",
+        "rice",
+        "abundance",
+        "sky king"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Rice Blessing",
+        "description": "Restore 3 HP to all allies; all abundance and nature allies gain +2 power."
+      },
+      "description": "The heavenly Buddhist king of abundance who descends to earth as the provider of rice and fertility.",
+      "id": "korean-008",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Mago",
+      "type": "goddess",
+      "domains": [
+        "creation",
+        "grandmother",
+        "ancient Korea",
+        "original"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Grand Mother's Making",
+        "description": "Grant all allies +1 to all five stats from the ancient grandmother creator."
+      },
+      "description": "The ancient Korean creation goddess Mago who created the world and is the grandmother of all divine beings.",
+      "id": "korean-009",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Samshin Halmoni",
+      "type": "goddess",
+      "domains": [
+        "birth",
+        "children",
+        "fate",
+        "grandmother spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Birth Blessing",
+        "description": "When any ally enters play, grant them +2 to all stats from the birth grandmother's blessing."
+      },
+      "description": "The grandmother spirit of birth who determines each child's fate and protects pregnant women.",
+      "id": "korean-010",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Haechi",
+      "type": "creature",
+      "domains": [
+        "fire-eating",
+        "law",
+        "Seoul",
+        "guardian"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Fire Eater",
+        "description": "Consume all fire effects on the field; gain +2 power for each fire effect consumed."
+      },
+      "description": "The fire-eating law-enforcing creature whose image guards Seoul's gates and symbolizes justice.",
+      "id": "korean-011",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Gumiho",
+      "type": "creature",
+      "domains": [
+        "nine-tailed fox",
+        "seduction",
+        "liver hunger",
+        "transformation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Nine Tails",
+        "description": "Seduce one enemy: they attack their strongest ally for 1 turn instead of yours."
+      },
+      "description": "The nine-tailed fox who can transform into a beautiful human and seeks to steal a human liver to become fully human.",
+      "id": "korean-012",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Yeomna",
+      "type": "god",
+      "domains": [
+        "Korean hell judge",
+        "ten kings",
+        "karma"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ten Judgments",
+        "description": "All dark-aligned enemies lose 2 of their highest stat from divine judgment."
+      },
+      "description": "The Korean king of the underworld who judges all souls and sends them to one of the ten courts for karma review.",
+      "id": "korean-013",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Cheonjiwang",
+      "type": "god",
+      "domains": [
+        "heaven-earth king",
+        "Jeju creation",
+        "first Korean creator"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Heaven-Earth Division",
+        "description": "Separate all mixed or combined effects: deal 4 damage to enemies that rely on dual-type powers."
+      },
+      "description": "The heaven-earth king of the Jeju creation myth who separated the sky and earth and established order.",
+      "id": "korean-014",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Agwi",
+      "type": "demon",
+      "domains": [
+        "fire spirit",
+        "malevolent",
+        "household",
+        "Korea"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Fire Spirit",
+        "description": "Inflict burning on one enemy: -1 HP per turn for 2 turns."
+      },
+      "description": "The malevolent fire demon who inhabits hot places and brings illness to those who offend the household.",
+      "id": "korean-015",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Mountain God (Sansin)",
+      "type": "god",
+      "domains": [
+        "mountain spirit",
+        "tiger companion",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tiger Companion",
+        "description": "Summon a sacred tiger ally with 6/6/8/5/6 stats for 2 turns."
+      },
+      "description": "The Korean mountain god who rides a tiger and presides over local areas from each mountain peak.",
+      "id": "korean-016",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Imuggi",
+      "type": "creature",
+      "domains": [
+        "water dragon",
+        "becoming",
+        "thousand year wait"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Becoming",
+        "description": "If this card survives 3 turns, it transforms: gain +3 to all stats permanently."
+      },
+      "description": "The Korean serpent that spends a thousand years in a river hoping to catch a yeouiju gem and become a dragon.",
+      "id": "korean-017",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Dalgi",
+      "type": "heroine",
+      "domains": [
+        "fox spirit",
+        "treachery",
+        "Gija Joseon",
+        "Daji parallel"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Treacherous Beauty",
+        "description": "Charm one enemy: they lose 2 wisdom and cannot use strategic abilities for 1 turn."
+      },
+      "description": "The nine-tailed fox spirit who disguised herself as the consort Dalgi and led a king to ruin.",
+      "id": "korean-018",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Mireuk",
+      "type": "god",
+      "domains": [
+        "future Buddha",
+        "Maitreya",
+        "Korean millenarian"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Future Dawn",
+        "description": "Reveal one future enemy play; grant +1 to all stats in preparation for what comes."
+      },
+      "description": "The future Buddha Maitreya reinterpreted in Korean folk religion as the divine king of the coming age.",
+      "id": "korean-019",
+      "culture_slug": "korean"
+    },
+    {
+      "name": "Chamsuri",
+      "type": "spirit",
+      "domains": [
+        "butterfly",
+        "Zhuangzi parallel",
+        "dream",
+        "transformation"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Butterfly Dream",
+        "description": "Is this card awake or dreaming? For 1 turn, all damage and effects on this card are halved — uncertain reality."
+      },
+      "description": "The Korean butterfly spirit who embodies the dream of reality's uncertainty.",
+      "id": "korean-020",
+      "culture_slug": "korean"
+    }
+  ]
+}

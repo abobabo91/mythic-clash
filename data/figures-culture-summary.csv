@@ -1,0 +1,101 @@
+slug,name,region,avg_total,min_total,max_total,avg_power,avg_defense,avg_speed,avg_magic,avg_wisdom,avg_aggression,avg_mystic,avg_durable,legendary,rare,uncommon,common,light,neutral,dark,chaos,rare_plus_legendary
+aztec-mexica,Aztec / Mexica,Americas,38.2,32,43,7.65,7.45,6.1,9.0,8.0,13.75,17.0,15.45,2,6,7,5,8,2,10,0,8
+celtic-irish,Celtic Irish (Gaelic),Europe,38.1,31,44,7.45,6.8,7.8,8.2,7.85,15.25,16.05,14.65,2,7,7,4,8,6,4,2,9
+toltec,Toltec,Americas,38.05,31,43,7.75,7.2,6.5,8.5,8.1,14.25,16.6,15.3,2,6,7,5,11,2,7,0,8
+ancient-egyptian,Ancient Egyptian,Africa,38.0,29,44,7.5,7.55,7.2,8.2,7.55,14.7,15.75,15.1,3,6,8,3,11,3,4,2,9
+yoruba,Yoruba,Africa,38.0,32,41,6.95,7.15,7.45,8.35,8.1,14.4,16.45,15.25,4,5,6,5,9,7,2,2,9
+candomble-afro-brazilian,Candomble (Afro-Brazilian),Americas,38.0,31,43,7.4,7.15,6.5,8.6,8.35,13.9,16.95,15.5,2,6,7,5,6,11,3,0,8
+inca-andean,Inca / Andean (Quechua),Americas,37.9,34,43,7.9,7.8,6.55,7.85,7.8,14.45,15.65,15.6,2,6,7,5,8,9,3,0,8
+ancient-chinese,Ancient Chinese,East Asia,37.75,31,44,7.55,7.15,7.35,7.9,7.8,14.9,15.7,14.95,4,4,7,5,10,5,3,2,8
+vaishnava-hindu,Vaishnava Hindu,South Asia,37.75,28,46,7.4,7.25,7.3,7.65,8.15,14.7,15.8,15.4,3,5,5,7,13,7,0,0,8
+armenian,Armenian,Caucasus,37.7,32,43,7.75,7.7,6.4,8.05,7.8,14.15,15.85,15.5,2,6,7,5,11,6,3,0,8
+hittite,Hittite,Middle East,37.55,31,43,7.8,7.45,6.1,8.7,7.5,13.9,16.2,14.95,2,6,7,5,6,8,6,0,8
+shaiva-hindu,Shaiva Hindu,South Asia,37.55,31,47,7.6,7.25,7.15,8.2,7.35,14.75,15.55,14.6,2,6,4,8,6,5,9,0,8
+maori,Maori (New Zealand),Oceania,37.55,31,43,6.9,7.25,6.15,8.95,8.3,13.05,17.25,15.55,2,6,7,5,11,5,4,0,8
+hawaiian-polynesian,Hawaiian Polynesian,Oceania,37.45,31,43,6.55,7.05,6.75,8.9,8.2,13.3,17.1,15.25,2,6,7,5,10,6,4,0,8
+haitian-vodou,Haitian Vodou,Americas,37.4,31,43,6.7,7.0,6.3,9.2,8.2,13.0,17.4,15.2,2,6,7,5,8,7,5,0,8
+sumerian,Sumerian,Middle East,37.15,28,43,7.85,7.35,7.35,7.45,7.15,15.2,14.6,14.5,3,7,5,5,7,5,4,4,10
+assyrian,Assyrian,Middle East,37.1,31,43,7.95,7.25,6.05,8.25,7.6,14.0,15.85,14.85,2,6,7,5,5,8,7,0,8
+maya,Maya,Americas,37.05,32,43,7.75,6.9,6.75,8.3,7.35,14.5,15.65,14.25,2,6,7,5,10,3,7,0,8
+norse-viking,Norse / Viking,Europe,37.0,27,44,7.85,7.45,7.65,7.3,6.75,15.5,14.05,14.2,3,8,7,2,6,5,3,6,11
+vedic-hindu,Vedic Hindu,South Asia,36.95,32,42,6.9,6.75,7.65,7.9,7.75,14.55,15.65,14.5,2,7,7,4,11,5,3,1,9
+celtic-welsh,Celtic Welsh (Brythonic),Europe,36.7,29,44,7.2,6.85,7.3,7.75,7.6,14.5,15.35,14.45,2,6,6,6,8,7,3,2,8
+muisca-colombian,Muisca (Colombian),Americas,36.7,31,43,6.75,7.15,6.8,8.05,7.95,13.55,16.0,15.1,2,6,7,5,10,7,3,0,8
+jewish-mysticism,Jewish Mysticism (Kabbalistic),Middle East,36.6,28,44,7.35,7.05,7.35,7.85,7.0,14.7,14.85,14.05,3,7,5,5,8,1,8,3,10
+babylonian,Babylonian,Middle East,36.55,30,45,7.55,7.05,7.5,7.7,6.75,15.05,14.45,13.8,3,5,6,6,6,4,5,5,8
+taino-caribbean,Taino (Caribbean),Americas,36.5,31,43,6.55,6.85,6.8,8.6,7.7,13.35,16.3,14.55,2,6,7,5,9,9,2,0,8
+tongan,Tongan,Oceania,36.45,31,43,7.05,7.15,7.4,7.65,7.2,14.45,14.85,14.35,2,6,7,5,5,11,4,0,8
+aboriginal-australian,Aboriginal Australian (Dreamtime),Oceania,36.45,31,43,6.85,6.9,6.75,8.55,7.4,13.6,15.95,14.3,2,6,7,5,11,6,3,0,8
+arabian-pre-islamic,Arabian (Pre-Islamic),Middle East,36.3,31,43,6.65,6.65,6.85,8.75,7.4,13.5,16.15,14.05,2,6,7,5,3,13,4,0,8
+zoroastrian-persian,Zoroastrian (Persian),Middle East,36.3,31,43,6.6,6.6,6.4,8.8,7.9,13.0,16.7,14.5,2,6,7,5,13,2,5,0,8
+georgian-nart,Georgian / Caucasian (Nart Sagas),Caucasus,36.25,31,43,8.0,7.1,7.2,7.35,6.6,15.2,13.95,13.7,2,6,7,5,7,9,4,0,8
+kashmiri-shaivism,Kashmiri Shaivism,South Asia,36.25,31,45,6.45,6.15,6.45,8.8,8.4,12.9,17.2,14.55,2,4,6,8,8,7,4,1,6
+japanese-shinto,Japanese Shinto,East Asia,36.2,30,45,7.05,6.9,7.4,8.0,6.85,14.45,14.85,13.75,2,7,4,7,5,5,6,4,9
+lakota-sioux,Lakota (Sioux),Americas,36.2,31,43,7.0,6.6,6.85,8.6,7.15,13.85,15.75,13.75,2,6,7,5,7,8,5,0,8
+slavic,Slavic,Europe,36.15,29,41,7.0,6.85,7.1,7.95,7.25,14.1,15.2,14.1,2,6,7,5,5,7,7,1,8
+fon-ewe-dahomey,Fon / Ewe (Dahomey Vodun),Africa,36.15,26,44,6.9,6.85,7.0,7.85,7.55,13.9,15.4,14.4,3,5,6,6,8,9,2,1,8
+zapotec,Zapotec,Americas,36.1,31,43,6.85,7.45,5.6,8.3,7.9,12.45,16.2,15.35,2,6,7,5,11,5,4,0,8
+hopi,Hopi,Americas,36.1,31,43,6.45,7.1,6.3,8.35,7.9,12.75,16.25,15.0,2,6,7,5,10,6,4,0,8
+inuit,Inuit (Yupik / Arctic Peoples),Americas,36.05,31,43,6.65,6.15,7.4,8.7,7.15,14.05,15.85,13.3,2,6,7,5,3,6,11,0,8
+balinese-hindu-buddhist,Balinese Hindu-Buddhist,Southeast Asia,36.0,27,45,6.85,6.35,6.65,8.3,7.85,13.5,16.15,14.2,6,7,6,1,9,5,6,0,13
+tibetan-bon,Tibetan Buddhist / Bon,East Asia,36.0,30,42,6.85,7.0,6.5,8.1,7.55,13.35,15.65,14.55,2,5,5,8,6,6,7,1,7
+buryat-mongol,Buryat Mongol,Central Asia,35.95,31,43,6.8,7.05,6.4,8.3,7.4,13.2,15.7,14.45,2,6,7,5,10,6,4,0,8
+samoan,Samoan,Oceania,35.95,32,43,6.7,6.75,7.45,8.1,6.95,14.15,15.05,13.7,2,6,7,5,5,9,6,0,8
+baltic-lithuanian,Baltic (Lithuanian / Latvian),Europe,35.9,26,43,6.65,6.7,7.05,7.75,7.75,13.7,15.5,14.45,2,5,7,6,8,8,3,1,7
+etruscan,Etruscan,Europe,35.9,30,43,7.05,7.0,6.95,7.6,7.3,14.0,14.9,14.3,2,4,6,8,5,8,6,1,6
+ancient-greek,Ancient Greek,Europe,35.8,27,44,7.85,6.95,7.3,7.2,6.5,15.15,13.7,13.45,3,8,7,2,5,6,5,4,11
+fijian,Fijian,Oceania,35.8,31,43,6.45,7.3,6.25,8.35,7.45,12.7,15.8,14.75,2,6,7,5,4,11,5,0,8
+indian-buddhist,Indian Buddhist,South Asia,35.75,21,42,6.4,6.75,6.3,8.3,8.0,12.7,16.3,14.75,2,6,6,6,11,5,3,1,8
+scythian,Scythian,Central Asia,35.7,32,40,7.0,6.6,7.2,7.3,7.6,14.2,14.9,14.2,2,10,7,1,5,14,1,0,12
+navajo-dine,Navajo (Dine),Americas,35.7,32,43,6.65,7.0,6.4,8.2,7.45,13.05,15.65,14.45,2,6,7,5,12,2,6,0,8
+korean,Korean,East Asia,35.7,29,40,6.8,6.75,7.05,7.75,7.35,13.85,15.1,14.1,2,5,5,8,8,7,4,1,7
+sogdian,Sogdian,Central Asia,35.65,29,41,6.75,6.7,6.75,7.3,8.15,13.5,15.45,14.85,5,10,2,3,9,10,1,0,15
+phoenician,Phoenician,Middle East,35.65,28,41,7.15,6.8,7.05,7.45,7.2,14.2,14.65,14.0,2,6,5,7,5,8,3,4,8
+minoan,Minoan (Ancient Crete),Europe,35.65,30,45,6.8,6.9,6.9,7.8,7.25,13.7,15.05,14.15,2,4,6,8,6,9,3,2,6
+guarani,Guarani,Americas,35.6,31,43,6.65,6.2,7.3,8.55,6.9,13.95,15.45,13.1,2,6,7,5,8,3,9,0,8
+turkic-tengrist,Turkic Tengrist,Central Asia,35.55,30,43,7.05,6.65,6.95,7.3,7.6,14.0,14.9,14.25,4,12,4,0,9,8,3,0,16
+roman,Roman,Europe,35.55,26,43,6.95,6.9,7.2,7.3,7.2,14.15,14.5,14.1,2,8,5,5,5,9,4,2,10
+bengali-hindu,Bengali Hindu,South Asia,35.55,29,46,6.95,6.65,7.05,7.8,7.1,14.0,14.9,13.75,2,4,6,8,6,4,9,1,6
+olmec,Olmec,Americas,35.5,31,43,7.3,7.0,6.9,7.7,6.6,14.2,14.3,13.6,2,6,7,5,7,7,6,0,8
+finnish-karelian,Finnish / Karelian (Kalevala),Europe,35.5,28,43,7.1,6.9,7.2,7.5,6.8,14.3,14.3,13.7,2,4,6,8,6,7,6,1,6
+khmer,Khmer (Cambodian),Southeast Asia,35.45,31,40,6.9,6.75,6.65,7.6,7.55,13.55,15.15,14.3,3,11,6,0,9,10,1,0,14
+berber-amazigh,Berber / Amazigh,Africa,35.45,28,42,7.3,7.3,6.85,6.75,7.25,14.15,14.0,14.55,2,5,5,8,7,11,0,2,7
+tamil-dravidian,Tamil / Dravidian,South Asia,35.45,28,43,6.8,6.65,7.25,7.4,7.35,14.05,14.75,14.0,2,4,5,9,9,8,3,0,6
+iroquois-haudenosaunee,Iroquois / Haudenosaunee,Americas,35.4,31,43,6.6,7.05,6.45,8.2,7.1,13.05,15.3,14.15,2,6,7,5,10,5,5,0,8
+sikh,Sikh,South Asia,35.4,26,42,6.4,7.3,5.85,7.7,8.15,12.25,15.85,15.45,3,3,5,9,18,1,1,0,6
+jain,Jain,South Asia,35.3,27,42,6.2,7.8,5.7,7.45,8.15,11.9,15.6,15.95,2,4,5,9,15,5,0,0,6
+apache,Apache,Americas,35.2,32,43,6.85,7.0,6.85,7.85,6.65,13.7,14.5,13.65,2,6,7,5,8,9,3,0,8
+cherokee,Cherokee,Americas,35.2,31,43,6.55,6.3,7.1,8.4,6.85,13.65,15.25,13.15,2,6,7,5,6,9,5,0,8
+mapuche,Mapuche,Americas,35.2,31,43,6.4,6.95,6.3,8.6,6.95,12.7,15.55,13.9,2,6,7,5,4,9,7,0,8
+haida,Haida,Americas,35.2,32,43,6.3,6.75,7.3,8.0,6.85,13.6,14.85,13.6,2,6,7,5,5,12,3,0,8
+melanesian-papuan,Melanesian / Papuan,Oceania,35.15,31,43,6.0,6.35,6.95,8.2,7.65,12.95,15.85,14.0,2,6,7,5,13,4,3,0,8
+akkadian,Akkadian,Middle East,35.15,27,43,6.95,6.7,7.35,7.25,6.9,14.3,14.15,13.6,2,5,5,8,7,6,6,1,7
+nubian-kushite,Nubian / Kushite,Africa,35.1,27,41,7.25,7.1,6.95,6.8,7.0,14.2,13.8,14.1,2,4,6,8,9,9,2,0,6
+canaanite,Canaanite,Middle East,35.05,29,41,6.85,6.8,6.8,7.4,7.2,13.65,14.6,14.0,2,4,6,8,9,5,3,3,6
+filipino-tagalog,Filipino (Tagalog / Visayan),Southeast Asia,34.9,29,42,6.75,6.2,7.2,7.7,7.05,13.95,14.75,13.25,4,7,7,2,5,8,7,0,11
+algonquian-ojibwe,Algonquian (Ojibwe / Anishinaabe),Americas,34.9,31,43,6.5,6.35,7.1,8.15,6.8,13.6,14.95,13.15,2,6,7,5,6,8,6,0,8
+chamorro-micronesian,Chamorro / Micronesian,Oceania,34.9,31,43,5.8,7.05,6.4,8.3,7.35,12.2,15.65,14.4,2,6,7,5,4,14,2,0,8
+yanomami,Yanomami (Amazonian),Americas,34.85,31,43,5.8,6.55,7.15,8.3,7.05,12.95,15.35,13.6,2,6,7,5,8,8,4,0,8
+sami,Sami (Nordic Indigenous),Europe,34.85,28,43,6.4,6.65,6.6,7.85,7.35,13.0,15.2,14.0,2,5,7,6,7,8,5,0,7
+yakut-sakha,Yakut / Sakha (Siberian),Central Asia,34.75,31,41,6.6,6.55,6.25,7.75,7.6,12.85,15.35,14.15,4,11,5,0,10,6,4,0,15
+taiwanese-aboriginal,Taiwanese Aboriginal (Formosan),East Asia,34.75,31,40,5.45,7.3,5.55,8.5,7.95,11.0,16.45,15.25,2,6,7,5,5,14,1,0,8
+javanese-kejawen,Javanese (Kejawen),Southeast Asia,34.65,25,42,6.35,6.25,6.8,7.3,7.95,13.15,15.25,14.2,6,8,2,4,8,9,3,0,14
+rajput-rajasthani,Rajput (Rajasthani),South Asia,34.65,26,43,6.55,7.0,7.0,6.8,7.3,13.55,14.1,14.3,2,5,5,8,12,8,0,0,7
+igbo,Igbo,Africa,34.6,28,43,6.35,6.5,6.5,7.65,7.6,12.85,15.25,14.1,2,4,6,8,8,7,4,1,6
+phrygian,Phrygian,Europe,34.5,28,45,6.4,6.45,6.75,7.65,7.25,13.15,14.9,13.7,2,4,5,9,4,7,4,5,6
+burmese-nat,Burmese (Nat Worship),Southeast Asia,34.4,28,38,6.15,6.2,6.6,7.65,7.8,12.75,15.45,14.0,1,9,9,1,8,10,2,0,10
+thracian,Thracian,Europe,34.35,28,42,6.75,6.35,7.3,7.25,6.7,14.05,13.95,13.05,2,5,5,8,2,7,7,4,7
+vietnamese,Vietnamese,East Asia,34.35,27,42,6.75,6.75,6.55,7.1,7.2,13.3,14.3,13.95,2,5,5,8,10,10,0,0,7
+dogon,Dogon,Africa,34.3,28,44,6.1,6.5,6.35,7.75,7.6,12.45,15.35,14.1,2,4,6,8,7,10,1,2,6
+akan,Akan,Africa,34.25,25,44,6.25,6.3,7.2,7.2,7.3,13.45,14.5,13.6,2,4,6,8,7,8,3,2,6
+yazidi,Yazidi,Middle East,34.2,31,38,4.45,6.2,6.15,9.05,8.35,10.6,17.4,14.55,2,6,7,5,17,3,0,0,8
+mongolian-shamanist,Mongolian Shamanist (Tengrism),East Asia,34.2,28,44,6.4,6.55,6.6,7.25,7.4,13.0,14.65,13.95,3,4,5,8,7,10,3,0,7
+mandaean,Mandaean,Middle East,34.2,27,43,6.05,6.25,6.2,8.1,7.6,12.25,15.7,13.85,2,5,5,8,9,4,6,1,7
+basque,Basque,Europe,34.1,26,47,6.55,6.5,6.9,7.45,6.7,13.45,14.15,13.2,2,3,5,10,6,7,4,3,5
+zulu,Zulu,Africa,34.05,28,42,6.6,6.6,7.05,7.35,6.45,13.65,13.8,13.05,2,4,6,8,5,6,7,2,6
+lao,Lao,Southeast Asia,33.9,27,40,6.55,6.15,6.65,7.1,7.45,13.2,14.55,13.6,2,8,5,5,12,5,3,0,10
+kazakh,Kazakh,Central Asia,33.85,28,43,6.25,5.95,6.75,7.15,7.75,13.0,14.9,13.7,3,9,5,3,5,12,3,0,12
+thai-buddhist,Thai Buddhist,Southeast Asia,33.7,28,40,6.5,6.3,6.85,7.35,6.7,13.35,14.05,13.0,2,10,8,0,10,5,5,0,12
+evenki-tungusic,Evenki (Tungusic / Siberian),Central Asia,33.65,28,41,6.2,6.15,6.3,7.8,7.2,12.5,15.0,13.35,2,9,6,3,2,14,4,0,11
+maasai,Maasai,Africa,32.6,26,43,6.25,6.05,6.75,6.75,6.8,13.0,13.55,12.85,2,4,5,9,10,6,2,2,6
+ainu,Ainu (Hokkaido / Sakhalin),East Asia,32.1,24,38,5.65,5.9,6.3,7.1,7.15,11.95,14.25,13.05,2,5,4,9,7,11,1,1,7

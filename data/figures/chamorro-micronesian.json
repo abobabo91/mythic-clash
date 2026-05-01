@@ -1,0 +1,526 @@
+{
+  "culture_slug": "chamorro-micronesian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Puntan",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "sacrifice",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Puntan is a god from Chamorro / Micronesian tradition associated with creation, sky, sacrifice, and light.",
+      "id": "chamorro-micronesian-001",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Fu'una",
+      "type": "goddess",
+      "domains": [
+        "creation",
+        "earth",
+        "motherhood",
+        "sea"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Fu'una is a goddess from Chamorro / Micronesian tradition associated with creation, earth, motherhood, and sea.",
+      "id": "chamorro-micronesian-002",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Chaife",
+      "type": "demon",
+      "domains": [
+        "storm",
+        "fire",
+        "wind",
+        "darkness"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Chaife is a demon from Chamorro / Micronesian tradition associated with storm, fire, wind, and darkness.",
+      "id": "chamorro-micronesian-003",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Gadao",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "kingship",
+        "war",
+        "honor"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Gadao is a hero from Chamorro / Micronesian tradition associated with strength, kingship, war, and honor.",
+      "id": "chamorro-micronesian-004",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Taotaomo'na",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "forest",
+        "earth",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Taotaomo'na is a spirit from Chamorro / Micronesian tradition associated with ancestor, forest, earth, and spirit.",
+      "id": "chamorro-micronesian-005",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Sirena",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "water",
+        "beauty",
+        "warning"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sirena is a spirit from Chamorro / Micronesian tradition associated with sea, water, beauty, and warning.",
+      "id": "chamorro-micronesian-006",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Mataquana",
+      "type": "hero",
+      "domains": [
+        "war",
+        "challenge",
+        "honor",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Mataquana is a hero from Chamorro / Micronesian tradition associated with war, challenge, honor, and strength.",
+      "id": "chamorro-micronesian-007",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Makana",
+      "type": "spirit",
+      "domains": [
+        "magic",
+        "healing",
+        "wisdom",
+        "ritual"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Makana is a spirit from Chamorro / Micronesian tradition associated with magic, healing, wisdom, and ritual.",
+      "id": "chamorro-micronesian-008",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Malaguana",
+      "type": "heroine",
+      "domains": [
+        "love",
+        "sea",
+        "fate",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Malaguana is a heroine from Chamorro / Micronesian tradition associated with love, sea, fate, and beauty.",
+      "id": "chamorro-micronesian-009",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Suruhanu",
+      "type": "spirit",
+      "domains": [
+        "healing",
+        "ritual",
+        "wisdom",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Suruhanu is a spirit from Chamorro / Micronesian tradition associated with healing, ritual, wisdom, and ancestor.",
+      "id": "chamorro-micronesian-010",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Tuyong",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "sea",
+        "guidance",
+        "sky"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Tuyong is a spirit from Chamorro / Micronesian tradition associated with wind, sea, guidance, and sky.",
+      "id": "chamorro-micronesian-011",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Fouha Spirit",
+      "type": "guardian",
+      "domains": [
+        "earth",
+        "sea",
+        "ancestor",
+        "sanctuary"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Fouha Spirit is a guardian from Chamorro / Micronesian tradition associated with earth, sea, ancestor, and sanctuary.",
+      "id": "chamorro-micronesian-012",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Laso de Fua",
+      "type": "guardian",
+      "domains": [
+        "stone",
+        "ancestor",
+        "earth",
+        "endurance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Laso de Fua is a guardian from Chamorro / Micronesian tradition associated with stone, ancestor, earth, and endurance.",
+      "id": "chamorro-micronesian-013",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Dos Amantes",
+      "type": "spirit",
+      "domains": [
+        "love",
+        "fate",
+        "cliff",
+        "sea"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Dos Amantes is a spirit from Chamorro / Micronesian tradition associated with love, fate, cliff, and sea.",
+      "id": "chamorro-micronesian-014",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Tuba Gatherer",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "craft",
+        "earth",
+        "abundance"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Tuba Gatherer is an ancestor from Chamorro / Micronesian tradition associated with ancestor, craft, earth, and abundance.",
+      "id": "chamorro-micronesian-015",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Bird of Luta",
+      "type": "creature",
+      "domains": [
+        "bird",
+        "sky",
+        "guidance",
+        "sea"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Bird of Luta is a creature from Chamorro / Micronesian tradition associated with bird, sky, guidance, and sea.",
+      "id": "chamorro-micronesian-016",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Latte Guardian",
+      "type": "guardian",
+      "domains": [
+        "stone",
+        "ancestor",
+        "protection",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Latte Guardian is a guardian from Chamorro / Micronesian tradition associated with stone, ancestor, protection, and earth.",
+      "id": "chamorro-micronesian-017",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Moon over Hagatna",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "water",
+        "night",
+        "guidance"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Moon over Hagatna is a spirit from Chamorro / Micronesian tradition associated with moon, water, night, and guidance.",
+      "id": "chamorro-micronesian-018",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Island Shark Spirit",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "animal",
+        "protection",
+        "storm"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Island Shark Spirit is a creature from Chamorro / Micronesian tradition associated with sea, animal, protection, and storm.",
+      "id": "chamorro-micronesian-019",
+      "culture_slug": "chamorro-micronesian"
+    },
+    {
+      "name": "Aniti Keeper",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "ancestor",
+        "ritual",
+        "protection"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Aniti Keeper is a spirit from Chamorro / Micronesian tradition associated with spirit, ancestor, ritual, and protection.",
+      "id": "chamorro-micronesian-020",
+      "culture_slug": "chamorro-micronesian"
+    }
+  ]
+}

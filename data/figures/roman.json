@@ -1,0 +1,510 @@
+{
+  "culture_slug": "roman",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Jupiter",
+      "type": "god",
+      "domains": [
+        "sky",
+        "thunder",
+        "kingship",
+        "law"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ius Divinum",
+        "description": "All light-alignment allies gain +2 to all stats for 2 turns."
+      },
+      "description": "King of the Roman gods who enforces cosmic law and sanctions the power of emperors.",
+      "id": "roman-001",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Mars",
+      "type": "god",
+      "domains": [
+        "war",
+        "agriculture",
+        "protection of Rome"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Legion's Wrath",
+        "description": "Deal 3 damage to all enemies; allies gain +2 power for 1 turn."
+      },
+      "description": "Father of Romulus and divine patron of Rome's armies; both destroyer and protector.",
+      "id": "roman-002",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Juno",
+      "type": "goddess",
+      "domains": [
+        "marriage",
+        "women",
+        "queen of gods"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Matron's Decree",
+        "description": "Remove all debuffs from all allies; inflict one debuff on the strongest enemy."
+      },
+      "description": "Queen of the Roman gods, fierce protector of women and sworn enemy of Aeneas and his Trojan descendants.",
+      "id": "roman-003",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Neptune",
+      "type": "god",
+      "domains": [
+        "sea",
+        "earthquakes",
+        "horses"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Trident Wave",
+        "description": "Deal 5 damage to one enemy and 2 damage to all adjacent enemies."
+      },
+      "description": "Ruler of the seas whose trident can calm or shatter the ocean and shake the earth itself.",
+      "id": "roman-004",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Pluto",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "wealth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wealth of Shadows",
+        "description": "Steal 2 HP from all enemies and add it to your total HP pool."
+      },
+      "description": "Lord of the Roman underworld and all underground riches, feared but rarely worshipped.",
+      "id": "roman-005",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Minerva",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "craft",
+        "war strategy"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tactical Mastery",
+        "description": "View enemy strategy; your next three actions deal +2 bonus damage."
+      },
+      "description": "Goddess of wisdom, craft and strategic warfare, said to have been born from Jupiter's head.",
+      "id": "roman-006",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Venus",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "beauty",
+        "desire"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Irresistible Grace",
+        "description": "Charm one enemy: they fight for your side for 1 turn."
+      },
+      "description": "Goddess of love and beauty who claimed Aeneas as her son and thus claimed Rome as her legacy.",
+      "id": "roman-007",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Mercury",
+      "type": "god",
+      "domains": [
+        "commerce",
+        "travel",
+        "messages",
+        "thieves"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Caduceus Exchange",
+        "description": "Swap one of your card's stats with the same stat of an enemy card."
+      },
+      "description": "Divine messenger and trickster who guides both living travelers and the souls of the dead.",
+      "id": "roman-008",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Aeneas",
+      "type": "hero",
+      "domains": [
+        "founding",
+        "duty",
+        "Troy",
+        "piety"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Pietas",
+        "description": "When an ally falls, this card gains +2 to all stats for the rest of the battle."
+      },
+      "description": "Trojan prince whose destined journey to Italy laid the mythological foundation for Rome's glory.",
+      "id": "roman-009",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Romulus",
+      "type": "hero",
+      "domains": [
+        "Rome's founding",
+        "war",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "City Wall Blessing",
+        "description": "Grant all allies a shield absorbing 3 damage; lasts until broken."
+      },
+      "description": "Legendary founder and first king of Rome, sired by Mars himself, who slew his twin Remus.",
+      "id": "roman-010",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Bacchus",
+      "type": "god",
+      "domains": [
+        "wine",
+        "ecstasy",
+        "liberation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Bacchanalia",
+        "description": "Inflict ecstasy on up to 3 enemies; they lose 2 wisdom and attack randomly."
+      },
+      "description": "God of wine and liberation whose wild Bacchanalian rites swept through the Roman world.",
+      "id": "roman-011",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Janus",
+      "type": "god",
+      "domains": [
+        "beginnings",
+        "gates",
+        "transitions",
+        "time"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Two-Faced Gate",
+        "description": "Look at one hidden enemy card; choose to delay its activation by 1 turn."
+      },
+      "description": "Two-faced god of doorways and beginnings who sees simultaneously into the past and the future.",
+      "id": "roman-012",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Diana",
+      "type": "goddess",
+      "domains": [
+        "hunt",
+        "moon",
+        "wilderness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lunar Hunt",
+        "description": "Target enemy cannot escape or use summon abilities; deal 4 damage."
+      },
+      "description": "Huntress goddess of the moon who demands strict chastity from her followers and swift justice from her bow.",
+      "id": "roman-013",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Vulcan",
+      "type": "god",
+      "domains": [
+        "fire",
+        "forge",
+        "crafts"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Masterwork Weapon",
+        "description": "Choose one ally; their next attack deals double damage and ignores defense."
+      },
+      "description": "Divine blacksmith forged to the earth by Jupiter whose volcanoes are said to be his workshops.",
+      "id": "roman-014",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Fortuna",
+      "type": "goddess",
+      "domains": [
+        "fortune",
+        "luck",
+        "fate"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wheel of Fortune",
+        "description": "Randomize all stat bonuses currently active; 50% chance to double them or halve them."
+      },
+      "description": "Blindfolded goddess of fortune who spins her wheel to raise and topple kings at random.",
+      "id": "roman-015",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Cacus",
+      "type": "monster",
+      "domains": [
+        "fire-breathing",
+        "theft",
+        "caves"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Smoke Screen",
+        "description": "Reduce all enemies' accuracy; deal 3 fire damage to one target."
+      },
+      "description": "Fire-breathing cave monster and cattle thief slain by Hercules; son of Vulcan.",
+      "id": "roman-016",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Laverna",
+      "type": "goddess",
+      "domains": [
+        "thieves",
+        "fraud",
+        "deceit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Thief's Veil",
+        "description": "Steal one random buff from an enemy and apply it to this card."
+      },
+      "description": "Patron goddess of con artists, cheats and thieves, invoked at night in secret rituals.",
+      "id": "roman-017",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Faunus",
+      "type": "god",
+      "domains": [
+        "wilderness",
+        "forests",
+        "animals"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wild Prophecy",
+        "description": "Reveal one enemy card's special ability before it activates."
+      },
+      "description": "Rustic god of the wild countryside who sends prophetic dreams and protects flocks from wolves.",
+      "id": "roman-018",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Bellona",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "blood",
+        "destruction"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blood Rite",
+        "description": "Deal 4 damage to one enemy; gain +2 power for each ally currently below half HP."
+      },
+      "description": "Ancient war goddess who preceded Mars in Roman worship and whose rites involved self-inflicted wounds.",
+      "id": "roman-019",
+      "culture_slug": "roman"
+    },
+    {
+      "name": "Terminus",
+      "type": "god",
+      "domains": [
+        "boundaries",
+        "borders",
+        "landmarks"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 10,
+        "speed": 2,
+        "magic": 4,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Boundary",
+        "description": "No enemy can use movement or position-swap abilities while this card is in play."
+      },
+      "description": "Immovable god of boundary stones whose cult was so ancient even Jupiter could not displace him.",
+      "id": "roman-020",
+      "culture_slug": "roman"
+    }
+  ]
+}

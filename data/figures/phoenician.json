@@ -1,0 +1,519 @@
+{
+  "culture_slug": "phoenician",
+  "count": 20,
+  "figures": [
+    {
+      "name": "El",
+      "type": "god",
+      "domains": [
+        "father of gods",
+        "wisdom",
+        "creation",
+        "sea"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Father's Council",
+        "description": "All ally abilities this turn cost 0 energy; grant +2 wisdom to all allies."
+      },
+      "description": "Father of all Phoenician gods who dwells at the source of rivers and presides over the divine assembly.",
+      "id": "phoenician-001",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Baal Hammon",
+      "type": "god",
+      "domains": [
+        "sky fire",
+        "Carthage supreme",
+        "storm",
+        "Moloch"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sacred Fires",
+        "description": "Deal 5 fire damage to all enemies; 30% chance each enemy is marked for sacrifice — permanently -2 stats."
+      },
+      "description": "Supreme Carthaginian sky and fire deity who received the greatest sacrifices and governed the North African empire.",
+      "id": "phoenician-002",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Astarte",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "Venus",
+        "queen of heaven"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Star of War and Love",
+        "description": "Grant one ally love-power: +3 to both power and magic for 2 turns."
+      },
+      "description": "Queen of heaven, goddess of love and war, who swept across the Mediterranean from Carthage to Cyprus to Greece.",
+      "id": "phoenician-003",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Melqart",
+      "type": "god",
+      "domains": [
+        "Tyre's patron",
+        "sea",
+        "Heracles equivalent",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Egersis Rite",
+        "description": "Once per battle, resurrect this card at 5 HP when destroyed."
+      },
+      "description": "City-god of Tyre and divine patron of Phoenician sea power, whose annual resurrection ceremony anticipated Christianity.",
+      "id": "phoenician-004",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Mot",
+      "type": "god",
+      "domains": [
+        "death",
+        "underworld",
+        "drought",
+        "summer"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "The Swallower",
+        "description": "Swallow one enemy: remove them from play for 2 turns; gain their power as a temporary bonus."
+      },
+      "description": "God of death who swallowed Baal whole causing winter and drought, locked in eternal seasonal combat.",
+      "id": "phoenician-005",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Yam",
+      "type": "god",
+      "domains": [
+        "sea",
+        "rivers",
+        "chaos",
+        "judgment"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "River Tyrant",
+        "description": "Deal 4 damage to all enemies; push all allies to safer positions."
+      },
+      "description": "Tyrannical god of the sea and rivers who demanded Baal as his slave and was defeated in cosmic battle.",
+      "id": "phoenician-006",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Eshmun",
+      "type": "god",
+      "domains": [
+        "healing",
+        "youth",
+        "Sidon",
+        "resurrection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Healer",
+        "description": "Fully restore one ally's HP and remove all negative effects."
+      },
+      "description": "Young god of healing associated with Sidon whose cult spread across the Mediterranean as a healer-savior.",
+      "id": "phoenician-007",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Anat",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "hunting",
+        "virgin warrior",
+        "sister of Baal"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Blood Wading",
+        "description": "Deal 3 damage to all enemies; this card regenerates 1 HP for each enemy hit from battle lust."
+      },
+      "description": "Fierce virgin war goddess who waded through the blood of her enemies up to her neck in ecstatic battle.",
+      "id": "phoenician-008",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Kothar-wa-Khasis",
+      "type": "god",
+      "domains": [
+        "crafts",
+        "weapons",
+        "magic",
+        "sea"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Craftwork",
+        "description": "Forge a weapon for one ally: their next attack deals +5 bonus damage."
+      },
+      "description": "The divine craftsman who forged magical weapons for Baal and whose workshop may have been in Crete or Egypt.",
+      "id": "phoenician-009",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Sakkuth",
+      "type": "god",
+      "domains": [
+        "Saturn",
+        "star",
+        "Assyrian adoption",
+        "fate"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Star Fate",
+        "description": "Lock one enemy's fate: their stats cannot increase for 2 turns."
+      },
+      "description": "Adopted astral deity whose star cult among the Phoenicians spread throughout the Levantine trading network.",
+      "id": "phoenician-010",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Resheph (Phoenician)",
+      "type": "god",
+      "domains": [
+        "plague",
+        "war",
+        "lightning",
+        "Cyprus"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Arrow",
+        "description": "Deal 4 damage and infect one enemy with plague: -1 HP per turn for 2 turns."
+      },
+      "description": "Phoenician war and plague god whose arrow brings both pestilence and lightning to the battlefield.",
+      "id": "phoenician-011",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Baalat Gebal",
+      "type": "goddess",
+      "domains": [
+        "Byblos patron",
+        "wisdom",
+        "writing"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lady of Byblos",
+        "description": "Reveal all hidden enemy information; grant +2 wisdom to all scholar or mage allies."
+      },
+      "description": "The Lady of Byblos, patron goddess of the great Phoenician city where the alphabet was born.",
+      "id": "phoenician-012",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Lotan",
+      "type": "creature",
+      "domains": [
+        "seven-headed sea serpent",
+        "chaos",
+        "primordial"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Seven-Coil Strike",
+        "description": "Attack seven enemies or one enemy seven times for 1 damage each, bypassing immunity."
+      },
+      "description": "The seven-headed primordial sea serpent of Phoenician myth, precursor to the Canaanite Leviathan.",
+      "id": "phoenician-013",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Pygmalion (mythic)",
+      "type": "hero",
+      "domains": [
+        "sculptor",
+        "divine love",
+        "transformation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Living Stone",
+        "description": "Transform one card's type: change its alignment and grant +2 to all stats."
+      },
+      "description": "The legendary Phoenician sculptor who fell in love with his ivory creation, which Astarte brought to life.",
+      "id": "phoenician-014",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Dido",
+      "type": "heroine",
+      "domains": [
+        "Carthage founder",
+        "cunning",
+        "sacrifice",
+        "queen"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Oxhide Wisdom",
+        "description": "Outwit one enemy: steal 2 HP from them through superior cleverness."
+      },
+      "description": "Legendary founder queen of Carthage who tricked the king of Africa into giving her enough land for a city.",
+      "id": "phoenician-015",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Cadmus",
+      "type": "hero",
+      "domains": [
+        "alphabet bringer",
+        "dragon slayer",
+        "Thebes founder"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dragon's Teeth",
+        "description": "When Cadmus defeats an enemy, sow their remains: create 2 warrior tokens with 4/4 stats."
+      },
+      "description": "Phoenician prince who slew a dragon, sowed its teeth to create warriors and brought the alphabet to Greece.",
+      "id": "phoenician-016",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Europa's Bull",
+      "type": "creature",
+      "domains": [
+        "sacred bull",
+        "divine abduction",
+        "beauty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bull's Allure",
+        "description": "Charm the enemy with the highest power; they cannot attack for 1 turn."
+      },
+      "description": "The divine bull form of Zeus who carried Europa across the sea to Crete, beginning the Phoenician-Greek exchange.",
+      "id": "phoenician-017",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Adonis",
+      "type": "god",
+      "domains": [
+        "beauty",
+        "death",
+        "rebirth",
+        "vegetation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wounded Rose",
+        "description": "When this card falls below 5 HP, it gains +3 magic from desperate beauty."
+      },
+      "description": "Beautiful youth beloved by Astarte who dies and rises seasonally, representing the death of summer vegetation.",
+      "id": "phoenician-018",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Tanit's Symbol",
+      "type": "spirit",
+      "domains": [
+        "sacred symbol",
+        "protection",
+        "Carthage"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Sign",
+        "description": "Block one enemy dark ability; grant +1 to all stats to all allies from the sacred sign."
+      },
+      "description": "The sacred triangular symbol of Tanit whose image appeared on thousands of Carthaginian votive stelae.",
+      "id": "phoenician-019",
+      "culture_slug": "phoenician"
+    },
+    {
+      "name": "Phoenician Sailor",
+      "type": "hero",
+      "domains": [
+        "navigation",
+        "trading",
+        "sea power"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Chart the Sea",
+        "description": "Move any ally to any position; grant +2 speed to all water and sea allies."
+      },
+      "description": "The archetypal Phoenician sailor whose navigation skills opened trade routes across the entire Mediterranean world.",
+      "id": "phoenician-020",
+      "culture_slug": "phoenician"
+    }
+  ]
+}

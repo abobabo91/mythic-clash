@@ -1,0 +1,509 @@
+{
+  "culture_slug": "akan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Nyame",
+      "type": "god",
+      "domains": [
+        "sky",
+        "supreme creator",
+        "omnipresence",
+        "sun"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky God's Grace",
+        "description": "Restore full HP to one ally; all enemies lose 1 stat per turn for 2 turns."
+      },
+      "description": "The all-knowing sky god who created all things and to whom all prayer ultimately rises.",
+      "id": "akan-001",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Anansi",
+      "type": "trickster",
+      "domains": [
+        "spider",
+        "trickery",
+        "stories",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Story Trap",
+        "description": "Force one enemy to re-enact a story: they repeat their last action against their own ally."
+      },
+      "description": "Spider trickster god who outwitted Sky God to own all stories in the world — the source of all human narrative.",
+      "id": "akan-002",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Asase Yaa",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "fertility",
+        "truth",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earth Mother's Truth",
+        "description": "No card on the field can use deception abilities; grant all earth allies +3 defense."
+      },
+      "description": "Old Earth goddess of fertility and truth, Nyame's wife, who receives the dead back into her body.",
+      "id": "akan-003",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Odomankoma",
+      "type": "god",
+      "domains": [
+        "infinite",
+        "creation from nothing",
+        "universe"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Infinite Creation",
+        "description": "Summon one copy of any destroyed ally from this battle at half stats."
+      },
+      "description": "The infinite creator aspect of the divine who brought the universe into being from absolute nothingness.",
+      "id": "akan-004",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Bia",
+      "type": "god",
+      "domains": [
+        "war",
+        "force",
+        "eldest son of Nyame"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "First Born Wrath",
+        "description": "Deal 5 damage; enemies at full HP take double damage."
+      },
+      "description": "The older of Nyame's two sons sent to earth, who chose force to complete the task of civilizing humanity.",
+      "id": "akan-005",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Kwaku Anansi",
+      "type": "trickster",
+      "domains": [
+        "spider stories",
+        "cunning",
+        "all tales"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Web of All Tales",
+        "description": "Steal any one active ability on the field and use it yourself."
+      },
+      "description": "The full spider form of Anansi who climbs between earth and sky, buying wisdom from Nyame with cunning deeds.",
+      "id": "akan-006",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Nana Ama",
+      "type": "goddess",
+      "domains": [
+        "rivers",
+        "Saturday",
+        "women born Saturday"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Stream",
+        "description": "Restore 3 HP to all allies born of water or spirit type."
+      },
+      "description": "River goddess associated with Saturday-born women who grants them protective powers and spiritual sight.",
+      "id": "akan-007",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Tano",
+      "type": "god",
+      "domains": [
+        "rivers",
+        "war",
+        "second son of Nyame"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River's Cunning",
+        "description": "When Tano arrives: move the weakest enemy to front row; deal 3 damage to them."
+      },
+      "description": "River god and second son of Nyame who tricked Death to escape and who governs the sacred Tano River.",
+      "id": "akan-008",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Sasabonsam",
+      "type": "monster",
+      "domains": [
+        "forest vampire",
+        "iron hooks",
+        "horror"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Iron Hook",
+        "description": "Drag one enemy from any position to front row; deal 3 damage from iron hooks."
+      },
+      "description": "Vampire-like forest monster with iron hooks for feet who sits in silk-cotton trees and grabs travelers.",
+      "id": "akan-009",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Mmoatia",
+      "type": "spirit",
+      "domains": [
+        "forest fairies",
+        "medicine",
+        "invisibility"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Invisible Healer",
+        "description": "Become invisible and heal one ally for 4 HP; enemy cannot target the healed ally for 1 turn."
+      },
+      "description": "Tiny invisible forest fairies who taught humans medicine but can also bring illness to those who offend them.",
+      "id": "akan-010",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Osei Tutu",
+      "type": "ancestor",
+      "domains": [
+        "Ashanti founder",
+        "Golden Stool",
+        "national soul"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Stool",
+        "description": "All Akan allies gain +2 to all stats as long as the Golden Stool is uncontested."
+      },
+      "description": "First Ashanti king whose divine right to rule descended with the Golden Stool from the sky.",
+      "id": "akan-011",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Sunsum",
+      "type": "spirit",
+      "domains": [
+        "personal spirit",
+        "ego",
+        "personality"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Spirit Self",
+        "description": "This card shares the highest stat with any one ally for 2 turns."
+      },
+      "description": "The personal spirit and personality essence that animates each human being, sent from Nyame.",
+      "id": "akan-012",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Osebo",
+      "type": "creature",
+      "domains": [
+        "leopard",
+        "arrogance",
+        "trap"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Leopard Trap",
+        "description": "Set a trap: the next enemy to attack this card takes 5 return damage."
+      },
+      "description": "The leopard whose arrogance made him fall into Anansi's pit trap in the story of buying all stories.",
+      "id": "akan-013",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Onini",
+      "type": "creature",
+      "domains": [
+        "great python",
+        "boasting",
+        "rivers"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Python Crush",
+        "description": "Immobilize one enemy for 1 turn; reduce their power by 2."
+      },
+      "description": "The great python who boasted of his length to Anansi and was tricked into being tied to a palm branch.",
+      "id": "akan-014",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Mmoboro",
+      "type": "creature",
+      "domains": [
+        "hornets",
+        "swarm",
+        "Anansi's trick"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Swarm Sting",
+        "description": "Deal 2 damage to all enemies; they each lose 1 speed from stings."
+      },
+      "description": "The hornets who Anansi tricked into his calabash by telling them the rain was coming — one of Nyame's tasks.",
+      "id": "akan-015",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Dono",
+      "type": "ancestor",
+      "domains": [
+        "oral history",
+        "royal ancestors",
+        "drumming"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Talking Drum",
+        "description": "Reveal one hidden enemy card and grant one ally +2 wisdom."
+      },
+      "description": "The ancestral spirit of the sacred talking drum who carries messages and preserves Akan history.",
+      "id": "akan-016",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Obiara",
+      "type": "spirit",
+      "domains": [
+        "everyone",
+        "universal spirit",
+        "community"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Community Bond",
+        "description": "All allies with below-average stats gain +2 to their lowest stat."
+      },
+      "description": "The spirit of every person — the divine spark of Nyame present in every living human being.",
+      "id": "akan-017",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Ananse Kokroko",
+      "type": "spider god",
+      "domains": [
+        "great spider",
+        "cosmic",
+        "divine form"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Web",
+        "description": "All ability chains this turn are extended by 1 additional trigger."
+      },
+      "description": "The divine cosmic form of Anansi — the great spider whose web is the structure of all creation.",
+      "id": "akan-018",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Nipa Hia",
+      "type": "spirit",
+      "domains": [
+        "human need",
+        "poverty",
+        "humility"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Humility's Gift",
+        "description": "Remove all pride-related buffs from enemies; grant your lowest-stat ally +3 to that stat."
+      },
+      "description": "The spirit of human need and humility who teaches that pride brings ruin and need brings community.",
+      "id": "akan-019",
+      "culture_slug": "akan"
+    },
+    {
+      "name": "Abrafi",
+      "type": "ancestor",
+      "domains": [
+        "courageous ancestor",
+        "bravery",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Brave Ancestor",
+        "description": "When any ally would be destroyed, this card may sacrifice itself to save them."
+      },
+      "description": "Legendary courageous ancestor whose bravery in defense of the community was immortalized in Akan praise poetry.",
+      "id": "akan-020",
+      "culture_slug": "akan"
+    }
+  ]
+}

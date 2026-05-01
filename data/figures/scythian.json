@@ -1,0 +1,526 @@
+{
+  "culture_slug": "scythian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tabiti",
+      "type": "goddess",
+      "domains": [
+        "fire",
+        "hearth",
+        "queen",
+        "supreme"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Hearth",
+        "description": "All Scythian cards are sustained; they cannot be starved of resources for 3 turns."
+      },
+      "description": "The supreme goddess of the Scythians, queen of the gods and goddess of the sacred fire, invoked first in all oaths and rituals.",
+      "id": "scythian-001",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Papaeus",
+      "type": "god",
+      "domains": [
+        "sky",
+        "supreme male",
+        "father",
+        "Scythian Zeus"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky Father's Oath",
+        "description": "Seal an unbreakable oath; one enemy card must keep its current action for 2 turns."
+      },
+      "description": "The Scythian name for the sky father, their supreme male deity corresponding to Zeus, husband of Api the earth goddess.",
+      "id": "scythian-002",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Api",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "mother",
+        "serpent legs",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earth Mother",
+        "description": "Draw power from the earth; all earth-domain allies gain 3 HP and +2 defense."
+      },
+      "description": "The Scythian earth goddess with serpent legs, the great mother deity who was wife of Papaeus the sky god.",
+      "id": "scythian-003",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Targitaus",
+      "type": "hero",
+      "domains": [
+        "founding",
+        "three sons",
+        "golden gifts",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Gifts",
+        "description": "Present the three golden gifts; choose one: +3 power, +3 defense, or +3 magic for all allies."
+      },
+      "description": "The legendary first human and ancestor of the Scythians, whose three sons competed to receive the fallen golden gifts that established the three Scythian tribes.",
+      "id": "scythian-004",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Kolaxais",
+      "type": "hero",
+      "domains": [
+        "royal tribe",
+        "gold",
+        "kingship",
+        "chosen"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Chosen Heir",
+        "description": "Only those worthy may claim this; gain +4 to all stats if your stats are highest."
+      },
+      "description": "The youngest son of Targitaus who successfully received the golden gifts, becoming the founder of the royal Scythian tribe.",
+      "id": "scythian-005",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Oetosuros",
+      "type": "god",
+      "domains": [
+        "wind",
+        "Apollo",
+        "healing",
+        "sun"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sun Wind Healing",
+        "description": "Heal all allied cards for 5 HP; the sun-wind drives away all illness."
+      },
+      "description": "The Scythian deity corresponding to Apollo, god of the wind and healing, whose worship involved sacred horses.",
+      "id": "scythian-006",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Artimpasa",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "Aphrodite",
+        "moon",
+        "divination"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moon Divination",
+        "description": "Look at the top 5 cards; rearrange them and place 2 in your hand."
+      },
+      "description": "The Scythian version of Aphrodite, goddess of love and the moon, associated with the sacred Enarei diviners who served her.",
+      "id": "scythian-007",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Thamimasadas",
+      "type": "god",
+      "domains": [
+        "sea",
+        "Poseidon",
+        "water",
+        "horses"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Horse and Sea",
+        "description": "Summon sacred horses; all mounted allied cards gain +3 speed and +2 power."
+      },
+      "description": "The Scythian sea god corresponding to Poseidon, whose cult involved the sacred horses of the steppe.",
+      "id": "scythian-008",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Golden Warrior",
+      "type": "hero",
+      "domains": [
+        "gold",
+        "burial",
+        "eternal",
+        "warrior"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Gold Burial",
+        "description": "Bury power in gold; preserve one card's stats even after death for future resurrection."
+      },
+      "description": "The archetypal golden-armored Scythian warrior buried in the great kurgans with treasure, representing the warrior aristocracy's belief in eternal glory.",
+      "id": "scythian-009",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Enarei",
+      "type": "spirit",
+      "domains": [
+        "diviner",
+        "shaman",
+        "prophecy",
+        "Aphrodite's gift"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Androgynous Vision",
+        "description": "See beyond all boundaries of gender and opposition; predict the next 3 enemy moves."
+      },
+      "description": "The sacred Scythian shamans transformed by Aphrodite, gifted with divination powers, who served as prophets and intermediaries between worlds.",
+      "id": "scythian-010",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Scythian Amazon",
+      "type": "hero",
+      "domains": [
+        "warrior woman",
+        "horse",
+        "bow",
+        "freedom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Amazon Charge",
+        "description": "Charge with a warband of warrior women; deal 7 damage to all enemies in one column."
+      },
+      "description": "The fierce female warriors of Scythian culture, from whom the Greek Amazon myths likely derive, skilled in horse archery and battle.",
+      "id": "scythian-011",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Skolotos",
+      "type": "hero",
+      "domains": [
+        "ancestor",
+        "kurgans",
+        "burial",
+        "royalty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Kurgan Legacy",
+        "description": "Draw power from ancestors in the kurgans; gain +2 to all stats for each dead allied card."
+      },
+      "description": "The Scythian royal ancestor whose descendants built the great burial mounds of the steppe, connecting the living and dead in an unbroken chain.",
+      "id": "scythian-012",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Sacred Stag",
+      "type": "creature",
+      "domains": [
+        "totem",
+        "speed",
+        "sun",
+        "gold"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Sprint",
+        "description": "Move to any position at triple speed; cannot be intercepted this turn."
+      },
+      "description": "The sacred golden stag of Scythian art, an animal of solar significance that appears on the most prized Scythian gold artifacts.",
+      "id": "scythian-013",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Gryphon (Scythian)",
+      "type": "creature",
+      "domains": [
+        "gold guardian",
+        "mountain",
+        "power",
+        "beast"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Gold Mountain Guard",
+        "description": "Guard the mountain gold; any enemy attempting to steal resources takes 9 damage."
+      },
+      "description": "The gryphon of Scythian art, depicted endlessly guarding gold in the mountains, a symbol of supernatural power protecting wealth.",
+      "id": "scythian-014",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Sauromatian Shamaness",
+      "type": "spirit",
+      "domains": [
+        "female shaman",
+        "healing",
+        "prophecy",
+        "arrow"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Arrow Prophecy",
+        "description": "Use an arrow for divination; predict and counter one enemy ability perfectly."
+      },
+      "description": "The female shamans of the Sauromatians, a related Scythian group, who served as military and spiritual leaders.",
+      "id": "scythian-015",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Herakles (Scythian)",
+      "type": "hero",
+      "domains": [
+        "ancestor",
+        "founding",
+        "serpent wife",
+        "hero"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Scythian Bow Test",
+        "description": "Draw the divine bow; only the worthy may use it. If successful, gain +4 power."
+      },
+      "description": "The Greek Herakles reinterpreted in Scythian myth as their ancestor, who fathered the Scythian people with a serpent-legged woman.",
+      "id": "scythian-016",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Black Sea Nymph",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "serpent-legged",
+        "mother",
+        "ancestral"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mother of Nations",
+        "description": "Grant three boons; choose three allied cards each to receive +2 to one stat."
+      },
+      "description": "The serpent-legged daughter of the river Borysthenes who became mother of the Scythian founding heroes in the Greek account.",
+      "id": "scythian-017",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Scythian Archer",
+      "type": "hero",
+      "domains": [
+        "bow",
+        "horse",
+        "nomad",
+        "steppe warfare"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Parthian Shot",
+        "description": "Fire backward while retreating; deal 6 damage even while moving away."
+      },
+      "description": "The archetypal Scythian horse archer, master of the composite bow, whose tactics and equipment influenced armies across Eurasia.",
+      "id": "scythian-018",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Gold Griffin",
+      "type": "creature",
+      "domains": [
+        "guardian",
+        "mountain gold",
+        "terror",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Griffin Strike",
+        "description": "Dive from the mountains; deal 10 damage to the enemy with the most gold/resources."
+      },
+      "description": "The great gold-hoarding griffin of Scythian and neighboring traditions, whose fierce protection of mountain gold made it the apex supernatural predator.",
+      "id": "scythian-019",
+      "culture_slug": "scythian"
+    },
+    {
+      "name": "Arash (Scythian version)",
+      "type": "hero",
+      "domains": [
+        "archer",
+        "sacrifice",
+        "boundary",
+        "legendary shot"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Spanning Arrow",
+        "description": "Fire an arrow that establishes a boundary; no enemy may cross the marked line for 3 turns."
+      },
+      "description": "A legendary archer figure who fires an arrow to establish the boundary of the Scythian lands, sacrificing himself in the supreme act of archery.",
+      "id": "scythian-020",
+      "culture_slug": "scythian"
+    }
+  ]
+}

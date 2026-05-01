@@ -1,0 +1,514 @@
+{
+  "culture_slug": "mongolian-shamanist",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tengri",
+      "type": "god",
+      "domains": [
+        "eternal blue sky",
+        "supreme",
+        "heaven",
+        "Mongolia"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Blue Sky",
+        "description": "All sky and air abilities gain +3 power; deal 5 damage to all earth-bound dark enemies."
+      },
+      "description": "The Eternal Blue Sky (Mongke Tengri) who is the supreme deity of all steppe peoples.",
+      "id": "mongolian-shamanist-001",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Etugen",
+      "type": "goddess",
+      "domains": [
+        "earth mother",
+        "fertility",
+        "steppe",
+        "grasslands"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Steppe Blessing",
+        "description": "All nature and earth allies gain +4 to all stats from the great mother earth."
+      },
+      "description": "The Mongol earth mother goddess who nurtures all life on the endless steppe.",
+      "id": "mongolian-shamanist-002",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Genghis Khan (Chinggis)",
+      "type": "ancestor",
+      "domains": [
+        "world conqueror",
+        "divine mandate",
+        "blue wolf"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky's Command",
+        "description": "All Mongolian warrior allies gain +4 power; this card cannot be trapped or immobilized."
+      },
+      "description": "The world conqueror sent by Tengri whose blue wolf ancestry and divine mandate changed history.",
+      "id": "mongolian-shamanist-003",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Erlik Khan",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "darkness",
+        "death",
+        "disease"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Erlik's Claim",
+        "description": "Drain 3 HP from all enemies and add 1 HP to this card for each drained."
+      },
+      "description": "The Mongolian lord of the underworld who rules the dead and sends disease to the living.",
+      "id": "mongolian-shamanist-004",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "White Old Man",
+      "type": "god",
+      "domains": [
+        "longevity",
+        "deer staff",
+        "luck",
+        "Tsagaan Ubgen"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Long Life Gift",
+        "description": "Grant one ally immunity to all stat reduction for 3 turns."
+      },
+      "description": "The White Old Man deity of longevity who travels with his deer and blesses the faithful with long life.",
+      "id": "mongolian-shamanist-005",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Blue Wolf Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "founding ancestor",
+        "totemic ancestor",
+        "Borjigid"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wolf Pack",
+        "description": "All wolf and animal allies gain +3 power; grant +1 speed to all warrior allies."
+      },
+      "description": "The legendary blue wolf ancestor of the Borjigid clan from which Genghis Khan descended.",
+      "id": "mongolian-shamanist-006",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Umai",
+      "type": "goddess",
+      "domains": [
+        "birth goddess",
+        "soul of children",
+        "fire",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Soul Guardian",
+        "description": "All children and newly summoned allies gain +3 defense from Umai's protection."
+      },
+      "description": "The goddess who protects the souls of children and is associated with the sacred fire of the yurt.",
+      "id": "mongolian-shamanist-007",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Namsara Khan",
+      "type": "god",
+      "domains": [
+        "lightning",
+        "fire",
+        "punishment",
+        "shamanic"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky Fire",
+        "description": "Deal 4 lightning damage to evil enemies; purify one ally of dark effects."
+      },
+      "description": "The lightning deity who punishes wrongdoers from the sky and brings divine fire to the shaman's ceremony.",
+      "id": "mongolian-shamanist-008",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Noko Zaarin",
+      "type": "spirit",
+      "domains": [
+        "spirit master",
+        "shaman's guide",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Spirit Master",
+        "description": "Grant one ally access to the spirit world: look at all enemy abilities for 1 turn."
+      },
+      "description": "The spirit master who guides and protects the shaman during their dangerous journeys between worlds.",
+      "id": "mongolian-shamanist-009",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Shaman Boo",
+      "type": "hero",
+      "domains": [
+        "male shaman",
+        "drum journey",
+        "spirit combat"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Drum Journey",
+        "description": "Travel to the spirit world: steal one ability from any card and bring it back for your allies."
+      },
+      "description": "The male Mongolian shaman who uses drum rhythm to journey to Tengri's realm and negotiate with spirits.",
+      "id": "mongolian-shamanist-010",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Horse Spirit",
+      "type": "creature",
+      "domains": [
+        "sacred horse",
+        "steppe",
+        "wind speed",
+        "divine"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wind Runner",
+        "description": "Grant +4 speed to all steppe and warrior allies for 2 turns."
+      },
+      "description": "The sacred horse spirit of the Mongolian steppe whose speed surpasses all earthly creatures.",
+      "id": "mongolian-shamanist-011",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Nine Levels Heaven",
+      "type": "spirit",
+      "domains": [
+        "cosmic structure",
+        "sky layers",
+        "Tengri realms"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ninth Heaven",
+        "description": "This card can target any position on the field; it exists at all levels simultaneously."
+      },
+      "description": "The nine levels of heaven above the steppe where Tengri and divine beings dwell in ascending glory.",
+      "id": "mongolian-shamanist-012",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Altan Gadas",
+      "type": "spirit",
+      "domains": [
+        "pole star",
+        "nail of heaven",
+        "cosmic axis"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Pole Star",
+        "description": "All ally positions are locked: enemy positioning abilities cannot work for 1 turn."
+      },
+      "description": "The Golden Nail — the Pole Star — that pins the sky in place and around which all heavens revolve.",
+      "id": "mongolian-shamanist-013",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Three Terrible Ones",
+      "type": "spirit",
+      "domains": [
+        "guardian spirits",
+        "shamanic protectors",
+        "trio"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Triple Terror",
+        "description": "Deal 2 damage to all enemies three times simultaneously."
+      },
+      "description": "The three terrible guardian spirits who protect shamans on their spirit journeys.",
+      "id": "mongolian-shamanist-014",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Zaarin Spirit",
+      "type": "spirit",
+      "domains": [
+        "sky lord",
+        "aerial spirit",
+        "protector"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Aerial Shield",
+        "description": "Block one ranged or sky attack against any ally."
+      },
+      "description": "The Zaarin sky lords who govern the aerial realms and protect Mongolian warriors in battle.",
+      "id": "mongolian-shamanist-015",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Onon River Spirit",
+      "type": "spirit",
+      "domains": [
+        "birthplace of Genghis",
+        "sacred river",
+        "power"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Waters",
+        "description": "All water allies gain +2 power; grant one warrior ally +2 attack from river blessing."
+      },
+      "description": "The spirit of the Onon River where Genghis Khan was born and where his sacred origins were rooted.",
+      "id": "mongolian-shamanist-016",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "White Shaman",
+      "type": "hero",
+      "domains": [
+        "zairan",
+        "upper world specialist",
+        "healing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Upper World Journey",
+        "description": "Retrieve a blessing from Tengri: grant +2 to all stats to any one ally."
+      },
+      "description": "The white shaman who specializes in journeys to the upper worlds of Tengri seeking blessings.",
+      "id": "mongolian-shamanist-017",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Black Shaman",
+      "type": "hero",
+      "domains": [
+        "boo",
+        "lower world specialist",
+        "Erlik"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Lower World Journey",
+        "description": "Confront Erlik: steal back one ability that was taken from any ally this battle."
+      },
+      "description": "The black shaman who dares journey to Erlik's underworld realm to retrieve lost souls.",
+      "id": "mongolian-shamanist-018",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Steppe Wolf",
+      "type": "creature",
+      "domains": [
+        "predator",
+        "ancestor",
+        "guardian",
+        "Mongol symbol"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Pack Hunt",
+        "description": "Deal 3 damage to one enemy and 2 to an adjacent enemy simultaneously."
+      },
+      "description": "The sacred wolf of the Mongolian steppe — ancestor spirit and totem of the Mongol people.",
+      "id": "mongolian-shamanist-019",
+      "culture_slug": "mongolian-shamanist"
+    },
+    {
+      "name": "Ongon Spirit",
+      "type": "spirit",
+      "domains": [
+        "spirit dwelling",
+        "ancestor token",
+        "shamanic idol"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestral Bond",
+        "description": "Grant one ally +2 to their two lowest stats from ancestral connection."
+      },
+      "description": "The felt ancestor spirit tokens kept in Mongolian yurts that house family and clan protective spirits.",
+      "id": "mongolian-shamanist-020",
+      "culture_slug": "mongolian-shamanist"
+    }
+  ]
+}

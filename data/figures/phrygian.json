@@ -1,0 +1,509 @@
+{
+  "culture_slug": "phrygian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Cybele",
+      "type": "goddess",
+      "domains": [
+        "great mother",
+        "wild nature",
+        "mountains",
+        "lions"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mountain Mother's Roar",
+        "description": "Summon two lion guardians (6/7/7/5/5 each); enemy cannot target this card while they stand."
+      },
+      "description": "The Great Mother goddess of wild nature who rides her chariot pulled by lions and demands total devotion.",
+      "id": "phrygian-001",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Attis",
+      "type": "god",
+      "domains": [
+        "death",
+        "rebirth",
+        "vegetation",
+        "castration"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Death and Resurrection",
+        "description": "When this card is destroyed, resurrect it at the start of your next turn with 5 HP."
+      },
+      "description": "Divine consort of Cybele who dies and is reborn, embodying the eternal cycle of vegetation dying in winter.",
+      "id": "phrygian-002",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Sabazios (Phrygian)",
+      "type": "god",
+      "domains": [
+        "sky",
+        "ecstasy",
+        "serpents",
+        "horseman"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Serpent Passage",
+        "description": "Grant one ally +3 magic; that ally is immune to poison for the battle."
+      },
+      "description": "Sky god whose ecstatic mysteries involved passing a serpent through the initiate's clothing as a divine sign.",
+      "id": "phrygian-003",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Midas",
+      "type": "hero",
+      "domains": [
+        "golden touch",
+        "folly",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Touch",
+        "description": "Transform one enemy into gold: they cannot act but also cannot be destroyed for 2 turns."
+      },
+      "description": "King whose wish for the golden touch brought ruin and whose ass's ears revealed Apollo's secret.",
+      "id": "phrygian-004",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Agdistis",
+      "type": "deity",
+      "domains": [
+        "dual nature",
+        "wild power",
+        "mountains"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Dual Nature",
+        "description": "Choose this card's alignment each turn: light or dark, gaining different abilities."
+      },
+      "description": "Hermaphroditic divine being of monstrous power castrated by the gods, whose blood became the almond tree.",
+      "id": "phrygian-005",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Ma",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "earth",
+        "nourishing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earth War",
+        "description": "Deal 4 damage to all enemies; grant all allies +2 defense."
+      },
+      "description": "Phrygian war and earth goddess whose cult merged with Cybele and spread through the Roman world.",
+      "id": "phrygian-006",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Gordios",
+      "type": "hero",
+      "domains": [
+        "founding",
+        "Gordian knot",
+        "kingship"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Gordian Knot",
+        "description": "Bind one enemy in an impossible tangle: they cannot act until the knot is cut by a power-10 card."
+      },
+      "description": "Legendary founder king of Phrygia whose cart-knot prophesied rule of all Asia to whoever could untie it.",
+      "id": "phrygian-007",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Lityerses",
+      "type": "monster",
+      "domains": [
+        "harvest",
+        "death",
+        "reaping"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Harvester's Scythe",
+        "description": "Deal 4 damage to one enemy and return 2 HP to this card."
+      },
+      "description": "Monstrous harvester son of Midas who killed strangers by forcing them to compete in reaping before beheading them.",
+      "id": "phrygian-008",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Marsyas",
+      "type": "hero",
+      "domains": [
+        "music",
+        "flaying",
+        "hubris"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Piping Challenge",
+        "description": "Force a musical duel: if enemy has higher wisdom they win, otherwise deal 5 damage."
+      },
+      "description": "Satyr flute-player who challenged Apollo to a musical contest, lost, and was flayed alive for his arrogance.",
+      "id": "phrygian-009",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Hecate (Phrygian)",
+      "type": "goddess",
+      "domains": [
+        "crossroads",
+        "magic",
+        "triple goddess"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Triple Crossroads",
+        "description": "Choose any 3 of the following: +2 power, +2 defense, +2 speed, +2 magic, +2 wisdom for one ally."
+      },
+      "description": "The triple goddess of crossroads and magic was deeply rooted in Phrygian tradition before spreading to Greece.",
+      "id": "phrygian-010",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Galli Priest",
+      "type": "spirit",
+      "domains": [
+        "castrated priests",
+        "ecstasy",
+        "Cybele's rite"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sacred Ecstasy",
+        "description": "Inflict ecstasy on all enemies; allies gain +2 magic for 1 turn from devotion."
+      },
+      "description": "Castrated priests of Cybele who danced in wild frenzy, played clashing cymbals and cut themselves in trance.",
+      "id": "phrygian-011",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Phrygian Rooster",
+      "type": "creature",
+      "domains": [
+        "dawn",
+        "vigilance",
+        "Cybele"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dawn Crow",
+        "description": "Prevent all enemy ambush abilities from activating at the start of battle."
+      },
+      "description": "Sacred rooster of Cybele whose crowing heralds the dawn and whose sacred nature was carried into Roman cult.",
+      "id": "phrygian-012",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Nana",
+      "type": "goddess",
+      "domains": [
+        "virgin birth",
+        "almond tree",
+        "Phrygia"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Almond Blossom",
+        "description": "Restore 3 HP to one ally; grant them immunity to poison for 1 turn."
+      },
+      "description": "Virgin goddess who conceived Attis by placing an almond or pomegranate blossom against her breast.",
+      "id": "phrygian-013",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Thetis (Phrygian aspect)",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "Thetis of Phrygia",
+        "fate"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Silver Veil",
+        "description": "Wrap one ally: they absorb the next 4 damage and return it as magic."
+      },
+      "description": "The sea goddess aspect worshipped in Phrygian coastal tradition as a protective silver-footed figure.",
+      "id": "phrygian-014",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Phrygian Dragon",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "earth",
+        "guardian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Earth Serpent",
+        "description": "Burrow: move underground and emerge under any enemy dealing 5 damage."
+      },
+      "description": "The great earth-serpent guardian of Phrygian sacred sites whose coils protected the ancient oracle.",
+      "id": "phrygian-015",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Pessinus Idol",
+      "type": "spirit",
+      "domains": [
+        "black stone",
+        "Cybele's sacred stone",
+        "sky"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Meteor Stone",
+        "description": "Deal 4 magic damage that bypasses all physical defense."
+      },
+      "description": "The sacred black meteorite stone that was Cybele's divine body, transported to Rome during the Punic Wars.",
+      "id": "phrygian-016",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Telesphoros",
+      "type": "spirit",
+      "domains": [
+        "convalescence",
+        "hood",
+        "healing"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Hooded Healer",
+        "description": "Remove one debuff from any ally and restore 2 HP."
+      },
+      "description": "Hooded child-spirit of convalescence associated with the healing sanctuaries of Phrygia.",
+      "id": "phrygian-017",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Phrygian Warrior",
+      "type": "hero",
+      "domains": [
+        "war",
+        "horseback",
+        "honor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cavalry Charge",
+        "description": "Deal 5 damage to one enemy; push them to the back row."
+      },
+      "description": "The archetypal Phrygian warrior on horseback whose image appears on countless votive reliefs.",
+      "id": "phrygian-018",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Aglauros",
+      "type": "goddess",
+      "domains": [
+        "dew",
+        "sacrifice",
+        "city protection"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dew Offering",
+        "description": "All allies gain a dew shield absorbing 2 damage for 1 turn."
+      },
+      "description": "Dew goddess who threw herself from the citadel to save her city from an oracle's demand for sacrifice.",
+      "id": "phrygian-019",
+      "culture_slug": "phrygian"
+    },
+    {
+      "name": "Manes",
+      "type": "ancestor",
+      "domains": [
+        "Phrygian ancestor spirit",
+        "earth",
+        "dead"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancestral Voice",
+        "description": "Summon one ancestor ghost with matching stats to a fallen ally for 1 turn."
+      },
+      "description": "The ancestral dead of Phrygia who rise to counsel and protect the living in times of great need.",
+      "id": "phrygian-020",
+      "culture_slug": "phrygian"
+    }
+  ]
+}

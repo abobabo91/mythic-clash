@@ -1,0 +1,519 @@
+{
+  "culture_slug": "vaishnava-hindu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Vishnu",
+      "type": "god",
+      "domains": [
+        "preservation",
+        "cosmic order",
+        "universe",
+        "avatars"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sudarshana Chakra",
+        "description": "Launch the divine discus: deal 7 damage to one enemy ignoring all defense."
+      },
+      "description": "The supreme preserver of the cosmos who descends as avatars in each age to restore dharmic order.",
+      "id": "vaishnava-hindu-001",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Rama",
+      "type": "hero",
+      "domains": [
+        "dharma",
+        "honor",
+        "bow",
+        "Ramayana"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Brahmastra Arrow",
+        "description": "Deal 8 damage to any target ignoring distance and defense; never misses."
+      },
+      "description": "The ideal king and Vishnu's seventh avatar whose perfect adherence to dharma defines righteous conduct.",
+      "id": "vaishnava-hindu-002",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Krishna",
+      "type": "god",
+      "domains": [
+        "divine love",
+        "cosmic form",
+        "Bhagavad Gita",
+        "flute"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vishvarupa",
+        "description": "Reveal ultimate form: all enemies are stunned for 1 turn from cosmic overwhelming."
+      },
+      "description": "The most beloved of Vishnu's avatars who revealed the Bhagavad Gita and whose playful love encompasses all.",
+      "id": "vaishnava-hindu-003",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Hanuman",
+      "type": "hero",
+      "domains": [
+        "devotion",
+        "strength",
+        "wind",
+        "Lanka",
+        "monkey"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Devotion's Might",
+        "description": "Become invincible for 1 turn through absolute devotion; deal 5 damage."
+      },
+      "description": "Son of Vayu the wind god whose absolute devotion to Rama grants him powers beyond measurement.",
+      "id": "vaishnava-hindu-004",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Lakshmi",
+      "type": "goddess",
+      "domains": [
+        "wealth",
+        "fortune",
+        "beauty",
+        "prosperity",
+        "Vishnu's consort"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Lotus Blessing",
+        "description": "Restore 4 HP to all allies; grant +2 to the lowest stat of every ally."
+      },
+      "description": "Goddess of wealth, beauty and prosperity who rose from the churning ocean and chose Vishnu as her eternal consort.",
+      "id": "vaishnava-hindu-005",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Garuda",
+      "type": "creature",
+      "domains": [
+        "eagle king",
+        "Vishnu's vehicle",
+        "snake enemy",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wing Gust",
+        "description": "Deal 5 damage to all serpent/naga enemies; grant all allies +2 speed."
+      },
+      "description": "The great eagle king and vehicle of Vishnu who is the eternal enemy of serpents and guardian of the gods.",
+      "id": "vaishnava-hindu-006",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Narasimha",
+      "type": "god",
+      "domains": [
+        "man-lion avatar",
+        "fierce protector",
+        "doorway",
+        "twilight"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Half-Man Half-Lion",
+        "description": "Destroy one enemy who exploits a technicality; this attack cannot be avoided by any means."
+      },
+      "description": "The man-lion fourth avatar of Vishnu who slays the demon Hiranyakashipu in a way that fulfills every impossible condition.",
+      "id": "vaishnava-hindu-007",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Prahlada",
+      "type": "hero",
+      "domains": [
+        "Vishnu's devotee",
+        "fireproof",
+        "child saint"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Devotee's Shield",
+        "description": "Grant one ally complete immunity to dark and fire damage for 2 turns."
+      },
+      "description": "The child devotee of Vishnu whose absolute faith made him immune to all the tortures his demon father devised.",
+      "id": "vaishnava-hindu-008",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Vamana",
+      "type": "god",
+      "domains": [
+        "dwarf avatar",
+        "cosmic form",
+        "three steps",
+        "humility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Three Steps",
+        "description": "This card expands to cover the entire field for 1 turn; enemy cannot use global abilities."
+      },
+      "description": "The dwarf Brahmin fifth avatar who grew to cosmic size and claimed all three worlds in three steps.",
+      "id": "vaishnava-hindu-009",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Parashurama",
+      "type": "hero",
+      "domains": [
+        "axe warrior",
+        "brahmin warrior",
+        "21 campaigns"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Brahmin's Axe",
+        "description": "Deal 5 damage and reduce all warrior-class enemies' power by 2."
+      },
+      "description": "The brahmin warrior avatar of Vishnu who cleared the earth of corrupt warrior kings 21 times with his axe.",
+      "id": "vaishnava-hindu-010",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Balarama",
+      "type": "hero",
+      "domains": [
+        "Rama's brother",
+        "plow",
+        "strength",
+        "Krishna's brother"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Plow",
+        "description": "Drag one enemy from any row to front row; deal 4 damage."
+      },
+      "description": "Krishna's elder brother wielding plow and mace whose incredible strength equals his divine sibling.",
+      "id": "vaishnava-hindu-011",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Radha",
+      "type": "goddess",
+      "domains": [
+        "divine love",
+        "Krishna's beloved",
+        "devotion"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Beloved",
+        "description": "Grant one ally +4 magic from the power of unconditional divine love."
+      },
+      "description": "Krishna's supreme beloved whose love for him represents the soul's love for the divine, highest of all devotions.",
+      "id": "vaishnava-hindu-012",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Rukmini",
+      "type": "goddess",
+      "domains": [
+        "Vishnu's earthly consort",
+        "queenly grace"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Queen's Devotion",
+        "description": "Restore 3 HP to one ally; grant them immunity to charm and seduction for 1 turn."
+      },
+      "description": "Krishna's chief queen who eloped with him by her own choice, representing the ideal of active devotion.",
+      "id": "vaishnava-hindu-013",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Sudama",
+      "type": "hero",
+      "domains": [
+        "poverty",
+        "friendship with Krishna",
+        "grace"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Friendship's Grace",
+        "description": "The ally with the lowest stats on your side gains +5 to all stats from divine friendship."
+      },
+      "description": "The poor childhood friend of Krishna whose humble offering of rice was rewarded with divine abundance.",
+      "id": "vaishnava-hindu-014",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Draupadi",
+      "type": "heroine",
+      "domains": [
+        "five husbands",
+        "honor",
+        "fire-born",
+        "divine protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Protection",
+        "description": "When stripped of protection, this card gains +2 to all stats from righteous outrage."
+      },
+      "description": "The fire-born wife of the Pandavas whose humiliation triggered the Mahabharata war and who received divine protection.",
+      "id": "vaishnava-hindu-015",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Jatayu",
+      "type": "creature",
+      "domains": [
+        "eagle king",
+        "sacrifice",
+        "Rama's ally",
+        "old age"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Final Flight",
+        "description": "Sacrifice this card to prevent one enemy from escaping or using a retreat ability."
+      },
+      "description": "The ancient eagle king who fought Ravana to save Sita and died giving Rama crucial information with his last breath.",
+      "id": "vaishnava-hindu-016",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Vibhishana",
+      "type": "hero",
+      "domains": [
+        "Ravana's righteous brother",
+        "dharma",
+        "Lanka's king"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Righteous Defection",
+        "description": "Convert one enemy card to your side for 1 turn from the power of dharma."
+      },
+      "description": "Ravana's younger brother who defected to Rama's side for dharmic reasons and became king of Lanka.",
+      "id": "vaishnava-hindu-017",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Akrura",
+      "type": "hero",
+      "domains": [
+        "Krishna's messenger",
+        "devotion",
+        "Bhagavata"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Messenger",
+        "description": "Grant one ally foreknowledge of one enemy action this turn."
+      },
+      "description": "The devoted messenger who brought Krishna to Mathura and received a vision of the cosmic Vishnu in the river.",
+      "id": "vaishnava-hindu-018",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Vishnu's Ananta",
+      "type": "creature",
+      "domains": [
+        "cosmic serpent",
+        "world bearer",
+        "divine bed"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Coil",
+        "description": "Grant all Vishnu allies +2 defense; this card can share any stat with any ally for 1 turn."
+      },
+      "description": "The great thousand-headed cosmic serpent Ananta on whom Vishnu sleeps between creations.",
+      "id": "vaishnava-hindu-019",
+      "culture_slug": "vaishnava-hindu"
+    },
+    {
+      "name": "Matsya",
+      "type": "god",
+      "domains": [
+        "fish avatar",
+        "flood savior",
+        "first avatar",
+        "Vedas"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Flood Warning",
+        "description": "Predict one enemy area attack and grant all allies +3 defense against it."
+      },
+      "description": "The fish first avatar of Vishnu who warned Manu of the great flood and guided his boat to safety.",
+      "id": "vaishnava-hindu-020",
+      "culture_slug": "vaishnava-hindu"
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "culture_slug": "indian-buddhist",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Shakyamuni Buddha",
+      "type": "god",
+      "domains": [
+        "awakening",
+        "teaching",
+        "historical",
+        "Bodh Gaya"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Diamond Sutra",
+        "description": "Neutralize all enemy illusion and ego-based abilities; grant +3 wisdom to all allies."
+      },
+      "description": "The historical Buddha whose awakening under the Bodhi tree established the dharma that liberated millions.",
+      "id": "indian-buddhist-001",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Mara",
+      "type": "demon",
+      "domains": [
+        "evil tempter",
+        "death",
+        "desire",
+        "armies of delusion"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Army of Desires",
+        "description": "Summon four desire-demon allies with 5/5/5/5/5 stats; inflict delusion on all enemies."
+      },
+      "description": "The Buddhist lord of death and desire who tempted the Buddha with his armies of delusion and daughters.",
+      "id": "indian-buddhist-002",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Avalokiteshvara",
+      "type": "god",
+      "domains": [
+        "compassion",
+        "thousand arms",
+        "bodhisattva",
+        "hearing"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Universal Compassion",
+        "description": "Restore 4 HP to all allies; remove all suffering effects from the field."
+      },
+      "description": "The bodhisattva of infinite compassion who hears all cries of suffering in the universe.",
+      "id": "indian-buddhist-003",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Manjushri",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "sword",
+        "lion",
+        "bodhisattva"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wisdom Sword",
+        "description": "Cut through all enemy illusion: reveal all hidden cards; deal 5 damage to ego-based enemies."
+      },
+      "description": "Bodhisattva of wisdom whose flaming sword cuts through ignorance and whose discourse reveals ultimate truth.",
+      "id": "indian-buddhist-004",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Vajrapani",
+      "type": "god",
+      "domains": [
+        "thunderbolt",
+        "power",
+        "protection",
+        "guardian"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vajra Thunderbolt",
+        "description": "Deal 7 damage to one enemy; shatter all their armor and defense abilities."
+      },
+      "description": "The thunderbolt-wielding bodhisattva who is the most powerful protector and destroyer of obstacles.",
+      "id": "indian-buddhist-005",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Tara",
+      "type": "goddess",
+      "domains": [
+        "liberation",
+        "compassion",
+        "mother of Buddhas",
+        "star"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Swift Savior",
+        "description": "React to any ally being attacked: grant that ally +4 defense instantly."
+      },
+      "description": "The female bodhisattva of swift liberation who crosses the ocean of samsara and saves all who call her name.",
+      "id": "indian-buddhist-006",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Nagarjuna",
+      "type": "hero",
+      "domains": [
+        "Madhyamaka philosophy",
+        "serpents",
+        "logic",
+        "emptiness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Emptiness Teaching",
+        "description": "All enemy power-based abilities lose their basis; reduce all enemy power by 3."
+      },
+      "description": "The greatest Buddhist philosopher who received teachings from Nagas in the underworld and founded Madhyamaka.",
+      "id": "indian-buddhist-007",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Milarepa",
+      "type": "hero",
+      "domains": [
+        "yogi",
+        "Tibet influence",
+        "cave meditation",
+        "songs"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Mystic Heat",
+        "description": "This card generates warmth: all allies gain +2 defense against cold and dark attacks."
+      },
+      "description": "The great Indian-Tibetan yogi who attained enlightenment in one lifetime through intense cave meditation.",
+      "id": "indian-buddhist-008",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Naga King",
+      "type": "creature",
+      "domains": [
+        "serpent king",
+        "rain",
+        "water",
+        "treasure",
+        "dharma"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Serpent",
+        "description": "Restore 3 HP to all allies; call rain to extinguish all fire effects on the field."
+      },
+      "description": "The divine serpent kings who protect the dharma, bring rain and guard treasures in underground palaces.",
+      "id": "indian-buddhist-009",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Jataka Hero",
+      "type": "hero",
+      "domains": [
+        "previous Buddha lives",
+        "self-sacrifice",
+        "virtue"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Selfless Gift",
+        "description": "Sacrifice 3 HP to grant all allies +2 to all stats from infinite compassion."
+      },
+      "description": "The heroes of the Jataka Tales — the Buddha in his previous lives giving all for the benefit of others.",
+      "id": "indian-buddhist-010",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Yaksha",
+      "type": "spirit",
+      "domains": [
+        "nature spirit",
+        "guardian",
+        "ambiguous",
+        "treasure"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Yaksha's Challenge",
+        "description": "Ask one enemy a riddle: if they fail (wisdom below 7) they lose their next turn."
+      },
+      "description": "Powerful nature spirits who guard treasures and ask riddles; dangerous when disrespected, helpful when honored.",
+      "id": "indian-buddhist-011",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Hariti",
+      "type": "goddess",
+      "domains": [
+        "child protector",
+        "reformed demoness",
+        "motherhood"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Mother's Reform",
+        "description": "Convert one dark enemy to neutral alignment for 2 turns through the power of maternal love."
+      },
+      "description": "The former child-devouring demoness converted by the Buddha who became the protective goddess of children.",
+      "id": "indian-buddhist-012",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Mahakashyapa",
+      "type": "hero",
+      "domains": [
+        "first patriarch",
+        "relic",
+        "silent transmission",
+        "smile"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Silent Smile",
+        "description": "Grant one ally wordless wisdom: +3 wisdom that cannot be countered or reduced."
+      },
+      "description": "The chief disciple who received the Buddha's silent flower transmission — the origin of Zen meditation.",
+      "id": "indian-buddhist-013",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Kubera",
+      "type": "god",
+      "domains": [
+        "wealth",
+        "north direction",
+        "yaksha king",
+        "Buddhist guardian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wealth Guardian",
+        "description": "Steal 3 HP from the richest enemy and grant it to the poorest ally."
+      },
+      "description": "The Buddhist god of wealth and guardian of the northern direction who commands the yaksha host.",
+      "id": "indian-buddhist-014",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Vimalakirti",
+      "type": "hero",
+      "domains": [
+        "lay saint",
+        "non-duality",
+        "thunderous silence"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunderous Silence",
+        "description": "Answer the question of non-duality: all field dualities (light/dark, buff/debuff) collapse to zero."
+      },
+      "description": "The enlightened layman who defeated all bodhisattvas in debate through his thunderous silence.",
+      "id": "indian-buddhist-015",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Preta",
+      "type": "spirit",
+      "domains": [
+        "hungry ghost",
+        "desire",
+        "unfulfilled",
+        "thin neck"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 3,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hungry Haunting",
+        "description": "Drain 1 HP from one ally per turn from insatiable need."
+      },
+      "description": "The hungry ghosts of Buddhist cosmology whose enormous bellies and tiny necks prevent them from ever being satisfied.",
+      "id": "indian-buddhist-016",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Dharma Protector",
+      "type": "guardian",
+      "domains": [
+        "dharmapalas",
+        "fierce guardian",
+        "Buddhism"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Protector's Wrath",
+        "description": "Prevent all disruption of Buddhist practice abilities; deal 4 damage to chaos enemies."
+      },
+      "description": "The fierce wrathful dharmapalas (dharma protectors) who guard Buddhist teachings with terrifying power.",
+      "id": "indian-buddhist-017",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Upagupta",
+      "type": "hero",
+      "domains": [
+        "Mara's converter",
+        "monk",
+        "snake throne"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Convert Enemy",
+        "description": "Reduce one dark enemy's power by 3 and their alignment shifts toward neutral."
+      },
+      "description": "The monk who converted even Mara himself by sitting in meditation upon a throne of corpses.",
+      "id": "indian-buddhist-018",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Asura King",
+      "type": "creature",
+      "domains": [
+        "jealous god",
+        "war with gods",
+        "demi-god"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Jealous War",
+        "description": "Force two enemies to attack each other instead of your allies for 1 turn."
+      },
+      "description": "The proud asura kings who constantly war with the gods out of jealousy, trapped in their own suffering.",
+      "id": "indian-buddhist-019",
+      "culture_slug": "indian-buddhist"
+    },
+    {
+      "name": "Bodhidharma",
+      "type": "hero",
+      "domains": [
+        "Chan/Zen founder",
+        "Indian monk",
+        "China",
+        "meditation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wall Gazing",
+        "description": "This card cannot be moved or targeted while meditating; after 2 turns, gain +4 to all stats."
+      },
+      "description": "The Indian monk who brought Chan Buddhism to China and meditated facing a wall for nine years.",
+      "id": "indian-buddhist-020",
+      "culture_slug": "indian-buddhist"
+    }
+  ]
+}

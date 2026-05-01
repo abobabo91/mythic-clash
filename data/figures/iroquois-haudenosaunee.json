@@ -1,0 +1,526 @@
+{
+  "culture_slug": "iroquois-haudenosaunee",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Sky Woman",
+      "type": "goddess",
+      "domains": [
+        "creation",
+        "sky",
+        "fertility",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Sky Woman is a goddess from Iroquois / Haudenosaunee tradition associated with creation, sky, fertility, and earth.",
+      "id": "iroquois-haudenosaunee-001",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Raweno",
+      "type": "god",
+      "domains": [
+        "creation",
+        "wisdom",
+        "sky",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Raweno is a god from Iroquois / Haudenosaunee tradition associated with creation, wisdom, sky, and light.",
+      "id": "iroquois-haudenosaunee-002",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Hahgwehdiyu",
+      "type": "hero",
+      "domains": [
+        "light",
+        "creation",
+        "justice",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Hahgwehdiyu is a hero from Iroquois / Haudenosaunee tradition associated with light, creation, justice, and agriculture.",
+      "id": "iroquois-haudenosaunee-003",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Tawiskaron",
+      "type": "demon",
+      "domains": [
+        "darkness",
+        "chaos",
+        "war",
+        "winter"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Tawiskaron is a demon from Iroquois / Haudenosaunee tradition associated with darkness, chaos, war, and winter.",
+      "id": "iroquois-haudenosaunee-004",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Heno",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "storm",
+        "sky",
+        "protection"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Heno is a god from Iroquois / Haudenosaunee tradition associated with thunder, storm, sky, and protection.",
+      "id": "iroquois-haudenosaunee-005",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Great Turtle",
+      "type": "guardian",
+      "domains": [
+        "earth",
+        "water",
+        "support",
+        "creation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Great Turtle is a guardian from Iroquois / Haudenosaunee tradition associated with earth, water, support, and creation.",
+      "id": "iroquois-haudenosaunee-006",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Corn Mother",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "abundance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Corn Mother is a goddess from Iroquois / Haudenosaunee tradition associated with corn, fertility, earth, and abundance.",
+      "id": "iroquois-haudenosaunee-007",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Bean Sister",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "earth",
+        "harvest",
+        "life"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Bean Sister is a spirit from Iroquois / Haudenosaunee tradition associated with fertility, earth, harvest, and life.",
+      "id": "iroquois-haudenosaunee-008",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Squash Sister",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "earth",
+        "protection",
+        "harvest"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Squash Sister is a spirit from Iroquois / Haudenosaunee tradition associated with fertility, earth, protection, and harvest.",
+      "id": "iroquois-haudenosaunee-009",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "False Face",
+      "type": "spirit",
+      "domains": [
+        "healing",
+        "fear",
+        "ritual",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "False Face is a spirit from Iroquois / Haudenosaunee tradition associated with healing, fear, ritual, and spirit.",
+      "id": "iroquois-haudenosaunee-010",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Djodi'kwado",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "ice",
+        "north",
+        "winter"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Djodi'kwado is a spirit from Iroquois / Haudenosaunee tradition associated with wind, ice, north, and winter.",
+      "id": "iroquois-haudenosaunee-011",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Flying Head",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "night",
+        "hunger",
+        "fear"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Flying Head is a monster from Iroquois / Haudenosaunee tradition associated with monster, night, hunger, and fear.",
+      "id": "iroquois-haudenosaunee-012",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Stone Coat",
+      "type": "monster",
+      "domains": [
+        "stone",
+        "monster",
+        "winter",
+        "strength"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Stone Coat is a monster from Iroquois / Haudenosaunee tradition associated with stone, monster, winter, and strength.",
+      "id": "iroquois-haudenosaunee-013",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Jikonsaseh",
+      "type": "heroine",
+      "domains": [
+        "peace",
+        "council",
+        "wisdom",
+        "fire"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Jikonsaseh is a heroine from Iroquois / Haudenosaunee tradition associated with peace, council, wisdom, and fire.",
+      "id": "iroquois-haudenosaunee-014",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Little People",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "spirit",
+        "trickster",
+        "protection"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Little People is a spirit from Iroquois / Haudenosaunee tradition associated with forest, spirit, trickster, and protection.",
+      "id": "iroquois-haudenosaunee-015",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Night Sun",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "night",
+        "sky",
+        "mystery"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Night Sun is a spirit from Iroquois / Haudenosaunee tradition associated with light, night, sky, and mystery.",
+      "id": "iroquois-haudenosaunee-016",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Sapling",
+      "type": "hero",
+      "domains": [
+        "growth",
+        "light",
+        "justice",
+        "spring"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Sapling is a hero from Iroquois / Haudenosaunee tradition associated with growth, light, justice, and spring.",
+      "id": "iroquois-haudenosaunee-017",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Wolf Spirit",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "hunting",
+        "night",
+        "pack"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Wolf Spirit is a creature from Iroquois / Haudenosaunee tradition associated with animal, hunting, night, and pack.",
+      "id": "iroquois-haudenosaunee-018",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Turtle Island Keeper",
+      "type": "guardian",
+      "domains": [
+        "earth",
+        "water",
+        "protection",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Turtle Island Keeper is a guardian from Iroquois / Haudenosaunee tradition associated with earth, water, protection, and ancestor.",
+      "id": "iroquois-haudenosaunee-019",
+      "culture_slug": "iroquois-haudenosaunee"
+    },
+    {
+      "name": "Maple Spirit",
+      "type": "spirit",
+      "domains": [
+        "tree",
+        "sweetness",
+        "earth",
+        "abundance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Maple Spirit is a spirit from Iroquois / Haudenosaunee tradition associated with tree, sweetness, earth, and abundance.",
+      "id": "iroquois-haudenosaunee-020",
+      "culture_slug": "iroquois-haudenosaunee"
+    }
+  ]
+}

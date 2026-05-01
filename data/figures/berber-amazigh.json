@@ -1,0 +1,513 @@
+{
+  "culture_slug": "berber-amazigh",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ammon",
+      "type": "god",
+      "domains": [
+        "ram",
+        "sun",
+        "oracle",
+        "supreme"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ram's Oracle",
+        "description": "Reveal all enemy plans for 2 turns; grant one ally +3 to all stats."
+      },
+      "description": "Great ram-headed sun god of the Berbers who became the oracle of Siwa consulted by Alexander the Great.",
+      "id": "berber-amazigh-001",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Gurzil",
+      "type": "god",
+      "domains": [
+        "bull",
+        "war",
+        "sun",
+        "Berber champion"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bull Charge",
+        "description": "Deal 7 damage to one target; all warrior allies gain +2 power for 1 turn."
+      },
+      "description": "Bull-headed war and sun god of the Berbers whose standard was carried into battle against the Byzantine armies.",
+      "id": "berber-amazigh-002",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Tanit",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "fertility",
+        "Carthage",
+        "queen of heaven"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Moon Blessing",
+        "description": "Restore 3 HP to all allies; female and moon allies gain +3 magic."
+      },
+      "description": "Supreme goddess of the Carthaginian Berbers who received the devotion of an entire civilization.",
+      "id": "berber-amazigh-003",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Baal Hammon",
+      "type": "god",
+      "domains": [
+        "fire",
+        "sky",
+        "Carthaginian supreme",
+        "storm"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sacred Fire",
+        "description": "Deal 5 fire damage to all enemies; 30% chance to ignite each one for 1 turn."
+      },
+      "description": "Adopted Semitic sky and storm god who became the chief male deity of Carthage alongside Tanit.",
+      "id": "berber-amazigh-004",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Antaeus",
+      "type": "giant",
+      "domains": [
+        "earth",
+        "strength",
+        "wrestling",
+        "North Africa"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earthbound Power",
+        "description": "As long as this card touches earth, gain +3 defense and regenerate 2 HP per turn."
+      },
+      "description": "Giant son of Poseidon and Gaia who drew strength from the earth and was unbeatable until lifted off it.",
+      "id": "berber-amazigh-005",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Massinissa",
+      "type": "ancestor",
+      "domains": [
+        "first Berber king",
+        "unity",
+        "horse"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Kingdom's Will",
+        "description": "All Berber allies gain +2 to all stats; grant one ally a mounted combat bonus."
+      },
+      "description": "First king of united Numidia whose divine ancestry and brilliance made him a near-mythological ancestor.",
+      "id": "berber-amazigh-006",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Kahina",
+      "type": "heroine",
+      "domains": [
+        "warrior queen",
+        "prophecy",
+        "resistance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Prophetess Sight",
+        "description": "Predict and negate the most powerful enemy ability each turn for 2 turns."
+      },
+      "description": "Legendary Berber warrior queen and prophetess who led resistance against the Arab conquest of North Africa.",
+      "id": "berber-amazigh-007",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Jugurtha",
+      "type": "ancestor",
+      "domains": [
+        "rebellion",
+        "cunning war",
+        "Berber hero"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Desert Guerrilla",
+        "description": "Move to any position; deal 4 damage from ambush position."
+      },
+      "description": "Cunning Numidian king who outfought Rome for years using the desert itself as his weapon.",
+      "id": "berber-amazigh-008",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Azurki",
+      "type": "goddess",
+      "domains": [
+        "mountain snow",
+        "Atlas",
+        "purity"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Atlas Snowfall",
+        "description": "All enemies are chilled: -2 speed for 1 turn; allies with mountain affinity gain +2 defense."
+      },
+      "description": "Snow goddess of the Atlas Mountains whose purity and cold protect the high peaks.",
+      "id": "berber-amazigh-009",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Anzar",
+      "type": "god",
+      "domains": [
+        "rain",
+        "sky",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Calling",
+        "description": "Restore 2 HP to all earth and nature allies; remove drought effects."
+      },
+      "description": "Rain god invoked by Berber women in drought through ritual dances to bring the life-giving rains.",
+      "id": "berber-amazigh-010",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Ifri",
+      "type": "goddess",
+      "domains": [
+        "caves",
+        "earth mother",
+        "origin"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cave Mother",
+        "description": "When this card is in play, all summoned allies gain +1 defense on entry."
+      },
+      "description": "Earth mother cave goddess whose name may have given Africa its name, mother of the Berber peoples.",
+      "id": "berber-amazigh-011",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Atlas",
+      "type": "titan",
+      "domains": [
+        "sky bearing",
+        "mountains",
+        "endurance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 4,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Eternal Burden",
+        "description": "This card can absorb unlimited damage for one ally per turn, but loses 1 power each time."
+      },
+      "description": "The Titan condemned to bear the heavens on his shoulders for eternity at the edge of the world.",
+      "id": "berber-amazigh-012",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Tin Hinan",
+      "type": "ancestor",
+      "domains": [
+        "queen mother",
+        "Tuareg",
+        "founding ancestor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Founding Tent",
+        "description": "All Tuareg/Berber allies gain +1 to all stats upon entering."
+      },
+      "description": "Semi-legendary fourth-century queen mother and founding ancestor of the Tuareg people.",
+      "id": "berber-amazigh-013",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Amma (Berber)",
+      "type": "spirit",
+      "domains": [
+        "protective spirit",
+        "home",
+        "small deity"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Home Ward",
+        "description": "Prevent one debuff from affecting any ally this turn."
+      },
+      "description": "Small protective household spirit who guards the Berber home from illness and misfortune.",
+      "id": "berber-amazigh-014",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Imazighen Spirit",
+      "type": "ancestor",
+      "domains": [
+        "free people",
+        "mountains",
+        "independence"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Free People",
+        "description": "This card cannot be charmed or controlled by any enemy ability."
+      },
+      "description": "The ancestral spirit of the Amazigh people — the Free People — who can never truly be enslaved.",
+      "id": "berber-amazigh-015",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Desert Jinn",
+      "type": "spirit",
+      "domains": [
+        "jinn",
+        "desert",
+        "illusion",
+        "wind"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Desert Mirage",
+        "description": "Create a duplicate of this card: the duplicate vanishes after 1 turn dealing 2 damage."
+      },
+      "description": "Shape-shifting desert spirit of the Sahara who takes the form of sandstorms and leads travelers astray.",
+      "id": "berber-amazigh-016",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Syphax",
+      "type": "ancestor",
+      "domains": [
+        "Numidian king",
+        "warrior",
+        "cunning"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Numidian Horse",
+        "description": "All speed-based attacks this turn cannot be evaded by the enemy."
+      },
+      "description": "Numidian king and ancestor hero whose cavalry were the finest light horse riders in the ancient world.",
+      "id": "berber-amazigh-017",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Agelid",
+      "type": "hero",
+      "domains": [
+        "sacred king",
+        "ritual authority",
+        "tribe"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Kingship",
+        "description": "While in play, allies cannot be debuffed by status effects below 5 intensity."
+      },
+      "description": "The sacred Berber king whose authority derived from divine connection to land, ancestors and sky.",
+      "id": "berber-amazigh-018",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Ifriqiya Lion",
+      "type": "creature",
+      "domains": [
+        "Atlas lion",
+        "strength",
+        "sacred"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lion's Roar",
+        "description": "Frighten one enemy: they skip their next turn from the sacred lion's roar."
+      },
+      "description": "The great Atlas lion, sacred to the Berbers and once guardian of the North African mountains.",
+      "id": "berber-amazigh-019",
+      "culture_slug": "berber-amazigh"
+    },
+    {
+      "name": "Neith of the West",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "weaving",
+        "origin",
+        "Libya"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Loom of War",
+        "description": "Grant one ally +3 power and +3 defense from the weaving of battle fate."
+      },
+      "description": "Ancient Libyan-Berber war and weaving goddess who became one of Egypt's oldest deities.",
+      "id": "berber-amazigh-020",
+      "culture_slug": "berber-amazigh"
+    }
+  ]
+}

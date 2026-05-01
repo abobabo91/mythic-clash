@@ -1,0 +1,509 @@
+{
+  "culture_slug": "nubian-kushite",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Apedemak",
+      "type": "god",
+      "domains": [
+        "lion",
+        "war",
+        "Kush",
+        "supreme warrior"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Lion God's Roar",
+        "description": "Deal 7 damage to all enemies; warrior allies gain +3 power for 1 turn."
+      },
+      "description": "The great lion-headed warrior god of Kush who supplanted Amun as the supreme deity of Meroe.",
+      "id": "nubian-kushite-001",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Amesemi",
+      "type": "goddess",
+      "domains": [
+        "protection",
+        "hawks",
+        "Kushite queen"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Hawk's Shield",
+        "description": "Negate all attacks against one ally for 1 turn; grant that ally +2 to all stats."
+      },
+      "description": "Protective hawk goddess and divine counterpart of Apedemak who guarded the Kushite warrior kings.",
+      "id": "nubian-kushite-002",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Arensnuphis",
+      "type": "god",
+      "domains": [
+        "companion of Isis",
+        "hunting",
+        "Nubian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Nubian Companion",
+        "description": "Grant one ally +3 to all stats for 1 turn from divine companionship."
+      },
+      "description": "Nubian deity who stood as divine companion to the Egyptian gods, particularly Isis, at Philae.",
+      "id": "nubian-kushite-003",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Sebiumeker",
+      "type": "god",
+      "domains": [
+        "creation",
+        "Meroe",
+        "supreme Meroitic"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Meroitic Creation",
+        "description": "When played, all allies gain +2 magic for 2 turns."
+      },
+      "description": "Supreme creator god of the Meroitic civilization at Meroe whose prominence rivaled all imported Egyptian deities.",
+      "id": "nubian-kushite-004",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Kandake",
+      "type": "heroine",
+      "domains": [
+        "warrior queen",
+        "Nubian",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Iron Queen",
+        "description": "Deal 5 damage; all enemies' attack on this card is reduced by 2 — they fear the queen."
+      },
+      "description": "The legendary warrior queens of Kush who led armies and commanded divine authority in battle.",
+      "id": "nubian-kushite-005",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Dedwen",
+      "type": "god",
+      "domains": [
+        "incense",
+        "Nubia",
+        "wealth",
+        "fire"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Incense",
+        "description": "Remove all curses from all allies; enemies' special abilities cost 1 more to activate."
+      },
+      "description": "Nubian fire and incense god who presided over the great wealth of southern trade goods prized by Egypt.",
+      "id": "nubian-kushite-006",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Mandulis",
+      "type": "god",
+      "domains": [
+        "sun",
+        "Lower Nubia",
+        "epiphany"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Nubian Dawn",
+        "description": "Grant all allies +2 power at the start of each turn for 2 turns."
+      },
+      "description": "The young solar god of Lower Nubia whose devotion required daily ritual purification at sunrise.",
+      "id": "nubian-kushite-007",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Atoum (Nubian)",
+      "type": "god",
+      "domains": [
+        "sun",
+        "completion",
+        "Nubian form"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Setting Sun",
+        "description": "This card's power increases by 1 each turn to a maximum of +4."
+      },
+      "description": "The Nubian form of the completed sun god Atum, worshipped as the evening sun descending into the underworld.",
+      "id": "nubian-kushite-008",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Piankhi",
+      "type": "ancestor",
+      "domains": [
+        "pharaoh",
+        "Kushite conqueror",
+        "divine king"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Conqueror's Decree",
+        "description": "All enemies with higher power than this card lose 2 of that power from divine humbling."
+      },
+      "description": "The Kushite pharaoh who conquered all Egypt, worshipped Egyptian gods more devoutly than the Egyptians.",
+      "id": "nubian-kushite-009",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Natakamani",
+      "type": "ancestor",
+      "domains": [
+        "builder king",
+        "prosperity",
+        "Meroe"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Builder's Legacy",
+        "description": "When this card is in play, all structure or defense abilities cost 1 less."
+      },
+      "description": "The great builder king of Meroe whose temples and pyramids still stand in the Sudanese desert.",
+      "id": "nubian-kushite-010",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Meroitic Lion",
+      "type": "creature",
+      "domains": [
+        "lion",
+        "sacred",
+        "Kushite warrior"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Mane",
+        "description": "Grant one warrior ally +4 power for 1 turn from the lion spirit."
+      },
+      "description": "The sacred lions of Meroe who stood in temple precincts and were intimately associated with Apedemak.",
+      "id": "nubian-kushite-011",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Nile Serpent",
+      "type": "creature",
+      "domains": [
+        "Nile",
+        "divine river",
+        "creation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River God",
+        "description": "Restore 2 HP to all water and earth allies per turn for 2 turns."
+      },
+      "description": "The divine serpent spirit of the Nile whose annual flood brought life to the parched Nubian earth.",
+      "id": "nubian-kushite-012",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Arikankharer",
+      "type": "ancestor",
+      "domains": [
+        "Kushite prince",
+        "war",
+        "elephant"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "War Elephant",
+        "description": "Deal 6 damage to one enemy; push all adjacent enemies back one row."
+      },
+      "description": "Kushite warrior prince who fought the Romans alongside war elephants in the campaigns of the Kandake.",
+      "id": "nubian-kushite-013",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Pyramid Ghost",
+      "type": "spirit",
+      "domains": [
+        "Meroitic pyramid",
+        "royal dead",
+        "power"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Pyramid Curse",
+        "description": "Inflict a pyramid curse: enemy loses 2 HP per turn for 2 turns from the ancient warning."
+      },
+      "description": "The guardian spirit of the royal Meroitic pyramid tombs who punishes those who disturb the sacred dead.",
+      "id": "nubian-kushite-014",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Thueris (Nubian)",
+      "type": "goddess",
+      "domains": [
+        "hippo",
+        "protection",
+        "birth",
+        "Nubian"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Hippo Mother",
+        "description": "Absorb 3 damage for any ally; restore 2 HP to that ally."
+      },
+      "description": "The Nubian hippo goddess of protection in childbirth, fearsome to enemies but gentle to mothers.",
+      "id": "nubian-kushite-015",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Reshef (Nubian)",
+      "type": "god",
+      "domains": [
+        "war",
+        "plague",
+        "Nubian adoption"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Arrow",
+        "description": "Deal 4 damage and inflict plague on one enemy: -1 HP per turn for 2 turns."
+      },
+      "description": "The Semitic war and plague god adopted into Nubian worship along the Nile trade routes.",
+      "id": "nubian-kushite-016",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Kushite Archer",
+      "type": "hero",
+      "domains": [
+        "archery",
+        "elite soldier",
+        "Kush"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 4,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Nubian Bowman",
+        "description": "Deal 5 ranged damage ignoring ground defenses; hit from any row."
+      },
+      "description": "The legendary Kushite archer whose extraordinary skill made Nubian bowmen the most feared in the ancient world.",
+      "id": "nubian-kushite-017",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Meroitic Sphinx",
+      "type": "creature",
+      "domains": [
+        "ram-headed sphinx",
+        "power",
+        "guardianship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sphinx Guard",
+        "description": "All direct attacks against allies in the back row are blocked for 1 turn."
+      },
+      "description": "The distinctive ram-headed Meroitic sphinx that guarded temple avenues and embodied royal divine power.",
+      "id": "nubian-kushite-018",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Shablul",
+      "type": "spirit",
+      "domains": [
+        "servant figure",
+        "afterlife",
+        "funerary magic"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Funerary Worker",
+        "description": "Perform one ally's task instead of them for 1 turn; grant that ally 2 HP."
+      },
+      "description": "Funerary figure placed in Kushite tombs to perform labor on behalf of the dead in the afterlife.",
+      "id": "nubian-kushite-019",
+      "culture_slug": "nubian-kushite"
+    },
+    {
+      "name": "Wepwawet (Nubian)",
+      "type": "god",
+      "domains": [
+        "wolf",
+        "path opener",
+        "war"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Path Opener",
+        "description": "The first ability your side uses each turn costs 0 energy."
+      },
+      "description": "Wolf-headed opener of the ways who led armies into battle and opened the path to the afterlife.",
+      "id": "nubian-kushite-020",
+      "culture_slug": "nubian-kushite"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "culture_slug": "inuit",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Sedna",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "underworld",
+        "animal",
+        "water"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sedna is a goddess from Inuit (Yupik / Arctic Peoples) tradition associated with sea, underworld, animal, and water.",
+      "id": "inuit-001",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Nanook",
+      "type": "god",
+      "domains": [
+        "animal",
+        "ice",
+        "hunting",
+        "survival"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Nanook is a god from Inuit (Yupik / Arctic Peoples) tradition associated with animal, ice, hunting, and survival.",
+      "id": "inuit-002",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Sila",
+      "type": "god",
+      "domains": [
+        "sky",
+        "wind",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Sila is a god from Inuit (Yupik / Arctic Peoples) tradition associated with sky, wind, spirit, and wisdom.",
+      "id": "inuit-003",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Anguta",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "judgment",
+        "sea"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Anguta is a god from Inuit (Yupik / Arctic Peoples) tradition associated with underworld, death, judgment, and sea.",
+      "id": "inuit-004",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Pinga",
+      "type": "goddess",
+      "domains": [
+        "hunting",
+        "fertility",
+        "animal",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Pinga is a goddess from Inuit (Yupik / Arctic Peoples) tradition associated with hunting, fertility, animal, and protection.",
+      "id": "inuit-005",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Qalupalik",
+      "type": "monster",
+      "domains": [
+        "sea",
+        "monster",
+        "night",
+        "fear"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Qalupalik is a monster from Inuit (Yupik / Arctic Peoples) tradition associated with sea, monster, night, and fear.",
+      "id": "inuit-006",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Mahaha",
+      "type": "monster",
+      "domains": [
+        "ice",
+        "trickster",
+        "monster",
+        "night"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Mahaha is a monster from Inuit (Yupik / Arctic Peoples) tradition associated with ice, trickster, monster, and night.",
+      "id": "inuit-007",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Tornarsuk",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "strength",
+        "protection",
+        "night"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Tornarsuk is a spirit from Inuit (Yupik / Arctic Peoples) tradition associated with spirit, strength, protection, and night.",
+      "id": "inuit-008",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Ijiraq",
+      "type": "spirit",
+      "domains": [
+        "shapechanging",
+        "speed",
+        "ice",
+        "mystery"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Ijiraq is a spirit from Inuit (Yupik / Arctic Peoples) tradition associated with shapechanging, speed, ice, and mystery.",
+      "id": "inuit-009",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Amarok",
+      "type": "creature",
+      "domains": [
+        "wolf",
+        "animal",
+        "night",
+        "hunting"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Amarok is a creature from Inuit (Yupik / Arctic Peoples) tradition associated with wolf, animal, night, and hunting.",
+      "id": "inuit-010",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Akhlut",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "wolf",
+        "shapechanging",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Akhlut is a creature from Inuit (Yupik / Arctic Peoples) tradition associated with sea, wolf, shapechanging, and water.",
+      "id": "inuit-011",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Adlet",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "dog",
+        "war",
+        "snow"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Adlet is a monster from Inuit (Yupik / Arctic Peoples) tradition associated with monster, dog, war, and snow.",
+      "id": "inuit-012",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Aningan",
+      "type": "god",
+      "domains": [
+        "moon",
+        "night",
+        "sky",
+        "cycle"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Aningan is a god from Inuit (Yupik / Arctic Peoples) tradition associated with moon, night, sky, and cycle.",
+      "id": "inuit-013",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Malina",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "light",
+        "sky",
+        "flight"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Malina is a goddess from Inuit (Yupik / Arctic Peoples) tradition associated with sun, light, sky, and flight.",
+      "id": "inuit-014",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Pana",
+      "type": "spirit",
+      "domains": [
+        "ice",
+        "music",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Pana is a spirit from Inuit (Yupik / Arctic Peoples) tradition associated with ice, music, night, and spirit.",
+      "id": "inuit-015",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Tekkeitsertok",
+      "type": "god",
+      "domains": [
+        "animal",
+        "hunting",
+        "strength",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Tekkeitsertok is a god from Inuit (Yupik / Arctic Peoples) tradition associated with animal, hunting, strength, and protection.",
+      "id": "inuit-016",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Tupilak",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "magic",
+        "revenge",
+        "water"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Tupilak is a monster from Inuit (Yupik / Arctic Peoples) tradition associated with monster, magic, revenge, and water.",
+      "id": "inuit-017",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Torngarsuk",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "guardian",
+        "night",
+        "power"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Torngarsuk is a spirit from Inuit (Yupik / Arctic Peoples) tradition associated with spirit, guardian, night, and power.",
+      "id": "inuit-018",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Kiviuq",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "sea",
+        "survival",
+        "quest"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kiviuq is a hero from Inuit (Yupik / Arctic Peoples) tradition associated with voyage, sea, survival, and quest.",
+      "id": "inuit-019",
+      "culture_slug": "inuit"
+    },
+    {
+      "name": "Polar Bear Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "animal",
+        "ice",
+        "strength",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Polar Bear Ancestor is an ancestor from Inuit (Yupik / Arctic Peoples) tradition associated with animal, ice, strength, and protection.",
+      "id": "inuit-020",
+      "culture_slug": "inuit"
+    }
+  ]
+}

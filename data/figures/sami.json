@@ -1,0 +1,506 @@
+{
+  "culture_slug": "sami",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Radien-attje",
+      "type": "god",
+      "domains": [
+        "sky father",
+        "supreme creator",
+        "heaven"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky Father's Decree",
+        "description": "Restore all ally stats to their maximum values for 1 turn."
+      },
+      "description": "The supreme sky father who created and governs the universe from his heavenly dwelling above all worlds.",
+      "id": "sami-001",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Radien-akka",
+      "type": "goddess",
+      "domains": [
+        "sky mother",
+        "creation",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Life Breath",
+        "description": "Resurrect one fallen ally at half HP; grant all allies +1 to all stats."
+      },
+      "description": "The great sky mother who gives the soul its final form and sends it into the human body at birth.",
+      "id": "sami-002",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Jabmeaakka",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "death",
+        "the dead"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Jabme's Domain",
+        "description": "Deal 3 dark damage per turn to all enemies for 2 turns."
+      },
+      "description": "Mistress of Jabmiaibme, the underground realm of the dead, who receives and houses all departed souls.",
+      "id": "sami-003",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Baiwe",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "reindeer",
+        "spring",
+        "healing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Arctic Sun",
+        "description": "Restore 4 HP to all allies; grant immunity to cold and ice effects for 2 turns."
+      },
+      "description": "Sun goddess who drives her reindeer across the arctic sky bringing warmth, healing and the renewal of life.",
+      "id": "sami-004",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Tiermes",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "protection",
+        "Sami thunder"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunder Bow",
+        "description": "Deal 6 damage to one evil spirit; protect all allies from dark abilities for 1 turn."
+      },
+      "description": "Thunder god who shoots his bow to drive away evil spirits and protect the Sami people from harm.",
+      "id": "sami-005",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Noaidi",
+      "type": "hero",
+      "domains": [
+        "shaman",
+        "drum journey",
+        "spirit world"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Drum Flight",
+        "description": "Travel to the spirit world: look at all enemy cards and copy one ability."
+      },
+      "description": "The Sami shaman who uses the sacred drum to fly to the spirit world, heal the sick and negotiate with deities.",
+      "id": "sami-006",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Stallo",
+      "type": "giant",
+      "domains": [
+        "evil giant",
+        "troll",
+        "north"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Iron Body",
+        "description": "Reduce all incoming damage by 3; deal 5 damage on attack, but slow by 2."
+      },
+      "description": "Massive evil giant of Sami mythology who hunts humans, can be outsmarted but never outfought directly.",
+      "id": "sami-007",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Saivo",
+      "type": "spirit",
+      "domains": [
+        "spirit doubles",
+        "underground lakes",
+        "helpers"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mirror Lake",
+        "description": "Copy all stats and abilities of one enemy and apply them to one ally for 1 turn."
+      },
+      "description": "Spiritual doubles who live in underground mirror-lakes and can be summoned by the noaidi as powerful helpers.",
+      "id": "sami-008",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Ailekes eadni",
+      "type": "goddess",
+      "domains": [
+        "reindeer mother",
+        "herd",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Reindeer Herd",
+        "description": "All animal and nature allies gain +3 power for 1 turn."
+      },
+      "description": "Divine mother of the reindeer who ensures the abundance and fertility of the herds upon which Sami life depends.",
+      "id": "sami-009",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Lieaibolmmai",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "bears",
+        "wild animals"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bear Ritual",
+        "description": "After defeating an enemy creature, this card gains +2 to all stats permanently."
+      },
+      "description": "Lord of the hunt and bears whose permission must be sought before hunting and who receives the first kill.",
+      "id": "sami-010",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Ruto",
+      "type": "spirit",
+      "domains": [
+        "disease",
+        "evil",
+        "underworld plague"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Touch",
+        "description": "Inflict disease on one enemy: they lose 1 HP per turn and cannot be healed for 2 turns."
+      },
+      "description": "Evil spirit of disease who enters sleeping bodies and rides them to exhaustion, sent by the god of the dead.",
+      "id": "sami-011",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Maderakka",
+      "type": "goddess",
+      "domains": [
+        "female power",
+        "birth",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Akka's Gift",
+        "description": "When any ally is summoned, they enter with +2 to all stats."
+      },
+      "description": "Primary among the four akka goddesses who governs the female sphere and assists in the creation of children.",
+      "id": "sami-012",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Juoksahkka",
+      "type": "goddess",
+      "domains": [
+        "children",
+        "gender",
+        "arrow"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Arrow of Gender",
+        "description": "Change one card's alignment; that card gains the abilities of its new alignment type."
+      },
+      "description": "Arrow goddess who determines a child's gender in the womb and to whom offerings are made for healthy births.",
+      "id": "sami-013",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Ruohtta",
+      "type": "god",
+      "domains": [
+        "disease horse",
+        "death ride",
+        "illness"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Death Ride",
+        "description": "Inflict weakening disease on all enemies; each loses 1 power per turn for 2 turns."
+      },
+      "description": "God of disease who rides a supernatural horse and spreads illness across the land.",
+      "id": "sami-014",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Arctic Fox Spirit",
+      "type": "creature",
+      "domains": [
+        "arctic",
+        "trickster",
+        "northern lights"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Aurora Tail",
+        "description": "Dash: deal 3 damage to all enemies in a line; move to a safe position."
+      },
+      "description": "The magical arctic fox whose bushy tail brushes the northern mountains to create the aurora borealis.",
+      "id": "sami-015",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Seite",
+      "type": "spirit",
+      "domains": [
+        "sacred stone",
+        "offering place",
+        "local deity"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Votive Offering",
+        "description": "Restore 2 HP to all allies at the start of each turn for 2 turns."
+      },
+      "description": "Sacred stone or stump that acts as a local deity receiving offerings of reindeer fat and blood.",
+      "id": "sami-016",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Uksakka",
+      "type": "goddess",
+      "domains": [
+        "doorway",
+        "protection",
+        "household"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Threshold Ward",
+        "description": "Prevent one enemy from entering play this turn."
+      },
+      "description": "Goddess of the doorway who protects the household against evil spirits attempting to cross the threshold.",
+      "id": "sami-017",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Bear Spirit",
+      "type": "creature",
+      "domains": [
+        "bear",
+        "sacred animal",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bearskin Armor",
+        "description": "Grant one ally bear-form: +2 defense and immunity to cold for 1 turn."
+      },
+      "description": "The sacred bear who is both animal and returning ancestor spirit, treated with utmost ceremony after the hunt.",
+      "id": "sami-018",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Chabrineädni",
+      "type": "goddess",
+      "domains": [
+        "iron mother",
+        "sickness iron"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Iron Sickness",
+        "description": "Reduce one enemy's defense by 3; they cannot recover defense for 1 turn."
+      },
+      "description": "The iron mother who sends iron sickness into human bodies, a disease requiring shamanic removal.",
+      "id": "sami-019",
+      "culture_slug": "sami"
+    },
+    {
+      "name": "Ancestor Drum",
+      "type": "spirit",
+      "domains": [
+        "sacred drum",
+        "shamanic tool",
+        "cosmos map"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Drum Map",
+        "description": "Reveal all hidden information on the field; copy one ability from any card."
+      },
+      "description": "The sacred shamanic drum painted with the map of the cosmos, through which the noaidi travels all worlds.",
+      "id": "sami-020",
+      "culture_slug": "sami"
+    }
+  ]
+}

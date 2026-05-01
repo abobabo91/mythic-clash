@@ -1,0 +1,513 @@
+{
+  "culture_slug": "finnish-karelian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Väinämöinen",
+      "type": "hero",
+      "domains": [
+        "magic song",
+        "creation",
+        "shamanism",
+        "poetry"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World-Song",
+        "description": "Sing the world: reset all enemy stat bonuses to their original values."
+      },
+      "description": "Primordial shaman-bard born from the cosmic waters who shapes reality through the power of song and rune.",
+      "id": "finnish-karelian-001",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Ukko",
+      "type": "god",
+      "domains": [
+        "sky",
+        "thunder",
+        "weather",
+        "crops"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ukko's Hammer",
+        "description": "Strike all enemies for 4 thunder damage; allies gain +2 defense for 1 turn."
+      },
+      "description": "Supreme sky and thunder god of the Finns who grinds storms together in his millstone to make rain.",
+      "id": "finnish-karelian-002",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Louhi",
+      "type": "witch",
+      "domains": [
+        "north",
+        "winter",
+        "magic",
+        "Pohjola"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mistress of the North",
+        "description": "Seal one ally ability and one enemy ability; both remain sealed until Louhi leaves the field."
+      },
+      "description": "Powerful witch-queen of the icy north who commands ten thousand warriors and steals the sun and moon.",
+      "id": "finnish-karelian-003",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Ilmarinen",
+      "type": "hero",
+      "domains": [
+        "forge",
+        "creation",
+        "eternal sky",
+        "sampo"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Sampo",
+        "description": "Forge a divine artifact: all allies regenerate 2 HP per turn for 3 turns."
+      },
+      "description": "Eternal divine smith who forged the sky itself and hammered out the magical Sampo that brings prosperity.",
+      "id": "finnish-karelian-004",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Lemminkäinen",
+      "type": "hero",
+      "domains": [
+        "war",
+        "love",
+        "adventure",
+        "resurrection"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Reckless Charge",
+        "description": "Deal 8 damage to one target; this card takes 3 reflected damage from overconfidence."
+      },
+      "description": "Reckless hero who romances every woman, charges into every danger, and is resurrected by his devoted mother.",
+      "id": "finnish-karelian-005",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Tapio",
+      "type": "god",
+      "domains": [
+        "forest",
+        "hunting",
+        "wild animals"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Lord's Favor",
+        "description": "Ally hunter cards gain +4 power; enemies with beast type lose 2 power."
+      },
+      "description": "Lord of the forest whose blessing determines whether a hunt succeeds and who must be asked permission to hunt.",
+      "id": "finnish-karelian-006",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Ahti",
+      "type": "god",
+      "domains": [
+        "sea",
+        "water",
+        "fish",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Net of the Deep",
+        "description": "Trap one enemy: they cannot switch positions or use escape abilities for 2 turns."
+      },
+      "description": "Ancient sea deity and lord of the waters whose blessing fills fishermen's nets.",
+      "id": "finnish-karelian-007",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Mielikki",
+      "type": "goddess",
+      "domains": [
+        "forest",
+        "hunting",
+        "bears",
+        "healing"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Bear's Healing Paw",
+        "description": "Heal all allies for 3 HP; bears and nature creatures gain +2 to all stats."
+      },
+      "description": "Forest goddess and mistress of bears who presides over healing and the luck of all hunters.",
+      "id": "finnish-karelian-008",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Loviatar",
+      "type": "goddess",
+      "domains": [
+        "disease",
+        "plague",
+        "suffering",
+        "blindness"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Nine Diseases",
+        "description": "Inflict a random disease on one enemy reducing a random stat by 3 for 2 turns."
+      },
+      "description": "Blind daughter of Tuoni who bore nine disease spirits and spreads suffering across the world.",
+      "id": "finnish-karelian-009",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Surma",
+      "type": "creature",
+      "domains": [
+        "death",
+        "devouring",
+        "instant death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Death's Maw",
+        "description": "If an enemy is below 3 HP, devour them instantly and gain +2 to all stats."
+      },
+      "description": "Monstrous dog-beast that guards the gates of Tuonela, the land of the dead, devouring all who try to return.",
+      "id": "finnish-karelian-010",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Tuonetar",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "death",
+        "Tuonela"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Black River Draught",
+        "description": "Poison one enemy for 3 turns; the antidote costs one of the enemy's abilities."
+      },
+      "description": "Queen of Tuonela who serves the river of the dead and prevents the living from returning from the underworld.",
+      "id": "finnish-karelian-011",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Otso the Bear King",
+      "type": "spirit",
+      "domains": [
+        "bears",
+        "forest reverence",
+        "hunting"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Bear Form",
+        "description": "Gain bear form: +3 power and defense for 2 turns; immune to fear effects."
+      },
+      "description": "Heavenly bear lowered to earth in a pine cradle who is revered as a divine ancestor spirit.",
+      "id": "finnish-karelian-012",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Ajatar",
+      "type": "spirit",
+      "domains": [
+        "serpents",
+        "plague",
+        "evil",
+        "pine forest"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Coil",
+        "description": "Spread disease to all enemies: each loses 1 HP per turn for 3 turns."
+      },
+      "description": "Dragon-like pine forest spirit that nurses serpents and spreads plague to all who encounter her.",
+      "id": "finnish-karelian-013",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Kokko the Eagle",
+      "type": "creature",
+      "domains": [
+        "sky",
+        "wind",
+        "great quests"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Great Wings",
+        "description": "Carry one ally to safety; return them next turn with full HP restored."
+      },
+      "description": "Giant eagle of the sky who carries Väinämöinen across impossible seas and aids great heroes on their quests.",
+      "id": "finnish-karelian-014",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Tursas",
+      "type": "sea monster",
+      "domains": [
+        "sea",
+        "chaos",
+        "battle"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Tursas Surge",
+        "description": "Deal 4 damage to all enemies; destroy all field buffs and debuffs."
+      },
+      "description": "Primordial sea monster summoned from chaos who assisted in the creation of the world.",
+      "id": "finnish-karelian-015",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Päivätär",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "daylight",
+        "weaving"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Thread",
+        "description": "Grant one ally immunity to dark effects for 1 turn; restore 2 HP."
+      },
+      "description": "Sun maiden who weaves golden cloth on the arc of heaven and guides travelers through the day.",
+      "id": "finnish-karelian-016",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Kuutar",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "silver weaving"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Silver Web",
+        "description": "Reflect the next special ability used against any ally back at the attacker."
+      },
+      "description": "Moon maiden who weaves silver cloth on the arc of heaven, sister of Päivätär.",
+      "id": "finnish-karelian-017",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Pellervo",
+      "type": "god",
+      "domains": [
+        "crops",
+        "vegetation",
+        "spring sowing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sowing Song",
+        "description": "At start of each turn, restore 1 HP to all allies for 2 turns."
+      },
+      "description": "First farmer of the world who sowed trees on the hills and fish in the waters at the beginning of time.",
+      "id": "finnish-karelian-018",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Hiisi",
+      "type": "spirit",
+      "domains": [
+        "evil spirits",
+        "forest demons",
+        "danger"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hiisi's Curse",
+        "description": "Reduce one enemy's power by 3 for 2 turns."
+      },
+      "description": "Malevolent forest spirit and embodiment of evil whose name is given to all dangerous wild places.",
+      "id": "finnish-karelian-019",
+      "culture_slug": "finnish-karelian"
+    },
+    {
+      "name": "Tuulikki",
+      "type": "spirit",
+      "domains": [
+        "forest daughter",
+        "animals"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Animal Call",
+        "description": "Summon a small beast ally with 4/4/4/4/4 stats for 1 turn."
+      },
+      "description": "Daughter of Tapio the forest god who manages the wild animals and aids hunters who show proper respect.",
+      "id": "finnish-karelian-020",
+      "culture_slug": "finnish-karelian"
+    }
+  ]
+}

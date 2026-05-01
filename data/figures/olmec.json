@@ -1,0 +1,526 @@
+{
+  "culture_slug": "olmec",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Olmec Dragon",
+      "type": "god",
+      "domains": [
+        "earth",
+        "fire",
+        "creation",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Olmec Dragon is a god from Olmec tradition associated with earth, fire, creation, and power.",
+      "id": "olmec-001",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Were-Jaguar",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "rain",
+        "earth",
+        "strength"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Were-Jaguar is a creature from Olmec tradition associated with animal, rain, earth, and strength.",
+      "id": "olmec-002",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Feathered Serpent",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "sky",
+        "wind",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Feathered Serpent is a god from Olmec tradition associated with serpent, sky, wind, and wisdom.",
+      "id": "olmec-003",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Maize God",
+      "type": "god",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Maize God is a god from Olmec tradition associated with corn, fertility, earth, and life.",
+      "id": "olmec-004",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Rain Spirit",
+      "type": "spirit",
+      "domains": [
+        "rain",
+        "storm",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Rain Spirit is a spirit from Olmec tradition associated with rain, storm, water, and fertility.",
+      "id": "olmec-005",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Bird Monster",
+      "type": "creature",
+      "domains": [
+        "sky",
+        "bird",
+        "storm",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Bird Monster is a creature from Olmec tradition associated with sky, bird, storm, and power.",
+      "id": "olmec-006",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Fish Monster",
+      "type": "creature",
+      "domains": [
+        "water",
+        "sea",
+        "underworld",
+        "mystery"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Fish Monster is a creature from Olmec tradition associated with water, sea, underworld, and mystery.",
+      "id": "olmec-007",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Earth Monster",
+      "type": "monster",
+      "domains": [
+        "earth",
+        "monster",
+        "cave",
+        "hunger"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Earth Monster is a monster from Olmec tradition associated with earth, monster, cave, and hunger.",
+      "id": "olmec-008",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Shark Monster",
+      "type": "monster",
+      "domains": [
+        "sea",
+        "animal",
+        "monster",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Shark Monster is a monster from Olmec tradition associated with sea, animal, monster, and strength.",
+      "id": "olmec-009",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Harpy Eagle",
+      "type": "creature",
+      "domains": [
+        "bird",
+        "sky",
+        "war",
+        "hunting"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Harpy Eagle is a creature from Olmec tradition associated with bird, sky, war, and hunting.",
+      "id": "olmec-010",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Crocodile Monster",
+      "type": "creature",
+      "domains": [
+        "water",
+        "earth",
+        "monster",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Crocodile Monster is a creature from Olmec tradition associated with water, earth, monster, and power.",
+      "id": "olmec-011",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Fire Serpent",
+      "type": "creature",
+      "domains": [
+        "fire",
+        "serpent",
+        "volcano",
+        "speed"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Fire Serpent is a creature from Olmec tradition associated with fire, serpent, volcano, and speed.",
+      "id": "olmec-012",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Jade Child",
+      "type": "hero",
+      "domains": [
+        "earth",
+        "wealth",
+        "light",
+        "youth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Jade Child is a hero from Olmec tradition associated with earth, wealth, light, and youth.",
+      "id": "olmec-013",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Colossal Head Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "kingship",
+        "stone",
+        "ancestor",
+        "honor"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Colossal Head Ancestor is an ancestor from Olmec tradition associated with kingship, stone, ancestor, and honor.",
+      "id": "olmec-014",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Las Limas Youth",
+      "type": "hero",
+      "domains": [
+        "ritual",
+        "earth",
+        "youth",
+        "mystery"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Las Limas Youth is a hero from Olmec tradition associated with ritual, earth, youth, and mystery.",
+      "id": "olmec-015",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Cave Jaguar",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "cave",
+        "night",
+        "strength"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Cave Jaguar is a creature from Olmec tradition associated with animal, cave, night, and strength.",
+      "id": "olmec-016",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Night Sun",
+      "type": "spirit",
+      "domains": [
+        "sun",
+        "night",
+        "underworld",
+        "mystery"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Night Sun is a spirit from Olmec tradition associated with sun, night, underworld, and mystery.",
+      "id": "olmec-017",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Twin Shaman",
+      "type": "spirit",
+      "domains": [
+        "magic",
+        "ritual",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Twin Shaman is a spirit from Olmec tradition associated with magic, ritual, spirit, and wisdom.",
+      "id": "olmec-018",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Corn Mother",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "motherhood",
+        "fertility",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Corn Mother is a goddess from Olmec tradition associated with corn, motherhood, fertility, and earth.",
+      "id": "olmec-019",
+      "culture_slug": "olmec"
+    },
+    {
+      "name": "Rubber Ball Lord",
+      "type": "hero",
+      "domains": [
+        "ballgame",
+        "war",
+        "ritual",
+        "speed"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Rubber Ball Lord is a hero from Olmec tradition associated with ballgame, war, ritual, and speed.",
+      "id": "olmec-020",
+      "culture_slug": "olmec"
+    }
+  ]
+}

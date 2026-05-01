@@ -1,0 +1,526 @@
+{
+  "culture_slug": "haitian-vodou",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Papa Legba",
+      "type": "god",
+      "domains": [
+        "spirit",
+        "threshold",
+        "wisdom",
+        "crossroads"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Papa Legba is a god from Haitian Vodou tradition associated with spirit, threshold, wisdom, and crossroads.",
+      "id": "haitian-vodou-001",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Baron Samedi",
+      "type": "god",
+      "domains": [
+        "death",
+        "underworld",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Baron Samedi is a god from Haitian Vodou tradition associated with death, underworld, night, and spirit.",
+      "id": "haitian-vodou-002",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Erzulie Freda",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "beauty",
+        "luxury",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Erzulie Freda is a goddess from Haitian Vodou tradition associated with love, beauty, luxury, and water.",
+      "id": "haitian-vodou-003",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Erzulie Dantor",
+      "type": "goddess",
+      "domains": [
+        "motherhood",
+        "war",
+        "protection",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Erzulie Dantor is a goddess from Haitian Vodou tradition associated with motherhood, war, protection, and fire.",
+      "id": "haitian-vodou-004",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Ogou Feray",
+      "type": "god",
+      "domains": [
+        "war",
+        "iron",
+        "fire",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ogou Feray is a god from Haitian Vodou tradition associated with war, iron, fire, and strength.",
+      "id": "haitian-vodou-005",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Damballa",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "creation",
+        "wisdom",
+        "water"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Damballa is a god from Haitian Vodou tradition associated with serpent, creation, wisdom, and water.",
+      "id": "haitian-vodou-006",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Ayida Wedo",
+      "type": "goddess",
+      "domains": [
+        "rainbow",
+        "water",
+        "fertility",
+        "sky"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Ayida Wedo is a goddess from Haitian Vodou tradition associated with rainbow, water, fertility, and sky.",
+      "id": "haitian-vodou-007",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Agwe",
+      "type": "god",
+      "domains": [
+        "sea",
+        "voyage",
+        "water",
+        "command"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Agwe is a god from Haitian Vodou tradition associated with sea, voyage, water, and command.",
+      "id": "haitian-vodou-008",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Simbi",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "magic",
+        "wisdom",
+        "serpent"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Simbi is a spirit from Haitian Vodou tradition associated with water, magic, wisdom, and serpent.",
+      "id": "haitian-vodou-009",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Loko",
+      "type": "god",
+      "domains": [
+        "healing",
+        "trees",
+        "ritual",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Loko is a god from Haitian Vodou tradition associated with healing, trees, ritual, and earth.",
+      "id": "haitian-vodou-010",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Ayizan",
+      "type": "goddess",
+      "domains": [
+        "market",
+        "initiation",
+        "ritual",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Ayizan is a goddess from Haitian Vodou tradition associated with market, initiation, ritual, and wisdom.",
+      "id": "haitian-vodou-011",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Ghede Nibo",
+      "type": "spirit",
+      "domains": [
+        "death",
+        "youth",
+        "cemetery",
+        "night"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Ghede Nibo is a spirit from Haitian Vodou tradition associated with death, youth, cemetery, and night.",
+      "id": "haitian-vodou-012",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Marinette",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "rage",
+        "night",
+        "darkness"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Marinette is a spirit from Haitian Vodou tradition associated with fire, rage, night, and darkness.",
+      "id": "haitian-vodou-013",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Kalfu",
+      "type": "demon",
+      "domains": [
+        "darkness",
+        "crossroads",
+        "chaos",
+        "night"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Kalfu is a demon from Haitian Vodou tradition associated with darkness, crossroads, chaos, and night.",
+      "id": "haitian-vodou-014",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Azaka",
+      "type": "god",
+      "domains": [
+        "agriculture",
+        "earth",
+        "harvest",
+        "simplicity"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Field Blessing",
+        "description": "Gain 3 resource tokens and grant all earth allies +1 defense."
+      },
+      "description": "Azaka is a god from Haitian Vodou tradition associated with agriculture, earth, harvest, and simplicity.",
+      "id": "haitian-vodou-015",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Bosou",
+      "type": "god",
+      "domains": [
+        "strength",
+        "bull",
+        "war",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Bosou is a god from Haitian Vodou tradition associated with strength, bull, war, and power.",
+      "id": "haitian-vodou-016",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "La Sirene",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "beauty",
+        "song",
+        "water"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "La Sirene is a goddess from Haitian Vodou tradition associated with sea, beauty, song, and water.",
+      "id": "haitian-vodou-017",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Gran Bwa",
+      "type": "god",
+      "domains": [
+        "forest",
+        "healing",
+        "spirit",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Gran Bwa is a god from Haitian Vodou tradition associated with forest, healing, spirit, and earth.",
+      "id": "haitian-vodou-018",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Ti Jean Petro",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "trickster",
+        "speed",
+        "rage"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Ti Jean Petro is a spirit from Haitian Vodou tradition associated with fire, trickster, speed, and rage.",
+      "id": "haitian-vodou-019",
+      "culture_slug": "haitian-vodou"
+    },
+    {
+      "name": "Maman Brigitte",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "graveyard",
+        "fire",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Maman Brigitte is a goddess from Haitian Vodou tradition associated with death, graveyard, fire, and justice.",
+      "id": "haitian-vodou-020",
+      "culture_slug": "haitian-vodou"
+    }
+  ]
+}

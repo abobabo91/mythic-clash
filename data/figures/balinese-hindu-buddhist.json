@@ -1,0 +1,526 @@
+{
+  "culture_slug": "balinese-hindu-buddhist",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Sanghyang Widhi Wasa",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "cosmos",
+        "all-encompassing",
+        "void"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Unity",
+        "description": "Remove all negative effects from the field; restore all allied cards to full stats."
+      },
+      "description": "The supreme deity of Balinese Hinduism, the formless all-encompassing god who manifests through all other deities, unique to Bali's syncretic tradition.",
+      "id": "balinese-hindu-buddhist-001",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Barong",
+      "type": "creature",
+      "domains": [
+        "protection",
+        "good",
+        "lion",
+        "magic"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Dance",
+        "description": "Nullify all dark magic cast this turn; every allied card gains a blessing shield."
+      },
+      "description": "The lion-like protective spirit, king of the spirits and representation of good, who eternally battles Rangda in the great cosmic struggle.",
+      "id": "balinese-hindu-buddhist-002",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Rangda",
+      "type": "spirit",
+      "domains": [
+        "witchcraft",
+        "death",
+        "chaos",
+        "queen of leyaks"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Leyak Terror",
+        "description": "Transform all enemy minions into leyak demons under your control; they serve you for 1 turn."
+      },
+      "description": "The demon queen and widow-witch of Balinese mythology, leader of the leyaks, who battles Barong in a cosmic struggle that represents the balance of good and evil.",
+      "id": "balinese-hindu-buddhist-003",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Dewi Sri",
+      "type": "goddess",
+      "domains": [
+        "rice",
+        "fertility",
+        "moon",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Rice Harvest",
+        "description": "Double all resource generation for 2 turns; all allied cards are sustained without cost."
+      },
+      "description": "The rice goddess and goddess of fertility in Bali, whose myth of death and rebirth mirrors the agricultural cycle, central to Balinese village life.",
+      "id": "balinese-hindu-buddhist-004",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Dewa Ruci",
+      "type": "god",
+      "domains": [
+        "inner truth",
+        "ocean",
+        "microcosm",
+        "enlightenment"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Inner Ocean",
+        "description": "Send one allied hero into Dewa Ruci's body to emerge fully enlightened with +5 to all stats."
+      },
+      "description": "The tiny deity who lives within the ocean, met by Bima during his quest for holy water; the mystical teacher of inner truth and the divine spark within.",
+      "id": "balinese-hindu-buddhist-005",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Batara Guru (Bali)",
+      "type": "god",
+      "domains": [
+        "supreme teacher",
+        "cosmos",
+        "Shiva",
+        "mountains"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Instruction",
+        "description": "Teach any allied card a new ability: copy one ability from any card that has been played."
+      },
+      "description": "Shiva as the supreme teacher deity in Balinese cosmology, lord of the mountains and master of all knowledge.",
+      "id": "balinese-hindu-buddhist-006",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Kala (Bali)",
+      "type": "god",
+      "domains": [
+        "time",
+        "misfortune",
+        "purification",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Purification Curse",
+        "description": "Place a Kala curse on one enemy; they lose 2 stats each turn until cleansed."
+      },
+      "description": "The son of Batara Guru and Dewi Uma in Balinese myth, born from the sea foam, ruler of the earth and lord of misfortune who can also purify through ceremony.",
+      "id": "balinese-hindu-buddhist-007",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Dewi Uma",
+      "type": "goddess",
+      "domains": [
+        "beauty",
+        "moon",
+        "earth",
+        "transformation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Transformation Blessing",
+        "description": "Transform one allied card into a more powerful version of itself for 2 turns."
+      },
+      "description": "The consort of Batara Guru, beautiful goddess who was cursed to become the demon Durga, cycling between divine beauty and terrifying power.",
+      "id": "balinese-hindu-buddhist-008",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Bima (Bali)",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "wind",
+        "truth",
+        "quest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wind Son's Might",
+        "description": "Deal 9 damage to one enemy; if seeking wisdom, gain +2 wisdom permanently."
+      },
+      "description": "The second Pandava hero of the Balinese Mahabharata tradition, son of the wind god, who underwent many spiritual quests unique to Balinese interpretation.",
+      "id": "balinese-hindu-buddhist-009",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Wisnu (Bali)",
+      "type": "god",
+      "domains": [
+        "preservation",
+        "cosmic ocean",
+        "turtle",
+        "avatar"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Cosmic Turtle",
+        "description": "Become immovable for 2 turns; all attacks against you are reflected."
+      },
+      "description": "Vishnu as worshipped in Bali, the preserver of the universe, whose avatar as the cosmic turtle holds up the world.",
+      "id": "balinese-hindu-buddhist-010",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Twalen",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "wisdom",
+        "servant",
+        "humor"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Servant's Wisdom",
+        "description": "Reveal the opponent's hand; choose one card to be discarded from their hand."
+      },
+      "description": "The divine clown-servant of Balinese wayang kulit theater, secretly a form of Maha Iswara who chose to incarnate as a humble servant, combining humor with deep spiritual wisdom.",
+      "id": "balinese-hindu-buddhist-011",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Mredah",
+      "type": "spirit",
+      "domains": [
+        "comedy",
+        "service",
+        "companion",
+        "clown"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 3,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Comic Relief",
+        "description": "Remove one debuff from any allied card; the enemy is distracted, losing their next attack."
+      },
+      "description": "The son and companion of Twalen in Balinese shadow puppet theater, part of the divine clown-servant pair whose humor carries profound spiritual meaning.",
+      "id": "balinese-hindu-buddhist-012",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Durga (Bali)",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "witchcraft",
+        "graveyard",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Graveyard Queen",
+        "description": "Revive one destroyed allied card with half stats; draw power from the graveyard."
+      },
+      "description": "The fearsome form of Dewi Uma after her curse, associated with graveyards and death in Balinese tradition, also protective when properly propitiated.",
+      "id": "balinese-hindu-buddhist-013",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Hanoman (Bali)",
+      "type": "hero",
+      "domains": [
+        "monkey",
+        "fire",
+        "loyalty",
+        "wind"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Burning Lanka",
+        "description": "Set the entire enemy field ablaze; all enemies take 4 fire damage per turn for 2 turns."
+      },
+      "description": "The monkey hero of the Balinese Ramayana, celebrated in the famous Kecak fire dance, whose burning tail set Lanka ablaze.",
+      "id": "balinese-hindu-buddhist-014",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Jero Gede Mecaling",
+      "type": "spirit",
+      "domains": [
+        "plague",
+        "demon lord",
+        "sea",
+        "Nusa Penida"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Crossing",
+        "description": "Spread a plague across the enemy field; all enemies lose 2 HP per turn for 3 turns."
+      },
+      "description": "The great fanged demon lord of Nusa Penida who sends disease to Bali, both feared and propitiated to ward off plague.",
+      "id": "balinese-hindu-buddhist-015",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Sang Hyang Semara",
+      "type": "god",
+      "domains": [
+        "love",
+        "moon",
+        "beauty",
+        "music"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Love Arrow",
+        "description": "Make one enemy card switch sides and fight for you for 1 turn."
+      },
+      "description": "The Balinese god of love and the moon, whose beautiful music and golden arrows inspire love in gods and mortals alike.",
+      "id": "balinese-hindu-buddhist-016",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Dewi Ratih",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "love",
+        "night",
+        "beauty"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlight Blessing",
+        "description": "All allied cards under moonlight gain +2 magic and +2 wisdom for 2 turns."
+      },
+      "description": "The moon goddess and consort of Sang Hyang Semara, whose beauty causes Kala to chase the moon, creating eclipses.",
+      "id": "balinese-hindu-buddhist-017",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Leak (Leyak)",
+      "type": "spirit",
+      "domains": [
+        "transformation",
+        "sorcery",
+        "night",
+        "horror"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cremation Ground",
+        "description": "Prowl cremation grounds; steal the power of one recently destroyed card permanently."
+      },
+      "description": "The shape-shifting leyak, a human practitioner of black magic who transforms into terrifying forms at night to prey on the living.",
+      "id": "balinese-hindu-buddhist-018",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Ratu Gede Mas Mecaling",
+      "type": "spirit",
+      "domains": [
+        "underworld",
+        "giant fangs",
+        "demon",
+        "plague"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Fang Curse",
+        "description": "Curse one enemy; they cannot use healing or resurrection abilities for 3 turns."
+      },
+      "description": "A terrible fanged spirit ruler of the lower realms, associated with Jero Gede Mecaling, whose large teeth symbolize demonic power.",
+      "id": "balinese-hindu-buddhist-019",
+      "culture_slug": "balinese-hindu-buddhist"
+    },
+    {
+      "name": "Sang Hyang Tunggal",
+      "type": "god",
+      "domains": [
+        "primal unity",
+        "void",
+        "first",
+        "all"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 10,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Before All Things",
+        "description": "Reset the entire field to its starting state; all cards return to beginning stats and positions."
+      },
+      "description": "The primordial oneness before creation in Balinese cosmology, the undifferentiated source from which all deities and the universe emerged.",
+      "id": "balinese-hindu-buddhist-020",
+      "culture_slug": "balinese-hindu-buddhist"
+    }
+  ]
+}

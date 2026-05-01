@@ -1,0 +1,517 @@
+{
+  "culture_slug": "akkadian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Sargon of Akkad",
+      "type": "hero",
+      "domains": [
+        "first empire",
+        "divine mandate",
+        "conqueror"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World's Four Quarters",
+        "description": "Deal 3 damage to all enemies; all ally warriors gain +2 power from imperial glory."
+      },
+      "description": "The world's first empire-builder whose legend of birth in a basket floating on a river inspired Moses's story.",
+      "id": "akkadian-001",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Ishtar (Akkadian)",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "descent",
+        "Venus"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Gate of Ishtar",
+        "description": "Strip all buffs from one enemy as they pass through Ishtar's seven gates; deal 5 damage."
+      },
+      "description": "The fierce Akkadian goddess who descended through seven gates, surrendering power at each, to save her lover.",
+      "id": "akkadian-002",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Shamash (Akkadian)",
+      "type": "god",
+      "domains": [
+        "sun",
+        "justice",
+        "all-seeing law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tablet of Laws",
+        "description": "All enemies must reveal their hidden abilities; they cannot act dishonestly for 2 turns."
+      },
+      "description": "The Akkadian sun god who gave the laws to Hammurabi and inscribed them on the great stele for all to see.",
+      "id": "akkadian-003",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Sin (moon)",
+      "type": "god",
+      "domains": [
+        "moon",
+        "divination",
+        "Ur",
+        "cattle herder"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Crescent Divination",
+        "description": "Predict one enemy ability; if correct, negate it automatically."
+      },
+      "description": "The Akkadian moon god of Ur whose crescent illuminates the night and whose priests read divine messages in the sky.",
+      "id": "akkadian-004",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Nergal (Akkadian)",
+      "type": "god",
+      "domains": [
+        "plague",
+        "underworld",
+        "midday sun"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague Star",
+        "description": "Deal 4 damage and plague one enemy: -2 HP per turn for 2 turns."
+      },
+      "description": "Akkadian god of plague and death who rules the underworld alongside Ereshkigal after winning her love.",
+      "id": "akkadian-005",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Adad (Akkadian)",
+      "type": "god",
+      "domains": [
+        "storm",
+        "rain",
+        "thunder",
+        "divination"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Omen",
+        "description": "Deal 3 damage to all; grant +2 power to storm allies from the tempest."
+      },
+      "description": "The Akkadian storm god whose thunder and rain bring both destruction and the fertilizing rains.",
+      "id": "akkadian-006",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Pazuzu (Akkadian)",
+      "type": "demon",
+      "domains": [
+        "wind king",
+        "protector",
+        "fever",
+        "terrifying"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ward Against Evil",
+        "description": "Prevent one dark summoning; this card's terrifying face deters one enemy ability per turn."
+      },
+      "description": "King of the wind demons whose terrifying image, paradoxically, protects against the demoness Lamashtu.",
+      "id": "akkadian-007",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Nanna (Akkadian)",
+      "type": "god",
+      "domains": [
+        "moon",
+        "destiny",
+        "king of all gods",
+        "Ur"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lord of Destinies",
+        "description": "Adjust one ally's fate: increase any one of their stats by 3 permanently."
+      },
+      "description": "The moon god worshipped at the great ziggurat of Ur, considered king of the gods in the Akkadian period.",
+      "id": "akkadian-008",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Dumuzi (Akkadian)",
+      "type": "god",
+      "domains": [
+        "shepherd",
+        "vegetation",
+        "descent",
+        "rise"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seasonal Descent",
+        "description": "Sacrifice 2 HP to restore 4 HP to any ally from the seasonal cycle."
+      },
+      "description": "The Akkadian shepherd god who dies to save Ishtar and rises from the underworld to bring the spring.",
+      "id": "akkadian-009",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Anunnaki (Akkadian)",
+      "type": "spirit",
+      "domains": [
+        "seven judges",
+        "great gods",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seven Great Gods",
+        "description": "All enemies are judged simultaneously: each loses 1 of their highest stat."
+      },
+      "description": "The Akkadian seven great gods who sit as judges of fate and whose decrees are absolute.",
+      "id": "akkadian-010",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Lamassu",
+      "type": "creature",
+      "domains": [
+        "winged bull",
+        "guardian",
+        "protection",
+        "human head"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Gate Guardian",
+        "description": "Prevent all enemy entry and ambush abilities; block one direct attack against allies."
+      },
+      "description": "The great winged bull with human head that guarded the gates of Akkadian palaces against all evil.",
+      "id": "akkadian-011",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Rabisu",
+      "type": "demon",
+      "domains": [
+        "crouching demon",
+        "doorway ambush",
+        "lurking"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Door Lurk",
+        "description": "Ambush: deal 4 damage to one enemy who was not expecting this card this turn."
+      },
+      "description": "The crouching demon who lurks at doorways and in dark corners, waiting to ambush the unwary.",
+      "id": "akkadian-012",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Humbaba (Akkadian)",
+      "type": "monster",
+      "domains": [
+        "Cedar Forest guard",
+        "terror",
+        "divine breath"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Terror Breath",
+        "description": "Inflict fear on all enemies: they cannot advance or charge for 1 turn."
+      },
+      "description": "The Akkadian version of the Cedar Forest guardian whose face of coiling intestines causes primordial fear.",
+      "id": "akkadian-013",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Etana (Akkadian)",
+      "type": "hero",
+      "domains": [
+        "eagle rider",
+        "sky quest",
+        "first king"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky Rider",
+        "description": "Attack from above: bypass all ground defenses and deal 4 damage."
+      },
+      "description": "The Akkadian first king who rode an eagle toward heaven seeking the plant of birth for his childless queen.",
+      "id": "akkadian-014",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Bullheaded Lyre Spirit",
+      "type": "spirit",
+      "domains": [
+        "music",
+        "Ur treasures",
+        "divine art"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Royal Music",
+        "description": "Remove all confusion effects; grant +2 wisdom to all allies from divine music."
+      },
+      "description": "The spirit of the great bull-headed lyre from Ur whose divine music accompanied sacred ceremonies.",
+      "id": "akkadian-015",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Edimmu",
+      "type": "spirit",
+      "domains": [
+        "restless dead",
+        "disease",
+        "haunting",
+        "improper burial"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Restless Haunting",
+        "description": "Inflict haunting on one enemy: they lose 1 power per turn as the spirit drains them."
+      },
+      "description": "The restless dead who were improperly buried and who haunt the living causing disease and nightmares.",
+      "id": "akkadian-016",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Nabu (Akkadian)",
+      "type": "god",
+      "domains": [
+        "writing",
+        "fate tablets",
+        "wisdom",
+        "Marduk's son"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Stylus of Fate",
+        "description": "Rewrite one stat: permanently change one enemy's power or defense by -2."
+      },
+      "description": "The Akkadian god of scribes and the divine writer whose stylus records all fates on the Tablets of Destiny.",
+      "id": "akkadian-017",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Sennacherib",
+      "type": "ancestor",
+      "domains": [
+        "Akkadian king",
+        "divine pride",
+        "builder"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Imperial Will",
+        "description": "Deal 5 damage to one enemy; that enemy cannot rebuild destroyed abilities for 1 turn."
+      },
+      "description": "The great Assyrian king of Akkadian succession whose dream of empire and pride became legendary cautionary tale.",
+      "id": "akkadian-018",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Isum",
+      "type": "god",
+      "domains": [
+        "fire",
+        "herald",
+        "night wanderer",
+        "protector against Erra"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Night Fire",
+        "description": "Prevent all dark ambush abilities; restore 1 HP to all allies from the night fire's warmth."
+      },
+      "description": "The fire god who walked the night streets protecting the city and who alone could calm the violent Erra.",
+      "id": "akkadian-019",
+      "culture_slug": "akkadian"
+    },
+    {
+      "name": "Shulgi",
+      "type": "ancestor",
+      "domains": [
+        "divine king",
+        "arts patron",
+        "law",
+        "Ur-III"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "King of Ur",
+        "description": "All Mesopotamian allies gain +2 to their lowest stat from royal patronage."
+      },
+      "description": "The Akkadian-period king of Ur who deified himself and became the patron of scribes, athletes and divine law.",
+      "id": "akkadian-020",
+      "culture_slug": "akkadian"
+    }
+  ]
+}

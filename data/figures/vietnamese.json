@@ -1,0 +1,516 @@
+{
+  "culture_slug": "vietnamese",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Lac Long Quan",
+      "type": "god",
+      "domains": [
+        "Dragon Lord",
+        "sea",
+        "civilization bringer",
+        "founder"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Dragon of the Sea",
+        "description": "All dragon and water allies gain +3 to all stats; deal 5 damage to sea enemies."
+      },
+      "description": "The Dragon Lord who civilized Vietnam and married the Fairy Au Co to birth the 100 ancestors of the Vietnamese.",
+      "id": "vietnamese-001",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Au Co",
+      "type": "goddess",
+      "domains": [
+        "fairy mother",
+        "100 eggs",
+        "mountain",
+        "founder"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Hundred Children",
+        "description": "Summon one powerful ally from a cosmic egg; grant all allies +2 to all stats."
+      },
+      "description": "The fairy woman who laid 100 eggs birthing the Vietnamese people and took 50 children to the mountains.",
+      "id": "vietnamese-002",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Thanh Giong",
+      "type": "hero",
+      "domains": [
+        "iron horse",
+        "giant warrior",
+        "miracle child",
+        "bamboo"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Iron Horse Charge",
+        "description": "Deal 7 damage to all enemies in a line; destroy all enemy fortifications."
+      },
+      "description": "The miraculous boy who ate mountains of rice, grew instantly to giant size and drove off the invaders on an iron horse.",
+      "id": "vietnamese-003",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Bach Ho",
+      "type": "god",
+      "domains": [
+        "white tiger",
+        "west",
+        "metal",
+        "war",
+        "Vietnam"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "White Tiger Strike",
+        "description": "Deal 5 damage to one enemy; all metal and war allies gain +2 power."
+      },
+      "description": "The White Tiger deity of the western direction who governs metal, war and autumn.",
+      "id": "vietnamese-004",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Tran Hung Dao",
+      "type": "ancestor",
+      "domains": [
+        "general",
+        "spirit protector",
+        "demon king",
+        "national hero"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Spirit General",
+        "description": "All Vietnamese warrior allies gain +3 power; ward off all Mongol-type invasion abilities."
+      },
+      "description": "The great general who defeated the Mongol invasion three times and became a divine protective spirit.",
+      "id": "vietnamese-005",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Kim Quy (Golden Turtle)",
+      "type": "creature",
+      "domains": [
+        "magic crossbow",
+        "divine help",
+        "Lake Hoan Kiem"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Claw",
+        "description": "Provide a divine weapon: grant one ally +4 power; then reclaim it at battle's end."
+      },
+      "description": "The divine golden turtle who gave magic weapons to protect the Viet and reclaimed them when peace was restored.",
+      "id": "vietnamese-006",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Tao Quan",
+      "type": "god",
+      "domains": [
+        "three kitchen gods",
+        "protection",
+        "year end report",
+        "hearth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Year End Report",
+        "description": "Reveal all hidden information to your side; grant +1 to all ally stats from the kitchen gods' favor."
+      },
+      "description": "The three Kitchen Gods who watch all household deeds and report to the Jade Emperor on New Year's Eve.",
+      "id": "vietnamese-007",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Ngoc Hoang",
+      "type": "god",
+      "domains": [
+        "Vietnamese Jade Emperor",
+        "heaven's ruler",
+        "Vietnamese"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Celestial Decree",
+        "description": "One ally's next ability cannot be countered or resisted by any enemy."
+      },
+      "description": "The Vietnamese version of the Jade Emperor who governs all celestial affairs from his heavenly palace.",
+      "id": "vietnamese-008",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Nam Hai",
+      "type": "god",
+      "domains": [
+        "southern sea dragon",
+        "Vietnam's sea",
+        "fortune"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Southern Sea",
+        "description": "Restore 3 HP to all water allies; deal 2 damage to northern or invading enemies."
+      },
+      "description": "The southern sea dragon deity who protects Vietnamese fishing communities and governs the South China Sea.",
+      "id": "vietnamese-009",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Ba Chua Xu",
+      "type": "goddess",
+      "domains": [
+        "Lady of the Realm",
+        "Mekong delta",
+        "southern Vietnam"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Realm Protection",
+        "description": "All allied cards from the south are protected from northern abilities for 2 turns."
+      },
+      "description": "The Lady of the Realm goddess of the Mekong Delta whose shrine receives millions of pilgrims annually.",
+      "id": "vietnamese-010",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Phung Hung",
+      "type": "ancestor",
+      "domains": [
+        "boxer lord",
+        "revolt leader",
+        "spirit king"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Boxer's Power",
+        "description": "Deal 4 damage to any oppressor-type enemy that has higher stats than this card."
+      },
+      "description": "The folk hero who led a revolt against Tang China and became a protective spirit king after death.",
+      "id": "vietnamese-011",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Than Tai",
+      "type": "god",
+      "domains": [
+        "wealth god",
+        "prosperity",
+        "Vietnamese merchant patron"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wealth Blessing",
+        "description": "Grant one ally +3 to all stats from the wealth god's morning blessing."
+      },
+      "description": "The Vietnamese god of wealth propitiated early each morning to ensure commercial prosperity.",
+      "id": "vietnamese-012",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Rong (Vietnamese Dragon)",
+      "type": "creature",
+      "domains": [
+        "Vietnamese dragon",
+        "benevolent",
+        "rain",
+        "sea"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Rain",
+        "description": "Restore 2 HP to all allies; call rain to restore all earth and nature effects."
+      },
+      "description": "The benevolent Vietnamese dragon who brings rain and prosperity, entirely different from European dragons.",
+      "id": "vietnamese-013",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Than Song Ha",
+      "type": "god",
+      "domains": [
+        "river god",
+        "floods",
+        "Vietnamese waterways"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River Blessing",
+        "description": "Restore 2 HP to all water allies; prevent all flood damage to allies for 1 turn."
+      },
+      "description": "The deity of rivers and streams whose blessing keeps the Red River Delta fertile and prevents catastrophic floods.",
+      "id": "vietnamese-014",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Ba Vi Mountain Spirit",
+      "type": "spirit",
+      "domains": [
+        "mountain deity",
+        "Hanoi region",
+        "three peaks"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Triple Peak",
+        "description": "Grant +1 to three different stats for three different allies simultaneously."
+      },
+      "description": "The spirit of the three-peaked sacred Ba Vi mountain who guards the northern Vietnamese heartland.",
+      "id": "vietnamese-015",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Chim Lac",
+      "type": "creature",
+      "domains": [
+        "Lac bird",
+        "Vietnamese symbol",
+        "ancient Bronze Age"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lac Flight",
+        "description": "This card can move to any position; deal 3 damage from aerial speed."
+      },
+      "description": "The ancient Lac bird depicted on Dong Son bronze drums — the national symbol of Vietnam's deepest ancestry.",
+      "id": "vietnamese-016",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Phap Luan",
+      "type": "hero",
+      "domains": [
+        "monk",
+        "dharma wheel",
+        "Vietnamese Buddhist"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dharma Turn",
+        "description": "Remove all immoral effects from allies; grant +2 wisdom to all Buddhist allies."
+      },
+      "description": "The archetypal Vietnamese Buddhist monk who spreads the dharma wheel through prayers and community service.",
+      "id": "vietnamese-017",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Quan Am",
+      "type": "goddess",
+      "domains": [
+        "Guanyin Vietnam",
+        "compassion",
+        "mercy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Southern Mercy",
+        "description": "Restore 4 HP to one ally who is critically wounded; remove all suffering effects."
+      },
+      "description": "The Vietnamese form of Guanyin — Quan Am — the goddess of infinite mercy worshipped at every roadside shrine.",
+      "id": "vietnamese-018",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Hai Ba Trung",
+      "type": "heroine",
+      "domains": [
+        "Trung sisters",
+        "revolt",
+        "elephants",
+        "heroism"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sisters' Revolt",
+        "description": "Two allies gain +4 power simultaneously from the power of united resistance."
+      },
+      "description": "The legendary Trung Sisters who led the first Vietnamese revolt against Chinese rule on war elephants.",
+      "id": "vietnamese-019",
+      "culture_slug": "vietnamese"
+    },
+    {
+      "name": "Coc Than",
+      "type": "creature",
+      "domains": [
+        "divine toad",
+        "rain calling",
+        "three-legged",
+        "moon"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Toad",
+        "description": "Restore 1 HP to all allies; inflict wet status on all fire enemies from the rain toad's calling."
+      },
+      "description": "The magical three-legged toad who calls rain by daring to fight heaven and forcing the Jade Emperor to relent.",
+      "id": "vietnamese-020",
+      "culture_slug": "vietnamese"
+    }
+  ]
+}

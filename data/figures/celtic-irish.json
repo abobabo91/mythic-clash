@@ -1,0 +1,513 @@
+{
+  "culture_slug": "celtic-irish",
+  "count": 20,
+  "figures": [
+    {
+      "name": "The Dagda",
+      "type": "god",
+      "domains": [
+        "earth",
+        "wisdom",
+        "abundance",
+        "magic"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cauldron of Plenty",
+        "description": "Fully restore one ally's HP; give all allies +1 to all stats."
+      },
+      "description": "Father-god of the Tuatha Dé Danann who wields a club that kills and a cauldron that never empties.",
+      "id": "celtic-irish-001",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "The Morrigan",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "fate",
+        "death",
+        "crows"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Crow's Prophecy",
+        "description": "Choose one enemy; that card is marked for death and takes +3 damage from all sources for 2 turns."
+      },
+      "description": "Triple war goddess of fate who appears as a crow on the battlefield and decides who lives and dies.",
+      "id": "celtic-irish-002",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Lugh",
+      "type": "god",
+      "domains": [
+        "sun",
+        "crafts",
+        "all skills",
+        "harvest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Spear of Lugh",
+        "description": "Throw a never-missing spear dealing 7 damage; enemy cannot dodge or shield."
+      },
+      "description": "Master of every skill and craft, solar champion of the Tuatha Dé Danann who slew his own grandfather Balor.",
+      "id": "celtic-irish-003",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Cú Chulainn",
+      "type": "hero",
+      "domains": [
+        "war",
+        "loyalty",
+        "battle frenzy"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Riastrad (Warp-Spasm)",
+        "description": "Transform: gain +4 power and +3 speed but lose 3 defense for 2 turns."
+      },
+      "description": "Greatest Irish warrior hero who enters an unstoppable berserker warp-spasm in the heat of battle.",
+      "id": "celtic-irish-004",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Manannán mac Lir",
+      "type": "god",
+      "domains": [
+        "sea",
+        "Otherworld",
+        "magic",
+        "illusion"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cloak of Mists",
+        "description": "Make all allies untargetable for 1 turn; swap one ally with a copy of an enemy."
+      },
+      "description": "Lord of the sea and guardian of the Otherworld who rides his horse over the waves and controls fate.",
+      "id": "celtic-irish-005",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Brigid",
+      "type": "goddess",
+      "domains": [
+        "fire",
+        "poetry",
+        "healing",
+        "spring"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Flame",
+        "description": "Heal all allies for 3 HP; grant the weakest ally +3 magic for 2 turns."
+      },
+      "description": "Triple goddess of fire, poetry and healing whose sacred flame at Kildare burned for centuries.",
+      "id": "celtic-irish-006",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Nuada Airgetlám",
+      "type": "god",
+      "domains": [
+        "kingship",
+        "silver arm",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Silver Hand",
+        "description": "Restore a disabled ability to any ally; deal 4 damage to one enemy."
+      },
+      "description": "First high king of the Tuatha Dé Danann who received a perfect silver arm after losing his own in battle.",
+      "id": "celtic-irish-007",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Balor",
+      "type": "giant",
+      "domains": [
+        "evil eye",
+        "death",
+        "Fomorians"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Evil Eye",
+        "description": "Open: deal 8 damage to one target regardless of defense or shields."
+      },
+      "description": "King of the demonic Fomorians whose single enormous eye kills everything it gazes upon when opened.",
+      "id": "celtic-irish-008",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Fionn mac Cumhaill",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "war",
+        "hunting",
+        "Otherworld"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thumb of Knowledge",
+        "description": "Gain full knowledge of all enemy abilities and stats for the rest of the battle."
+      },
+      "description": "Leader of the Fianna warriors who gained all wisdom by accidentally tasting the Salmon of Knowledge.",
+      "id": "celtic-irish-009",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Cernunnos",
+      "type": "god",
+      "domains": [
+        "animals",
+        "fertility",
+        "wild things"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lord of Beasts",
+        "description": "Summon one beast ally with stats matching the highest-powered enemy for 2 turns."
+      },
+      "description": "Antlered god of wild animals and fertility, seated among beasts, master of the cycle of nature.",
+      "id": "celtic-irish-010",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Danu",
+      "type": "goddess",
+      "domains": [
+        "rivers",
+        "mother goddess",
+        "origins"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Rivers of Life",
+        "description": "Restore 2 HP to all allies each turn for 3 turns."
+      },
+      "description": "Ancient mother goddess from whom the divine Tuatha Dé Danann take their name.",
+      "id": "celtic-irish-011",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Donn",
+      "type": "god",
+      "domains": [
+        "dead",
+        "storm",
+        "darkness"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "House of Donn",
+        "description": "All enemies lose 1 HP per turn for 3 turns as darkness creeps in."
+      },
+      "description": "Lord of the dead who dwells on a rocky island off the southwest coast of Ireland awaiting the souls of the deceased.",
+      "id": "celtic-irish-012",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Medb",
+      "type": "queen",
+      "domains": [
+        "war",
+        "sovereignty",
+        "sexuality"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sovereignty's Price",
+        "description": "Choose one enemy: force it to lose 2 power or 2 defense, your choice."
+      },
+      "description": "Warrior queen of Connacht whose insatiable appetites for war and men drove the great Ulster Cycle.",
+      "id": "celtic-irish-013",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Diarmuid Ua Duibhne",
+      "type": "hero",
+      "domains": [
+        "love",
+        "battle",
+        "cursed boar"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Love Spot",
+        "description": "Force one enemy to protect this card for 1 turn instead of attacking."
+      },
+      "description": "Irresistible warrior of the Fianna whose magical love spot made any woman who saw him fall helplessly in love.",
+      "id": "celtic-irish-014",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Midir",
+      "type": "fairy king",
+      "domains": [
+        "Otherworld",
+        "chess",
+        "love"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fairy Chess",
+        "description": "Win: negate the next special ability played against your side."
+      },
+      "description": "Beautiful king of the fairy mound Brí Léith who reclaimed his love Étaín across multiple reincarnations.",
+      "id": "celtic-irish-015",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Oisín",
+      "type": "hero",
+      "domains": [
+        "poetry",
+        "Tír na nÓg",
+        "memory"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Song of Tír na nÓg",
+        "description": "Restore 2 HP to all allies and remove one debuff from each."
+      },
+      "description": "Son of Fionn who spent 300 years in the eternal youth of the Otherworld with the goddess Niamh.",
+      "id": "celtic-irish-016",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Selkie",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "shape-shifting",
+        "longing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seal Skin",
+        "description": "Steal one enemy buff and seal it; enemy cannot reactivate that buff this battle."
+      },
+      "description": "Seal people who shed their skins on land, irresistibly drawn between sea and human love.",
+      "id": "celtic-irish-017",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Puca",
+      "type": "trickster",
+      "domains": [
+        "shapeshifting",
+        "mischief",
+        "wilderness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Wild Ride",
+        "description": "Randomly redistribute all stat bonuses on the field between all cards."
+      },
+      "description": "Shape-shifting trickster spirit that takes the form of a dark horse, goat or hare to mislead travelers.",
+      "id": "celtic-irish-018",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Banshee",
+      "type": "spirit",
+      "domains": [
+        "death omen",
+        "wailing",
+        "fate"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Keening Wail",
+        "description": "The next ally or enemy to fall this battle deals 3 damage to all when they do."
+      },
+      "description": "Wailing spirit whose cry announces an imminent death in the great Irish families descended from the Milesians.",
+      "id": "celtic-irish-019",
+      "culture_slug": "celtic-irish"
+    },
+    {
+      "name": "Áine",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "love",
+        "summer",
+        "fairies"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Midsummer Blessing",
+        "description": "Grant one ally +3 magic and immunity to dark-alignment effects for 1 turn."
+      },
+      "description": "Sun and fairy queen of Munster who governs love, summer and the blossoming of crops.",
+      "id": "celtic-irish-020",
+      "culture_slug": "celtic-irish"
+    }
+  ]
+}

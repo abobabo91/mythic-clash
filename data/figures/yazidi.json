@@ -1,0 +1,526 @@
+{
+  "culture_slug": "yazidi",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tawuse Melek",
+      "type": "angel",
+      "domains": [
+        "light",
+        "spirit",
+        "rainbow",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Tawuse Melek is an angel from Yazidi tradition associated with light, spirit, rainbow, and wisdom.",
+      "id": "yazidi-001",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Sheikh Adi",
+      "type": "saint",
+      "domains": [
+        "light",
+        "spirit",
+        "order",
+        "healing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Sheikh Adi is a saint from Yazidi tradition associated with light, spirit, order, and healing.",
+      "id": "yazidi-002",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Sultan Ezid",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "light",
+        "justice",
+        "spirit"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Sultan Ezid is a hero from Yazidi tradition associated with kingship, light, justice, and spirit.",
+      "id": "yazidi-003",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Sheikh Hasan",
+      "type": "saint",
+      "domains": [
+        "wisdom",
+        "spirit",
+        "justice",
+        "light"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Sheikh Hasan is a saint from Yazidi tradition associated with wisdom, spirit, justice, and light.",
+      "id": "yazidi-004",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Shamsadin",
+      "type": "angel",
+      "domains": [
+        "sun",
+        "light",
+        "fire",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Shamsadin is an angel from Yazidi tradition associated with sun, light, fire, and wisdom.",
+      "id": "yazidi-005",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Fakhradin",
+      "type": "angel",
+      "domains": [
+        "light",
+        "wisdom",
+        "music",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Fakhradin is an angel from Yazidi tradition associated with light, wisdom, music, and spirit.",
+      "id": "yazidi-006",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Nasirdin",
+      "type": "angel",
+      "domains": [
+        "death",
+        "judgment",
+        "spirit",
+        "truth"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Nasirdin is an angel from Yazidi tradition associated with death, judgment, spirit, and truth.",
+      "id": "yazidi-007",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Sajadin",
+      "type": "angel",
+      "domains": [
+        "protection",
+        "spirit",
+        "earth",
+        "light"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Sajadin is an angel from Yazidi tradition associated with protection, spirit, earth, and light.",
+      "id": "yazidi-008",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Xwede",
+      "type": "god",
+      "domains": [
+        "creation",
+        "light",
+        "wisdom",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Xwede is a god from Yazidi tradition associated with creation, light, wisdom, and sky.",
+      "id": "yazidi-009",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Heft Sirr",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "light",
+        "mystery",
+        "order"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Heft Sirr is a spirit from Yazidi tradition associated with spirit, light, mystery, and order.",
+      "id": "yazidi-010",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Khatuna Fakhra",
+      "type": "saint",
+      "domains": [
+        "fertility",
+        "healing",
+        "light",
+        "water"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Khatuna Fakhra is a saint from Yazidi tradition associated with fertility, healing, light, and water.",
+      "id": "yazidi-011",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Pire Fat",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "light",
+        "wisdom",
+        "mercy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Pire Fat is an ancestor from Yazidi tradition associated with ancestor, light, wisdom, and mercy.",
+      "id": "yazidi-012",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Pire Liban",
+      "type": "ancestor",
+      "domains": [
+        "spirit",
+        "protection",
+        "ritual",
+        "light"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Pire Liban is an ancestor from Yazidi tradition associated with spirit, protection, ritual, and light.",
+      "id": "yazidi-013",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Derwesh e Evdi",
+      "type": "hero",
+      "domains": [
+        "quest",
+        "spirit",
+        "love",
+        "mountain"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Derwesh e Evdi is a hero from Yazidi tradition associated with quest, spirit, love, and mountain.",
+      "id": "yazidi-014",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Melek Sheikh Sin",
+      "type": "angel",
+      "domains": [
+        "moon",
+        "light",
+        "spirit",
+        "night"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Melek Sheikh Sin is an angel from Yazidi tradition associated with moon, light, spirit, and night.",
+      "id": "yazidi-015",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Melek Shexubakr",
+      "type": "angel",
+      "domains": [
+        "justice",
+        "light",
+        "wisdom",
+        "oath"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Judgment Oath",
+        "description": "Expose one enemy card; if it has higher power than wisdom, stun it for 1 turn."
+      },
+      "description": "Melek Shexubakr is an angel from Yazidi tradition associated with justice, light, wisdom, and oath.",
+      "id": "yazidi-016",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Melek Sicadin",
+      "type": "angel",
+      "domains": [
+        "earth",
+        "protection",
+        "spirit",
+        "light"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Melek Sicadin is an angel from Yazidi tradition associated with earth, protection, spirit, and light.",
+      "id": "yazidi-017",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Melek Nasirdin",
+      "type": "angel",
+      "domains": [
+        "death",
+        "judgment",
+        "spirit",
+        "light"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Melek Nasirdin is an angel from Yazidi tradition associated with death, judgment, spirit, and light.",
+      "id": "yazidi-018",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Melek Fakhradin",
+      "type": "angel",
+      "domains": [
+        "music",
+        "spirit",
+        "light",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Melek Fakhradin is an angel from Yazidi tradition associated with music, spirit, light, and wisdom.",
+      "id": "yazidi-019",
+      "culture_slug": "yazidi"
+    },
+    {
+      "name": "Lalish Guardian",
+      "type": "guardian",
+      "domains": [
+        "earth",
+        "spirit",
+        "light",
+        "sanctuary"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Lalish Guardian is a guardian from Yazidi tradition associated with earth, spirit, light, and sanctuary.",
+      "id": "yazidi-020",
+      "culture_slug": "yazidi"
+    }
+  ]
+}

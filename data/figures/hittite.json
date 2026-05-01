@@ -1,0 +1,526 @@
+{
+  "culture_slug": "hittite",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tarhunt",
+      "type": "god",
+      "domains": [
+        "storm",
+        "war",
+        "sky",
+        "kingship"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Tarhunt is a god from Hittite tradition associated with storm, war, sky, and kingship.",
+      "id": "hittite-001",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Arinna Sun Goddess",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "light",
+        "justice",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Arinna Sun Goddess is a goddess from Hittite tradition associated with sun, light, justice, and kingship.",
+      "id": "hittite-002",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Teshub",
+      "type": "god",
+      "domains": [
+        "storm",
+        "thunder",
+        "mountain",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Teshub is a god from Hittite tradition associated with storm, thunder, mountain, and war.",
+      "id": "hittite-003",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Hepat",
+      "type": "goddess",
+      "domains": [
+        "sky",
+        "kingship",
+        "motherhood",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Hepat is a goddess from Hittite tradition associated with sky, kingship, motherhood, and light.",
+      "id": "hittite-004",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Telepinu",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "agriculture",
+        "earth",
+        "spring"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Telepinu is a god from Hittite tradition associated with fertility, agriculture, earth, and spring.",
+      "id": "hittite-005",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Kumarbi",
+      "type": "god",
+      "domains": [
+        "earth",
+        "creation",
+        "kingship",
+        "darkness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Kumarbi is a god from Hittite tradition associated with earth, creation, kingship, and darkness.",
+      "id": "hittite-006",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Inara",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "animal",
+        "hunt",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Inara is a goddess from Hittite tradition associated with war, animal, hunt, and protection.",
+      "id": "hittite-007",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Kamrusepa",
+      "type": "goddess",
+      "domains": [
+        "healing",
+        "magic",
+        "fire",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Kamrusepa is a goddess from Hittite tradition associated with healing, magic, fire, and wisdom.",
+      "id": "hittite-008",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Hannahannah",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "motherhood",
+        "fate",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Hannahannah is a goddess from Hittite tradition associated with wisdom, motherhood, fate, and earth.",
+      "id": "hittite-009",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Illuyanka",
+      "type": "monster",
+      "domains": [
+        "serpent",
+        "storm",
+        "chaos",
+        "mountain"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Illuyanka is a monster from Hittite tradition associated with serpent, storm, chaos, and mountain.",
+      "id": "hittite-010",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Lelwani",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "death",
+        "justice",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Lelwani is a goddess from Hittite tradition associated with underworld, death, justice, and earth.",
+      "id": "hittite-011",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Shaushka",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "magic",
+        "star"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Shaushka is a goddess from Hittite tradition associated with love, war, magic, and star.",
+      "id": "hittite-012",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Ullikummi",
+      "type": "monster",
+      "domains": [
+        "mountain",
+        "stone",
+        "destruction",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Ullikummi is a monster from Hittite tradition associated with mountain, stone, destruction, and darkness.",
+      "id": "hittite-013",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Hedammu",
+      "type": "monster",
+      "domains": [
+        "sea",
+        "serpent",
+        "hunger",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Hedammu is a monster from Hittite tradition associated with sea, serpent, hunger, and chaos.",
+      "id": "hittite-014",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Upelluri",
+      "type": "giant",
+      "domains": [
+        "earth",
+        "mountain",
+        "support",
+        "stone"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Upelluri is a giant from Hittite tradition associated with earth, mountain, support, and stone.",
+      "id": "hittite-015",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Pirwa",
+      "type": "god",
+      "domains": [
+        "animal",
+        "horse",
+        "war",
+        "road"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Pirwa is a god from Hittite tradition associated with animal, horse, war, and road.",
+      "id": "hittite-016",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Zaliyanu",
+      "type": "goddess",
+      "domains": [
+        "river",
+        "water",
+        "fertility",
+        "storm"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Zaliyanu is a goddess from Hittite tradition associated with river, water, fertility, and storm.",
+      "id": "hittite-017",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Kurunta",
+      "type": "god",
+      "domains": [
+        "animal",
+        "hunting",
+        "mountain",
+        "forest"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Kurunta is a god from Hittite tradition associated with animal, hunting, mountain, and forest.",
+      "id": "hittite-018",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Iyarri",
+      "type": "god",
+      "domains": [
+        "plague",
+        "war",
+        "arrow",
+        "darkness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Iyarri is a god from Hittite tradition associated with plague, war, arrow, and darkness.",
+      "id": "hittite-019",
+      "culture_slug": "hittite"
+    },
+    {
+      "name": "Taru",
+      "type": "creature",
+      "domains": [
+        "bull",
+        "storm",
+        "strength",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Taru is a creature from Hittite tradition associated with bull, storm, strength, and sky.",
+      "id": "hittite-020",
+      "culture_slug": "hittite"
+    }
+  ]
+}

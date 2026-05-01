@@ -1,0 +1,526 @@
+{
+  "culture_slug": "hawaiian-polynesian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Kane",
+      "type": "god",
+      "domains": [
+        "creation",
+        "light",
+        "water",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Kane is a god from Hawaiian Polynesian tradition associated with creation, light, water, and life.",
+      "id": "hawaiian-polynesian-001",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Pele",
+      "type": "goddess",
+      "domains": [
+        "fire",
+        "volcano",
+        "destruction",
+        "passion"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Pele is a goddess from Hawaiian Polynesian tradition associated with fire, volcano, destruction, and passion.",
+      "id": "hawaiian-polynesian-002",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Kanaloa",
+      "type": "god",
+      "domains": [
+        "sea",
+        "underworld",
+        "healing",
+        "magic"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kanaloa is a god from Hawaiian Polynesian tradition associated with sea, underworld, healing, and magic.",
+      "id": "hawaiian-polynesian-003",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Ku",
+      "type": "god",
+      "domains": [
+        "war",
+        "kingship",
+        "strength",
+        "forest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ku is a god from Hawaiian Polynesian tradition associated with war, kingship, strength, and forest.",
+      "id": "hawaiian-polynesian-004",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Lono",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "rain",
+        "peace",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Lono is a god from Hawaiian Polynesian tradition associated with fertility, rain, peace, and agriculture.",
+      "id": "hawaiian-polynesian-005",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Hi'iaka",
+      "type": "goddess",
+      "domains": [
+        "healing",
+        "hula",
+        "forest",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Hi'iaka is a goddess from Hawaiian Polynesian tradition associated with healing, hula, forest, and light.",
+      "id": "hawaiian-polynesian-006",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Maui",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "trickster",
+        "sea",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Maui is a hero from Hawaiian Polynesian tradition associated with sun, trickster, sea, and quest.",
+      "id": "hawaiian-polynesian-007",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Namaka",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "water",
+        "storm",
+        "revenge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Namaka is a goddess from Hawaiian Polynesian tradition associated with sea, water, storm, and revenge.",
+      "id": "hawaiian-polynesian-008",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Kamapua'a",
+      "type": "hero",
+      "domains": [
+        "animal",
+        "fertility",
+        "forest",
+        "rain"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Kamapua'a is a hero from Hawaiian Polynesian tradition associated with animal, fertility, forest, and rain.",
+      "id": "hawaiian-polynesian-009",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Poli'ahu",
+      "type": "goddess",
+      "domains": [
+        "ice",
+        "mountain",
+        "snow",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Poli'ahu is a goddess from Hawaiian Polynesian tradition associated with ice, mountain, snow, and light.",
+      "id": "hawaiian-polynesian-010",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Hina",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "wisdom",
+        "craft",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Hina is a goddess from Hawaiian Polynesian tradition associated with moon, wisdom, craft, and light.",
+      "id": "hawaiian-polynesian-011",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Wakea",
+      "type": "god",
+      "domains": [
+        "sky",
+        "creation",
+        "ancestor",
+        "kingship"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Wakea is a god from Hawaiian Polynesian tradition associated with sky, creation, ancestor, and kingship.",
+      "id": "hawaiian-polynesian-012",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Papahanaumoku",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "creation",
+        "motherhood",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Papahanaumoku is a goddess from Hawaiian Polynesian tradition associated with earth, creation, motherhood, and fertility.",
+      "id": "hawaiian-polynesian-013",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Kamohoalii",
+      "type": "god",
+      "domains": [
+        "sea",
+        "shark",
+        "storm",
+        "animal"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kamohoalii is a god from Hawaiian Polynesian tradition associated with sea, shark, storm, and animal.",
+      "id": "hawaiian-polynesian-014",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Haumea",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "earth",
+        "motherhood",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Haumea is a goddess from Hawaiian Polynesian tradition associated with fertility, earth, motherhood, and light.",
+      "id": "hawaiian-polynesian-015",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "La'amaomao",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "sky",
+        "guidance",
+        "storm"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "La'amaomao is a spirit from Hawaiian Polynesian tradition associated with wind, sky, guidance, and storm.",
+      "id": "hawaiian-polynesian-016",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Kihawahine",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "protection",
+        "lizard",
+        "royalty"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Kihawahine is a spirit from Hawaiian Polynesian tradition associated with water, protection, lizard, and royalty.",
+      "id": "hawaiian-polynesian-017",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Nanaue",
+      "type": "monster",
+      "domains": [
+        "shark",
+        "sea",
+        "monster",
+        "hunger"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Nanaue is a monster from Hawaiian Polynesian tradition associated with shark, sea, monster, and hunger.",
+      "id": "hawaiian-polynesian-018",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Mo'o Inanea",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "lizard",
+        "illusion",
+        "protection"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Mo'o Inanea is a spirit from Hawaiian Polynesian tradition associated with water, lizard, illusion, and protection.",
+      "id": "hawaiian-polynesian-019",
+      "culture_slug": "hawaiian-polynesian"
+    },
+    {
+      "name": "Milu",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "darkness",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Milu is a god from Hawaiian Polynesian tradition associated with underworld, death, darkness, and spirit.",
+      "id": "hawaiian-polynesian-020",
+      "culture_slug": "hawaiian-polynesian"
+    }
+  ]
+}

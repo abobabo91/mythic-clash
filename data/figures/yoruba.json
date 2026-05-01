@@ -1,0 +1,521 @@
+{
+  "culture_slug": "yoruba",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Orunmila",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "divination",
+        "destiny",
+        "Ifa"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ifa Oracle",
+        "description": "Look at all enemy cards and all future draws; choose one to discard."
+      },
+      "description": "Divine witness of creation who knows every human destiny and teaches divination through the Ifa system.",
+      "id": "yoruba-001",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Shango",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "justice",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunderstone Axe",
+        "description": "Deal 7 thunder damage; enemies struck lose 2 power from divine justice."
+      },
+      "description": "Warrior king deified as the Orisha of thunder and lightning who executes justice from the sky.",
+      "id": "yoruba-002",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Ogun",
+      "type": "god",
+      "domains": [
+        "iron",
+        "war",
+        "hunting",
+        "labor"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Iron Path",
+        "description": "Destroy one enemy shield or armor; deal 5 damage that cannot be blocked."
+      },
+      "description": "Fierce Orisha of iron, war and all who use metal tools, who opened the road of civilization.",
+      "id": "yoruba-003",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Yemoja",
+      "type": "goddess",
+      "domains": [
+        "ocean",
+        "rivers",
+        "motherhood",
+        "healing"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Embrace",
+        "description": "Heal all allies for 4 HP; water-aligned allies gain +3 defense."
+      },
+      "description": "Great mother Orisha of the ocean who protects all children and is the source of all waters.",
+      "id": "yoruba-004",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Oya",
+      "type": "goddess",
+      "domains": [
+        "storms",
+        "change",
+        "death",
+        "wind",
+        "lightning"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Tempest of Change",
+        "description": "Shuffle all positions on the field; remove all buffs and debuffs from every card."
+      },
+      "description": "Warrior goddess of storms, the Niger River and the winds of change who guards the gate between life and death.",
+      "id": "yoruba-005",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Obatala",
+      "type": "god",
+      "domains": [
+        "purity",
+        "creation of humans",
+        "peace",
+        "white"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "White Cloth",
+        "description": "Negate all chaos and dark abilities directed at any ally for 1 turn."
+      },
+      "description": "Creator of human bodies who molds each person from white clay; Orisha of purity, peace and compassion.",
+      "id": "yoruba-006",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Eshu/Elegba",
+      "type": "trickster",
+      "domains": [
+        "crossroads",
+        "communication",
+        "trickery",
+        "fate"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Crossroads Choice",
+        "description": "Force one enemy to choose between losing 4 power or 4 wisdom — you decide which they pick."
+      },
+      "description": "Divine trickster and messenger at the crossroads who must be propitiated first in every ceremony.",
+      "id": "yoruba-007",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Osun",
+      "type": "goddess",
+      "domains": [
+        "freshwater",
+        "love",
+        "fertility",
+        "healing",
+        "art"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sweet River",
+        "description": "Restore 5 HP to one ally; grant +2 magic to all love and water allies."
+      },
+      "description": "Orisha of the Osun River, love, fertility and art whose brass mirror and honey reflect the sweetness of life.",
+      "id": "yoruba-008",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Orunmila",
+      "type": "god",
+      "domains": [
+        "Ifa",
+        "wisdom",
+        "destiny"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ifa Oracle",
+        "description": "Look at all enemy cards and all future draws; choose one to discard."
+      },
+      "description": "Divine witness of creation who knows every human destiny and teaches divination through the Ifa system.",
+      "id": "yoruba-009",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Ori",
+      "type": "spirit",
+      "domains": [
+        "personal spirit",
+        "inner head",
+        "destiny"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Inner Head",
+        "description": "Grant one ally: their next ability automatically succeeds and deals maximum effect."
+      },
+      "description": "Each person's personal Orisha — the individual divine essence that determines one's unique destiny.",
+      "id": "yoruba-010",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Osoosi",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "forest",
+        "justice",
+        "arrows"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Unerring Arrow",
+        "description": "Deal 6 damage ignoring all evasion or dodge abilities."
+      },
+      "description": "Hunter Orisha of the forest and tracking who never misses his target and protects communities.",
+      "id": "yoruba-011",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Obaluaye",
+      "type": "god",
+      "domains": [
+        "disease",
+        "healing",
+        "earth",
+        "smallpox"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague and Cure",
+        "description": "Deal 3 disease damage to all enemies; then heal all allies for 2."
+      },
+      "description": "Orisha of earth, disease and healing who has power over all sicknesses and their cures.",
+      "id": "yoruba-012",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Aganju",
+      "type": "god",
+      "domains": [
+        "wilderness",
+        "volcanoes",
+        "crossings"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Volcanic Path",
+        "description": "Deal 4 fire damage to all enemies; grant allies crossing ability for 1 turn."
+      },
+      "description": "Orisha of the wilderness and volcanoes, father of Shango, who governs all wild uncrossable places.",
+      "id": "yoruba-013",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Nana Buluku",
+      "type": "goddess",
+      "domains": [
+        "creator",
+        "androgyne",
+        "ancient"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancient Decree",
+        "description": "Your next 3 ability plays cannot be countered by any enemy reaction."
+      },
+      "description": "The most ancient creator deity of the Yoruba, androgynous parent of Mawu and Lisa, before all Orishas.",
+      "id": "yoruba-014",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Egungun",
+      "type": "ancestor",
+      "domains": [
+        "masquerade",
+        "ancestors",
+        "community"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancestral Masquerade",
+        "description": "Grant all allies +2 to all stats from ancestral blessing for 1 turn."
+      },
+      "description": "Collective spirit of honored ancestors who appear in masquerade to bless and counsel the living community.",
+      "id": "yoruba-015",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Olokun",
+      "type": "god",
+      "domains": [
+        "deep ocean",
+        "wealth",
+        "mystery",
+        "mental health"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Abyssal Depth",
+        "description": "Drag one enemy to the deep: they lose 3 magic and cannot use spiritual abilities for 1 turn."
+      },
+      "description": "Orisha of the deep ocean floor who holds unfathomable wealth and governs the mysteries below all waters.",
+      "id": "yoruba-016",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Obba",
+      "type": "goddess",
+      "domains": [
+        "marital devotion",
+        "rivers",
+        "unrequited love"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Devoted Cut",
+        "description": "Sacrifice 3 of this card's HP to grant one ally +4 magic from the power of sacrifice."
+      },
+      "description": "Devoted wife who cut off her own ear to cook for Shango in an act of love that ended in rejection.",
+      "id": "yoruba-017",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Ibeji",
+      "type": "twins",
+      "domains": [
+        "twins",
+        "children",
+        "luck",
+        "playfulness"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Twin Luck",
+        "description": "All luck-based or random abilities this turn trigger twice."
+      },
+      "description": "Sacred twin Orishas of luck and playfulness who bring double blessings to twins and their families.",
+      "id": "yoruba-018",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Osanyin",
+      "type": "god",
+      "domains": [
+        "herbs",
+        "healing",
+        "forest medicine"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Herb Doctor",
+        "description": "Remove all disease and poison effects from all allies."
+      },
+      "description": "One-eyed, one-armed Orisha of herbal medicine who knows the healing power of every plant in the forest.",
+      "id": "yoruba-019",
+      "culture_slug": "yoruba"
+    },
+    {
+      "name": "Otin",
+      "type": "goddess",
+      "domains": [
+        "rivers",
+        "hunting",
+        "war",
+        "female warriors"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River Warrior",
+        "description": "Deal 4 damage and restore 2 HP to this card from river strength."
+      },
+      "description": "Fierce female Orisha of the Otin River who participates in war and hunting alongside the male Orishas.",
+      "id": "yoruba-020",
+      "culture_slug": "yoruba"
+    }
+  ]
+}

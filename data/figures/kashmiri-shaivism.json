@@ -1,0 +1,508 @@
+{
+  "culture_slug": "kashmiri-shaivism",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Paramashiva",
+      "type": "god",
+      "domains": [
+        "absolute consciousness",
+        "supreme reality",
+        "Kashmir"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Pure Consciousness",
+        "description": "All ally abilities cost 0 energy this turn; enemy abilities that limit consciousness auto-fail."
+      },
+      "description": "The supreme absolute of Kashmir Shaivism — pure undivided consciousness from which all reality emanates.",
+      "id": "kashmiri-shaivism-001",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Shakti-Para",
+      "type": "goddess",
+      "domains": [
+        "supreme energy",
+        "Shiva's inseparable power",
+        "spanda"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Vibration",
+        "description": "Deal 5 damage to all enemies; grant all allies +2 to all stats from Shakti's emanation."
+      },
+      "description": "The supreme Shakti of Kashmiri Shaivism — the inseparable creative power of Paramashiva.",
+      "id": "kashmiri-shaivism-002",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Abhinavagupta",
+      "type": "hero",
+      "domains": [
+        "philosopher",
+        "Tantraloka",
+        "recognition",
+        "sage"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Pratybhijna Teaching",
+        "description": "Grant all allies recognition of their own highest potential: +3 wisdom for 2 turns."
+      },
+      "description": "The supreme philosopher-mystic of Kashmir Shaivism whose Tantraloka synthesized all tantric wisdom.",
+      "id": "kashmiri-shaivism-003",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Bhairava (Kashmir)",
+      "type": "god",
+      "domains": [
+        "supreme Bhairava",
+        "absolute terror",
+        "liberation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Absolute Terror",
+        "description": "Force all enemies to face their ultimate fear: each loses 2 of their highest stat."
+      },
+      "description": "The supreme manifestation of Bhairava in Kashmiri Shaivism representing the terrifying face of liberation.",
+      "id": "kashmiri-shaivism-004",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Trika Shakti",
+      "type": "goddess",
+      "domains": [
+        "three goddesses",
+        "Para Apara Parapara",
+        "Kashmir"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Triple Goddess",
+        "description": "Activate three abilities simultaneously for one ally as the Triple Goddess empowers them."
+      },
+      "description": "The three goddesses of the Trika system representing the threefold nature of divine consciousness.",
+      "id": "kashmiri-shaivism-005",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Kshemaraja",
+      "type": "hero",
+      "domains": [
+        "disciple of Abhinavagupta",
+        "recognition",
+        "teacher"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Recognition Sutra",
+        "description": "Grant one ally permanent immunity to confusion effects; they know their true nature."
+      },
+      "description": "The greatest disciple of Abhinavagupta who wrote the Pratyabhijnahrdayam — the Heart of Recognition.",
+      "id": "kashmiri-shaivism-006",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Spanda (Force)",
+      "type": "spirit",
+      "domains": [
+        "divine vibration",
+        "heartbeat of cosmos",
+        "Kashmir"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Pulse",
+        "description": "All timing abilities on your side trigger at the perfect moment for 2 turns."
+      },
+      "description": "The fundamental vibrating creative pulse of divine consciousness that creates and sustains all reality.",
+      "id": "kashmiri-shaivism-007",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Aghora",
+      "type": "god",
+      "domains": [
+        "left-hand Shiva",
+        "forbidden",
+        "cremation ground",
+        "liberation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Forbidden Rite",
+        "description": "Ignore all game rules for one ability; it works as if no defense or immunity exists."
+      },
+      "description": "The terrible Aghora face of Shiva worshipped by those who seek liberation through transgression of limits.",
+      "id": "kashmiri-shaivism-008",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Matrikas",
+      "type": "goddess",
+      "domains": [
+        "eight mother goddesses",
+        "group power",
+        "letters"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Eight Mothers",
+        "description": "Grant eight different +1 stat bonuses distributed among all allies."
+      },
+      "description": "The eight Mother Goddesses of Kashmiri Shaivism who embody the letters of the Sanskrit alphabet as creative power.",
+      "id": "kashmiri-shaivism-009",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Svacchanda Bhairava",
+      "type": "god",
+      "domains": [
+        "self-willed Bhairava",
+        "five faces",
+        "freedom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Self-Willed Power",
+        "description": "This card ignores all restriction abilities; it acts freely at all times."
+      },
+      "description": "The five-faced 'Self-Willed' Bhairava who embodies absolute divine freedom and unlimited self-expression.",
+      "id": "kashmiri-shaivism-010",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Natha Siddha",
+      "type": "hero",
+      "domains": [
+        "yogic master",
+        "Kashmir tradition",
+        "awakened"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Shaktipat",
+        "description": "Transmit awakening to one ally: grant them +3 to all stats permanently."
+      },
+      "description": "The awakened yogic master who has received shaktipat initiation and transmits divine awakening to students.",
+      "id": "kashmiri-shaivism-011",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Anuttara",
+      "type": "spirit",
+      "domains": [
+        "unsurpassable",
+        "absolute reality",
+        "pure space"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Unsurpassable",
+        "description": "This card's power cannot be reduced below its original value by any means."
+      },
+      "description": "The Unsurpassable — the absolute reality in Kashmiri Shaivism that underlies and pervades all existence.",
+      "id": "kashmiri-shaivism-012",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Kuleshvara",
+      "type": "god",
+      "domains": [
+        "lord of the kula",
+        "tantric family",
+        "initiation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Kula Initiation",
+        "description": "One ally gains access to a forbidden ability that was previously sealed."
+      },
+      "description": "The lord of the tantric Kula tradition who initiates adepts into the secret family of divine realization.",
+      "id": "kashmiri-shaivism-013",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Virupa",
+      "type": "hero",
+      "domains": [
+        "Kashmiri siddha",
+        "wine and fish",
+        "liberation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Transgressive Grace",
+        "description": "This card ignores all moral restrictions; deal 4 damage that bypasses alignment defenses."
+      },
+      "description": "The Kashmiri tantric siddha who attained liberation through the transgressive practice of wine and fish eating.",
+      "id": "kashmiri-shaivism-014",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Bindu",
+      "type": "spirit",
+      "domains": [
+        "divine point",
+        "source",
+        "Kashmir cosmology"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Zero Point",
+        "description": "Collapse all field effects to zero; all cards return to base stats."
+      },
+      "description": "The primordial point of divine consciousness from which the entire universe of Kashmir Shaivism emanates.",
+      "id": "kashmiri-shaivism-015",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Nada",
+      "type": "spirit",
+      "domains": [
+        "cosmic sound",
+        "vibration",
+        "creation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Sound",
+        "description": "All sound and music abilities gain +3 power; one enemy is disoriented by cosmic vibration."
+      },
+      "description": "The primordial sound-vibration that precedes all manifestation in Kashmir Shaivism's creation teaching.",
+      "id": "kashmiri-shaivism-016",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Lalla Ded",
+      "type": "heroine",
+      "domains": [
+        "Kashmiri mystic poetess",
+        "Shaiva devotee",
+        "wanderer"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Naked Freedom",
+        "description": "Remove all material buffs and debuffs from this card; gain +5 magic from pure spiritual freedom."
+      },
+      "description": "The 14th century Kashmiri mystic poetess who wandered naked expressing Shaiva liberation in profound verses.",
+      "id": "kashmiri-shaivism-017",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Prana",
+      "type": "spirit",
+      "domains": [
+        "life breath",
+        "Kashmir",
+        "all-pervading life force"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Life Breath",
+        "description": "Restore 2 HP to all allies; all paralysis and stun effects end."
+      },
+      "description": "The divine life breath (Prana) that carries the energy of Shiva's consciousness through all living beings.",
+      "id": "kashmiri-shaivism-018",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Uttara Kaula",
+      "type": "spirit",
+      "domains": [
+        "supreme kaula tradition",
+        "secret",
+        "ultimate"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ultimate Secret",
+        "description": "Grant one ally access to the most powerful sealed ability on the field."
+      },
+      "description": "The most advanced Kaula tantric transmission — the supreme secret teaching of the Kashmiri tradition.",
+      "id": "kashmiri-shaivism-019",
+      "culture_slug": "kashmiri-shaivism"
+    },
+    {
+      "name": "Kali (Kashmir)",
+      "type": "goddess",
+      "domains": [
+        "Kashmiri Kali",
+        "time destroyer",
+        "liberation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Time Collapse",
+        "description": "All timing-based enemy abilities are nullified; time itself stops for enemies for 1 turn."
+      },
+      "description": "The Kashmiri tantric form of Kali who represents the dissolution of all mental constructs in timeless awareness.",
+      "id": "kashmiri-shaivism-020",
+      "culture_slug": "kashmiri-shaivism"
+    }
+  ]
+}

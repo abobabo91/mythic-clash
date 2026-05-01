@@ -1,0 +1,526 @@
+{
+  "culture_slug": "toltec",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Topiltzin Quetzalcoatl",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "wind",
+        "kingship",
+        "light"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Topiltzin Quetzalcoatl is a hero from Toltec tradition associated with wisdom, wind, kingship, and light.",
+      "id": "toltec-001",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Tezcatlipoca",
+      "type": "god",
+      "domains": [
+        "darkness",
+        "night",
+        "war",
+        "magic"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Tezcatlipoca is a god from Toltec tradition associated with darkness, night, war, and magic.",
+      "id": "toltec-002",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Quetzalcoatl",
+      "type": "god",
+      "domains": [
+        "wind",
+        "creation",
+        "serpent",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Quetzalcoatl is a god from Toltec tradition associated with wind, creation, serpent, and wisdom.",
+      "id": "toltec-003",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Tlahuizcalpantecuhtli",
+      "type": "god",
+      "domains": [
+        "star",
+        "light",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Tlahuizcalpantecuhtli is a god from Toltec tradition associated with star, light, war, and sky.",
+      "id": "toltec-004",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Mixcoatl",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "storm",
+        "sky",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Mixcoatl is a god from Toltec tradition associated with hunting, storm, sky, and war.",
+      "id": "toltec-005",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Chimalman",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "moon",
+        "war",
+        "motherhood"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Chimalman is a goddess from Toltec tradition associated with fertility, moon, war, and motherhood.",
+      "id": "toltec-006",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Huemac",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "fate",
+        "wisdom",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Huemac is a hero from Toltec tradition associated with kingship, fate, wisdom, and war.",
+      "id": "toltec-007",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Xolotl",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "dog",
+        "lightning",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Xolotl is a god from Toltec tradition associated with underworld, dog, lightning, and death.",
+      "id": "toltec-008",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Itzlacoliuhqui",
+      "type": "god",
+      "domains": [
+        "ice",
+        "fate",
+        "night",
+        "punishment"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Itzlacoliuhqui is a god from Toltec tradition associated with ice, fate, night, and punishment.",
+      "id": "toltec-009",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Mictlantecuhtli",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "darkness",
+        "bone"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Mictlantecuhtli is a god from Toltec tradition associated with underworld, death, darkness, and bone.",
+      "id": "toltec-010",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Cihuacoatl",
+      "type": "goddess",
+      "domains": [
+        "motherhood",
+        "war",
+        "death",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Cihuacoatl is a goddess from Toltec tradition associated with motherhood, war, death, and earth.",
+      "id": "toltec-011",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Itzpapalotl",
+      "type": "goddess",
+      "domains": [
+        "night",
+        "star",
+        "butterfly",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Itzpapalotl is a goddess from Toltec tradition associated with night, star, butterfly, and death.",
+      "id": "toltec-012",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Mayahuel",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "plant",
+        "abundance",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Mayahuel is a goddess from Toltec tradition associated with fertility, plant, abundance, and earth.",
+      "id": "toltec-013",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Tlaloc",
+      "type": "god",
+      "domains": [
+        "rain",
+        "storm",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Tlaloc is a god from Toltec tradition associated with rain, storm, water, and fertility.",
+      "id": "toltec-014",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Chalchiuhtlicue",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "river",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Chalchiuhtlicue is a goddess from Toltec tradition associated with water, river, fertility, and light.",
+      "id": "toltec-015",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Xiuhtecuhtli",
+      "type": "god",
+      "domains": [
+        "fire",
+        "hearth",
+        "time",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Xiuhtecuhtli is a god from Toltec tradition associated with fire, hearth, time, and light.",
+      "id": "toltec-016",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Tonacatecuhtli",
+      "type": "god",
+      "domains": [
+        "creation",
+        "abundance",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tonacatecuhtli is a god from Toltec tradition associated with creation, abundance, fertility, and light.",
+      "id": "toltec-017",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Tonacacihuatl",
+      "type": "goddess",
+      "domains": [
+        "creation",
+        "abundance",
+        "motherhood",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tonacacihuatl is a goddess from Toltec tradition associated with creation, abundance, motherhood, and light.",
+      "id": "toltec-018",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Smoking Mirror Priest",
+      "type": "spirit",
+      "domains": [
+        "magic",
+        "darkness",
+        "ritual",
+        "war"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Smoking Mirror Priest is a spirit from Toltec tradition associated with magic, darkness, ritual, and war.",
+      "id": "toltec-019",
+      "culture_slug": "toltec"
+    },
+    {
+      "name": "Atlantean Warrior",
+      "type": "hero",
+      "domains": [
+        "war",
+        "stone",
+        "strength",
+        "honor"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Atlantean Warrior is a hero from Toltec tradition associated with war, stone, strength, and honor.",
+      "id": "toltec-020",
+      "culture_slug": "toltec"
+    }
+  ]
+}

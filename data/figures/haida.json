@@ -1,0 +1,526 @@
+{
+  "culture_slug": "haida",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Raven",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "creation",
+        "light",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Raven is a hero from Haida tradition associated with trickster, creation, light, and sky.",
+      "id": "haida-001",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Bear Mother",
+      "type": "goddess",
+      "domains": [
+        "animal",
+        "motherhood",
+        "forest",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Bear Mother is a goddess from Haida tradition associated with animal, motherhood, forest, and earth.",
+      "id": "haida-002",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Mouse Woman",
+      "type": "spirit",
+      "domains": [
+        "wisdom",
+        "trickster",
+        "forest",
+        "guidance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Mouse Woman is a spirit from Haida tradition associated with wisdom, trickster, forest, and guidance.",
+      "id": "haida-003",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Dogfish Woman",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "animal",
+        "magic",
+        "power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Dogfish Woman is a goddess from Haida tradition associated with sea, animal, magic, and power.",
+      "id": "haida-004",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Sgaana",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "orca",
+        "power",
+        "water"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sgaana is a spirit from Haida tradition associated with sea, orca, power, and water.",
+      "id": "haida-005",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Wasgo",
+      "type": "monster",
+      "domains": [
+        "sea",
+        "wolf",
+        "monster",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Wasgo is a monster from Haida tradition associated with sea, wolf, monster, and strength.",
+      "id": "haida-006",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Dzalarhons",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "salmon",
+        "abundance",
+        "water"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Dzalarhons is a spirit from Haida tradition associated with sea, salmon, abundance, and water.",
+      "id": "haida-007",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Nanasimgit",
+      "type": "hero",
+      "domains": [
+        "sea",
+        "war",
+        "strength",
+        "revenge"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Nanasimgit is a hero from Haida tradition associated with sea, war, strength, and revenge.",
+      "id": "haida-008",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Killer Whale Chief",
+      "type": "guardian",
+      "domains": [
+        "sea",
+        "animal",
+        "kingship",
+        "power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Killer Whale Chief is a guardian from Haida tradition associated with sea, animal, kingship, and power.",
+      "id": "haida-009",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Frog Woman",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "fertility",
+        "earth",
+        "song"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Frog Woman is a spirit from Haida tradition associated with water, fertility, earth, and song.",
+      "id": "haida-010",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Eagle Chief",
+      "type": "guardian",
+      "domains": [
+        "sky",
+        "bird",
+        "kingship",
+        "honor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Eagle Chief is a guardian from Haida tradition associated with sky, bird, kingship, and honor.",
+      "id": "haida-011",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Sea Grizzly",
+      "type": "monster",
+      "domains": [
+        "sea",
+        "animal",
+        "monster",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sea Grizzly is a monster from Haida tradition associated with sea, animal, monster, and strength.",
+      "id": "haida-012",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Fog Woman",
+      "type": "spirit",
+      "domains": [
+        "mist",
+        "sea",
+        "abundance",
+        "mystery"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Fog Woman is a spirit from Haida tradition associated with mist, sea, abundance, and mystery.",
+      "id": "haida-013",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Cedar Man",
+      "type": "ancestor",
+      "domains": [
+        "forest",
+        "craft",
+        "earth",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Cedar Man is an ancestor from Haida tradition associated with forest, craft, earth, and wisdom.",
+      "id": "haida-014",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Salmon Boy",
+      "type": "hero",
+      "domains": [
+        "sea",
+        "salmon",
+        "transformation",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Salmon Boy is a hero from Haida tradition associated with sea, salmon, transformation, and water.",
+      "id": "haida-015",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Copper Maker",
+      "type": "hero",
+      "domains": [
+        "craft",
+        "earth",
+        "wealth",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Copper Maker is a hero from Haida tradition associated with craft, earth, wealth, and wisdom.",
+      "id": "haida-016",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Thunderbird",
+      "type": "creature",
+      "domains": [
+        "thunder",
+        "storm",
+        "bird",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Thunderbird is a creature from Haida tradition associated with thunder, storm, bird, and sky.",
+      "id": "haida-017",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Sea Otter Helper",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "animal",
+        "speed",
+        "play"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sea Otter Helper is a creature from Haida tradition associated with sea, animal, speed, and play.",
+      "id": "haida-018",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "House Pole Guardian",
+      "type": "guardian",
+      "domains": [
+        "ancestor",
+        "protection",
+        "earth",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "House Pole Guardian is a guardian from Haida tradition associated with ancestor, protection, earth, and spirit.",
+      "id": "haida-019",
+      "culture_slug": "haida"
+    },
+    {
+      "name": "Moon Snare Hunter",
+      "type": "hero",
+      "domains": [
+        "hunting",
+        "sky",
+        "trickster",
+        "speed"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 10,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Moon Snare Hunter is a hero from Haida tradition associated with hunting, sky, trickster, and speed.",
+      "id": "haida-020",
+      "culture_slug": "haida"
+    }
+  ]
+}

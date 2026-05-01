@@ -1,0 +1,526 @@
+{
+  "culture_slug": "guarani",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tupa",
+      "type": "god",
+      "domains": [
+        "creation",
+        "storm",
+        "sky",
+        "light"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tupa is a god from Guarani tradition associated with creation, storm, sky, and light.",
+      "id": "guarani-001",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Arasy",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "beauty",
+        "creation",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Arasy is a goddess from Guarani tradition associated with moon, beauty, creation, and light.",
+      "id": "guarani-002",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Tau",
+      "type": "demon",
+      "domains": [
+        "desire",
+        "chaos",
+        "darkness",
+        "trickster"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Tau is a demon from Guarani tradition associated with desire, chaos, darkness, and trickster.",
+      "id": "guarani-003",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Kerana",
+      "type": "goddess",
+      "domains": [
+        "beauty",
+        "night",
+        "fate",
+        "dream"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Kerana is a goddess from Guarani tradition associated with beauty, night, fate, and dream.",
+      "id": "guarani-004",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Teju Jagua",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "cavern",
+        "fire",
+        "animal"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Teju Jagua is a monster from Guarani tradition associated with monster, cavern, fire, and animal.",
+      "id": "guarani-005",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Mboi Tui",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "bird",
+        "forest"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Mboi Tui is a creature from Guarani tradition associated with serpent, water, bird, and forest.",
+      "id": "guarani-006",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Monai",
+      "type": "monster",
+      "domains": [
+        "air",
+        "theft",
+        "monster",
+        "destruction"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ruinous Blow",
+        "description": "Deal 8 damage and lower the target's defense by 3 permanently."
+      },
+      "description": "Monai is a monster from Guarani tradition associated with air, theft, monster, and destruction.",
+      "id": "guarani-007",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Jasy Jatere",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "trickster",
+        "siesta",
+        "forest"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Jasy Jatere is a spirit from Guarani tradition associated with moon, trickster, siesta, and forest.",
+      "id": "guarani-008",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Kurupi",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "forest",
+        "lust",
+        "trickster"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Kurupi is a spirit from Guarani tradition associated with fertility, forest, lust, and trickster.",
+      "id": "guarani-009",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Ao Ao",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "forest",
+        "hunger",
+        "night"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Ao Ao is a monster from Guarani tradition associated with monster, forest, hunger, and night.",
+      "id": "guarani-010",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Luison",
+      "type": "monster",
+      "domains": [
+        "death",
+        "night",
+        "dog",
+        "curse"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Luison is a monster from Guarani tradition associated with death, night, dog, and curse.",
+      "id": "guarani-011",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Pombero",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "trickster",
+        "night",
+        "speed"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Pombero is a spirit from Guarani tradition associated with forest, trickster, night, and speed.",
+      "id": "guarani-012",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Jurupari",
+      "type": "spirit",
+      "domains": [
+        "law",
+        "ritual",
+        "forest",
+        "mystery"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Jurupari is a spirit from Guarani tradition associated with law, ritual, forest, and mystery.",
+      "id": "guarani-013",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Angatupyry",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "virtue",
+        "justice",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Angatupyry is a spirit from Guarani tradition associated with light, virtue, justice, and spirit.",
+      "id": "guarani-014",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Pora",
+      "type": "spirit",
+      "domains": [
+        "ghost",
+        "night",
+        "warning",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Pora is a spirit from Guarani tradition associated with ghost, night, warning, and spirit.",
+      "id": "guarani-015",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Abaangui",
+      "type": "hero",
+      "domains": [
+        "moon",
+        "craft",
+        "creation",
+        "trickster"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Abaangui is a hero from Guarani tradition associated with moon, craft, creation, and trickster.",
+      "id": "guarani-016",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Caa Yari",
+      "type": "goddess",
+      "domains": [
+        "forest",
+        "healing",
+        "herb",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Caa Yari is a goddess from Guarani tradition associated with forest, healing, herb, and fertility.",
+      "id": "guarani-017",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Nande Ru",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Nande Ru is a god from Guarani tradition associated with creation, sky, spirit, and wisdom.",
+      "id": "guarani-018",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Nande Sy",
+      "type": "goddess",
+      "domains": [
+        "motherhood",
+        "earth",
+        "fertility",
+        "life"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Nande Sy is a goddess from Guarani tradition associated with motherhood, earth, fertility, and life.",
+      "id": "guarani-019",
+      "culture_slug": "guarani"
+    },
+    {
+      "name": "Boi Tata",
+      "type": "creature",
+      "domains": [
+        "fire",
+        "serpent",
+        "night",
+        "warning"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Boi Tata is a creature from Guarani tradition associated with fire, serpent, night, and warning.",
+      "id": "guarani-020",
+      "culture_slug": "guarani"
+    }
+  ]
+}

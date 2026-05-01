@@ -1,0 +1,516 @@
+{
+  "culture_slug": "rajput-rajasthani",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Eklingji",
+      "type": "god",
+      "domains": [
+        "Shiva of Mewar",
+        "Rajput patron",
+        "linga",
+        "sovereignty"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Mewar's Lord",
+        "description": "All Rajput allies gain +3 to all stats from divine sovereign protection."
+      },
+      "description": "The Shiva deity of Mewar whose blessing the Rajput Rana sought before every battle.",
+      "id": "rajput-rajasthani-001",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Prithviraj Chauhan",
+      "type": "hero",
+      "domains": [
+        "last Hindu king of Delhi",
+        "archer",
+        "Chand Bardai"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Chauhan's Arrow",
+        "description": "Deal 8 damage to one target from sound alone; this attack is guided by voice."
+      },
+      "description": "The last Rajput king of Delhi whose legendary archery skill allowed him to hit a target by sound alone.",
+      "id": "rajput-rajasthani-002",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Padmavati",
+      "type": "heroine",
+      "domains": [
+        "Chittor queen",
+        "beauty",
+        "Johar",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Johar's Flame",
+        "description": "When this card is destroyed, deal 5 fire damage to all enemies from the fire of honor."
+      },
+      "description": "The legendary Chittor queen of supreme beauty whose sacrifice by fire (Johar) became the symbol of Rajput honor.",
+      "id": "rajput-rajasthani-003",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Rana Sanga",
+      "type": "ancestor",
+      "domains": [
+        "war hero",
+        "Khanwa",
+        "18 wounds",
+        "Mewar"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "18 Wounds",
+        "description": "This card ignores all debuffs from wounds and fights at full power regardless of HP."
+      },
+      "description": "The great Mewar king who bore 18 wounds in battle and rallied all Rajputs in a final stand against Babur.",
+      "id": "rajput-rajasthani-004",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Maharana Pratap",
+      "type": "ancestor",
+      "domains": [
+        "Haldighati",
+        "Chetak",
+        "never surrendered"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Chetak's Charge",
+        "description": "Deal 7 damage to the most powerful enemy; cannot be captured or controlled."
+      },
+      "description": "The Mewar king who never surrendered to the Mughal Empire and whose divine horse Chetak died saving him.",
+      "id": "rajput-rajasthani-005",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Chetak",
+      "type": "creature",
+      "domains": [
+        "divine horse",
+        "loyalty",
+        "Maharana Pratap",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Dying Leap",
+        "description": "When destroyed, this card first leaps over one enemy dealing 5 damage — the final gift of loyalty."
+      },
+      "description": "Maharana Pratap's blue-grey horse who carried him to safety with a broken leg before dying from his wounds.",
+      "id": "rajput-rajasthani-006",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Mirabai",
+      "type": "heroine",
+      "domains": [
+        "poetess",
+        "Krishna devotee",
+        "poison immune",
+        "saint"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Bhakti's Poison",
+        "description": "Immune to poison and all worldly harm; grant +4 magic to all devotee allies."
+      },
+      "description": "The Rajput princess who abandoned royalty for Krishna devotion and whose bhakti poetry became immortal.",
+      "id": "rajput-rajasthani-007",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Tejaji",
+      "type": "hero",
+      "domains": [
+        "hero god",
+        "snake sacrifice",
+        "cattle",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Snake Oath",
+        "description": "Deal 5 damage to one enemy; this card cannot be broken by any oath-breaking ability."
+      },
+      "description": "The Rajput folk hero who died keeping an oath to protect cattle and was deified as a healer of snakebite.",
+      "id": "rajput-rajasthani-008",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Roop Kanwar",
+      "type": "ancestor",
+      "domains": [
+        "Sati tradition",
+        "fire",
+        "devotion",
+        "controversy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sati's Will",
+        "description": "When this card chooses to fall, all allies gain +4 power from sacrificial strength."
+      },
+      "description": "The most recent figure in Rajput Sati tradition whose story remains deeply controversial in modern India.",
+      "id": "rajput-rajasthani-009",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Gogaji",
+      "type": "hero",
+      "domains": [
+        "Rajput folk hero",
+        "snakes",
+        "horses",
+        "warrior saint"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Goga's Lance",
+        "description": "Deal 4 damage to all snake and dark enemies; grant +2 to all Rajput warrior allies."
+      },
+      "description": "The warrior-saint Goga Maharaj who is worshipped at snake shrines and protects against snakebite.",
+      "id": "rajput-rajasthani-010",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Pabuji",
+      "type": "hero",
+      "domains": [
+        "camel herder",
+        "folk deity",
+        "sacrifice",
+        "Thar desert"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Desert Honor",
+        "description": "This card cannot retreat; it deals +2 bonus damage while any ally is at risk."
+      },
+      "description": "The Rajput folk hero and camel deity of the Thar desert whose epic is still sung by Bhopa singer-priests.",
+      "id": "rajput-rajasthani-011",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Dhola Maru",
+      "type": "hero",
+      "domains": [
+        "lovers of legend",
+        "camel ride",
+        "romance"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Desert Journey",
+        "description": "Move any ally to any position; grant +2 speed to all mounted allies."
+      },
+      "description": "The legendary Rajput couple whose camel ride across the desert has become an icon of eternal love.",
+      "id": "rajput-rajasthani-012",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Hari Raya",
+      "type": "spirit",
+      "domains": [
+        "sun god Rajput form",
+        "solar lineage",
+        "divine"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Blood",
+        "description": "All solar-lineage (Suryavanshi) allies gain +2 to all stats for 1 turn."
+      },
+      "description": "The sun in his divine kingly form from whom the Suryavanshi Rajput clans trace their divine ancestry.",
+      "id": "rajput-rajasthani-013",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Soma Raya",
+      "type": "spirit",
+      "domains": [
+        "moon god Rajput form",
+        "lunar lineage",
+        "divine"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Lunar Blood",
+        "description": "All lunar-lineage (Chandravanshi) allies gain +2 to all stats for 1 turn."
+      },
+      "description": "The moon in his kingly divine form from whom the Chandravanshi Rajput clans trace their lineage.",
+      "id": "rajput-rajasthani-014",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Ramdev Baba",
+      "type": "hero",
+      "domains": [
+        "camel riding saint",
+        "miracles",
+        "inter-faith"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Miracle",
+        "description": "Remove all disease and curse effects from one ally; grant +1 to all stats."
+      },
+      "description": "The Rajput saint revered by Hindus and Muslims alike who performed miracles of healing at Ramdevra.",
+      "id": "rajput-rajasthani-015",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Jasol Mata",
+      "type": "goddess",
+      "domains": [
+        "village goddess",
+        "protection",
+        "Marwar"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Village Shield",
+        "description": "All common and uncommon allies gain +1 defense from the village goddess's protection."
+      },
+      "description": "The protective village goddess of Marwar who guards the community and punishes those who harm her devotees.",
+      "id": "rajput-rajasthani-016",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Bhomiya Ji",
+      "type": "spirit",
+      "domains": [
+        "boundary guardian",
+        "field spirit",
+        "Rajasthan"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Field Boundary",
+        "description": "Prevent all enemy flanking and position-switch abilities for 1 turn."
+      },
+      "description": "The guardian spirit of Rajasthani field boundaries who protects the land and its farmers.",
+      "id": "rajput-rajasthani-017",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Battle Drum",
+      "type": "spirit",
+      "domains": [
+        "war drum",
+        "Rajput battle call",
+        "nagara"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "War Beat",
+        "description": "All warrior allies gain +2 power at the start of the next turn."
+      },
+      "description": "The spirit of the great Rajput war drum whose thunder announced battle and galvanized warriors to glory.",
+      "id": "rajput-rajasthani-018",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Sati Mata",
+      "type": "goddess",
+      "domains": [
+        "immolation spirit",
+        "honor",
+        "fire",
+        "devotion"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Honor's Fire",
+        "description": "When any ally falls, all remaining allies gain +1 power from the sacred fire of sacrifice."
+      },
+      "description": "The deified spirit of Rajput women who chose death with their husbands rather than dishonor.",
+      "id": "rajput-rajasthani-019",
+      "culture_slug": "rajput-rajasthani"
+    },
+    {
+      "name": "Rao Jodha",
+      "type": "ancestor",
+      "domains": [
+        "Jodhpur founder",
+        "blue city",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Jodhpur's Fort",
+        "description": "While in play, all ally defense cannot be reduced below 4."
+      },
+      "description": "The founder of Jodhpur whose massive Mehrangarh Fort became a symbol of Rajput invincibility.",
+      "id": "rajput-rajasthani-020",
+      "culture_slug": "rajput-rajasthani"
+    }
+  ]
+}

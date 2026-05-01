@@ -1,0 +1,526 @@
+{
+  "culture_slug": "tongan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tangaloa 'Eitumatupua",
+      "type": "god",
+      "domains": [
+        "sky",
+        "creation",
+        "kingship",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Tangaloa 'Eitumatupua is a god from Tongan tradition associated with sky, creation, kingship, and light.",
+      "id": "tongan-001",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Hikule'o",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "spirit",
+        "fertility",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Hikule'o is a goddess from Tongan tradition associated with underworld, spirit, fertility, and power.",
+      "id": "tongan-002",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Maui Kisikisi",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "sun",
+        "sea",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Maui Kisikisi is a hero from Tongan tradition associated with trickster, sun, sea, and quest.",
+      "id": "tongan-003",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Maui Atalanga",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "sea",
+        "voyage",
+        "family"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Maui Atalanga is a hero from Tongan tradition associated with strength, sea, voyage, and family.",
+      "id": "tongan-004",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Hina",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "beauty",
+        "wisdom",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Hina is a goddess from Tongan tradition associated with moon, beauty, wisdom, and water.",
+      "id": "tongan-005",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Aho'eitu",
+      "type": "hero",
+      "domains": [
+        "sky",
+        "kingship",
+        "ancestor",
+        "honor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Aho'eitu is a hero from Tongan tradition associated with sky, kingship, ancestor, and honor.",
+      "id": "tongan-006",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Havea Hikule'o",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "storm",
+        "darkness",
+        "earth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Havea Hikule'o is a god from Tongan tradition associated with underworld, storm, darkness, and earth.",
+      "id": "tongan-007",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Sinilau",
+      "type": "god",
+      "domains": [
+        "sea",
+        "abundance",
+        "love",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sinilau is a god from Tongan tradition associated with sea, abundance, love, and water.",
+      "id": "tongan-008",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Lau-fakanaa",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "trickster",
+        "sea",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Lau-fakanaa is a hero from Tongan tradition associated with voyage, trickster, sea, and wisdom.",
+      "id": "tongan-009",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Kae",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "theft",
+        "sea",
+        "speech"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Kae is a hero from Tongan tradition associated with trickster, theft, sea, and speech.",
+      "id": "tongan-010",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Lata",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "craft",
+        "forest",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Lata is a hero from Tongan tradition associated with voyage, craft, forest, and quest.",
+      "id": "tongan-011",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Toloa",
+      "type": "creature",
+      "domains": [
+        "bird",
+        "voyage",
+        "sky",
+        "guidance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Toloa is a creature from Tongan tradition associated with bird, voyage, sky, and guidance.",
+      "id": "tongan-012",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Pulotu Keeper",
+      "type": "guardian",
+      "domains": [
+        "underworld",
+        "spirit",
+        "threshold",
+        "night"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Pulotu Keeper is a guardian from Tongan tradition associated with underworld, spirit, threshold, and night.",
+      "id": "tongan-013",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Ilaheva",
+      "type": "heroine",
+      "domains": [
+        "love",
+        "kingship",
+        "sea",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Ilaheva is a heroine from Tongan tradition associated with love, kingship, sea, and beauty.",
+      "id": "tongan-014",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Niuhi",
+      "type": "monster",
+      "domains": [
+        "shark",
+        "sea",
+        "monster",
+        "hunger"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Niuhi is a monster from Tongan tradition associated with shark, sea, monster, and hunger.",
+      "id": "tongan-015",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Lupe",
+      "type": "spirit",
+      "domains": [
+        "bird",
+        "messenger",
+        "sky",
+        "guidance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Lupe is a spirit from Tongan tradition associated with bird, messenger, sky, and guidance.",
+      "id": "tongan-016",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Talatupou",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "honor",
+        "sea",
+        "strength"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Talatupou is a hero from Tongan tradition associated with voyage, honor, sea, and strength.",
+      "id": "tongan-017",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Tafakula",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "animal",
+        "storm",
+        "fury"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tafakula is a creature from Tongan tradition associated with sea, animal, storm, and fury.",
+      "id": "tongan-018",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Tongahiti",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "voyage",
+        "kingship",
+        "earth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Tongahiti is an ancestor from Tongan tradition associated with ancestor, voyage, kingship, and earth.",
+      "id": "tongan-019",
+      "culture_slug": "tongan"
+    },
+    {
+      "name": "Kau'ulufonua",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "justice",
+        "war",
+        "earth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Judgment Oath",
+        "description": "Expose one enemy card; if it has higher power than wisdom, stun it for 1 turn."
+      },
+      "description": "Kau'ulufonua is a hero from Tongan tradition associated with kingship, justice, war, and earth.",
+      "id": "tongan-020",
+      "culture_slug": "tongan"
+    }
+  ]
+}

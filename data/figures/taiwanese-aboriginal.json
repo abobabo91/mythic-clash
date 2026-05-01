@@ -1,0 +1,526 @@
+{
+  "culture_slug": "taiwanese-aboriginal",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Kakacawan Sapatrok",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "earth",
+        "spirit",
+        "origin"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Kakacawan Sapatrok is an ancestor from Taiwanese Aboriginal (Formosan) tradition associated with ancestor, earth, spirit, and origin.",
+      "id": "taiwanese-aboriginal-001",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Kawas",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "forest",
+        "ancestor",
+        "mystery"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Kawas is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with spirit, forest, ancestor, and mystery.",
+      "id": "taiwanese-aboriginal-002",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Princess Baleng",
+      "type": "heroine",
+      "domains": [
+        "love",
+        "lake",
+        "fate",
+        "mountain"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Princess Baleng is a heroine from Taiwanese Aboriginal (Formosan) tradition associated with love, lake, fate, and mountain.",
+      "id": "taiwanese-aboriginal-003",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Snake King Adalio",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "mountain",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Snake King Adalio is a creature from Taiwanese Aboriginal (Formosan) tradition associated with serpent, water, mountain, and protection.",
+      "id": "taiwanese-aboriginal-004",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Cidal",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "sky",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Cidal is a god from Taiwanese Aboriginal (Formosan) tradition associated with sun, light, sky, and ancestor.",
+      "id": "taiwanese-aboriginal-005",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Fasonihar",
+      "type": "god",
+      "domains": [
+        "protection",
+        "spirit",
+        "earth",
+        "harvest"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 10,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Fasonihar is a god from Taiwanese Aboriginal (Formosan) tradition associated with protection, spirit, earth, and harvest.",
+      "id": "taiwanese-aboriginal-006",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Faydongi",
+      "type": "spirit",
+      "domains": [
+        "harvest",
+        "ancestor",
+        "earth",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Faydongi is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with harvest, ancestor, earth, and light.",
+      "id": "taiwanese-aboriginal-007",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Kavulungan",
+      "type": "guardian",
+      "domains": [
+        "mountain",
+        "ancestor",
+        "earth",
+        "sanctuary"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Kavulungan is a guardian from Taiwanese Aboriginal (Formosan) tradition associated with mountain, ancestor, earth, and sanctuary.",
+      "id": "taiwanese-aboriginal-008",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Mahahan",
+      "type": "god",
+      "domains": [
+        "sea",
+        "storm",
+        "wind",
+        "water"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Mahahan is a god from Taiwanese Aboriginal (Formosan) tradition associated with sea, storm, wind, and water.",
+      "id": "taiwanese-aboriginal-009",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Mariyaru",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "water",
+        "spirit",
+        "rain"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Mariyaru is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with sea, water, spirit, and rain.",
+      "id": "taiwanese-aboriginal-010",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Marimokoshi",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "storm",
+        "darkness",
+        "wind"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Marimokoshi is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with sea, storm, darkness, and wind.",
+      "id": "taiwanese-aboriginal-011",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Kosomatora",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "water",
+        "guidance",
+        "sky"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kosomatora is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with sea, water, guidance, and sky.",
+      "id": "taiwanese-aboriginal-012",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Dilukai",
+      "type": "guardian",
+      "domains": [
+        "fertility",
+        "earth",
+        "protection",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Dilukai is a guardian from Taiwanese Aboriginal (Formosan) tradition associated with fertility, earth, protection, and ancestor.",
+      "id": "taiwanese-aboriginal-013",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Alikakay",
+      "type": "giant",
+      "domains": [
+        "strength",
+        "mountain",
+        "forest",
+        "earth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Alikakay is a giant from Taiwanese Aboriginal (Formosan) tradition associated with strength, mountain, forest, and earth.",
+      "id": "taiwanese-aboriginal-014",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Hanido",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "ancestor",
+        "forest",
+        "earth"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Hanido is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with spirit, ancestor, forest, and earth.",
+      "id": "taiwanese-aboriginal-015",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Tjukutjuku",
+      "type": "ancestor",
+      "domains": [
+        "origin",
+        "earth",
+        "family",
+        "mountain"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Tjukutjuku is an ancestor from Taiwanese Aboriginal (Formosan) tradition associated with origin, earth, family, and mountain.",
+      "id": "taiwanese-aboriginal-016",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Pulalulaluyan",
+      "type": "ancestor",
+      "domains": [
+        "origin",
+        "family",
+        "earth",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Pulalulaluyan is an ancestor from Taiwanese Aboriginal (Formosan) tradition associated with origin, family, earth, and ancestor.",
+      "id": "taiwanese-aboriginal-017",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Hundred-Pacer Spirit",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "ancestor",
+        "mountain",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Hundred-Pacer Spirit is a creature from Taiwanese Aboriginal (Formosan) tradition associated with serpent, ancestor, mountain, and protection.",
+      "id": "taiwanese-aboriginal-018",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Sea Winds",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "sea",
+        "travel",
+        "guidance"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Sea Winds is a spirit from Taiwanese Aboriginal (Formosan) tradition associated with wind, sea, travel, and guidance.",
+      "id": "taiwanese-aboriginal-019",
+      "culture_slug": "taiwanese-aboriginal"
+    },
+    {
+      "name": "Millet Song Keeper",
+      "type": "ancestor",
+      "domains": [
+        "harvest",
+        "music",
+        "ancestor",
+        "earth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Millet Song Keeper is an ancestor from Taiwanese Aboriginal (Formosan) tradition associated with harvest, music, ancestor, and earth.",
+      "id": "taiwanese-aboriginal-020",
+      "culture_slug": "taiwanese-aboriginal"
+    }
+  ]
+}

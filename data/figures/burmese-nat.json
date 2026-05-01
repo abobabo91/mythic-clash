@@ -1,0 +1,526 @@
+{
+  "culture_slug": "burmese-nat",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Thagyamin",
+      "type": "god",
+      "domains": [
+        "lord of nats",
+        "heavens",
+        "rain",
+        "New Year"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "New Year Blessing",
+        "description": "Reset all cooldowns for allied cards; begin a new cycle with fresh abilities."
+      },
+      "description": "The king of the nats and lord of the heavens in Burmese belief, who descends to earth during Thingyan New Year to record the deeds of humans.",
+      "id": "burmese-nat-001",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Shwe Pyin Gyi",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "smiths",
+        "brothers",
+        "violence"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Brother Smith Rage",
+        "description": "Deal 8 damage to one enemy; if this kills them, deal 4 splash to adjacent cards."
+      },
+      "description": "The older of the two blacksmith-nat brothers, fierce and impulsive, whose violent death created a powerful nat spirit.",
+      "id": "burmese-nat-002",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Shwe Pyin Nge",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "smiths",
+        "brothers",
+        "cunning"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Brother's Plan",
+        "description": "Formulate an ambush; the next attack by any allied card deals double damage."
+      },
+      "description": "The younger of the two blacksmith nat brothers, cunning and clever, who together with his brother form one of the most feared nat pairs.",
+      "id": "burmese-nat-003",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Lady Golden Face (Shwe Myet Hna)",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "beauty",
+        "love",
+        "jealousy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Jealousy",
+        "description": "Cause one enemy card to attack another enemy card instead of you."
+      },
+      "description": "A beautiful nat spirit associated with love and jealousy, one of the thirty-seven official nats of Burma, said to cause discord between lovers.",
+      "id": "burmese-nat-004",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Ma Ngwe Taung",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "silver mountain",
+        "purity",
+        "highlands"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mountain Purity",
+        "description": "Purify one allied card; remove all debuffs and restore 4 HP."
+      },
+      "description": "The silver mountain nat spirit who presides over highland purification rituals, associated with the Shan hills and mountain shrines.",
+      "id": "burmese-nat-005",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Maung Po Tu",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "tiger",
+        "forest",
+        "guardian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tiger Form",
+        "description": "Transform into a tiger temporarily; gain +3 power and speed for 2 turns."
+      },
+      "description": "A nat spirit associated with tigers who guards the forest, propitiated by hunters and those who venture into the wilderness.",
+      "id": "burmese-nat-006",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Min Mahagiri",
+      "type": "spirit",
+      "domains": [
+        "house nat",
+        "Mount Popa",
+        "brother-sister",
+        "fire"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Home Guardian",
+        "description": "Protect one allied structure or card permanently; it cannot be targeted until destroyed."
+      },
+      "description": "The Lord of the Great Mountain, a house-protecting nat and one of the most important in the pantheon, associated with Mount Popa.",
+      "id": "burmese-nat-007",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Hnamadawgyi",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "royal",
+        "female",
+        "court"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Royal Court",
+        "description": "Grant all royalty-domain allied cards +2 to all stats for 2 turns."
+      },
+      "description": "A royal female nat spirit of the court, one of the official 37 nats who protects those of noble bearing.",
+      "id": "burmese-nat-008",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Aung Pinle Hsinbyuyin",
+      "type": "spirit",
+      "domains": [
+        "white elephant",
+        "royal",
+        "auspicious",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "White Elephant Blessing",
+        "description": "Grant the most powerful allied card immunity to all attacks for 1 turn."
+      },
+      "description": "The nat of the white elephant, most auspicious of animals in Burmese tradition, associated with royal power and cosmic blessing.",
+      "id": "burmese-nat-009",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Lady Three Times Beautiful",
+      "type": "spirit",
+      "domains": [
+        "nat",
+        "beauty",
+        "triple",
+        "dance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Triple Beauty",
+        "description": "Charm three enemy cards simultaneously; they cannot attack for 1 turn."
+      },
+      "description": "One of the thirty-seven official nats, celebrated for her triple beauty, associated with dance and feminine power.",
+      "id": "burmese-nat-010",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Popa Medaw",
+      "type": "goddess",
+      "domains": [
+        "Mount Popa",
+        "flower-eater",
+        "spirit mother",
+        "wild"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Flower Power",
+        "description": "All nature-domain allies gain +3 to magic; all fire-domain enemies lose 3."
+      },
+      "description": "The Mother Spirit of Mount Popa, originally a flower-eating ogress who became the surrogate mother of the blacksmith nat brothers, ruling from the sacred volcano.",
+      "id": "burmese-nat-011",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Zawgyi",
+      "type": "spirit",
+      "domains": [
+        "alchemist",
+        "immortality",
+        "flying",
+        "elixir"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elixir of Youth",
+        "description": "Grant immortality to one allied card for 2 turns; they cannot be destroyed."
+      },
+      "description": "The red-clad Burmese alchemist who achieved immortality through mystical elixirs, flying through the air and obsessively seeking the red flower of immortality.",
+      "id": "burmese-nat-012",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Weizza",
+      "type": "spirit",
+      "domains": [
+        "occultist",
+        "immortality",
+        "future",
+        "power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Occult Knowledge",
+        "description": "Look at the top 5 cards of any deck; rearrange them in any order."
+      },
+      "description": "The weizza, spiritually advanced beings who have achieved near-immortality through occult practices, expected to help the future Buddha.",
+      "id": "burmese-nat-013",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Manuha",
+      "type": "hero",
+      "domains": [
+        "captive king",
+        "chess",
+        "dignity",
+        "resistance"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "King in Chains",
+        "description": "Even in defeat, inspire all allied cards; they gain +2 wisdom and refuse to flee."
+      },
+      "description": "The Mon king kept captive in Pagan, who built the cramped Buddha statues to express his own feelings of constriction, a symbol of dignified resistance.",
+      "id": "burmese-nat-014",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Shin Arahan",
+      "type": "hero",
+      "domains": [
+        "monk",
+        "reform",
+        "Theravada",
+        "enlightenment"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 5,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Dharma Reform",
+        "description": "Convert one dark-aligned card to neutral; they gain 3 wisdom and lose dark powers."
+      },
+      "description": "The Mon monk who converted King Anawrahta to Theravada Buddhism, transforming the Burmese kingdom and establishing the dominant religious tradition.",
+      "id": "burmese-nat-015",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Anawrahta",
+      "type": "hero",
+      "domains": [
+        "founder",
+        "Theravada",
+        "conquest",
+        "unity"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Pagan Unification",
+        "description": "Unite all allied cards under one banner; all gain +2 to all stats permanently."
+      },
+      "description": "The founder of the Pagan Empire and first king of unified Burma, who conquered the Mon and established Theravada Buddhism throughout his kingdom.",
+      "id": "burmese-nat-016",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Naga (Burmese)",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "rain",
+        "guardian"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Serpent",
+        "description": "Summon rain; all plant-domain allies gain 3 HP while fire-domain enemies lose 3 HP."
+      },
+      "description": "The great water serpent spirits of Burmese belief, who control rain and water, propitiated to ensure good harvests.",
+      "id": "burmese-nat-017",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Yama (Burma)",
+      "type": "god",
+      "domains": [
+        "death",
+        "judgment",
+        "underworld",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Final Judgment",
+        "description": "Judge one card's entire history; deal damage equal to their total transgressions."
+      },
+      "description": "The lord of the dead and judgment in Burmese Buddhist cosmology, who weighs the deeds of souls and assigns their next realm of rebirth.",
+      "id": "burmese-nat-018",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Thurathati (Saraswati)",
+      "type": "goddess",
+      "domains": [
+        "learning",
+        "arts",
+        "white",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Learning",
+        "description": "Grant one allied card +3 wisdom and the ability to copy any one ability seen."
+      },
+      "description": "The Burmese form of Saraswati, goddess of learning, arts, and wisdom, patron of students and scholars throughout Burma.",
+      "id": "burmese-nat-019",
+      "culture_slug": "burmese-nat"
+    },
+    {
+      "name": "Galon (Burmese Garuda)",
+      "type": "creature",
+      "domains": [
+        "eagle",
+        "serpent-slayer",
+        "sun",
+        "royal"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Serpent Hunt",
+        "description": "Hunt all naga-type enemies; deal 7 damage to each naga card on the field."
+      },
+      "description": "The divine eagle-man of Burmese tradition, eternal enemy of the nagas, symbol of solar power and later adopted as the emblem of resistance.",
+      "id": "burmese-nat-020",
+      "culture_slug": "burmese-nat"
+    }
+  ]
+}

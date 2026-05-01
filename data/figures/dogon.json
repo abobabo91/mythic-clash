@@ -1,0 +1,512 @@
+{
+  "culture_slug": "dogon",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Amma",
+      "type": "god",
+      "domains": [
+        "supreme creator",
+        "cosmic egg",
+        "universe"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Cosmic Egg",
+        "description": "Reset the entire field: all cards return to their base stats."
+      },
+      "description": "Supreme creator who spun the cosmic egg of creation and whose love for the earth created all life.",
+      "id": "dogon-001",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Nommo",
+      "type": "spirit",
+      "domains": [
+        "primordial twins",
+        "water",
+        "creation",
+        "Sirius"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Twin Waters",
+        "description": "Duplicate one ally: create an identical copy with same stats for 2 turns."
+      },
+      "description": "Primordial twin water beings born from Amma who descended to earth and civilized humanity.",
+      "id": "dogon-002",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Ogo/Pale Fox",
+      "type": "trickster",
+      "domains": [
+        "chaos",
+        "disorder",
+        "dry earth",
+        "cunning"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Imperfect Design",
+        "description": "Reduce the highest stat of all enemies by 2 permanently from cosmic disorder."
+      },
+      "description": "Rebellious first creation of Amma who introduced disorder into the universe by acting before completion.",
+      "id": "dogon-003",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Lebe",
+      "type": "ancestor",
+      "domains": [
+        "ancestor of ancestors",
+        "serpent",
+        "soil",
+        "rebirth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Soil Rebirth",
+        "description": "At end of battle, resurrect the oldest fallen ally with 4 HP."
+      },
+      "description": "First ancestor of the Dogon who was swallowed and reborn as a serpent, embodying the renewal of the soil.",
+      "id": "dogon-004",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Binu",
+      "type": "spirit",
+      "domains": [
+        "totemic spirits",
+        "shrines",
+        "animal ancestors"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Totemic Bond",
+        "description": "Choose one animal type; all cards of that type gain +3 to all stats."
+      },
+      "description": "The totemic ancestor spirits associated with Dogon clans whose shrines receive offerings of millet porridge.",
+      "id": "dogon-005",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Dyongu Serou",
+      "type": "ancestor",
+      "domains": [
+        "master of speech",
+        "naming",
+        "words"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "True Name",
+        "description": "Name one enemy: reveal all their hidden abilities and reduce their power by 2."
+      },
+      "description": "The master of speech who taught humans the true names of all things, giving language its power over reality.",
+      "id": "dogon-006",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Sigui Ceremony Spirit",
+      "type": "spirit",
+      "domains": [
+        "60 year cycle",
+        "cosmic renewal",
+        "masks"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sigui Renewal",
+        "description": "Once per battle: restore all allies to full HP and reset all debuffs."
+      },
+      "description": "The spirit of the great Sigui ceremony held every 60 years to renew the cosmic order and honor Lebe.",
+      "id": "dogon-007",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Kanaga Mask",
+      "type": "spirit",
+      "domains": [
+        "bird",
+        "crocodile",
+        "world axis",
+        "ceremony"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Axis Dance",
+        "description": "Stabilize the field: no position swaps or repositioning effects can occur for 2 turns."
+      },
+      "description": "The sacred Kanaga mask dancer who links heaven and earth, bird above and crocodile below.",
+      "id": "dogon-008",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Ginna",
+      "type": "ancestor",
+      "domains": [
+        "eldest brother",
+        "house spirit",
+        "patrilineal"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder's House",
+        "description": "All allies gain +1 defense from family protection for 2 turns."
+      },
+      "description": "The spirit of the eldest brother's house who guards the patrilineal lineage and ancestral secrets.",
+      "id": "dogon-009",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Wagem",
+      "type": "spirit",
+      "domains": [
+        "first blacksmith",
+        "iron",
+        "forge",
+        "transformation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Smith",
+        "description": "Permanently upgrade one ally's power by +2 through divine smithcraft."
+      },
+      "description": "The first divine blacksmith who taught the Dogon the secrets of forging and civilization.",
+      "id": "dogon-010",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Dama Ceremony Spirit",
+      "type": "spirit",
+      "domains": [
+        "funeral",
+        "death transition",
+        "masks"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dama Passage",
+        "description": "When any ally falls, that card's stats are distributed as bonuses to remaining allies."
+      },
+      "description": "The spirit of the Dama funeral ceremony that guides the deceased's nyama life force to its new home.",
+      "id": "dogon-011",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Yasigi",
+      "type": "goddess",
+      "domains": [
+        "dance",
+        "masks",
+        "cosmic joy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Dance of Heaven",
+        "description": "All allies gain +2 speed; next enemy area-of-effect ability misses all targets."
+      },
+      "description": "Goddess of dance and masks who oversees all Dogon ceremonial performance and cosmic joy.",
+      "id": "dogon-012",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Pale Fox's Earth",
+      "type": "spirit",
+      "domains": [
+        "sterile earth",
+        "chaos zone",
+        "disorder"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Dry Earth",
+        "description": "Remove all fertility and regeneration effects from the field for 1 turn."
+      },
+      "description": "The impure earth that Ogo created through his premature and disordered act of creation.",
+      "id": "dogon-013",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Sigi Tolo Star",
+      "type": "spirit",
+      "domains": [
+        "Sirius",
+        "stellar wisdom",
+        "secret knowledge"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stellar Secret",
+        "description": "Grant one ally knowledge of all enemy plans for 1 turn."
+      },
+      "description": "The spirit of Sirius, the star of the Nommo, whose knowledge the Dogon priests preserved for centuries.",
+      "id": "dogon-014",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Nyama",
+      "type": "spirit",
+      "domains": [
+        "life force",
+        "spiritual energy",
+        "dangerous power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Raw Power",
+        "description": "Release nyama: deal 4 damage to one enemy but lose 2 HP from the uncontrolled force."
+      },
+      "description": "The raw spiritual life force present in all living things that becomes dangerous when released at death.",
+      "id": "dogon-015",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Hogon",
+      "type": "hero",
+      "domains": [
+        "high priest",
+        "spiritual authority",
+        "no touching"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Authority",
+        "description": "While this card is in play, enemy disruption and interrupt abilities are suppressed."
+      },
+      "description": "The Dogon high priest who cannot be touched by anyone but his ritual wife and who guards cosmic order.",
+      "id": "dogon-016",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Tireli Blacksmith",
+      "type": "hero",
+      "domains": [
+        "craft",
+        "iron",
+        "community service"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Community Craft",
+        "description": "Upgrade two different allies' lowest stats by +1 each."
+      },
+      "description": "The sacred blacksmith of Dogon society whose craft clan stands apart and serves the entire community.",
+      "id": "dogon-017",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Granary Spirit",
+      "type": "spirit",
+      "domains": [
+        "granary",
+        "food storage",
+        "cosmic order",
+        "cosmos model"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Cosmic Granary",
+        "description": "Restore 2 HP to all allies; their stats cannot be reduced below 3 this turn."
+      },
+      "description": "The spirit of the Dogon granary whose architecture mirrors the structure of the human body and the cosmos.",
+      "id": "dogon-018",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Crocodile Totem",
+      "type": "creature",
+      "domains": [
+        "totem animal",
+        "water",
+        "clan ancestor"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestral Waters",
+        "description": "All water and river allies gain +2 defense for 1 turn."
+      },
+      "description": "The crocodile clan ancestor whose spirit dwells in the sacred pool beside the Dogon village.",
+      "id": "dogon-019",
+      "culture_slug": "dogon"
+    },
+    {
+      "name": "Bayon Mask",
+      "type": "spirit",
+      "domains": [
+        "hare",
+        "speed",
+        "trickster dance"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hare's Sprint",
+        "description": "This card acts twice in one turn but takes 1 damage from over-exertion."
+      },
+      "description": "The hare mask spirit who represents speed and cunning in the Dogon masquerade tradition.",
+      "id": "dogon-020",
+      "culture_slug": "dogon"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "culture_slug": "yanomami",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Omama",
+      "type": "god",
+      "domains": [
+        "creation",
+        "forest",
+        "healing",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Omama is a god from Yanomami (Amazonian) tradition associated with creation, forest, healing, and wisdom.",
+      "id": "yanomami-001",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Yoasi",
+      "type": "demon",
+      "domains": [
+        "death",
+        "darkness",
+        "disease",
+        "chaos"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 5
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Yoasi is a demon from Yanomami (Amazonian) tradition associated with death, darkness, disease, and chaos.",
+      "id": "yanomami-002",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Periporiwe",
+      "type": "hero",
+      "domains": [
+        "moon",
+        "blood",
+        "creation",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Periporiwe is a hero from Yanomami (Amazonian) tradition associated with moon, blood, creation, and sky.",
+      "id": "yanomami-003",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Porehimi",
+      "type": "hero",
+      "domains": [
+        "forest",
+        "food",
+        "teaching",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Porehimi is a hero from Yanomami (Amazonian) tradition associated with forest, food, teaching, and earth.",
+      "id": "yanomami-004",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Xapiri",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "healing",
+        "forest",
+        "light"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Xapiri is a spirit from Yanomami (Amazonian) tradition associated with spirit, healing, forest, and light.",
+      "id": "yanomami-005",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Yai",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "mountain",
+        "night",
+        "mystery"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Yai is a spirit from Yanomami (Amazonian) tradition associated with spirit, mountain, night, and mystery.",
+      "id": "yanomami-006",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Nomasiri",
+      "type": "demon",
+      "domains": [
+        "death",
+        "disease",
+        "night",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Nomasiri is a demon from Yanomami (Amazonian) tradition associated with death, disease, night, and darkness.",
+      "id": "yanomami-007",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Purimayoma",
+      "type": "heroine",
+      "domains": [
+        "firefly",
+        "transformation",
+        "light",
+        "fate"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Purimayoma is a heroine from Yanomami (Amazonian) tradition associated with firefly, transformation, light, and fate.",
+      "id": "yanomami-008",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Amoawe",
+      "type": "hero",
+      "domains": [
+        "family",
+        "journey",
+        "forest",
+        "honor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Amoawe is a hero from Yanomami (Amazonian) tradition associated with family, journey, forest, and honor.",
+      "id": "yanomami-009",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Suhirinariwe",
+      "type": "hero",
+      "domains": [
+        "archery",
+        "wisdom",
+        "calm",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Suhirinariwe is a hero from Yanomami (Amazonian) tradition associated with archery, wisdom, calm, and war.",
+      "id": "yanomami-010",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Poriporiri",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "night",
+        "cycle",
+        "death"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Poriporiri is a spirit from Yanomami (Amazonian) tradition associated with moon, night, cycle, and death.",
+      "id": "yanomami-011",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Ayokora Bird Spirit",
+      "type": "spirit",
+      "domains": [
+        "bird",
+        "healing",
+        "sky",
+        "ritual"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Ayokora Bird Spirit is a spirit from Yanomami (Amazonian) tradition associated with bird, healing, sky, and ritual.",
+      "id": "yanomami-012",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Xamari",
+      "type": "creature",
+      "domains": [
+        "tapir",
+        "animal",
+        "spirit",
+        "forest"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Xamari is a creature from Yanomami (Amazonian) tradition associated with tapir, animal, spirit, and forest.",
+      "id": "yanomami-013",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Urihinari",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "spirit",
+        "protection",
+        "earth"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Urihinari is a spirit from Yanomami (Amazonian) tradition associated with forest, spirit, protection, and earth.",
+      "id": "yanomami-014",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Mauunari",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "spirit",
+        "river",
+        "healing"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Mauunari is a spirit from Yanomami (Amazonian) tradition associated with water, spirit, river, and healing.",
+      "id": "yanomami-015",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Yarori",
+      "type": "spirit",
+      "domains": [
+        "animal",
+        "forest",
+        "ancestor",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Yarori is a spirit from Yanomami (Amazonian) tradition associated with animal, forest, ancestor, and spirit.",
+      "id": "yanomami-016",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Yakoana",
+      "type": "spirit",
+      "domains": [
+        "vision",
+        "ritual",
+        "healing",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Yakoana is a spirit from Yanomami (Amazonian) tradition associated with vision, ritual, healing, and spirit.",
+      "id": "yanomami-017",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Omoari",
+      "type": "spirit",
+      "domains": [
+        "dry season",
+        "fire",
+        "heat",
+        "sky"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Omoari is a spirit from Yanomami (Amazonian) tradition associated with dry season, fire, heat, and sky.",
+      "id": "yanomami-018",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Toorori",
+      "type": "spirit",
+      "domains": [
+        "rainy season",
+        "water",
+        "toad",
+        "earth"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Toorori is a spirit from Yanomami (Amazonian) tradition associated with rainy season, water, toad, and earth.",
+      "id": "yanomami-019",
+      "culture_slug": "yanomami"
+    },
+    {
+      "name": "Watoriki Spirit",
+      "type": "guardian",
+      "domains": [
+        "mountain",
+        "forest",
+        "spirit",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Watoriki Spirit is a guardian from Yanomami (Amazonian) tradition associated with mountain, forest, spirit, and protection.",
+      "id": "yanomami-020",
+      "culture_slug": "yanomami"
+    }
+  ]
+}

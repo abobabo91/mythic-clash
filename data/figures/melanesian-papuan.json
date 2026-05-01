@@ -1,0 +1,526 @@
+{
+  "culture_slug": "melanesian-papuan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Qat",
+      "type": "hero",
+      "domains": [
+        "creation",
+        "trickster",
+        "light",
+        "craft"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Qat is a hero from Melanesian / Papuan tradition associated with creation, trickster, light, and craft.",
+      "id": "melanesian-papuan-001",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Tagaro",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "war",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tagaro is a god from Melanesian / Papuan tradition associated with creation, sky, war, and kingship.",
+      "id": "melanesian-papuan-002",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Marawa",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "spider",
+        "wisdom",
+        "speed"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Marawa is a spirit from Melanesian / Papuan tradition associated with trickster, spider, wisdom, and speed.",
+      "id": "melanesian-papuan-003",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Vinmara",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "fertility",
+        "earth",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Vinmara is a goddess from Melanesian / Papuan tradition associated with love, fertility, earth, and beauty.",
+      "id": "melanesian-papuan-004",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "To Kabinana",
+      "type": "hero",
+      "domains": [
+        "creation",
+        "wisdom",
+        "light",
+        "craft"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "To Kabinana is a hero from Melanesian / Papuan tradition associated with creation, wisdom, light, and craft.",
+      "id": "melanesian-papuan-005",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "To Karvuvu",
+      "type": "spirit",
+      "domains": [
+        "darkness",
+        "death",
+        "chaos",
+        "trickster"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "To Karvuvu is a spirit from Melanesian / Papuan tradition associated with darkness, death, chaos, and trickster.",
+      "id": "melanesian-papuan-006",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Hatuibwari",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "sea",
+        "creation",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Hatuibwari is a creature from Melanesian / Papuan tradition associated with serpent, sea, creation, and power.",
+      "id": "melanesian-papuan-007",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Agunua",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "sun",
+        "sea",
+        "animal"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Agunua is a god from Melanesian / Papuan tradition associated with serpent, sun, sea, and animal.",
+      "id": "melanesian-papuan-008",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Abere",
+      "type": "spirit",
+      "domains": [
+        "night",
+        "underworld",
+        "monster",
+        "darkness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Abere is a spirit from Melanesian / Papuan tradition associated with night, underworld, monster, and darkness.",
+      "id": "melanesian-papuan-009",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Adaro",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "storm",
+        "sun",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Adaro is a spirit from Melanesian / Papuan tradition associated with sea, storm, sun, and spirit.",
+      "id": "melanesian-papuan-010",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Kakamora",
+      "type": "creature",
+      "domains": [
+        "forest",
+        "trickster",
+        "animal",
+        "night"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Kakamora is a creature from Melanesian / Papuan tradition associated with forest, trickster, animal, and night.",
+      "id": "melanesian-papuan-011",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Suqe-Matua",
+      "type": "ancestor",
+      "domains": [
+        "ritual",
+        "ancestor",
+        "wisdom",
+        "order"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Suqe-Matua is an ancestor from Melanesian / Papuan tradition associated with ritual, ancestor, wisdom, and order.",
+      "id": "melanesian-papuan-012",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Mansren",
+      "type": "hero",
+      "domains": [
+        "prophecy",
+        "light",
+        "justice",
+        "hope"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Mansren is a hero from Melanesian / Papuan tradition associated with prophecy, light, justice, and hope.",
+      "id": "melanesian-papuan-013",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Aiwel",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "spirit",
+        "healing",
+        "mystery"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Aiwel is a spirit from Melanesian / Papuan tradition associated with forest, spirit, healing, and mystery.",
+      "id": "melanesian-papuan-014",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Moroa",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "ancestor",
+        "storm",
+        "guidance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Moroa is a spirit from Melanesian / Papuan tradition associated with sea, ancestor, storm, and guidance.",
+      "id": "melanesian-papuan-015",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Vele",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "fertility",
+        "earth",
+        "protection"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Vele is a spirit from Melanesian / Papuan tradition associated with forest, fertility, earth, and protection.",
+      "id": "melanesian-papuan-016",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Sambali",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "sea",
+        "quest",
+        "courage"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Sambali is a hero from Melanesian / Papuan tradition associated with voyage, sea, quest, and courage.",
+      "id": "melanesian-papuan-017",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Tambaran Mask",
+      "type": "guardian",
+      "domains": [
+        "spirit",
+        "ritual",
+        "ancestor",
+        "fear"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Tambaran Mask is a guardian from Melanesian / Papuan tradition associated with spirit, ritual, ancestor, and fear.",
+      "id": "melanesian-papuan-018",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Crocodile Ancestor",
+      "type": "creature",
+      "domains": [
+        "water",
+        "ancestor",
+        "animal",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Crocodile Ancestor is a creature from Melanesian / Papuan tradition associated with water, ancestor, animal, and earth.",
+      "id": "melanesian-papuan-019",
+      "culture_slug": "melanesian-papuan"
+    },
+    {
+      "name": "Bird of Paradise Spirit",
+      "type": "spirit",
+      "domains": [
+        "bird",
+        "light",
+        "beauty",
+        "sky"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Bird of Paradise Spirit is a spirit from Melanesian / Papuan tradition associated with bird, light, beauty, and sky.",
+      "id": "melanesian-papuan-020",
+      "culture_slug": "melanesian-papuan"
+    }
+  ]
+}

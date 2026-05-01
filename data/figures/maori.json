@@ -1,0 +1,526 @@
+{
+  "culture_slug": "maori",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tane Mahuta",
+      "type": "god",
+      "domains": [
+        "forest",
+        "creation",
+        "light",
+        "sky"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Tane Mahuta is a god from Maori (New Zealand) tradition associated with forest, creation, light, and sky.",
+      "id": "maori-001",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Maui",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "sun",
+        "sea",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Maui is a hero from Maori (New Zealand) tradition associated with trickster, sun, sea, and quest.",
+      "id": "maori-002",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Tangaroa",
+      "type": "god",
+      "domains": [
+        "sea",
+        "water",
+        "animal",
+        "creation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tangaroa is a god from Maori (New Zealand) tradition associated with sea, water, animal, and creation.",
+      "id": "maori-003",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Tawhirimatea",
+      "type": "god",
+      "domains": [
+        "storm",
+        "wind",
+        "sky",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Tawhirimatea is a god from Maori (New Zealand) tradition associated with storm, wind, sky, and war.",
+      "id": "maori-004",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Tu Matauenga",
+      "type": "god",
+      "domains": [
+        "war",
+        "strength",
+        "kingship",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Tu Matauenga is a god from Maori (New Zealand) tradition associated with war, strength, kingship, and justice.",
+      "id": "maori-005",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Rongo",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "peace",
+        "agriculture",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Rongo is a god from Maori (New Zealand) tradition associated with fertility, peace, agriculture, and earth.",
+      "id": "maori-006",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Ruaumoko",
+      "type": "god",
+      "domains": [
+        "earth",
+        "fire",
+        "quake",
+        "underworld"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Ruaumoko is a god from Maori (New Zealand) tradition associated with earth, fire, quake, and underworld.",
+      "id": "maori-007",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Hine-nui-te-po",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "night",
+        "underworld",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Hine-nui-te-po is a goddess from Maori (New Zealand) tradition associated with death, night, underworld, and spirit.",
+      "id": "maori-008",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Ranginui",
+      "type": "god",
+      "domains": [
+        "sky",
+        "rain",
+        "creation",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Ranginui is a god from Maori (New Zealand) tradition associated with sky, rain, creation, and light.",
+      "id": "maori-009",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Papatuanuku",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "fertility",
+        "creation",
+        "motherhood"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Papatuanuku is a goddess from Maori (New Zealand) tradition associated with earth, fertility, creation, and motherhood.",
+      "id": "maori-010",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Haumia-tiketike",
+      "type": "god",
+      "domains": [
+        "roots",
+        "fertility",
+        "earth",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Haumia-tiketike is a god from Maori (New Zealand) tradition associated with roots, fertility, earth, and agriculture.",
+      "id": "maori-011",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Hina",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "wisdom",
+        "craft",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Hina is a goddess from Maori (New Zealand) tradition associated with moon, wisdom, craft, and water.",
+      "id": "maori-012",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Whaitiri",
+      "type": "goddess",
+      "domains": [
+        "thunder",
+        "storm",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Whaitiri is a goddess from Maori (New Zealand) tradition associated with thunder, storm, war, and sky.",
+      "id": "maori-013",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Uenuku",
+      "type": "god",
+      "domains": [
+        "rainbow",
+        "war",
+        "sky",
+        "omen"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Uenuku is a god from Maori (New Zealand) tradition associated with rainbow, war, sky, and omen.",
+      "id": "maori-014",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Tinirau",
+      "type": "god",
+      "domains": [
+        "sea",
+        "fish",
+        "abundance",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tinirau is a god from Maori (New Zealand) tradition associated with sea, fish, abundance, and water.",
+      "id": "maori-015",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Rehua",
+      "type": "god",
+      "domains": [
+        "star",
+        "healing",
+        "light",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Rehua is a god from Maori (New Zealand) tradition associated with star, healing, light, and wisdom.",
+      "id": "maori-016",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Tiki",
+      "type": "ancestor",
+      "domains": [
+        "creation",
+        "ancestor",
+        "earth",
+        "life"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tiki is an ancestor from Maori (New Zealand) tradition associated with creation, ancestor, earth, and life.",
+      "id": "maori-017",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Rona",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "water",
+        "night",
+        "fate"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Rona is a spirit from Maori (New Zealand) tradition associated with moon, water, night, and fate.",
+      "id": "maori-018",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Pania",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "love",
+        "water",
+        "beauty"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Pania is a spirit from Maori (New Zealand) tradition associated with sea, love, water, and beauty.",
+      "id": "maori-019",
+      "culture_slug": "maori"
+    },
+    {
+      "name": "Taniwha",
+      "type": "creature",
+      "domains": [
+        "water",
+        "serpent",
+        "guardian",
+        "monster"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Taniwha is a creature from Maori (New Zealand) tradition associated with water, serpent, guardian, and monster.",
+      "id": "maori-020",
+      "culture_slug": "maori"
+    }
+  ]
+}

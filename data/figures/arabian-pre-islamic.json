@@ -1,0 +1,526 @@
+{
+  "culture_slug": "arabian-pre-islamic",
+  "count": 20,
+  "figures": [
+    {
+      "name": "al-Lat",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "earth",
+        "light",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "al-Lat is a goddess from Arabian (Pre-Islamic) tradition associated with fertility, earth, light, and fate.",
+      "id": "arabian-pre-islamic-001",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "al-Uzza",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "star",
+        "power",
+        "desert"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "al-Uzza is a goddess from Arabian (Pre-Islamic) tradition associated with war, star, power, and desert.",
+      "id": "arabian-pre-islamic-002",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Manat",
+      "type": "goddess",
+      "domains": [
+        "fate",
+        "death",
+        "time",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Manat is a goddess from Arabian (Pre-Islamic) tradition associated with fate, death, time, and wisdom.",
+      "id": "arabian-pre-islamic-003",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Hubal",
+      "type": "god",
+      "domains": [
+        "divination",
+        "war",
+        "sky",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Hubal is a god from Arabian (Pre-Islamic) tradition associated with divination, war, sky, and kingship.",
+      "id": "arabian-pre-islamic-004",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Dhu al-Shara",
+      "type": "god",
+      "domains": [
+        "mountain",
+        "wine",
+        "storm",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Dhu al-Shara is a god from Arabian (Pre-Islamic) tradition associated with mountain, wine, storm, and kingship.",
+      "id": "arabian-pre-islamic-005",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Quzah",
+      "type": "god",
+      "domains": [
+        "rain",
+        "storm",
+        "sky",
+        "bow"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Quzah is a god from Arabian (Pre-Islamic) tradition associated with rain, storm, sky, and bow.",
+      "id": "arabian-pre-islamic-006",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Wadd",
+      "type": "god",
+      "domains": [
+        "love",
+        "moon",
+        "friendship",
+        "oath"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Wadd is a god from Arabian (Pre-Islamic) tradition associated with love, moon, friendship, and oath.",
+      "id": "arabian-pre-islamic-007",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Nasr",
+      "type": "god",
+      "domains": [
+        "animal",
+        "sky",
+        "ancestor",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Nasr is a god from Arabian (Pre-Islamic) tradition associated with animal, sky, ancestor, and protection.",
+      "id": "arabian-pre-islamic-008",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Suwa",
+      "type": "goddess",
+      "domains": [
+        "beauty",
+        "fertility",
+        "water",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Suwa is a goddess from Arabian (Pre-Islamic) tradition associated with beauty, fertility, water, and light.",
+      "id": "arabian-pre-islamic-009",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Yaghuth",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "war",
+        "protection",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Yaghuth is a creature from Arabian (Pre-Islamic) tradition associated with animal, war, protection, and power.",
+      "id": "arabian-pre-islamic-010",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Ya'uq",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "speed",
+        "mountain",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Ya'uq is a creature from Arabian (Pre-Islamic) tradition associated with animal, speed, mountain, and strength.",
+      "id": "arabian-pre-islamic-011",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Isaf",
+      "type": "spirit",
+      "domains": [
+        "stone",
+        "pilgrimage",
+        "oath",
+        "desert"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Isaf is a spirit from Arabian (Pre-Islamic) tradition associated with stone, pilgrimage, oath, and desert.",
+      "id": "arabian-pre-islamic-012",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Na'ila",
+      "type": "spirit",
+      "domains": [
+        "love",
+        "stone",
+        "fate",
+        "warning"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Na'ila is a spirit from Arabian (Pre-Islamic) tradition associated with love, stone, fate, and warning.",
+      "id": "arabian-pre-islamic-013",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Jinn",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "wind",
+        "fire",
+        "desert"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Jinn is a spirit from Arabian (Pre-Islamic) tradition associated with spirit, wind, fire, and desert.",
+      "id": "arabian-pre-islamic-014",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Ifrit",
+      "type": "demon",
+      "domains": [
+        "fire",
+        "darkness",
+        "war",
+        "spirit"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Ifrit is a demon from Arabian (Pre-Islamic) tradition associated with fire, darkness, war, and spirit.",
+      "id": "arabian-pre-islamic-015",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Marid",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "wind",
+        "power",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Marid is a spirit from Arabian (Pre-Islamic) tradition associated with sea, wind, power, and spirit.",
+      "id": "arabian-pre-islamic-016",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Ghoul",
+      "type": "monster",
+      "domains": [
+        "death",
+        "night",
+        "desert",
+        "hunger"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Ghoul is a monster from Arabian (Pre-Islamic) tradition associated with death, night, desert, and hunger.",
+      "id": "arabian-pre-islamic-017",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Si'lat",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "desert",
+        "shapechanging",
+        "night"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Si'lat is a spirit from Arabian (Pre-Islamic) tradition associated with trickster, desert, shapechanging, and night.",
+      "id": "arabian-pre-islamic-018",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Qareen",
+      "type": "spirit",
+      "domains": [
+        "shadow",
+        "spirit",
+        "temptation",
+        "fate"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Qareen is a spirit from Arabian (Pre-Islamic) tradition associated with shadow, spirit, temptation, and fate.",
+      "id": "arabian-pre-islamic-019",
+      "culture_slug": "arabian-pre-islamic"
+    },
+    {
+      "name": "Ruda",
+      "type": "god",
+      "domains": [
+        "wind",
+        "protection",
+        "desert",
+        "justice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Ruda is a god from Arabian (Pre-Islamic) tradition associated with wind, protection, desert, and justice.",
+      "id": "arabian-pre-islamic-020",
+      "culture_slug": "arabian-pre-islamic"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "culture_slug": "zoroastrian-persian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ahura Mazda",
+      "type": "god",
+      "domains": [
+        "light",
+        "wisdom",
+        "creation",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Ahura Mazda is a god from Zoroastrian (Persian) tradition associated with light, wisdom, creation, and fire.",
+      "id": "zoroastrian-persian-001",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Angra Mainyu",
+      "type": "demon",
+      "domains": [
+        "darkness",
+        "destruction",
+        "death",
+        "chaos"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 5
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Angra Mainyu is a demon from Zoroastrian (Persian) tradition associated with darkness, destruction, death, and chaos.",
+      "id": "zoroastrian-persian-002",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Spenta Mainyu",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "spirit",
+        "creation",
+        "truth"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Spenta Mainyu is a spirit from Zoroastrian (Persian) tradition associated with light, spirit, creation, and truth.",
+      "id": "zoroastrian-persian-003",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Anahita",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "fertility",
+        "healing",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Anahita is a goddess from Zoroastrian (Persian) tradition associated with water, fertility, healing, and wisdom.",
+      "id": "zoroastrian-persian-004",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Mithra",
+      "type": "god",
+      "domains": [
+        "sun",
+        "justice",
+        "light",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Mithra is a god from Zoroastrian (Persian) tradition associated with sun, justice, light, and war.",
+      "id": "zoroastrian-persian-005",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Atar",
+      "type": "god",
+      "domains": [
+        "fire",
+        "purification",
+        "light",
+        "spirit"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Atar is a god from Zoroastrian (Persian) tradition associated with fire, purification, light, and spirit.",
+      "id": "zoroastrian-persian-006",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Verethragna",
+      "type": "god",
+      "domains": [
+        "war",
+        "victory",
+        "fire",
+        "animal"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Verethragna is a god from Zoroastrian (Persian) tradition associated with war, victory, fire, and animal.",
+      "id": "zoroastrian-persian-007",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Tishtrya",
+      "type": "spirit",
+      "domains": [
+        "rain",
+        "star",
+        "water",
+        "light"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Tishtrya is a spirit from Zoroastrian (Persian) tradition associated with rain, star, water, and light.",
+      "id": "zoroastrian-persian-008",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Sraosha",
+      "type": "spirit",
+      "domains": [
+        "wisdom",
+        "spirit",
+        "justice",
+        "night"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Sraosha is a spirit from Zoroastrian (Persian) tradition associated with wisdom, spirit, justice, and night.",
+      "id": "zoroastrian-persian-009",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Rashnu",
+      "type": "god",
+      "domains": [
+        "justice",
+        "truth",
+        "death",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Judgment Oath",
+        "description": "Expose one enemy card; if it has higher power than wisdom, stun it for 1 turn."
+      },
+      "description": "Rashnu is a god from Zoroastrian (Persian) tradition associated with justice, truth, death, and wisdom.",
+      "id": "zoroastrian-persian-010",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Haoma",
+      "type": "spirit",
+      "domains": [
+        "healing",
+        "fertility",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Haoma is a spirit from Zoroastrian (Persian) tradition associated with healing, fertility, spirit, and wisdom.",
+      "id": "zoroastrian-persian-011",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Vayu-Vata",
+      "type": "god",
+      "domains": [
+        "wind",
+        "sky",
+        "war",
+        "death"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Vayu-Vata is a god from Zoroastrian (Persian) tradition associated with wind, sky, war, and death.",
+      "id": "zoroastrian-persian-012",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Haurvatat",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "healing",
+        "wholeness",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Haurvatat is a goddess from Zoroastrian (Persian) tradition associated with water, healing, wholeness, and light.",
+      "id": "zoroastrian-persian-013",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Ameretat",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "life",
+        "plants",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Ameretat is a goddess from Zoroastrian (Persian) tradition associated with fertility, life, plants, and light.",
+      "id": "zoroastrian-persian-014",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Fravashi",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "light",
+        "protection",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Fravashi is a spirit from Zoroastrian (Persian) tradition associated with ancestor, light, protection, and spirit.",
+      "id": "zoroastrian-persian-015",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Daena",
+      "type": "spirit",
+      "domains": [
+        "wisdom",
+        "soul",
+        "judgment",
+        "light"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Daena is a spirit from Zoroastrian (Persian) tradition associated with wisdom, soul, judgment, and light.",
+      "id": "zoroastrian-persian-016",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Chinvat Bridge",
+      "type": "guardian",
+      "domains": [
+        "justice",
+        "death",
+        "spirit",
+        "threshold"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Judgment Oath",
+        "description": "Expose one enemy card; if it has higher power than wisdom, stun it for 1 turn."
+      },
+      "description": "Chinvat Bridge is a guardian from Zoroastrian (Persian) tradition associated with justice, death, spirit, and threshold.",
+      "id": "zoroastrian-persian-017",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Yima",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "earth",
+        "order",
+        "sun"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Yima is a hero from Zoroastrian (Persian) tradition associated with kingship, earth, order, and sun.",
+      "id": "zoroastrian-persian-018",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Keresaspa",
+      "type": "hero",
+      "domains": [
+        "war",
+        "dragon",
+        "strength",
+        "fire"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Keresaspa is a hero from Zoroastrian (Persian) tradition associated with war, dragon, strength, and fire.",
+      "id": "zoroastrian-persian-019",
+      "culture_slug": "zoroastrian-persian"
+    },
+    {
+      "name": "Simurgh",
+      "type": "creature",
+      "domains": [
+        "sky",
+        "wisdom",
+        "healing",
+        "animal"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Simurgh is a creature from Zoroastrian (Persian) tradition associated with sky, wisdom, healing, and animal.",
+      "id": "zoroastrian-persian-020",
+      "culture_slug": "zoroastrian-persian"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "culture_slug": "khmer",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Jayavarman VII",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "buddhism",
+        "empire",
+        "healing"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Bodhisattva King",
+        "description": "Heal all allied cards for 5 HP and grant them +2 wisdom for 2 turns."
+      },
+      "description": "The greatest Khmer king, builder of Angkor Thom and the Bayon, who embraced Buddhism and devoted his reign to healing his people.",
+      "id": "khmer-001",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Preah Vishnu (Khmer)",
+      "type": "god",
+      "domains": [
+        "preservation",
+        "cosmos",
+        "ocean",
+        "royalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Cosmic Ocean",
+        "description": "Create a vast ocean field; all earth-domain enemies lose 3 power while aquatic allies gain 3."
+      },
+      "description": "Vishnu as worshipped at Angkor Wat, the supreme preserver deity of the Khmer empire whose image graced the grandest temple.",
+      "id": "khmer-002",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Shiva (Khmer)",
+      "type": "god",
+      "domains": [
+        "destruction",
+        "creation",
+        "lingam",
+        "mountain"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Devaraja Power",
+        "description": "Declare yourself the god-king; all allied cards gain +3 to all stats for 1 turn."
+      },
+      "description": "Shiva worshipped as the supreme deity by many Khmer kings, whose lingam at the summit of the temple mountain symbolized divine kingship.",
+      "id": "khmer-003",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Neak (Naga)",
+      "type": "creature",
+      "domains": [
+        "water",
+        "serpent",
+        "fertility",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Flood Season",
+        "description": "Boost all water-domain allied cards by 3 power; enemy fire cards lose 3 power."
+      },
+      "description": "The Khmer naga, a multi-headed water serpent who forms the balustrades of Angkor's causeways and bridges, symbols of the rainbow connecting earth to heaven.",
+      "id": "khmer-004",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Harihara",
+      "type": "god",
+      "domains": [
+        "dual deity",
+        "half Vishnu",
+        "half Shiva",
+        "balance"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Union",
+        "description": "Combine the abilities of any two allied god-type cards for a single super-ability."
+      },
+      "description": "The composite deity uniting Vishnu and Shiva, widely worshipped in early Cambodia as the supreme god embodying all cosmic functions.",
+      "id": "khmer-005",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Indra (Khmer)",
+      "type": "god",
+      "domains": [
+        "rain",
+        "war",
+        "heavens",
+        "thunder"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunderstorm Cavalry",
+        "description": "Summon three lightning riders with 6/6/8/5/5 stats who strike all enemies simultaneously."
+      },
+      "description": "Indra as worshipped at Angkor, lord of the celestial armies and bringer of rain, depicted astride the divine elephant.",
+      "id": "khmer-006",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Apsara",
+      "type": "spirit",
+      "domains": [
+        "dance",
+        "beauty",
+        "heaven",
+        "art"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Celestial Dance",
+        "description": "Mesmerize all enemy cards for 1 turn, preventing their attacks; allies gain 2 to all stats."
+      },
+      "description": "The celestial dancer nymphs of Khmer heaven, carved in thousands across Angkor's walls, embodiments of divine beauty and cosmic art.",
+      "id": "khmer-007",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Kala (Khmer)",
+      "type": "god",
+      "domains": [
+        "time",
+        "devouring",
+        "portals",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Devouring Arch",
+        "description": "Destroy one enemy card outright; its power is added to Kala's stats."
+      },
+      "description": "The time-devouring demon face carved above temple doorways, said to consume all except the sun and moon, guardian and destroyer of entrances.",
+      "id": "khmer-008",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Preak Thong",
+      "type": "hero",
+      "domains": [
+        "founding",
+        "serpent-king",
+        "dragon",
+        "royalty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Marriage",
+        "description": "Form a permanent alliance with one serpent-type card; combined stats become the total."
+      },
+      "description": "The legendary founder-hero of Cambodia who married the naga princess Neang Neak, establishing the royal lineage of the Khmer.",
+      "id": "khmer-009",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Neang Neak",
+      "type": "spirit",
+      "domains": [
+        "naga",
+        "royalty",
+        "water",
+        "founding"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Naga Bride",
+        "description": "Grant the card bearing Naga Bride immunity to all serpent-type attacks for 3 turns."
+      },
+      "description": "The naga princess who married the brahmin Preak Thong, her father draining the sea to create the land of Cambodia for them to rule.",
+      "id": "khmer-010",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Yeay Mao",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "protection",
+        "fishermen",
+        "storms"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Black Lady of the Sea",
+        "description": "Control the weather for 2 turns: choose calm seas (boost allies) or storm (damage all enemies)."
+      },
+      "description": "The Black Lady, powerful spirit of the sea revered by Cambodian fishermen, who controls the waters and protects or punishes sailors.",
+      "id": "khmer-011",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Thmorda",
+      "type": "hero",
+      "domains": [
+        "orphan",
+        "trickster",
+        "wit",
+        "justice"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Plea",
+        "description": "Win any argument or contest with an opponent card; if you lose in power, win in wisdom."
+      },
+      "description": "The clever orphan hero of Khmer folk tales who outwits judges, kings, and even demons through his quick wit and sense of justice.",
+      "id": "khmer-012",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Preah En (Khmer Indra)",
+      "type": "god",
+      "domains": [
+        "heaven",
+        "protection",
+        "monarch",
+        "thunder"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monarch's Shield",
+        "description": "Place an unbreakable barrier around one allied card for 2 turns."
+      },
+      "description": "The Khmer version of Indra, chief of the heavenly devas and protector of righteous kings, summoned in royal rituals.",
+      "id": "khmer-013",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Moni Mekhala",
+      "type": "goddess",
+      "domains": [
+        "lightning",
+        "sea",
+        "jewel",
+        "goddess"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Crystal Ball Flash",
+        "description": "Blind all enemy cards for 2 turns with a flash of crystal light; blinded cards cannot attack."
+      },
+      "description": "The lightning goddess who carries a crystal ball, engaged in eternal battle with the thunder demon Ream Eyso, their contest creating storms.",
+      "id": "khmer-014",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Ream Eyso",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "competition",
+        "axe",
+        "storms"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Axe",
+        "description": "Hurl the axe at Moni Mekhala or the highest-magic enemy; deal 9 damage."
+      },
+      "description": "The thunder demon who endlessly pursues the lightning goddess Moni Mekhala, his axe throw creating thunder when it strikes the heavens.",
+      "id": "khmer-015",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Garuda (Khmer)",
+      "type": "creature",
+      "domains": [
+        "sun",
+        "wind",
+        "serpent-slayer",
+        "royal"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Eagle Strike",
+        "description": "Deal 8 damage to one naga-type enemy; naga allies flee the field if present."
+      },
+      "description": "The divine eagle who serves Vishnu and battles the nagas, carved prominently at Angkor as a symbol of solar power and royal might.",
+      "id": "khmer-016",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Preah Ko",
+      "type": "creature",
+      "domains": [
+        "sacred bull",
+        "ancestral",
+        "royal",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestor's Guard",
+        "description": "Protect all allied cards from death effects for 1 turn; restore 2 HP to all."
+      },
+      "description": "The sacred bull, one of the founding ancestor figures of the Khmer kingdom, whose temple at Roluos is among the oldest at Angkor.",
+      "id": "khmer-017",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Thompadey",
+      "type": "hero",
+      "domains": [
+        "warrior",
+        "elephant",
+        "battle",
+        "loyalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "War Elephant Charge",
+        "description": "Deal 9 damage to all enemy cards simultaneously; recharge requires 3 turns."
+      },
+      "description": "The great Khmer war elephant hero, whose sacred battle elephants were the tanks of the ancient battlefield in Angkor's military campaigns.",
+      "id": "khmer-018",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Bayon Face",
+      "type": "spirit",
+      "domains": [
+        "mystery",
+        "compassion",
+        "omniscience",
+        "stone"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 3,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "All-Seeing Gaze",
+        "description": "Reveal all hidden cards; enemy strategies are exposed and allies gain foreknowledge (+2 all stats)."
+      },
+      "description": "The enigmatic smiling stone faces of the Bayon temple, believed to represent the Bodhisattva Lokesvara or King Jayavarman VII himself watching over the kingdom.",
+      "id": "khmer-019",
+      "culture_slug": "khmer"
+    },
+    {
+      "name": "Preah Bat Dambong Dek",
+      "type": "hero",
+      "domains": [
+        "iron staff",
+        "founding",
+        "strength",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Iron Staff Sweep",
+        "description": "Sweep all enemies on the field; deal 6 damage to each."
+      },
+      "description": "The hero who founded a kingdom with his iron staff, one of the legendary predecessors in the founding myths of the Khmer people.",
+      "id": "khmer-020",
+      "culture_slug": "khmer"
+    }
+  ]
+}

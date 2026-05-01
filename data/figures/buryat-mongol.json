@@ -1,0 +1,526 @@
+{
+  "culture_slug": "buryat-mongol",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Geser",
+      "type": "hero",
+      "domains": [
+        "war",
+        "sky",
+        "spirit",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Geser is a hero from Buryat Mongol tradition associated with war, sky, spirit, and kingship.",
+      "id": "buryat-mongol-001",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Esege Malan",
+      "type": "god",
+      "domains": [
+        "sky",
+        "creation",
+        "light",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Esege Malan is a god from Buryat Mongol tradition associated with sky, creation, light, and wisdom.",
+      "id": "buryat-mongol-002",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Manzan Gurme",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "spirit",
+        "ancestor",
+        "earth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Manzan Gurme is a goddess from Buryat Mongol tradition associated with wisdom, spirit, ancestor, and earth.",
+      "id": "buryat-mongol-003",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Atai Ulaan",
+      "type": "demon",
+      "domains": [
+        "war",
+        "darkness",
+        "chaos",
+        "storm"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Atai Ulaan is a demon from Buryat Mongol tradition associated with war, darkness, chaos, and storm.",
+      "id": "buryat-mongol-004",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Khan Khormusta",
+      "type": "god",
+      "domains": [
+        "sky",
+        "justice",
+        "light",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Khan Khormusta is a god from Buryat Mongol tradition associated with sky, justice, light, and kingship.",
+      "id": "buryat-mongol-005",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Abai Geser",
+      "type": "hero",
+      "domains": [
+        "war",
+        "mountain",
+        "horse",
+        "victory"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Abai Geser is a hero from Buryat Mongol tradition associated with war, mountain, horse, and victory.",
+      "id": "buryat-mongol-006",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Sagaan Ubugen",
+      "type": "ancestor",
+      "domains": [
+        "wisdom",
+        "ancestor",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Sagaan Ubugen is an ancestor from Buryat Mongol tradition associated with wisdom, ancestor, fertility, and light.",
+      "id": "buryat-mongol-007",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Bukhe Belligte",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "war",
+        "earth",
+        "honor"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Bukhe Belligte is a hero from Buryat Mongol tradition associated with strength, war, earth, and honor.",
+      "id": "buryat-mongol-008",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Solbon",
+      "type": "spirit",
+      "domains": [
+        "star",
+        "light",
+        "sky",
+        "guidance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Solbon is a spirit from Buryat Mongol tradition associated with star, light, sky, and guidance.",
+      "id": "buryat-mongol-009",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Zasa Mergen",
+      "type": "hero",
+      "domains": [
+        "archery",
+        "hunting",
+        "wisdom",
+        "speed"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Zasa Mergen is a hero from Buryat Mongol tradition associated with archery, hunting, wisdom, and speed.",
+      "id": "buryat-mongol-010",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Abai Khatan",
+      "type": "goddess",
+      "domains": [
+        "light",
+        "fate",
+        "beauty",
+        "spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Abai Khatan is a goddess from Buryat Mongol tradition associated with light, fate, beauty, and spirit.",
+      "id": "buryat-mongol-011",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Mayas Hara",
+      "type": "goddess",
+      "domains": [
+        "darkness",
+        "fate",
+        "earth",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Mayas Hara is a goddess from Buryat Mongol tradition associated with darkness, fate, earth, and spirit.",
+      "id": "buryat-mongol-012",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Galta Ulaan",
+      "type": "demon",
+      "domains": [
+        "fire",
+        "war",
+        "chaos",
+        "storm"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Galta Ulaan is a demon from Buryat Mongol tradition associated with fire, war, chaos, and storm.",
+      "id": "buryat-mongol-013",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Azhirai Bukhe",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "strength",
+        "darkness",
+        "mountain"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Azhirai Bukhe is a monster from Buryat Mongol tradition associated with monster, strength, darkness, and mountain.",
+      "id": "buryat-mongol-014",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Shanaihan Shara",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "ritual",
+        "wisdom",
+        "healing"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Shanaihan Shara is a spirit from Buryat Mongol tradition associated with spirit, ritual, wisdom, and healing.",
+      "id": "buryat-mongol-015",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Uha Loson",
+      "type": "god",
+      "domains": [
+        "water",
+        "wisdom",
+        "spirit",
+        "lake"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Uha Loson is a god from Buryat Mongol tradition associated with water, wisdom, spirit, and lake.",
+      "id": "buryat-mongol-016",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Burkhan Khaldun Spirit",
+      "type": "guardian",
+      "domains": [
+        "mountain",
+        "spirit",
+        "ancestor",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Burkhan Khaldun Spirit is a guardian from Buryat Mongol tradition associated with mountain, spirit, ancestor, and protection.",
+      "id": "buryat-mongol-017",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Tenger Rider",
+      "type": "spirit",
+      "domains": [
+        "sky",
+        "wind",
+        "war",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Tenger Rider is a spirit from Buryat Mongol tradition associated with sky, wind, war, and spirit.",
+      "id": "buryat-mongol-018",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "Blue Wolf Ancestor",
+      "type": "creature",
+      "domains": [
+        "ancestor",
+        "animal",
+        "speed",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Blue Wolf Ancestor is a creature from Buryat Mongol tradition associated with ancestor, animal, speed, and protection.",
+      "id": "buryat-mongol-019",
+      "culture_slug": "buryat-mongol"
+    },
+    {
+      "name": "White Shaman Drum",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "sky",
+        "rhythm",
+        "healing"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "White Shaman Drum is a spirit from Buryat Mongol tradition associated with spirit, sky, rhythm, and healing.",
+      "id": "buryat-mongol-020",
+      "culture_slug": "buryat-mongol"
+    }
+  ]
+}

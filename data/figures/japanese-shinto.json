@@ -1,0 +1,526 @@
+{
+  "culture_slug": "japanese-shinto",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Amaterasu",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "light",
+        "creation",
+        "imperial ancestry"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Dawn Return",
+        "description": "Return from the cave: restore all light buffs and deal 5 damage to all dark enemies."
+      },
+      "description": "The great sun goddess who withdrew into a cave plunging the world into darkness before being lured out by laughter.",
+      "id": "japanese-shinto-001",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Susanoo",
+      "type": "god",
+      "domains": [
+        "storm",
+        "sea",
+        "Yamata-no-Orochi slayer",
+        "poetry"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Orochi Slayer",
+        "description": "Deal 8 damage to one giant-type enemy; find and equip divine sword Kusanagi."
+      },
+      "description": "Storm god exiled from heaven who slew the eight-headed serpent Yamata-no-Orochi and composed the first waka poem.",
+      "id": "japanese-shinto-002",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Izanagi",
+      "type": "god",
+      "domains": [
+        "creation",
+        "death escape",
+        "purification"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Purification Rite",
+        "description": "Remove all pollution and death-curse effects; grant +2 to all purified allies."
+      },
+      "description": "Male creator god who formed Japan and escaped the underworld, purifying himself to birth sun, moon and storm.",
+      "id": "japanese-shinto-003",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Izanami",
+      "type": "goddess",
+      "domains": [
+        "creation",
+        "death",
+        "underworld",
+        "rot"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Death Curse",
+        "description": "Mark one enemy for death: they take 2 additional damage from all sources for 3 turns."
+      },
+      "description": "Female creator goddess who died in childbirth and became queen of the underworld, threatening 1000 deaths per day.",
+      "id": "japanese-shinto-004",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Tsukuyomi",
+      "type": "god",
+      "domains": [
+        "moon",
+        "night",
+        "division",
+        "food goddess slayer"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Night Division",
+        "description": "All allies on the night side gain +2 to all stats; day and night cannot coexist this turn."
+      },
+      "description": "The moon god who killed the food goddess and was forever separated from Amaterasu creating day and night.",
+      "id": "japanese-shinto-005",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Raijin",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "drums",
+        "storms"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Thunder Drums",
+        "description": "Deal 4 thunder damage to all enemies; inflict deafening stun on all struck for 1 turn."
+      },
+      "description": "The thunder god who beats his ring of drums to create thunder and lightning storms across Japan.",
+      "id": "japanese-shinto-006",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Fujin",
+      "type": "god",
+      "domains": [
+        "wind",
+        "wind bag",
+        "storms",
+        "freedom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wind Release",
+        "description": "Grant all allies +4 speed for 1 turn; disperse all stationary effects on the field."
+      },
+      "description": "The wind god who carries the winds of the world in his great bag and releases them to drive ships and storms.",
+      "id": "japanese-shinto-007",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Inari",
+      "type": "god",
+      "domains": [
+        "foxes",
+        "rice",
+        "fertility",
+        "smithcraft",
+        "sake"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fox Messenger",
+        "description": "Summon one divine fox ally with 6/6/8/8/7 stats for 2 turns."
+      },
+      "description": "The kami of rice, foxes and prosperity whose shrine messengers are foxes (kitsune) carrying sacred scrolls.",
+      "id": "japanese-shinto-008",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Yamata-no-Orochi",
+      "type": "monster",
+      "domains": [
+        "eight-headed serpent",
+        "sake weakness",
+        "sword"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Eight Simultaneous Strikes",
+        "description": "Attack 8 different targets dealing 1 damage each; each attack ignores a different defense."
+      },
+      "description": "The monstrous eight-headed serpent who demanded maiden sacrifices until tricked by sake and slain by Susanoo.",
+      "id": "japanese-shinto-009",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Kagutsuchi",
+      "type": "god",
+      "domains": [
+        "fire",
+        "death of Izanami",
+        "divine fire"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Birthing Fire",
+        "description": "Deal 5 fire damage to all enemies; when this card is destroyed it births fire spirits."
+      },
+      "description": "The fire deity whose birth burned his mother Izanami fatally, causing Izanagi's rage and the first death.",
+      "id": "japanese-shinto-010",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Benzaiten",
+      "type": "goddess",
+      "domains": [
+        "arts",
+        "music",
+        "sea",
+        "luck",
+        "snakes"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Biwa",
+        "description": "Play music: all enemy abilities requiring combat are suppressed for 1 turn."
+      },
+      "description": "Goddess of arts, music and sea who plays the biwa lute and is the only female of the Seven Lucky Gods.",
+      "id": "japanese-shinto-011",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Ebisu",
+      "type": "god",
+      "domains": [
+        "fishing",
+        "commerce",
+        "luck",
+        "hard of hearing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lucky Catch",
+        "description": "Steal one resource buff from any enemy; grant it to the ally with the lowest stats."
+      },
+      "description": "The jolly god of fishermen and commerce who is hard of hearing, one of the beloved Seven Lucky Gods.",
+      "id": "japanese-shinto-012",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Tengu",
+      "type": "creature",
+      "domains": [
+        "mountain spirit",
+        "martial arts teacher",
+        "long nose",
+        "wings"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mountain Mastery",
+        "description": "Grant one ally mastery of all physical abilities: +3 power and speed for 2 turns."
+      },
+      "description": "The winged mountain demons who teach martial arts to worthy humans and punish the arrogant.",
+      "id": "japanese-shinto-013",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Kappa",
+      "type": "creature",
+      "domains": [
+        "water sprite",
+        "cucumber",
+        "wrestling",
+        "manners"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Water Depression",
+        "description": "Drain 2 HP from one enemy; if they bow, drain 3 more as the water spills."
+      },
+      "description": "The river sprite who drags victims underwater but can be stopped by bowing — making it bow and spilling its head water.",
+      "id": "japanese-shinto-014",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Oni",
+      "type": "creature",
+      "domains": [
+        "demon",
+        "club",
+        "hell",
+        "strength",
+        "New Year"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Club Smash",
+        "description": "Deal 5 damage to one enemy; remove one positive effect from them."
+      },
+      "description": "The horned Japanese demon with iron club who punishes sinners in hell and is driven away on Setsubun.",
+      "id": "japanese-shinto-015",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Tanuki",
+      "type": "creature",
+      "domains": [
+        "raccoon dog",
+        "shapeshifting",
+        "sake",
+        "belly drum"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Belly Drum Magic",
+        "description": "Create one illusion ally that fools enemies for 2 turns before vanishing."
+      },
+      "description": "The magical raccoon dog who shapeshifts into treasure and humans, beating his leaf-covered belly for luck.",
+      "id": "japanese-shinto-016",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Yuki-onna",
+      "type": "spirit",
+      "domains": [
+        "snow woman",
+        "cold",
+        "death",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Frozen Breath",
+        "description": "Freeze one enemy for 2 turns; they cannot act or be warmed by any ally."
+      },
+      "description": "The beautiful snow spirit whose breath freezes travelers solid and whose kiss brings cold death on winter mountains.",
+      "id": "japanese-shinto-017",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Fudo Myo-o",
+      "type": "god",
+      "domains": [
+        "immovable",
+        "fire",
+        "wisdom",
+        "Buddhism-Shinto"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Immovable Flame",
+        "description": "This card cannot be moved, pushed or repositioned; deal 4 fire damage per turn to all dark enemies."
+      },
+      "description": "The immovable wisdom king surrounded by flames who destroys evil with his rope and sword.",
+      "id": "japanese-shinto-018",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Benten",
+      "type": "goddess",
+      "domains": [
+        "variant of Benzaiten",
+        "lake",
+        "music",
+        "snake"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Lake Shrine",
+        "description": "Restore 2 HP to all allies; all water and music abilities gain +2 power."
+      },
+      "description": "The lake-dwelling form of Benzaiten whose shrines sit on islands in sacred lakes.",
+      "id": "japanese-shinto-019",
+      "culture_slug": "japanese-shinto"
+    },
+    {
+      "name": "Ame-no-Uzume",
+      "type": "goddess",
+      "domains": [
+        "dawn",
+        "dance",
+        "laughter",
+        "Amaterasu's lure"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ecstatic Dance",
+        "description": "Make all allies laugh: remove all fear and paralysis effects; inflict confusion on all enemies."
+      },
+      "description": "The dawn goddess whose lewd comic dance lured all the gods to laughter and drew Amaterasu from her cave.",
+      "id": "japanese-shinto-020",
+      "culture_slug": "japanese-shinto"
+    }
+  ]
+}

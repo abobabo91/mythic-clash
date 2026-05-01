@@ -1,0 +1,510 @@
+{
+  "culture_slug": "sikh",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Guru Nanak",
+      "type": "hero",
+      "domains": [
+        "first Guru",
+        "divine light",
+        "unity",
+        "founder"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ik Onkar",
+        "description": "All sectarian and divisive enemy abilities auto-fail; all allies gain +2 to all stats."
+      },
+      "description": "The founder of Sikhism whose divine illumination revealed the One Creator beyond all religious divisions.",
+      "id": "sikh-001",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Guru Gobind Singh",
+      "type": "hero",
+      "domains": [
+        "tenth Guru",
+        "Khalsa founder",
+        "warrior poet"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Khalsa Power",
+        "description": "All Sikh warrior allies gain +4 power; create one Khalsa warrior ally with 7/7/7/7/7 stats."
+      },
+      "description": "The tenth Guru who founded the Khalsa — the army of the pure — and composed the Dasam Granth's fierce mythology.",
+      "id": "sikh-002",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Chandi",
+      "type": "goddess",
+      "domains": [
+        "warrior goddess",
+        "Dasam Granth",
+        "Guru Gobind's Chandi"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Demon Slayer's Song",
+        "description": "Deal 6 damage to all dark enemies; Sikh warrior allies gain +3 power."
+      },
+      "description": "The fierce warrior goddess of the Dasam Granth whose battles against demons Guru Gobind Singh immortalized in verse.",
+      "id": "sikh-003",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Baba Deep Singh",
+      "type": "hero",
+      "domains": [
+        "martyr",
+        "headless warrior",
+        "holy site defender"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Severed Head Champion",
+        "description": "Even when this card's HP reaches 0, it acts for one final turn before falling."
+      },
+      "description": "The legendary Sikh martyr who fought to the Golden Temple with his severed head held in his hand.",
+      "id": "sikh-004",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Banda Singh Bahadur",
+      "type": "hero",
+      "domains": [
+        "military leader",
+        "revolutionary",
+        "liberation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Liberation Charge",
+        "description": "Deal 5 damage to all enemies; free any ally who is immobilized or controlled."
+      },
+      "description": "The fierce Sikh warrior leader who established the first Sikh sovereignty after Guru Gobind Singh.",
+      "id": "sikh-005",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Guru Granth Sahib",
+      "type": "spirit",
+      "domains": [
+        "eternal Guru",
+        "living scripture",
+        "divine word"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 10,
+        "speed": 4,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Shabad",
+        "description": "All allies gain +2 to all stats while the living scripture guides; enemy corruption abilities fail."
+      },
+      "description": "The eternal living Guru of the Sikhs — the sacred scripture itself that contains all divine wisdom.",
+      "id": "sikh-006",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Mata Sahib Kaur",
+      "type": "heroine",
+      "domains": [
+        "mother of Khalsa",
+        "Guru's consort",
+        "strength"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Mother of the Pure",
+        "description": "All Khalsa warriors gain +2 defense from the mother's blessing."
+      },
+      "description": "The 'Mother of the Khalsa' who mixed sugar into the amrit ceremony creating the sweetness of divine grace.",
+      "id": "sikh-007",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Ajit Singh",
+      "type": "hero",
+      "domains": [
+        "son of Guru Gobind",
+        "Chamkaur",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Chamkaur Sacrifice",
+        "description": "When this card falls, all allies gain +3 power from the martyr's eternal strength."
+      },
+      "description": "The eldest son of Guru Gobind Singh who died at the Battle of Chamkaur protecting the Sikh faith.",
+      "id": "sikh-008",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Har Gobind",
+      "type": "hero",
+      "domains": [
+        "sixth Guru",
+        "miri piri",
+        "sword power",
+        "two swords"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Miri Piri",
+        "description": "This card wields temporal and spiritual power simultaneously: +2 power and +2 magic at all times."
+      },
+      "description": "The sixth Guru who wielded two swords (miri and piri) representing temporal and spiritual authority united.",
+      "id": "sikh-009",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Panj Pyare",
+      "type": "hero",
+      "domains": [
+        "five beloved",
+        "first Khalsa",
+        "diverse unity"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Five as One",
+        "description": "This card represents five: grant +1 to all five stats of any five different allies simultaneously."
+      },
+      "description": "The Five Beloved — the first five volunteers who offered their heads to Guru Gobind Singh for the Khalsa.",
+      "id": "sikh-010",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Waheguru",
+      "type": "spirit",
+      "domains": [
+        "Wondrous God",
+        "divine name",
+        "Sikh supreme"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wonderful Lord",
+        "description": "All suffering effects on allies are negated; grant +3 magic to all who chant the divine name."
+      },
+      "description": "The Sikh name for the divine — Waheguru — the Wondrous God whose name is the highest form of prayer.",
+      "id": "sikh-011",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Ek Ong Kar",
+      "type": "spirit",
+      "domains": [
+        "one creator",
+        "cosmic affirmation",
+        "beginning"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "One Creator",
+        "description": "All divisive or sectarian abilities used by enemies are redirected back at them."
+      },
+      "description": "The opening affirmation of the Japji Sahib — One God, Creator of all — the foundation of Sikh theology.",
+      "id": "sikh-012",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Guru Arjan Dev",
+      "type": "hero",
+      "domains": [
+        "fifth Guru",
+        "martyrdom",
+        "Harmandir Sahib"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Martyr's Peace",
+        "description": "This card cannot be affected by torture, burning or pain abilities — grant +2 defense to all."
+      },
+      "description": "The fifth Guru who compiled the Adi Granth and died under Mughal torture without uttering a word of complaint.",
+      "id": "sikh-013",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Guru Tegh Bahadur",
+      "type": "hero",
+      "domains": [
+        "ninth Guru",
+        "Hind di Chaddar",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Shield of Hind",
+        "description": "Absorb all damage targeting allies of other faiths for 1 turn."
+      },
+      "description": "The ninth Guru who sacrificed himself to protect the religious freedom of Kashmiri Hindus from forced conversion.",
+      "id": "sikh-014",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Bhai Ghanaya",
+      "type": "hero",
+      "domains": [
+        "universal service",
+        "water bearer",
+        "enemy care"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Universal Service",
+        "description": "Restore 2 HP to all cards on the field — including enemies — from the spirit of seva (service)."
+      },
+      "description": "The Sikh soldier who gave water to fallen enemies on the battlefield, earning Guru Gobind's praise.",
+      "id": "sikh-015",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Nishan Sahib",
+      "type": "spirit",
+      "domains": [
+        "Khalsa flag",
+        "blue triangle",
+        "sovereignty"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Khalsa Banner",
+        "description": "All Sikh and warrior allies gain +1 to all stats while the flag flies."
+      },
+      "description": "The triangular blue banner of the Khalsa planted at every Gurdwara marking sovereign Sikh sacred space.",
+      "id": "sikh-016",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Dastar",
+      "type": "spirit",
+      "domains": [
+        "turban",
+        "Sikh honor",
+        "identity",
+        "sovereignty"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Crown of Honor",
+        "description": "This card cannot be shamed, charmed or degraded by any enemy ability."
+      },
+      "description": "The Sikh turban — the crown of honor that signifies sovereignty, courage and commitment to the Guru's path.",
+      "id": "sikh-017",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Langar Spirit",
+      "type": "spirit",
+      "domains": [
+        "free kitchen",
+        "equality",
+        "community service",
+        "sharing"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Langar Blessing",
+        "description": "Restore 1 HP to all allies every turn for 3 turns from the spirit of sharing."
+      },
+      "description": "The spirit of the Sikh langar (free kitchen) where all — regardless of caste, creed or status — eat together.",
+      "id": "sikh-018",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Mul Mantar",
+      "type": "spirit",
+      "domains": [
+        "foundational mantra",
+        "Ik Onkar",
+        "divine description"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Foundation Stone",
+        "description": "All enemy abilities that target the foundation of any ally's power auto-fail."
+      },
+      "description": "The foundational verse of the Guru Granth Sahib that describes the divine nature in its essential truth.",
+      "id": "sikh-019",
+      "culture_slug": "sikh"
+    },
+    {
+      "name": "Jap Ji Sahib",
+      "type": "spirit",
+      "domains": [
+        "morning prayer",
+        "Guru Nanak's teaching",
+        "dawn"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Morning Shabad",
+        "description": "All allies begin with +1 to all stats from the dawn prayer's blessing."
+      },
+      "description": "The morning prayer composed by Guru Nanak that begins the Guru Granth Sahib and guides every Sikh day.",
+      "id": "sikh-020",
+      "culture_slug": "sikh"
+    }
+  ]
+}

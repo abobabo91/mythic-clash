@@ -1,0 +1,518 @@
+{
+  "culture_slug": "babylonian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Marduk",
+      "type": "god",
+      "domains": [
+        "creator",
+        "supreme",
+        "storm",
+        "magic",
+        "Babylon"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Enuma Elish",
+        "description": "Destroy one chaos/dark enemy completely; create a new ally from their remains at half stats."
+      },
+      "description": "Supreme god of Babylon who defeated Tiamat and fashioned the cosmos from her body, the greatest of gods.",
+      "id": "babylonian-001",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Tiamat",
+      "type": "goddess",
+      "domains": [
+        "primordial chaos",
+        "ocean",
+        "dragon mother",
+        "creation"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Primordial Dragon",
+        "description": "Transform: become an 11-headed dragon dealing 3 damage to all enemies per turn."
+      },
+      "description": "Primordial salt ocean and mother of all gods who rose in fury against her divine children and was slain by Marduk.",
+      "id": "babylonian-002",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Ishtar",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "desire",
+        "gates of the underworld"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Seven Gates Descent",
+        "description": "Strip one enemy of their armor and all buffs as Ishtar descended through seven gates."
+      },
+      "description": "Passionate goddess of love and war whose descent to the underworld caused all desire to cease on earth.",
+      "id": "babylonian-003",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Apsu",
+      "type": "god",
+      "domains": [
+        "fresh water",
+        "primordial",
+        "creator",
+        "slain"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primordial Deep",
+        "description": "Restore all abilities that were sealed or silenced to all allies."
+      },
+      "description": "The primordial sweet water and co-creator of the universe who was slain by Ea before his own plan could succeed.",
+      "id": "babylonian-004",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Nanna-Sin",
+      "type": "god",
+      "domains": [
+        "moon",
+        "wisdom",
+        "divination",
+        "cattle"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Crescent Moon",
+        "description": "All timing-based enemy abilities are delayed by 1 turn."
+      },
+      "description": "The Babylonian moon god whose crescent measures time and whose wisdom governs fate and divination.",
+      "id": "babylonian-005",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Shamash",
+      "type": "god",
+      "domains": [
+        "sun",
+        "justice",
+        "law",
+        "all-seeing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "All-Seeing Eye",
+        "description": "No enemy can use hidden, disguised or deceptive abilities while Shamash is in play."
+      },
+      "description": "The sun god of absolute justice who gave the laws to Hammurabi and sees every human action from the sky.",
+      "id": "babylonian-006",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Nergal (Babylonian)",
+      "type": "god",
+      "domains": [
+        "plague",
+        "underworld king",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "King of the Dead",
+        "description": "All enemies lose 2 defense from plague fear while Nergal is in play."
+      },
+      "description": "The Babylonian god of pestilence who became king of the underworld by overpowering Ereshkigal.",
+      "id": "babylonian-007",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Kingu",
+      "type": "god",
+      "domains": [
+        "rebel general",
+        "Tiamat's champion",
+        "Tablet of Destinies"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blood of the Slain",
+        "description": "When this card is destroyed, its blood creates a new ally with 5 in all stats (humans)."
+      },
+      "description": "Tiamat's champion who wore the Tablet of Destinies; his blood was used by Marduk to create humanity.",
+      "id": "babylonian-008",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Nabu",
+      "type": "god",
+      "domains": [
+        "writing",
+        "wisdom",
+        "scribes",
+        "son of Marduk"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Stylus",
+        "description": "Grant all allies the knowledge of one enemy hidden ability."
+      },
+      "description": "God of scribes and writing, son of Marduk, whose power of the written word preserves divine wisdom.",
+      "id": "babylonian-009",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Girra",
+      "type": "god",
+      "domains": [
+        "fire",
+        "destruction",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Flame",
+        "description": "Deal 4 fire damage; purify one ally of all curse effects through fire."
+      },
+      "description": "Babylonian fire god who both destroys and purifies, worshipped for his transformative burning power.",
+      "id": "babylonian-010",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Anunnaki",
+      "type": "spirit",
+      "domains": [
+        "great gods",
+        "judges of the dead",
+        "seven"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seven Judges",
+        "description": "All enemies are subject to divine judgment: the strongest enemy loses 2 of their highest stat."
+      },
+      "description": "The great Anunnaki gods who sit as judges of the dead in the underworld, determining the fate of souls.",
+      "id": "babylonian-011",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Adad",
+      "type": "god",
+      "domains": [
+        "storms",
+        "rain",
+        "thunder",
+        "divination"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Storm Omen",
+        "description": "Deal 3 storm damage to all enemies; predict next enemy action (revealed to player)."
+      },
+      "description": "God of storms and rain whose thunderbolts deliver divine messages and whose omens are read in weather patterns.",
+      "id": "babylonian-012",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Pazuzu",
+      "type": "demon",
+      "domains": [
+        "wind demon",
+        "southwest wind",
+        "fever",
+        "protector"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Southwest Fever Wind",
+        "description": "Inflict fever on one enemy: they lose 2 power and 2 defense for 2 turns."
+      },
+      "description": "King of the wind demons whose terrifying image paradoxically wards off other demons from pregnant women.",
+      "id": "babylonian-013",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Asag",
+      "type": "monster",
+      "domains": [
+        "stone demon",
+        "mountain",
+        "disease",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mountain Plague",
+        "description": "Turn one enemy to stone: immobilize them and reduce their stats to 3 for 1 turn."
+      },
+      "description": "Monstrous stone demon born of sky and earth whose touch causes disease and who fights from within mountain boulders.",
+      "id": "babylonian-014",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Lamashtu",
+      "type": "demon",
+      "domains": [
+        "child killer",
+        "fever",
+        "nightmare",
+        "lion head"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Child Fever",
+        "description": "Inflict poison on one enemy; that enemy cannot heal or regenerate for 2 turns."
+      },
+      "description": "Half-lion half-bird demoness who kills children, causes nightmares and spreads disease — feared above all demons.",
+      "id": "babylonian-015",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Gilgamesh Epic Bull",
+      "type": "creature",
+      "domains": [
+        "bull of heaven",
+        "celestial beast"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Celestial Rampage",
+        "description": "Charge all enemies dealing 3 damage each; create tremor disrupting next enemy turn."
+      },
+      "description": "The divine bull of the Babylonian epic whose destruction by Gilgamesh and Enkidu angered the gods of heaven.",
+      "id": "babylonian-016",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Etana",
+      "type": "hero",
+      "domains": [
+        "first king",
+        "eagle rider",
+        "immortality seeker"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Eagle Flight",
+        "description": "This card can reach any position on the field and attack from above ignoring ground defenses."
+      },
+      "description": "First king after the flood who rode an eagle toward heaven to find the plant of birth for his childless queen.",
+      "id": "babylonian-017",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Sarpanitu",
+      "type": "goddess",
+      "domains": [
+        "Marduk's wife",
+        "birth",
+        "Venus",
+        "morning star"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Star of Birth",
+        "description": "When any ally is summoned, grant them +2 to their lowest stat."
+      },
+      "description": "Beloved consort of Marduk who shone as the morning star and whose name means the Shining One.",
+      "id": "babylonian-018",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Imdugud/Anzu (Babylonian)",
+      "type": "creature",
+      "domains": [
+        "lion-headed eagle",
+        "storm",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Storm Wing",
+        "description": "Deal 4 air damage to all enemies and remove one buff from each."
+      },
+      "description": "The great lion-headed storm eagle who created tempests with his wings and stole the divine laws.",
+      "id": "babylonian-019",
+      "culture_slug": "babylonian"
+    },
+    {
+      "name": "Oannes",
+      "type": "creature",
+      "domains": [
+        "fish-man",
+        "wisdom bringer",
+        "civilization"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Gift of Civilization",
+        "description": "Grant all allies +2 wisdom; remove all barbarism debuffs from the field."
+      },
+      "description": "Fish-man who emerged from the sea each day to teach humanity all arts of civilization, returning to water at night.",
+      "id": "babylonian-020",
+      "culture_slug": "babylonian"
+    }
+  ]
+}

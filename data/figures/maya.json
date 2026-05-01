@@ -1,0 +1,526 @@
+{
+  "culture_slug": "maya",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Itzamna",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "creation",
+        "sky",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Itzamna is a god from Maya tradition associated with wisdom, creation, sky, and light.",
+      "id": "maya-001",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Kukulkan",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "wind",
+        "sky",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Kukulkan is a god from Maya tradition associated with serpent, wind, sky, and wisdom.",
+      "id": "maya-002",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Ix Chel",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "healing",
+        "fertility",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Ix Chel is a goddess from Maya tradition associated with moon, healing, fertility, and water.",
+      "id": "maya-003",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Hunahpu",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "trickster",
+        "war",
+        "ballgame"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Hunahpu is a hero from Maya tradition associated with sun, trickster, war, and ballgame.",
+      "id": "maya-004",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Xbalanque",
+      "type": "hero",
+      "domains": [
+        "moon",
+        "trickster",
+        "magic",
+        "ballgame"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Xbalanque is a hero from Maya tradition associated with moon, trickster, magic, and ballgame.",
+      "id": "maya-005",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Huracan",
+      "type": "god",
+      "domains": [
+        "storm",
+        "wind",
+        "sky",
+        "creation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Huracan is a god from Maya tradition associated with storm, wind, sky, and creation.",
+      "id": "maya-006",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Chaac",
+      "type": "god",
+      "domains": [
+        "rain",
+        "storm",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Chaac is a god from Maya tradition associated with rain, storm, water, and fertility.",
+      "id": "maya-007",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Hun Hunahpu",
+      "type": "hero",
+      "domains": [
+        "maize",
+        "death",
+        "rebirth",
+        "fertility"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Hun Hunahpu is a hero from Maya tradition associated with maize, death, rebirth, and fertility.",
+      "id": "maya-008",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Vucub Caquix",
+      "type": "monster",
+      "domains": [
+        "bird",
+        "vanity",
+        "sky",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Vucub Caquix is a monster from Maya tradition associated with bird, vanity, sky, and power.",
+      "id": "maya-009",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Zipacna",
+      "type": "monster",
+      "domains": [
+        "mountain",
+        "earth",
+        "strength",
+        "chaos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Zipacna is a monster from Maya tradition associated with mountain, earth, strength, and chaos.",
+      "id": "maya-010",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Cabrakan",
+      "type": "monster",
+      "domains": [
+        "earthquake",
+        "mountain",
+        "destruction",
+        "strength"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Cabrakan is a monster from Maya tradition associated with earthquake, mountain, destruction, and strength.",
+      "id": "maya-011",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Camazotz",
+      "type": "monster",
+      "domains": [
+        "night",
+        "death",
+        "bat",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Camazotz is a monster from Maya tradition associated with night, death, bat, and darkness.",
+      "id": "maya-012",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Xmucane",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "craft",
+        "ancestor",
+        "maize"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Xmucane is a goddess from Maya tradition associated with wisdom, craft, ancestor, and maize.",
+      "id": "maya-013",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Xpiyacoc",
+      "type": "ancestor",
+      "domains": [
+        "divination",
+        "wisdom",
+        "fate",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Xpiyacoc is an ancestor from Maya tradition associated with divination, wisdom, fate, and spirit.",
+      "id": "maya-014",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Bacab",
+      "type": "guardian",
+      "domains": [
+        "sky",
+        "earth",
+        "support",
+        "storm"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Bacab is a guardian from Maya tradition associated with sky, earth, support, and storm.",
+      "id": "maya-015",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Ek Chuah",
+      "type": "god",
+      "domains": [
+        "trade",
+        "cacao",
+        "journey",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ek Chuah is a god from Maya tradition associated with trade, cacao, journey, and war.",
+      "id": "maya-016",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Yum Kaax",
+      "type": "god",
+      "domains": [
+        "forest",
+        "maize",
+        "hunting",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Yum Kaax is a god from Maya tradition associated with forest, maize, hunting, and fertility.",
+      "id": "maya-017",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Ixtab",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "spirit",
+        "rope",
+        "afterlife"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Ixtab is a goddess from Maya tradition associated with death, spirit, rope, and afterlife.",
+      "id": "maya-018",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Gucumatz",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "creation",
+        "wind",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Gucumatz is a god from Maya tradition associated with serpent, creation, wind, and wisdom.",
+      "id": "maya-019",
+      "culture_slug": "maya"
+    },
+    {
+      "name": "Bolon Yokte",
+      "type": "god",
+      "domains": [
+        "war",
+        "underworld",
+        "change",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Bolon Yokte is a god from Maya tradition associated with war, underworld, change, and darkness.",
+      "id": "maya-020",
+      "culture_slug": "maya"
+    }
+  ]
+}

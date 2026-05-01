@@ -1,0 +1,523 @@
+{
+  "culture_slug": "sumerian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "An",
+      "type": "god",
+      "domains": [
+        "sky",
+        "heaven",
+        "father of gods",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Heaven's Court",
+        "description": "All ally abilities that require approval now auto-succeed; enemy divine abilities are suppressed."
+      },
+      "description": "Distant sky god and father of all Sumerian deities who dwells in the highest heaven.",
+      "id": "sumerian-001",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Enlil",
+      "type": "god",
+      "domains": [
+        "wind",
+        "storm",
+        "kingship",
+        "flood"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tablet of Destinies",
+        "description": "Determine one enemy's fate: they lose their most powerful ability permanently."
+      },
+      "description": "Lord of the wind and storms who holds the Tablet of Destinies, granting him power over all creation.",
+      "id": "sumerian-002",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Inanna",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "beauty",
+        "descent",
+        "Venus"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Queen of Heaven and Earth",
+        "description": "Inanna descends: this card loses and then regains +5 to all stats as she returns from the underworld."
+      },
+      "description": "Fierce queen of heaven and earth who descended to the underworld, died and rose again, reigning over love and war.",
+      "id": "sumerian-003",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Enki",
+      "type": "god",
+      "domains": [
+        "water",
+        "wisdom",
+        "magic",
+        "crafts",
+        "creation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Abzu's Wisdom",
+        "description": "Grant all allies +3 to magic and wisdom; create a trick to save one ally from destruction."
+      },
+      "description": "God of the sweet underground waters and human wisdom who protects humanity and outwits other gods.",
+      "id": "sumerian-004",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Nanna",
+      "type": "god",
+      "domains": [
+        "moon",
+        "cattle",
+        "fate",
+        "time"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Lunar Calendar",
+        "description": "All timing-based abilities trigger at the optimal time for your side for 2 turns."
+      },
+      "description": "Moon god who measures time, governs cattle and whose light guides travelers through the night.",
+      "id": "sumerian-005",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Utu",
+      "type": "god",
+      "domains": [
+        "sun",
+        "justice",
+        "truth",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sun's Truth",
+        "description": "No enemy can use deception or disguise abilities while Utu shines; deal 5 to dark cards."
+      },
+      "description": "Sun god of justice who crosses the sky daily and judges all human deeds with perfect fairness.",
+      "id": "sumerian-006",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Ninhursag",
+      "type": "goddess",
+      "domains": [
+        "mother goddess",
+        "earth",
+        "healing",
+        "animals"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Mother's Healing",
+        "description": "Restore 5 HP to one critically wounded ally; grant all allies +1 defense."
+      },
+      "description": "Great mother goddess of the earth who nursed the gods, healed Enki and created animals and humans.",
+      "id": "sumerian-007",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Ereshkigal",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "death",
+        "grief",
+        "queen below"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Queen of the Great Below",
+        "description": "Remove one enemy from play for 2 turns; they return with -3 to all stats."
+      },
+      "description": "Queen of the underworld whose realm of no return claims all who descend — even her sister Inanna.",
+      "id": "sumerian-008",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Gilgamesh",
+      "type": "hero",
+      "domains": [
+        "immortality quest",
+        "friendship",
+        "war",
+        "2/3 divine"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Two-Thirds Divine",
+        "description": "Deal 8 damage; after combat restore this card's HP to half regardless of damage taken."
+      },
+      "description": "King of Uruk and greatest Sumerian hero who fought monsters, befriended Enkidu and sought immortality.",
+      "id": "sumerian-009",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Enkidu",
+      "type": "hero",
+      "domains": [
+        "wildman",
+        "nature",
+        "friendship",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 4,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wild Strength",
+        "description": "When allied with a hero card, both gain +3 to all stats from legendary friendship."
+      },
+      "description": "The wild man created from clay who became Gilgamesh's soul-companion and faced the Bull of Heaven.",
+      "id": "sumerian-010",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Nergal",
+      "type": "god",
+      "domains": [
+        "death",
+        "plague",
+        "underworld",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Plague King",
+        "description": "Inflict plague on all enemies: each loses 2 HP per turn for 2 turns."
+      },
+      "description": "God of death, plague and the midday sun who became king of the underworld after seducing Ereshkigal.",
+      "id": "sumerian-011",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Dumuzi",
+      "type": "god",
+      "domains": [
+        "vegetation",
+        "death/rebirth",
+        "herding",
+        "love"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seasonal Cycle",
+        "description": "Every other turn this card gains +3 to all stats; opposing turns it loses 2 (death and rebirth)."
+      },
+      "description": "Shepherd god and Inanna's husband who descends to the underworld for half the year causing winter.",
+      "id": "sumerian-012",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Humbaba",
+      "type": "monster",
+      "domains": [
+        "Cedar Forest",
+        "guardian",
+        "terror",
+        "breath"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cedar Breath",
+        "description": "Inflict terror on all enemies: they cannot advance or charge for 1 turn."
+      },
+      "description": "Terrifying guardian of the Cedar Forest whose face is a mass of intestines and whose roar is a flood.",
+      "id": "sumerian-013",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Bull of Heaven",
+      "type": "creature",
+      "domains": [
+        "divine bull",
+        "drought",
+        "cosmic disaster"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Celestial Stamp",
+        "description": "When this card attacks, deal 2 damage to all allies and enemies from cosmic trembling."
+      },
+      "description": "The divine bull sent by An at Inanna's request who caused seven years of drought by breathing fire.",
+      "id": "sumerian-014",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Anzu Bird",
+      "type": "creature",
+      "domains": [
+        "storm bird",
+        "Tablet of Destinies",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Tablet Theft",
+        "description": "Steal one enemy special ability and use it immediately."
+      },
+      "description": "The lion-headed storm eagle who stole the Tablet of Destinies from Enlil, plunging the world into chaos.",
+      "id": "sumerian-015",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Namtar",
+      "type": "spirit",
+      "domains": [
+        "fate",
+        "plague",
+        "messenger of death"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Fate Messenger",
+        "description": "Deliver a curse: one enemy cannot heal or gain HP for 2 turns."
+      },
+      "description": "The personification of fate and messenger of death who carries out Ereshkigal's decrees in the underworld.",
+      "id": "sumerian-016",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Lugalbanda",
+      "type": "hero",
+      "domains": [
+        "king",
+        "divine favor",
+        "speed",
+        "Gilgamesh's father"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Swift King",
+        "description": "This card acts first every turn regardless of speed stats."
+      },
+      "description": "Legendary king of Uruk and Gilgamesh's divine father who received the gift of supernatural speed from the Anzu.",
+      "id": "sumerian-017",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Utnapishtim",
+      "type": "ancestor",
+      "domains": [
+        "flood survivor",
+        "immortality",
+        "only mortal immortal"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Immortal Waters",
+        "description": "Grant one ally immortality for 1 turn: they cannot be destroyed during this time."
+      },
+      "description": "The Babylonian flood hero given immortality by the gods, the only mortal to achieve eternal life — guarding its secret.",
+      "id": "sumerian-018",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Erra",
+      "type": "god",
+      "domains": [
+        "plague",
+        "war",
+        "destruction",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Plague of War",
+        "description": "Deal 3 damage to all cards on the field — ally and enemy alike."
+      },
+      "description": "Violent god of plague and war who nearly destroyed civilization in a fit of restless destruction.",
+      "id": "sumerian-019",
+      "culture_slug": "sumerian"
+    },
+    {
+      "name": "Lama",
+      "type": "spirit",
+      "domains": [
+        "personal guardian",
+        "protection",
+        "intercession"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Intercession",
+        "description": "Guarantee one ally's next ability succeeds regardless of enemy resistance."
+      },
+      "description": "The personal guardian spirit (Lama) who stands between humans and the divine, interceding on their behalf.",
+      "id": "sumerian-020",
+      "culture_slug": "sumerian"
+    }
+  ]
+}

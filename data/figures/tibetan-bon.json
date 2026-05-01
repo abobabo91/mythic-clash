@@ -1,0 +1,519 @@
+{
+  "culture_slug": "tibetan-bon",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Padmasambhava",
+      "type": "hero",
+      "domains": [
+        "Guru Rinpoche",
+        "tantra bringer",
+        "terma",
+        "Tibet"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vajra Thunder",
+        "description": "Defeat one demon enemy permanently; grant all allies immunity to dark spirits for 2 turns."
+      },
+      "description": "The Indian tantric master who subdued Tibet's demons and converted them to Buddhism's protective forces.",
+      "id": "tibetan-bon-001",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Gesar of Ling",
+      "type": "hero",
+      "domains": [
+        "epic hero",
+        "divine descent",
+        "18 heroes",
+        "Tibet"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Gesar's Lance",
+        "description": "Deal 8 damage to one evil enemy; summon one of Gesar's 18 warrior allies with 6/6/6/6/6 stats."
+      },
+      "description": "The world's longest epic hero who descended from heaven to fight demons and establish the kingdom of Ling.",
+      "id": "tibetan-bon-002",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Yama Dharmaraja",
+      "type": "god",
+      "domains": [
+        "lord of death",
+        "judgment",
+        "bull head",
+        "Tibet"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wheel of Karma",
+        "description": "Reduce all dark enemy defenses by 3 from karmic retribution."
+      },
+      "description": "The Tibetan lord of death who holds the wheel of life in his teeth and judges all souls before rebirth.",
+      "id": "tibetan-bon-003",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Tara (Tibetan)",
+      "type": "goddess",
+      "domains": [
+        "swift savior",
+        "21 forms",
+        "green and white"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Swift Liberation",
+        "description": "React to any threat: prevent it from happening; grant +2 to all ally stats."
+      },
+      "description": "The swift-acting bodhisattva with 21 forms ranging from green (active) to white (peaceful) liberation.",
+      "id": "tibetan-bon-004",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Mahakala",
+      "type": "god",
+      "domains": [
+        "great black one",
+        "protector",
+        "six arms",
+        "Bon and Buddhist"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Black Cloak",
+        "description": "All dark protection abilities on your side are doubled in power for 1 turn."
+      },
+      "description": "The great black protector deity with six arms who guards Buddhist and Bon practitioners from all harm.",
+      "id": "tibetan-bon-005",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Milarepa (Tibetan)",
+      "type": "hero",
+      "domains": [
+        "cave yogi",
+        "cotton robe",
+        "songs",
+        "liberation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Cave Songs",
+        "description": "Sing enlightenment: remove all delusion effects; grant +3 wisdom to all allies."
+      },
+      "description": "Tibet's greatest yogi who practiced in caves wearing only a thin cotton robe and achieved liberation.",
+      "id": "tibetan-bon-006",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Nangsal Obum",
+      "type": "heroine",
+      "domains": [
+        "reincarnation story",
+        "revival",
+        "terma heroine"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Death Return",
+        "description": "This card can be destroyed and return at half HP once per battle."
+      },
+      "description": "The Tibetan heroine who died and returned to life, bringing teachings from the death realm.",
+      "id": "tibetan-bon-007",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Tamdrin (Hayagriva)",
+      "type": "god",
+      "domains": [
+        "horse head",
+        "fierce protector",
+        "Bon and Buddhist"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Horse Scream",
+        "description": "The scream of the horse head deals 5 sonic damage to all dark enemies; they are deafened."
+      },
+      "description": "The horse-headed fierce deity who screams to terrify demons and is among the most wrathful protectors.",
+      "id": "tibetan-bon-008",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Bon Dragon",
+      "type": "creature",
+      "domains": [
+        "drala",
+        "Bon spirit",
+        "sky protector",
+        "Tibet"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Dragon Wind",
+        "description": "Deal 3 damage to all enemies; grant all Bon allies +2 speed from dragon wind."
+      },
+      "description": "The indigenous Tibetan Bon dragon who guards the sky and serves as mount for divine warriors.",
+      "id": "tibetan-bon-009",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Drolma",
+      "type": "goddess",
+      "domains": [
+        "Tibetan Tara",
+        "green protector",
+        "swift compassion"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Green Liberator",
+        "description": "Remove all fear and hesitation effects from all allies; grant +2 magic."
+      },
+      "description": "The specifically Tibetan Green Tara (Drolma) who liberates beings from danger with instant compassionate action.",
+      "id": "tibetan-bon-010",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Dorje Shugden",
+      "type": "spirit",
+      "domains": [
+        "controversial protector",
+        "fierce deity",
+        "Gelug"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Protector's Wrath",
+        "description": "Prevent all interference with dharmic study; deal 3 damage to disrupting enemies."
+      },
+      "description": "The controversial Gelugpa protector deity whose fierce power divides the Tibetan Buddhist community.",
+      "id": "tibetan-bon-011",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Nechung Oracle",
+      "type": "hero",
+      "domains": [
+        "state oracle",
+        "Pehar spirit",
+        "Tibet",
+        "divination"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Oracle Trance",
+        "description": "Enter trance: look at all enemy intentions for 2 turns."
+      },
+      "description": "The Tibetan state oracle through whom the fierce protector spirit Pehar communicates divine guidance.",
+      "id": "tibetan-bon-012",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Shinje Chogyal",
+      "type": "god",
+      "domains": [
+        "dharma king of death",
+        "judgment",
+        "peace"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mirror of Karma",
+        "description": "Show one enemy their karma: reduce their power by the number of dark actions they have taken."
+      },
+      "description": "The peaceful aspect of Yama Dharmaraja who peacefully guides the judicious assessment of karma.",
+      "id": "tibetan-bon-013",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Bardo Being",
+      "type": "spirit",
+      "domains": [
+        "bardo",
+        "between-life",
+        "Tibetan Book of Dead",
+        "wandering"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bardo State",
+        "description": "This card exists between two states: it can dodge one attack each turn from uncertainty of form."
+      },
+      "description": "The wandering consciousness in the bardo state between death and rebirth seeking liberation or good rebirth.",
+      "id": "tibetan-bon-014",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Jowo Shakyamuni",
+      "type": "god",
+      "domains": [
+        "holiest Tibetan statue",
+        "Lhasa",
+        "pilgrimage"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Holy Presence",
+        "description": "All allies gain +1 to all stats while the Jowo is honored; remove one curse from all allies."
+      },
+      "description": "The sacred Jowo image of the young Shakyamuni Buddha, Tibet's most sacred statue, housed in the Jokhang.",
+      "id": "tibetan-bon-015",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Naga (Tibetan)",
+      "type": "creature",
+      "domains": [
+        "lu",
+        "water spirit",
+        "treasure",
+        "disease"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Naga Treasure",
+        "description": "Steal one resource or buff from one enemy; restore 2 HP to one ally from the naga's hoard."
+      },
+      "description": "The Tibetan lu (naga) who lives in water and earth, guarding treasure and causing disease when disturbed.",
+      "id": "tibetan-bon-016",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Mountain Deity",
+      "type": "god",
+      "domains": [
+        "nyenchen",
+        "great mountain",
+        "protector",
+        "Tibet"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mountain Shield",
+        "description": "All ally defense cannot be reduced below 5 while the mountain deity stands."
+      },
+      "description": "The great Tibetan mountain deity Nyenchen Thanglha who governs the mountain ranges and protects Tibet.",
+      "id": "tibetan-bon-017",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Drala",
+      "type": "spirit",
+      "domains": [
+        "warrior spirit",
+        "Bon",
+        "drala invocation",
+        "sacred"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Drala Invocation",
+        "description": "Invoke drala: grant one ally +2 to all stats from the warrior spirit's blessing."
+      },
+      "description": "The Bon warrior spirits invoked before battle who elevate the practitioner's lungta (wind horse) energy.",
+      "id": "tibetan-bon-018",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Pehar",
+      "type": "spirit",
+      "domains": [
+        "spirit king",
+        "oracle body",
+        "Nechung",
+        "five forms"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Five Kings",
+        "description": "Take five different actions in one turn, each for 1 damage, from the five Pehar forms."
+      },
+      "description": "The spirit king of five forms who possesses the Nechung oracle and advises the Dalai Lamas.",
+      "id": "tibetan-bon-019",
+      "culture_slug": "tibetan-bon"
+    },
+    {
+      "name": "Chod Dakini",
+      "type": "goddess",
+      "domains": [
+        "cutting",
+        "offering body",
+        "tantric practice",
+        "fearless"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Body Offering",
+        "description": "Sacrifice 4 HP to grant all allies +4 magic from the offering of ego and self."
+      },
+      "description": "The dakini of the Chod practice who cuts through ego by offering the body to demons and thereby defeating them.",
+      "id": "tibetan-bon-020",
+      "culture_slug": "tibetan-bon"
+    }
+  ]
+}

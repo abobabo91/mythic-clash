@@ -1,0 +1,524 @@
+{
+  "culture_slug": "ancient-egyptian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ra",
+      "type": "god",
+      "domains": [
+        "sun",
+        "creation",
+        "kingship",
+        "cosmic order"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Barque",
+        "description": "Heal all allies for 3; grant immunity to dark for 1 turn as Ra sails through."
+      },
+      "description": "Supreme sun god who sails his barque across the sky by day and through the underworld each night.",
+      "id": "ancient-egyptian-001",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Osiris",
+      "type": "god",
+      "domains": [
+        "death",
+        "resurrection",
+        "agriculture",
+        "judgment"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Lord of the Dead",
+        "description": "Resurrect one fallen ally with full HP; that ally gains the 'undying' tag."
+      },
+      "description": "God of resurrection and the afterlife who was murdered by Set, reassembled by Isis and reborn as king of the dead.",
+      "id": "ancient-egyptian-002",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Isis",
+      "type": "goddess",
+      "domains": [
+        "magic",
+        "motherhood",
+        "protection",
+        "healing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Wings of Isis",
+        "description": "Negate one attack against any ally; grant that ally +3 magic for 2 turns."
+      },
+      "description": "Most powerful magician in the Egyptian pantheon who resurrected Osiris and protected the infant Horus.",
+      "id": "ancient-egyptian-003",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Horus",
+      "type": "god",
+      "domains": [
+        "sky",
+        "war",
+        "kingship",
+        "falcon"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Eye of Horus",
+        "description": "Deal 7 damage to one enemy; restore 3 HP to this card."
+      },
+      "description": "Falcon-headed sky god who avenged his father Osiris by defeating Set, becoming the divine model for all pharaohs.",
+      "id": "ancient-egyptian-004",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Set",
+      "type": "god",
+      "domains": [
+        "chaos",
+        "storms",
+        "desert",
+        "war"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Desert Storm",
+        "description": "Deal 4 damage to all enemies; 50% chance to discard their top buff."
+      },
+      "description": "Red-haired god of chaos and the desert whose violent energy both threatens and protects the cosmic order.",
+      "id": "ancient-egyptian-005",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Anubis",
+      "type": "god",
+      "domains": [
+        "death",
+        "embalming",
+        "judgment",
+        "jackals"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Feather of Ma'at",
+        "description": "Weigh one enemy's heart: if their power exceeds their wisdom, deal 5 damage."
+      },
+      "description": "Jackal-headed god of embalming who guides souls through the underworld and oversees the weighing of the heart.",
+      "id": "ancient-egyptian-006",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Thoth",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "writing",
+        "moon",
+        "magic"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Scribing",
+        "description": "Copy and store one enemy ability permanently for your side."
+      },
+      "description": "Ibis-headed god of wisdom and writing who recorded divine knowledge, settled divine disputes and measured time.",
+      "id": "ancient-egyptian-007",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Sekhmet",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "plague",
+        "healing",
+        "lions"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Eye of Destruction",
+        "description": "Deal 5 damage to all enemies; then heal all allies for 2 if Sekhmet is calmed."
+      },
+      "description": "Lioness war goddess whose bloodlust nearly destroyed humanity until Ra tricked her with red-dyed beer.",
+      "id": "ancient-egyptian-008",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Hathor",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "music",
+        "joy",
+        "motherhood",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Sistrum",
+        "description": "Remove all debuffs from all allies; grant +2 magic to all goddess allies."
+      },
+      "description": "Joyous cow-goddess of love, music and beauty who greets the dead and suckles pharaohs with divine milk.",
+      "id": "ancient-egyptian-009",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Ptah",
+      "type": "god",
+      "domains": [
+        "creation",
+        "crafts",
+        "forge",
+        "Memphis"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Word of Creation",
+        "description": "Create one copy of any ally card at half stats for 2 turns."
+      },
+      "description": "Creator god of Memphis who spoke the world into existence through divine speech — the first logos theology.",
+      "id": "ancient-egyptian-010",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Bastet",
+      "type": "goddess",
+      "domains": [
+        "cats",
+        "home",
+        "protection",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Cat's Grace",
+        "description": "All allies gain +3 speed; enemy cannot use area-of-effect attacks this turn."
+      },
+      "description": "Gentle cat goddess who protects homes, women and children, fierce when her family is threatened.",
+      "id": "ancient-egyptian-011",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Sobek",
+      "type": "god",
+      "domains": [
+        "crocodiles",
+        "Nile",
+        "military power",
+        "fertility"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Nile Surge",
+        "description": "Deal 5 damage and drag enemy to front row; cannot be blocked."
+      },
+      "description": "Crocodile god of the Nile whose ferocious power both threatens and fertilizes the land.",
+      "id": "ancient-egyptian-012",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Nut",
+      "type": "goddess",
+      "domains": [
+        "sky",
+        "stars",
+        "cosmos",
+        "birth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stellar Canopy",
+        "description": "Grant all allies +2 defense; star and sky attacks deal +2 bonus damage."
+      },
+      "description": "Sky goddess who arches her body over the earth, swallowing the sun each evening and birthing it each dawn.",
+      "id": "ancient-egyptian-013",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Geb",
+      "type": "god",
+      "domains": [
+        "earth",
+        "earthquakes",
+        "vegetation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earthquake Laugh",
+        "description": "When this card laughs, deal 3 damage to all enemies and shake loose 2 debuffs."
+      },
+      "description": "Earth god whose laughter causes earthquakes; the green plants that grow from his back are his joy.",
+      "id": "ancient-egyptian-014",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Apophis",
+      "type": "monster",
+      "domains": [
+        "chaos serpent",
+        "darkness",
+        "destruction"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Swallow the Sun",
+        "description": "Negate all light and sun abilities for 2 turns; deal 4 damage to all allies of Ra."
+      },
+      "description": "Monstrous chaos serpent that attacks the solar barque every night in the underworld in eternal failed rebellion.",
+      "id": "ancient-egyptian-015",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Khepri",
+      "type": "god",
+      "domains": [
+        "morning sun",
+        "scarab",
+        "transformation",
+        "rebirth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Scarab's Roll",
+        "description": "Transform one ally: change their type and grant +3 to their highest stat."
+      },
+      "description": "Scarab-headed god of the morning sun who rolls the disc of dawn across the horizon each day.",
+      "id": "ancient-egyptian-016",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Nephthys",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "night",
+        "lamentation",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Lamentation Song",
+        "description": "When any ally falls, restore 3 HP to all remaining allies from grief-power."
+      },
+      "description": "Shadow sister of Isis who guards the dead and whose wailing with Isis reassembled Osiris from his scattered pieces.",
+      "id": "ancient-egyptian-017",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Ammit",
+      "type": "creature",
+      "domains": [
+        "devourer",
+        "heart eating",
+        "chimera"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Heart Devourer",
+        "description": "Permanently destroy one enemy card that fails a wisdom check (wisdom below 5)."
+      },
+      "description": "Part lion, part hippo, part crocodile — the Devourer of Hearts who destroys souls found unworthy at judgment.",
+      "id": "ancient-egyptian-018",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Khnum",
+      "type": "god",
+      "domains": [
+        "creator",
+        "potter",
+        "Nile source",
+        "ram"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Potter",
+        "description": "Shape one ally: grant them +2 to any two stats of your choice."
+      },
+      "description": "Ram-headed potter god who fashions humans and their ka souls on his divine wheel at the source of the Nile.",
+      "id": "ancient-egyptian-019",
+      "culture_slug": "ancient-egyptian"
+    },
+    {
+      "name": "Bes",
+      "type": "dwarf god",
+      "domains": [
+        "protection",
+        "childbirth",
+        "humor",
+        "music"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Fearsome Dance",
+        "description": "Frighten all dark spirits: dark enemies lose 2 power for 1 turn."
+      },
+      "description": "Fierce lion-dwarf god who protects mothers in childbirth, wards off evil spirits and guards sleeping children.",
+      "id": "ancient-egyptian-020",
+      "culture_slug": "ancient-egyptian"
+    }
+  ]
+}

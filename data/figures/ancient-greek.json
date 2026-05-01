@@ -1,0 +1,510 @@
+{
+  "culture_slug": "ancient-greek",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Zeus",
+      "type": "god",
+      "domains": [
+        "sky",
+        "thunder",
+        "kingship",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunderbolt Edict",
+        "description": "Stun one enemy and reduce all enemy stats by 1 for 2 turns."
+      },
+      "description": "King of the Olympians who rules from Mount Olympus and enforces divine law with his lightning bolt.",
+      "id": "ancient-greek-001",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Athena",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "war",
+        "crafts",
+        "strategy"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Aegis Shield",
+        "description": "Negate the next attack targeting any ally; grant +2 wisdom to that ally."
+      },
+      "description": "Virgin goddess of wisdom and strategic warfare, born fully armored from Zeus's head.",
+      "id": "ancient-greek-002",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Poseidon",
+      "type": "god",
+      "domains": [
+        "sea",
+        "earthquakes",
+        "horses"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Earth-Shaker",
+        "description": "Deal 4 damage to all enemies; 50% chance to stun each one for 1 turn."
+      },
+      "description": "Temperamental lord of the seas whose wrath triggers earthquakes and storms.",
+      "id": "ancient-greek-003",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Hades",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "wealth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Helm of Invisibility",
+        "description": "Make one ally invisible for 2 turns; enemy cannot target that ally."
+      },
+      "description": "Stern ruler of the dead who rarely leaves his underground kingdom of shades.",
+      "id": "ancient-greek-004",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Apollo",
+      "type": "god",
+      "domains": [
+        "sun",
+        "prophecy",
+        "music",
+        "healing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Silver Bow",
+        "description": "Deal 5 ranged damage ignoring defense; heal one ally for 3."
+      },
+      "description": "God of the sun, arts and prophecy who can both afflict and cure disease.",
+      "id": "ancient-greek-005",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Artemis",
+      "type": "goddess",
+      "domains": [
+        "hunt",
+        "moon",
+        "wilderness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moonsilver Arrow",
+        "description": "Deal 6 damage to one enemy; enemy cannot use special abilities next turn."
+      },
+      "description": "Twin sister of Apollo and fierce protector of wild animals and young women.",
+      "id": "ancient-greek-006",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Hermes",
+      "type": "god",
+      "domains": [
+        "messengers",
+        "travel",
+        "thieves",
+        "commerce"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Winged Sandals",
+        "description": "Swap positions with any card on the field; steal one enemy buff."
+      },
+      "description": "Divine messenger and trickster who guides souls to the underworld and aids heroes.",
+      "id": "ancient-greek-007",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Ares",
+      "type": "god",
+      "domains": [
+        "war",
+        "bloodshed",
+        "violence"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Frenzy",
+        "description": "Gain +3 power for 2 turns; take double damage during this effect."
+      },
+      "description": "God of raw bloodlust and war whose violence even the other gods find distasteful.",
+      "id": "ancient-greek-008",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Aphrodite",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "beauty",
+        "desire"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Apple",
+        "description": "Force one enemy to attack its own ally for 1 turn."
+      },
+      "description": "Irresistible goddess of love whose beauty sparked the Trojan War.",
+      "id": "ancient-greek-009",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Hephaestus",
+      "type": "god",
+      "domains": [
+        "fire",
+        "forge",
+        "crafts"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Forgefire",
+        "description": "Equip one ally with a divine weapon granting +3 power for the battle."
+      },
+      "description": "Lame divine smith who crafts weapons and armor for gods and heroes alike.",
+      "id": "ancient-greek-010",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Dionysus",
+      "type": "god",
+      "domains": [
+        "wine",
+        "ecstasy",
+        "theatre"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sacred Frenzy",
+        "description": "Inflict ecstasy on all enemies: they attack randomly for 2 turns."
+      },
+      "description": "God of wine and divine madness who transforms followers into frenzied maenads.",
+      "id": "ancient-greek-011",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Demeter",
+      "type": "goddess",
+      "domains": [
+        "harvest",
+        "fertility",
+        "seasons"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Boon",
+        "description": "Restore 4 HP to all allies; if an ally is at 0 HP restore them to 2."
+      },
+      "description": "Goddess of the grain whose grief over Persephone created the seasons.",
+      "id": "ancient-greek-012",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Herakles",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "heroism",
+        "endurance"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Twelve Labors",
+        "description": "This card ignores all negative status effects for the duration of the battle."
+      },
+      "description": "Greatest of Greek heroes who completed twelve impossible tasks and ascended to godhood.",
+      "id": "ancient-greek-013",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Achilles",
+      "type": "hero",
+      "domains": [
+        "war",
+        "speed",
+        "glory",
+        "tragedy"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 5,
+        "speed": 10,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Aristeia",
+        "description": "Deal 8 damage to one target; this card loses 2 defense permanently after use."
+      },
+      "description": "Near-invincible Trojan War hero whose single vulnerable heel sealed his tragic fate.",
+      "id": "ancient-greek-014",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Prometheus",
+      "type": "titan",
+      "domains": [
+        "fire",
+        "knowledge",
+        "defiance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Stolen Fire",
+        "description": "Grant all allies +2 magic for the rest of the battle; this card takes 3 damage."
+      },
+      "description": "Titan who defied Zeus to gift fire and civilization to humanity and suffered eternal torment.",
+      "id": "ancient-greek-015",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Typhon",
+      "type": "titan",
+      "domains": [
+        "chaos",
+        "storms",
+        "destruction"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Hundredfold Assault",
+        "description": "Deal 2 damage to all enemies five times in one turn."
+      },
+      "description": "Most fearsome monster ever born, father of all monsters, who nearly dethroned Zeus himself.",
+      "id": "ancient-greek-016",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Medusa",
+      "type": "monster",
+      "domains": [
+        "petrification",
+        "serpents",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stone Gaze",
+        "description": "Petrify one enemy for 2 turns; that enemy cannot act or be healed."
+      },
+      "description": "Once-beautiful Gorgon whose gaze turns living beings to stone and whose blood births monsters.",
+      "id": "ancient-greek-017",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Cerberus",
+      "type": "creature",
+      "domains": [
+        "underworld",
+        "guardianship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Three-Headed Watch",
+        "description": "Prevent any enemy from fleeing or using escape abilities; deal 2 damage each turn."
+      },
+      "description": "Three-headed hound who guards the entrance to the underworld, allowing entry but never exit.",
+      "id": "ancient-greek-018",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Chimera",
+      "type": "monster",
+      "domains": [
+        "fire",
+        "chaos",
+        "hybrid"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Tri-Form Breath",
+        "description": "Deal fire damage 3, then poison damage 2, then bite damage 2 to one enemy."
+      },
+      "description": "Fire-breathing hybrid of lion, goat and serpent who terrorized Lycia until slain by Bellerophon.",
+      "id": "ancient-greek-019",
+      "culture_slug": "ancient-greek"
+    },
+    {
+      "name": "Minotaur",
+      "type": "monster",
+      "domains": [
+        "labyrinth",
+        "sacrifice",
+        "duality"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 3,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Labyrinth Charge",
+        "description": "Deal 6 damage and push target to the back row; target is confused for 1 turn."
+      },
+      "description": "Half-man half-bull monster imprisoned in the Cretan labyrinth, fed on human sacrifices.",
+      "id": "ancient-greek-020",
+      "culture_slug": "ancient-greek"
+    }
+  ]
+}

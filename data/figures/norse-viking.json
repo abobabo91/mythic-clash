@@ -1,0 +1,513 @@
+{
+  "culture_slug": "norse-viking",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Odin",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "war",
+        "death",
+        "poetry",
+        "magic"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "All-Father's Ravens",
+        "description": "Look at all enemy cards; choose one to lose 3 stats of your choice."
+      },
+      "description": "One-eyed Allfather who sacrificed himself on the World Tree to gain the runes and all wisdom.",
+      "id": "norse-viking-001",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Thor",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "strength",
+        "protection",
+        "storms"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Mjolnir Strike",
+        "description": "Deal 7 damage; enemy cannot use magic abilities next turn."
+      },
+      "description": "Red-bearded thunder god whose hammer Mjolnir always returns and who protects humanity from giants.",
+      "id": "norse-viking-002",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Loki",
+      "type": "god",
+      "domains": [
+        "trickery",
+        "fire",
+        "shapeshifting"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Shape Thief",
+        "description": "Copy one enemy ability and use it immediately against them."
+      },
+      "description": "Shapeshifting trickster god whose schemes entertain and endanger the gods in equal measure.",
+      "id": "norse-viking-003",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Freya",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "death",
+        "magic",
+        "fertility"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Valkyrie's Claim",
+        "description": "Choose one fallen ally per battle; resurrect them at half HP."
+      },
+      "description": "Powerful goddess of love and war who receives half of all battle-slain heroes in her hall Sessrumnir.",
+      "id": "norse-viking-004",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Frigg",
+      "type": "goddess",
+      "domains": [
+        "marriage",
+        "motherhood",
+        "fate",
+        "foresight"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Weave of Fate",
+        "description": "Look at enemy hand; remove one card of your choice from play."
+      },
+      "description": "Queen of Asgard who knows the fate of all beings but keeps her knowledge in silence.",
+      "id": "norse-viking-005",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Baldur",
+      "type": "god",
+      "domains": [
+        "light",
+        "beauty",
+        "purity",
+        "rebirth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Invulnerability",
+        "description": "Negate all damage for 1 turn; cannot be targeted by dark-alignment cards."
+      },
+      "description": "Beloved god of light made invulnerable to all things except mistletoe — his one fatal weakness.",
+      "id": "norse-viking-006",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Tyr",
+      "type": "god",
+      "domains": [
+        "justice",
+        "war",
+        "law",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Binding Sacrifice",
+        "description": "Permanently disable one enemy's most powerful ability; this card loses 1 hand."
+      },
+      "description": "One-handed god of justice who sacrificed his hand to bind the wolf Fenrir for the safety of all.",
+      "id": "norse-viking-007",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Heimdall",
+      "type": "god",
+      "domains": [
+        "vigilance",
+        "dawn",
+        "rainbow bridge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Gjallarhorn",
+        "description": "Reveal all hidden enemy cards; allies gain +2 speed for 2 turns."
+      },
+      "description": "Ever-watchful guardian of Bifrost who can see and hear across all nine realms.",
+      "id": "norse-viking-008",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Hel",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "dishonored dead",
+        "cold"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Half-Life Aura",
+        "description": "Drain 2 HP per turn from all enemies as long as this card is in play."
+      },
+      "description": "Half-living half-dead ruler of Niflheim who receives all who die of illness, age or dishonor.",
+      "id": "norse-viking-009",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Skadi",
+      "type": "goddess",
+      "domains": [
+        "winter",
+        "hunting",
+        "mountains"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Frostbound Hunt",
+        "description": "Deal 4 damage and slow enemy speed by 3 for 2 turns."
+      },
+      "description": "Fierce giantess-goddess of winter and hunting who skis across frozen mountains in pursuit of prey.",
+      "id": "norse-viking-010",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Fenrir",
+      "type": "creature",
+      "domains": [
+        "chaos",
+        "destruction",
+        "doom"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Chain-Breaker",
+        "description": "Destroy one buff or binding effect; deal 5 damage to all enemies."
+      },
+      "description": "Monstrous wolf son of Loki bound by the silk-like chain Gleipnir, destined to swallow Odin at Ragnarok.",
+      "id": "norse-viking-011",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Jormungandr",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "poison",
+        "world-encircling"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "World Serpent Venom",
+        "description": "Poison all enemies for 3 turns; each loses 2 HP per turn."
+      },
+      "description": "The Midgard Serpent that encircles the world ocean, locked in eternal enmity with Thor.",
+      "id": "norse-viking-012",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Surtur",
+      "type": "giant",
+      "domains": [
+        "fire",
+        "Ragnarok",
+        "destruction"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Twilight Inferno",
+        "description": "Deal 5 fire damage to all enemies; set the battlefield alight for 2 turns."
+      },
+      "description": "Fire giant lord of Muspelheim whose sword will consume the world in the final battle of Ragnarok.",
+      "id": "norse-viking-013",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Sigurd",
+      "type": "hero",
+      "domains": [
+        "dragon-slaying",
+        "cursed gold",
+        "heroism"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Dragon's Bane",
+        "description": "Deal 8 damage to monster/creature types; gain 1 stack of Cursed Gold."
+      },
+      "description": "Greatest Norse hero who slew the dragon Fafnir, bathed in its blood and understood the language of birds.",
+      "id": "norse-viking-014",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Brynhildr",
+      "type": "hero",
+      "domains": [
+        "battle",
+        "wisdom",
+        "betrayal"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Valkyrie Shield-Wall",
+        "description": "Grant all allies +3 defense for 2 turns; redirect one attack to this card."
+      },
+      "description": "Greatest of the Valkyries, cursed to sleep in a ring of fire until awakened by the hero Sigurd.",
+      "id": "norse-viking-015",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Ymir",
+      "type": "giant",
+      "domains": [
+        "primordial chaos",
+        "creation",
+        "frost"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Primordial Flesh",
+        "description": "When destroyed, deal 4 damage to all cards on the field as the world reshapes."
+      },
+      "description": "First frost giant from whose enormous body Odin and his brothers shaped the entire cosmos.",
+      "id": "norse-viking-016",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Nidhogg",
+      "type": "creature",
+      "domains": [
+        "corruption",
+        "decay",
+        "gnawing"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Root Gnaw",
+        "description": "Reduce one enemy's max HP by 3 permanently; restore 2 HP to this card."
+      },
+      "description": "Ancient dragon that endlessly gnaws at the roots of Yggdrasil, slowly weakening the World Tree.",
+      "id": "norse-viking-017",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Sleipnir",
+      "type": "creature",
+      "domains": [
+        "speed",
+        "between-worlds travel"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Eight-Legged Stride",
+        "description": "This card can dodge the first attack each turn; move any ally to any position."
+      },
+      "description": "Odin's eight-legged horse, born of Loki's shapeshifting, fastest creature in all nine realms.",
+      "id": "norse-viking-018",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Angrboda",
+      "type": "giantess",
+      "domains": [
+        "monsters",
+        "iron wood",
+        "prophecy"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mother of Monsters",
+        "description": "Summon one random monster ally with 5/5/5/5/5 stats for 2 turns."
+      },
+      "description": "Iron Wood giantess and Loki's consort who mothered Fenrir, Jormungandr and Hel.",
+      "id": "norse-viking-019",
+      "culture_slug": "norse-viking"
+    },
+    {
+      "name": "Ratatoskr",
+      "type": "creature",
+      "domains": [
+        "gossip",
+        "discord",
+        "communication"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 3,
+        "speed": 10,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Slanderous Whisper",
+        "description": "Cause two enemy cards to attack each other for 1 turn."
+      },
+      "description": "Squirrel that scurries up and down Yggdrasil carrying insulting messages between eagle and dragon.",
+      "id": "norse-viking-020",
+      "culture_slug": "norse-viking"
+    }
+  ]
+}

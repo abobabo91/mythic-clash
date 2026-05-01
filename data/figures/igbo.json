@@ -1,0 +1,512 @@
+{
+  "culture_slug": "igbo",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Chukwu",
+      "type": "god",
+      "domains": [
+        "supreme creator",
+        "omnipotence",
+        "universe"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Great Spirit",
+        "description": "Reset all enemy negative effects on allies; grant +2 to all ally stats."
+      },
+      "description": "The supreme Igbo creator god whose name means 'Great Spirit' and who governs all of existence.",
+      "id": "igbo-001",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ala",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "morality",
+        "fertility",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Earth Law",
+        "description": "No enemy can commit an immoral action: all dark alignment cards lose 3 to all stats."
+      },
+      "description": "Earth goddess and moral authority of the Igbo; all crimes against her law are the most serious offenses.",
+      "id": "igbo-002",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Amadioha",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "justice",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunder of Justice",
+        "description": "Strike one evil-alignment enemy for 8 damage; restore 2 HP to all allies."
+      },
+      "description": "Sky god of thunder and lightning who executes divine justice, striking down those who commit ala violations.",
+      "id": "igbo-003",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Agwu",
+      "type": "god",
+      "domains": [
+        "divination",
+        "wisdom",
+        "health",
+        "trickster"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Diviners' Madness",
+        "description": "Reveal all hidden enemy cards; grant one ally +3 magic from divine inspiration."
+      },
+      "description": "Trickster god of divination and healing whose gifts of insight come with madness as their companion.",
+      "id": "igbo-004",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ekwensu",
+      "type": "god",
+      "domains": [
+        "war",
+        "bargaining",
+        "change",
+        "challenge"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Bargain of War",
+        "description": "Force one enemy to trade their highest stat for a 3 HP restoration to this card."
+      },
+      "description": "God of bargaining and change who was later demonized but originally governed the challenging aspects of life.",
+      "id": "igbo-005",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ikenga",
+      "type": "spirit",
+      "domains": [
+        "right hand",
+        "achievement",
+        "personal power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Right Hand Power",
+        "description": "One ally may perform two actions this turn from the power of personal achievement."
+      },
+      "description": "The personal spirit of the right hand that governs ambition, achievement and the power to act.",
+      "id": "igbo-006",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ogbuide",
+      "type": "goddess",
+      "domains": [
+        "lake",
+        "Oguta Lake",
+        "beauty",
+        "wealth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lake's Treasure",
+        "description": "Steal 2 stats from the wealthiest enemy and add them to this card."
+      },
+      "description": "Beautiful mermaid goddess of Oguta Lake who brings wealth to those who honor her and illness to those who offend.",
+      "id": "igbo-007",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Mmuo",
+      "type": "spirit",
+      "domains": [
+        "spirit world",
+        "ancestors",
+        "masquerade"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Masquerade Arrival",
+        "description": "Materialize from the spirit world: deal 4 damage to one enemy ignoring defense."
+      },
+      "description": "The spirits of the dead who return in masquerade form to communicate with and guide the living.",
+      "id": "igbo-008",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Anyanwu",
+      "type": "god",
+      "domains": [
+        "sun",
+        "vision",
+        "divinity in light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Vision",
+        "description": "Grant one ally the ability to see all hidden or invisible cards for 2 turns."
+      },
+      "description": "The sun itself as a divine entity — the visible eye of Chukwu gazing down on human affairs.",
+      "id": "igbo-009",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ogwugwu",
+      "type": "god",
+      "domains": [
+        "strength",
+        "power",
+        "personal chi"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Chi Strength",
+        "description": "The next ability this card uses deals +3 bonus damage from concentrated chi."
+      },
+      "description": "God of personal strength and power associated with the individual chi that grants each person their force.",
+      "id": "igbo-010",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Njoku Ji",
+      "type": "god",
+      "domains": [
+        "yam",
+        "harvest",
+        "prosperity"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Yam Festival",
+        "description": "Restore 3 HP to all allies; grant +2 power to all earth and harvest allies."
+      },
+      "description": "God of the yam harvest whose festival marks the most important celebration of the Igbo year.",
+      "id": "igbo-011",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Imo Miri",
+      "type": "spirit",
+      "domains": [
+        "Imo River",
+        "water spirits",
+        "female force"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River Spirit",
+        "description": "Drain 2 HP from one enemy per turn for 2 turns and add to own HP."
+      },
+      "description": "The female spirit of the Imo River who governs all water spirits in Igbo territory.",
+      "id": "igbo-012",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ogbanje",
+      "type": "spirit",
+      "domains": [
+        "spirit children",
+        "reincarnation cycle",
+        "tragedy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cyclical Curse",
+        "description": "When this card is destroyed, deal 3 damage to the enemy who destroyed it before returning."
+      },
+      "description": "Malevolent spirit children who are born, die young and are reborn repeatedly in a cycle of grief.",
+      "id": "igbo-013",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Ekpe",
+      "type": "spirit",
+      "domains": [
+        "leopard",
+        "secret society",
+        "power",
+        "law"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Secret Society",
+        "description": "Activate a hidden ability that enemies cannot predict or counter."
+      },
+      "description": "Leopard spirit of the powerful Ekpe secret society that governs law, politics and spiritual affairs.",
+      "id": "igbo-014",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Odinani",
+      "type": "spirit",
+      "domains": [
+        "traditional law",
+        "Igbo custom",
+        "sacred order"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Custom",
+        "description": "All enemy disruption and chaos abilities are reduced in power by 2 this turn."
+      },
+      "description": "The spirit of Igbo traditional law and sacred custom that governs proper relations between humans and gods.",
+      "id": "igbo-015",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Agbara",
+      "type": "spirit",
+      "domains": [
+        "divine power",
+        "spiritual force",
+        "deity in nature"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Natural Force",
+        "description": "All nature and earth abilities gain +2 power for 1 turn."
+      },
+      "description": "The divine power or spiritual force that inhabits natural phenomena, objects and sacred places.",
+      "id": "igbo-016",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Eze Nri",
+      "type": "ancestor",
+      "domains": [
+        "sacred king",
+        "ritual",
+        "purification"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ritual Purification",
+        "description": "Remove all curses and dark debuffs from all allies simultaneously."
+      },
+      "description": "The sacred king of Nri whose ritual authority purified abominations and maintained cosmic order without violence.",
+      "id": "igbo-017",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Mmo",
+      "type": "spirit",
+      "domains": [
+        "masquerade spirit",
+        "community authority",
+        "otherness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworldly Form",
+        "description": "Take on spirit form: enemy cannot use targeted single abilities against this card for 1 turn."
+      },
+      "description": "The masquerade spirit who appears at festivals and funerals, existing between the human and spirit worlds.",
+      "id": "igbo-018",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Onwa",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "time",
+        "female cycles"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moon Time",
+        "description": "All timing-based abilities this turn trigger at the optimal moment for your side."
+      },
+      "description": "The moon personified as a spirit who marks time, governs female cycles and organizes the Igbo calendar.",
+      "id": "igbo-019",
+      "culture_slug": "igbo"
+    },
+    {
+      "name": "Uju",
+      "type": "spirit",
+      "domains": [
+        "abundance",
+        "fullness",
+        "generosity"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Abundance Gift",
+        "description": "Grant one ally +2 to two different stats from the spirit of giving."
+      },
+      "description": "The spirit of fullness and abundance whose generosity flows through those who give freely to others.",
+      "id": "igbo-020",
+      "culture_slug": "igbo"
+    }
+  ]
+}

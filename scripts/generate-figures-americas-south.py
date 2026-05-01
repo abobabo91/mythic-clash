@@ -1,0 +1,273 @@
+"""
+Generate South America, Caribbean, and Afro-diasporic Americas figures.
+11 cultures x 20 figures = 220 figures
+"""
+
+from figure_factory import C, L, R, U, save
+
+inca = [
+    L("Viracocha", "god", ["creation", "sky", "sea", "wisdom"]),
+    L("Inti", "god", ["sun", "light", "kingship", "life"]),
+    R("Pachamama", "goddess", ["earth", "fertility", "motherhood", "abundance"]),
+    R("Mama Quilla", "goddess", ["moon", "night", "marriage", "light"]),
+    R("Illapa", "god", ["storm", "thunder", "rain", "war"]),
+    R("Supay", "god", ["underworld", "death", "darkness", "fire"]),
+    R("Mama Cocha", "goddess", ["sea", "water", "fertility", "protection"]),
+    R("Kon", "god", ["wind", "sun", "desert", "power"]),
+    U("Catequil", "god", ["thunder", "lightning", "war", "sky"]),
+    U("Pariacaca", "god", ["mountain", "storm", "water", "earth"]),
+    U("Manco Capac", "hero", ["kingship", "sun", "law", "ancestor"]),
+    U("Mama Ocllo", "heroine", ["fertility", "wisdom", "kingship", "earth"]),
+    U("Ayar Manco", "hero", ["quest", "kingship", "mountain", "honor"]),
+    U("Ayar Cachi", "hero", ["strength", "stone", "war", "fire"]),
+    C("Ayar Uchu", "hero", ["journey", "ritual", "mountain", "spirit"]),
+    C("Ayar Auca", "hero", ["war", "flight", "mountain", "quest"]),
+    C("Cuniraya Viracocha", "hero", ["trickster", "creation", "journey", "wisdom"]),
+    C("Cavillaca", "heroine", ["water", "love", "fate", "earth"]),
+    C("Urcuchillay", "god", ["animal", "llama", "sky", "protection"]),
+    U("Urcaguary", "god", ["serpent", "wealth", "underworld", "earth"]),
+]
+save("inca-andean", "Inca / Andean (Quechua)", inca)
+
+zapotec = [
+    L("Cocijo", "god", ["storm", "rain", "lightning", "fertility"]),
+    L("Pije Tao", "god", ["creation", "sky", "earth", "wisdom"]),
+    R("Coquihani", "god", ["sun", "light", "fire", "sky"]),
+    R("Pitao Cozobi", "god", ["corn", "fertility", "earth", "abundance"]),
+    R("Coqui Bezelao", "god", ["underworld", "death", "night", "spirit"]),
+    R("Coqui Xee", "god", ["creation", "light", "sky", "law"]),
+    R("Cozaana", "ancestor", ["creation", "ancestor", "earth", "family"]),
+    R("Huichaana", "ancestor", ["fertility", "creation", "motherhood", "earth"]),
+    U("Copijcha", "god", ["light", "spring", "renewal", "sun"]),
+    U("Ndan", "god", ["earth", "mountain", "strength", "stone"]),
+    U("Pije Xoo", "spirit", ["earth", "ancestor", "ritual", "wisdom"]),
+    U("Bat God", "monster", ["night", "death", "bat", "underworld"]),
+    U("Thirteen Serpent", "creature", ["serpent", "fate", "water", "power"]),
+    U("One Death", "spirit", ["death", "fate", "night", "underworld"]),
+    C("Rain Jaguar", "creature", ["storm", "animal", "forest", "strength"]),
+    C("Lightning Serpent", "creature", ["lightning", "serpent", "storm", "speed"]),
+    C("Monte Alban Ancestor", "ancestor", ["ancestor", "stone", "earth", "kingship"]),
+    C("Urn Guardian", "guardian", ["death", "ritual", "earth", "protection"]),
+    C("Corn Maiden", "goddess", ["corn", "fertility", "earth", "life"]),
+    U("Cloud Priest", "spirit", ["rain", "sky", "ritual", "wisdom"]),
+]
+save("zapotec", "Zapotec", zapotec)
+
+olmec = [
+    L("Olmec Dragon", "god", ["earth", "fire", "creation", "power"]),
+    L("Were-Jaguar", "creature", ["animal", "rain", "earth", "strength"]),
+    R("Feathered Serpent", "god", ["serpent", "sky", "wind", "wisdom"]),
+    R("Maize God", "god", ["corn", "fertility", "earth", "life"]),
+    R("Rain Spirit", "spirit", ["rain", "storm", "water", "fertility"]),
+    R("Bird Monster", "creature", ["sky", "bird", "storm", "power"]),
+    R("Fish Monster", "creature", ["water", "sea", "underworld", "mystery"]),
+    R("Earth Monster", "monster", ["earth", "monster", "cave", "hunger"]),
+    U("Shark Monster", "monster", ["sea", "animal", "monster", "strength"]),
+    U("Harpy Eagle", "creature", ["bird", "sky", "war", "hunting"]),
+    U("Crocodile Monster", "creature", ["water", "earth", "monster", "power"]),
+    U("Fire Serpent", "creature", ["fire", "serpent", "volcano", "speed"]),
+    U("Jade Child", "hero", ["earth", "wealth", "light", "youth"]),
+    U("Colossal Head Ancestor", "ancestor", ["kingship", "stone", "ancestor", "honor"]),
+    C("Las Limas Youth", "hero", ["ritual", "earth", "youth", "mystery"]),
+    C("Cave Jaguar", "creature", ["animal", "cave", "night", "strength"]),
+    C("Night Sun", "spirit", ["sun", "night", "underworld", "mystery"]),
+    C("Twin Shaman", "spirit", ["magic", "ritual", "spirit", "wisdom"]),
+    C("Corn Mother", "goddess", ["corn", "motherhood", "fertility", "earth"]),
+    U("Rubber Ball Lord", "hero", ["ballgame", "war", "ritual", "speed"]),
+]
+save("olmec", "Olmec", olmec)
+
+toltec = [
+    L("Topiltzin Quetzalcoatl", "hero", ["wisdom", "wind", "kingship", "light"]),
+    L("Tezcatlipoca", "god", ["darkness", "night", "war", "magic"]),
+    R("Quetzalcoatl", "god", ["wind", "creation", "serpent", "wisdom"]),
+    R("Tlahuizcalpantecuhtli", "god", ["star", "light", "war", "sky"]),
+    R("Mixcoatl", "god", ["hunting", "storm", "sky", "war"]),
+    R("Chimalman", "goddess", ["fertility", "moon", "war", "motherhood"]),
+    R("Huemac", "hero", ["kingship", "fate", "wisdom", "war"]),
+    R("Xolotl", "god", ["underworld", "dog", "lightning", "death"]),
+    U("Itzlacoliuhqui", "god", ["ice", "fate", "night", "punishment"]),
+    U("Mictlantecuhtli", "god", ["underworld", "death", "darkness", "bone"]),
+    U("Cihuacoatl", "goddess", ["motherhood", "war", "death", "earth"]),
+    U("Itzpapalotl", "goddess", ["night", "star", "butterfly", "death"]),
+    U("Mayahuel", "goddess", ["fertility", "plant", "abundance", "earth"]),
+    U("Tlaloc", "god", ["rain", "storm", "water", "fertility"]),
+    C("Chalchiuhtlicue", "goddess", ["water", "river", "fertility", "light"]),
+    C("Xiuhtecuhtli", "god", ["fire", "hearth", "time", "light"]),
+    C("Tonacatecuhtli", "god", ["creation", "abundance", "fertility", "light"]),
+    C("Tonacacihuatl", "goddess", ["creation", "abundance", "motherhood", "light"]),
+    C("Smoking Mirror Priest", "spirit", ["magic", "darkness", "ritual", "war"]),
+    U("Atlantean Warrior", "hero", ["war", "stone", "strength", "honor"]),
+]
+save("toltec", "Toltec", toltec)
+
+muisca = [
+    L("Chiminigagua", "god", ["creation", "light", "sky", "wisdom"]),
+    L("Bochica", "hero", ["wisdom", "light", "justice", "civilization"]),
+    R("Bachue", "goddess", ["fertility", "water", "motherhood", "creation"]),
+    R("Chia", "goddess", ["moon", "night", "fertility", "light"]),
+    R("Sue", "god", ["sun", "light", "sky", "life"]),
+    R("Huitaca", "goddess", ["trickster", "moon", "beauty", "rebellion"]),
+    R("Chibchacum", "god", ["rain", "storm", "earth", "strength"]),
+    R("Cuchavira", "spirit", ["rainbow", "healing", "light", "water"]),
+    U("Chaquen", "god", ["war", "fertility", "fields", "strength"]),
+    U("Nencatacoa", "god", ["music", "drink", "festivity", "trickster"]),
+    U("Sugunsua", "hero", ["origin", "family", "earth", "fate"]),
+    U("Fu", "spirit", ["night", "sleep", "dream", "darkness"]),
+    U("Goranchacha", "hero", ["sun", "kingship", "gold", "justice"]),
+    U("Pacanchique", "hero", ["love", "plants", "healing", "quest"]),
+    C("Azay", "heroine", ["love", "fate", "rebirth", "beauty"]),
+    C("Guatavita Spirit", "spirit", ["water", "gold", "ritual", "mystery"]),
+    C("Nemqueteba", "hero", ["wisdom", "journey", "light", "law"]),
+    C("Moon Owl", "creature", ["moon", "night", "bird", "warning"]),
+    C("Golden Raft Keeper", "guardian", ["gold", "water", "ritual", "earth"]),
+    U("Iguaque Guardian", "guardian", ["lake", "creation", "water", "earth"]),
+]
+save("muisca-colombian", "Muisca (Colombian)", muisca)
+
+guarani = [
+    L("Tupa", "god", ["creation", "storm", "sky", "light"]),
+    L("Arasy", "goddess", ["moon", "beauty", "creation", "light"]),
+    R("Tau", "demon", ["desire", "chaos", "darkness", "trickster"]),
+    R("Kerana", "goddess", ["beauty", "night", "fate", "dream"]),
+    R("Teju Jagua", "monster", ["monster", "cavern", "fire", "animal"]),
+    R("Mboi Tui", "creature", ["serpent", "water", "bird", "forest"]),
+    R("Monai", "monster", ["air", "theft", "monster", "destruction"]),
+    R("Jasy Jatere", "spirit", ["moon", "trickster", "siesta", "forest"]),
+    U("Kurupi", "spirit", ["fertility", "forest", "lust", "trickster"]),
+    U("Ao Ao", "monster", ["monster", "forest", "hunger", "night"]),
+    U("Luison", "monster", ["death", "night", "dog", "curse"]),
+    U("Pombero", "spirit", ["forest", "trickster", "night", "speed"]),
+    U("Jurupari", "spirit", ["law", "ritual", "forest", "mystery"]),
+    U("Angatupyry", "spirit", ["light", "virtue", "justice", "spirit"]),
+    C("Pora", "spirit", ["ghost", "night", "warning", "spirit"]),
+    C("Abaangui", "hero", ["moon", "craft", "creation", "trickster"]),
+    C("Caa Yari", "goddess", ["forest", "healing", "herb", "fertility"]),
+    C("Nande Ru", "god", ["creation", "sky", "spirit", "wisdom"]),
+    C("Nande Sy", "goddess", ["motherhood", "earth", "fertility", "life"]),
+    U("Boi Tata", "creature", ["fire", "serpent", "night", "warning"]),
+]
+save("guarani", "Guarani", guarani)
+
+mapuche = [
+    L("Ngenechen", "god", ["creation", "earth", "spirit", "wisdom"]),
+    L("Antu", "god", ["sun", "light", "sky", "power"]),
+    R("Kuyen", "goddess", ["moon", "night", "fertility", "beauty"]),
+    R("Pillan", "god", ["fire", "storm", "ancestor", "mountain"]),
+    R("Wangulen", "spirit", ["star", "sky", "light", "beauty"]),
+    R("Tren Tren Vilu", "creature", ["earth", "serpent", "protection", "mountain"]),
+    R("Kai Kai Vilu", "creature", ["sea", "serpent", "flood", "chaos"]),
+    R("Cherufe", "monster", ["fire", "volcano", "monster", "stone"]),
+    U("Wekufe", "spirit", ["darkness", "curse", "night", "spirit"]),
+    U("Anchimallen", "spirit", ["light", "night", "magic", "spirit"]),
+    U("Chonchon", "monster", ["night", "flight", "monster", "sorcery"]),
+    U("Peripillan", "god", ["storm", "war", "mountain", "fire"]),
+    U("Ngen-ko", "guardian", ["water", "river", "protection", "spirit"]),
+    U("Ngen-kurruf", "spirit", ["wind", "sky", "storm", "speed"]),
+    C("Machi Ancestor", "ancestor", ["healing", "spirit", "ritual", "wisdom"]),
+    C("Volcano Pillan", "spirit", ["fire", "mountain", "ancestor", "rage"]),
+    C("Pewma", "spirit", ["dream", "wisdom", "night", "vision"]),
+    C("Huentru Spirit", "spirit", ["ancestor", "earth", "guidance", "honor"]),
+    C("Mapu Guardian", "guardian", ["earth", "protection", "forest", "spirit"]),
+    U("Caleufu Serpent", "creature", ["river", "serpent", "water", "speed"]),
+]
+save("mapuche", "Mapuche", mapuche)
+
+yanomami = [
+    L("Omama", "god", ["creation", "forest", "healing", "wisdom"]),
+    L("Yoasi", "demon", ["death", "darkness", "disease", "chaos"]),
+    R("Periporiwe", "hero", ["moon", "blood", "creation", "sky"]),
+    R("Porehimi", "hero", ["forest", "food", "teaching", "earth"]),
+    R("Xapiri", "spirit", ["spirit", "healing", "forest", "light"]),
+    R("Yai", "spirit", ["spirit", "mountain", "night", "mystery"]),
+    R("Nomasiri", "demon", ["death", "disease", "night", "darkness"]),
+    R("Purimayoma", "heroine", ["firefly", "transformation", "light", "fate"]),
+    U("Amoawe", "hero", ["family", "journey", "forest", "honor"]),
+    U("Suhirinariwe", "hero", ["archery", "wisdom", "calm", "war"]),
+    U("Poriporiri", "spirit", ["moon", "night", "cycle", "death"]),
+    U("Ayokora Bird Spirit", "spirit", ["bird", "healing", "sky", "ritual"]),
+    U("Xamari", "creature", ["tapir", "animal", "spirit", "forest"]),
+    U("Urihinari", "spirit", ["forest", "spirit", "protection", "earth"]),
+    C("Mauunari", "spirit", ["water", "spirit", "river", "healing"]),
+    C("Yarori", "spirit", ["animal", "forest", "ancestor", "spirit"]),
+    C("Yakoana", "spirit", ["vision", "ritual", "healing", "spirit"]),
+    C("Omoari", "spirit", ["dry season", "fire", "heat", "sky"]),
+    C("Toorori", "spirit", ["rainy season", "water", "toad", "earth"]),
+    U("Watoriki Spirit", "guardian", ["mountain", "forest", "spirit", "protection"]),
+]
+save("yanomami", "Yanomami (Amazonian)", yanomami)
+
+taino = [
+    L("Yucahu", "god", ["cassava", "sea", "fertility", "life"]),
+    L("Atabey", "goddess", ["water", "fertility", "motherhood", "creation"]),
+    R("Juracan", "spirit", ["storm", "wind", "destruction", "sky"]),
+    R("Guabancex", "goddess", ["storm", "hurricane", "wind", "rage"]),
+    R("Boinayel", "god", ["rain", "water", "fertility", "sky"]),
+    R("Marohu", "god", ["sun", "light", "clear sky", "day"]),
+    R("Guatauba", "spirit", ["thunder", "storm", "warning", "sky"]),
+    R("Coatrisquie", "spirit", ["flood", "water", "storm", "sea"]),
+    U("Opiyelguobiran", "creature", ["dog", "underworld", "night", "guidance"]),
+    U("Deminan Caracaracol", "hero", ["trickster", "sea", "culture", "wit"]),
+    U("Bayamanaco", "hero", ["fire", "culture", "craft", "wisdom"]),
+    U("Itiba Cahubaba", "goddess", ["motherhood", "fertility", "cave", "birth"]),
+    U("Maquetaurie Guayaba", "god", ["underworld", "death", "night", "spirit"]),
+    U("Baibrama", "god", ["healing", "cassava", "ritual", "earth"]),
+    C("Cacibajagua", "guardian", ["cave", "creation", "ancestor", "earth"]),
+    C("Corocote", "spirit", ["messenger", "sea", "guidance", "spirit"]),
+    C("Faraguvaol", "spirit", ["wind", "storm", "sea", "warning"]),
+    C("Guabonito", "heroine", ["love", "cave", "beauty", "water"]),
+    C("Yaya", "god", ["creation", "water", "wisdom", "sky"]),
+    U("Cemi Keeper", "guardian", ["spirit", "ancestor", "ritual", "protection"]),
+]
+save("taino-caribbean", "Taino (Caribbean)", taino)
+
+haitian = [
+    L("Papa Legba", "god", ["spirit", "threshold", "wisdom", "crossroads"]),
+    L("Baron Samedi", "god", ["death", "underworld", "night", "spirit"]),
+    R("Erzulie Freda", "goddess", ["love", "beauty", "luxury", "water"]),
+    R("Erzulie Dantor", "goddess", ["motherhood", "war", "protection", "fire"]),
+    R("Ogou Feray", "god", ["war", "iron", "fire", "strength"]),
+    R("Damballa", "god", ["serpent", "creation", "wisdom", "water"]),
+    R("Ayida Wedo", "goddess", ["rainbow", "water", "fertility", "sky"]),
+    R("Agwe", "god", ["sea", "voyage", "water", "command"]),
+    U("Simbi", "spirit", ["water", "magic", "wisdom", "serpent"]),
+    U("Loko", "god", ["healing", "trees", "ritual", "earth"]),
+    U("Ayizan", "goddess", ["market", "initiation", "ritual", "wisdom"]),
+    U("Ghede Nibo", "spirit", ["death", "youth", "cemetery", "night"]),
+    U("Marinette", "spirit", ["fire", "rage", "night", "darkness"]),
+    U("Kalfu", "demon", ["darkness", "crossroads", "chaos", "night"]),
+    C("Azaka", "god", ["agriculture", "earth", "harvest", "simplicity"]),
+    C("Bosou", "god", ["strength", "bull", "war", "power"]),
+    C("La Sirene", "goddess", ["sea", "beauty", "song", "water"]),
+    C("Gran Bwa", "god", ["forest", "healing", "spirit", "earth"]),
+    C("Ti Jean Petro", "spirit", ["fire", "trickster", "speed", "rage"]),
+    U("Maman Brigitte", "goddess", ["death", "graveyard", "fire", "justice"]),
+]
+save("haitian-vodou", "Haitian Vodou", haitian)
+
+candomble = [
+    L("Exu", "god", ["trickster", "crossroads", "fire", "speech"]),
+    L("Oxala", "god", ["creation", "light", "wisdom", "peace"]),
+    R("Iemanja", "goddess", ["sea", "motherhood", "water", "fertility"]),
+    R("Ogun", "god", ["iron", "war", "fire", "craft"]),
+    R("Xango", "god", ["thunder", "fire", "justice", "kingship"]),
+    R("Oxum", "goddess", ["river", "love", "beauty", "fertility"]),
+    R("Iansa", "goddess", ["storm", "wind", "fire", "war"]),
+    R("Obaluaye", "god", ["plague", "healing", "earth", "death"]),
+    U("Nanã Buruku", "goddess", ["earth", "ancestor", "water", "wisdom"]),
+    U("Oxossi", "god", ["hunting", "forest", "animal", "abundance"]),
+    U("Logunede", "hero", ["hunting", "river", "beauty", "youth"]),
+    U("Ossain", "god", ["forest", "healing", "herb", "wisdom"]),
+    U("Oba", "goddess", ["war", "river", "strength", "loyalty"]),
+    U("Ibeji", "spirit", ["twins", "joy", "luck", "youth"]),
+    C("Eua", "goddess", ["mist", "cemetery", "night", "transformation"]),
+    C("Tempo", "god", ["time", "wind", "storm", "change"]),
+    C("Oxumare", "god", ["rainbow", "serpent", "wealth", "cycle"]),
+    C("Iroko", "god", ["tree", "time", "earth", "ancestor"]),
+    C("Egungun", "ancestor", ["ancestor", "spirit", "ritual", "memory"]),
+    U("Omolu", "god", ["healing", "plague", "earth", "death"]),
+]
+save("candomble-afro-brazilian", "Candomble (Afro-Brazilian)", candomble)
+
+print("\nAmericas south figures complete.")
+print("Total: 11 cultures x 20 figures = 220 figures")

@@ -1,0 +1,513 @@
+{
+  "culture_slug": "minoan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Potnia",
+      "type": "goddess",
+      "domains": [
+        "great mother",
+        "earth",
+        "snakes",
+        "wild animals"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Snake Goddess's Power",
+        "description": "All snake and earth enemies lose 3 stats; allies gain +2 magic and defense."
+      },
+      "description": "The supreme Minoan goddess who holds serpents in each hand and governs all of nature's cycles.",
+      "id": "minoan-001",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Asterion the Minotaur",
+      "type": "monster",
+      "domains": [
+        "labyrinth",
+        "duality",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Maze Heart",
+        "description": "Create a labyrinth: enemy abilities have a 50% chance to get lost and fail each turn."
+      },
+      "description": "The Minotaur at the heart of the labyrinth, born of divine punishment and fed with Athenian sacrifices.",
+      "id": "minoan-002",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Britomartis",
+      "type": "goddess",
+      "domains": [
+        "hunt",
+        "mountains",
+        "nets",
+        "cretan"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Net of the Hunt",
+        "description": "Immobilize one enemy for 2 turns; they cannot dodge or reposition."
+      },
+      "description": "Virgin Cretan goddess of hunting and fishing nets who leapt into the sea to escape King Minos.",
+      "id": "minoan-003",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Eileithyia",
+      "type": "goddess",
+      "domains": [
+        "childbirth",
+        "birth pangs",
+        "caves"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Birth Cave",
+        "description": "Restore a fallen ally to play with half HP; they enter fully healed of all debuffs."
+      },
+      "description": "Ancient cave goddess of childbirth whose presence or absence determined whether labor could proceed.",
+      "id": "minoan-004",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Velchanos",
+      "type": "god",
+      "domains": [
+        "sky",
+        "youth",
+        "divine youth",
+        "Crete"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Tree",
+        "description": "Regenerate 2 HP per turn for 3 turns; allies gain +2 to one random stat."
+      },
+      "description": "Young Minoan sky god who takes the form of a bird or young man and dwells in the sacred tree.",
+      "id": "minoan-005",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Dionysus of Crete",
+      "type": "god",
+      "domains": [
+        "wine",
+        "sacred bull",
+        "ecstasy",
+        "Crete"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Bull Dance Frenzy",
+        "description": "Inflict ecstasy on all enemies; your side gains +3 power for 1 turn."
+      },
+      "description": "The Cretan form of Dionysus connected to the sacred bull and ecstatic rites predating the Greek version.",
+      "id": "minoan-006",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Europa",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "bull",
+        "sea"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bull of Heaven",
+        "description": "Summon a divine bull ally with 8/8/6/5/5 stats for 2 turns."
+      },
+      "description": "Goddess or princess carried across the sea by Zeus in bull form, whose name means 'wide-gazing' like the full moon.",
+      "id": "minoan-007",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Ariadne",
+      "type": "goddess",
+      "domains": [
+        "labyrinth",
+        "thread",
+        "moon",
+        "dance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Thread of Ariadne",
+        "description": "Allow one ally to escape any trap or debuff; grant them +2 to all stats."
+      },
+      "description": "Cretan princess whose golden thread guided heroes through the labyrinth; later divine mistress of the moon.",
+      "id": "minoan-008",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Pasiphae",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "magic",
+        "cattle",
+        "enchantment"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moon Enchantment",
+        "description": "Inflict love-madness on one enemy: they protect this card instead of attacking for 1 turn."
+      },
+      "description": "Moon goddess and daughter of the sun whose divine madness was inflicted by Poseidon's wrath.",
+      "id": "minoan-009",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Talos",
+      "type": "automaton",
+      "domains": [
+        "bronze giant",
+        "protection",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 10,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bronze Patrol",
+        "description": "Deal 4 damage to all enemies attempting to approach; prevent all landing or entry abilities."
+      },
+      "description": "Bronze mechanical giant forged by Hephaestus who ran around Crete three times a day to repel invaders.",
+      "id": "minoan-010",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Labyrinth Daemon",
+      "type": "spirit",
+      "domains": [
+        "labyrinth",
+        "confusion",
+        "mystery"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Winding Path",
+        "description": "Swap all enemies' positions randomly; each loses 1 speed for 1 turn."
+      },
+      "description": "The genius loci of the great Labyrinth, spirit of confusion and divine mystery built by Daedalus.",
+      "id": "minoan-011",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "The Labrys",
+      "type": "spirit",
+      "domains": [
+        "double axe",
+        "sacred weapon",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Double Strike",
+        "description": "Attack twice in one turn, each strike dealing 3 damage."
+      },
+      "description": "Divine spirit of the double-headed sacred axe, symbol of the Minoan religion and divine female power.",
+      "id": "minoan-012",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Nymphs of Ida",
+      "type": "spirit",
+      "domains": [
+        "Mount Ida",
+        "childhood of Zeus",
+        "honey"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Honey",
+        "description": "Restore 3 HP to all allies at the start of battle."
+      },
+      "description": "Divine nymphs who nursed the infant Zeus in the cave of Mount Ida and fed him sacred honey.",
+      "id": "minoan-013",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Glaukos",
+      "type": "hero",
+      "domains": [
+        "resurrection",
+        "honey",
+        "bees",
+        "prophecy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Honey Resurrection",
+        "description": "Resurrect one fallen ally at 3 HP using the knowledge of a divine herb."
+      },
+      "description": "Prince who drowned in a honey jar and was resurrected by the seer Polyidus using a magical herb.",
+      "id": "minoan-014",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Daedalus",
+      "type": "hero",
+      "domains": [
+        "craftsmanship",
+        "flight",
+        "labyrinth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Architect's Wings",
+        "description": "Grant one ally temporary flight: they cannot be targeted for 1 turn."
+      },
+      "description": "Master craftsman who built the Labyrinth, fashioned wings of wax and feathers, and flew to freedom.",
+      "id": "minoan-015",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Curetes",
+      "type": "spirit",
+      "domains": [
+        "dancing warriors",
+        "protection of Zeus",
+        "noise"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "War Dance",
+        "description": "Create enough noise to cancel one enemy's summon or ambush ability."
+      },
+      "description": "Divine warrior dancers who clashed their spears against their shields to drown out the infant Zeus's crying.",
+      "id": "minoan-016",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Bull of Minos",
+      "type": "creature",
+      "domains": [
+        "sacred bull",
+        "frenzy",
+        "Crete"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sacred Bull Charge",
+        "description": "Deal 6 damage to one target; 30% chance to stun all adjacent enemies."
+      },
+      "description": "The divine bull sent by Poseidon whose untamed rage led to the creation of the Minotaur.",
+      "id": "minoan-017",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Minoans Sea Spirit",
+      "type": "spirit",
+      "domains": [
+        "sea trade",
+        "dolphins",
+        "navigation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dolphin's Path",
+        "description": "All ally cards gain +2 speed and cannot be intercepted this turn."
+      },
+      "description": "The divine protector spirit of Minoan seafarers who appears as a dolphin guiding ships through safe waters.",
+      "id": "minoan-018",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Mountain Mother",
+      "type": "goddess",
+      "domains": [
+        "mountains",
+        "lions",
+        "wild places"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Lion Throne",
+        "description": "Summon a lion guardian: absorb the next 5 damage dealt to any ally."
+      },
+      "description": "The great mountain goddess who sits enthroned between lions, mistress of all wild high places in Crete.",
+      "id": "minoan-019",
+      "culture_slug": "minoan"
+    },
+    {
+      "name": "Phaistos Disc Spirit",
+      "type": "spirit",
+      "domains": [
+        "mystery",
+        "sacred writing",
+        "unknown"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Undeciphered",
+        "description": "Randomly copy one ability from any card on the field and use it immediately."
+      },
+      "description": "The unknowable spirit encoded in the still-undeciphered spiral inscription of the Phaistos Disc.",
+      "id": "minoan-020",
+      "culture_slug": "minoan"
+    }
+  ]
+}

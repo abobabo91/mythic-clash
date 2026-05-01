@@ -1,0 +1,513 @@
+{
+  "culture_slug": "maasai",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Enkai Narok",
+      "type": "god",
+      "domains": [
+        "black god",
+        "benevolent sky",
+        "rain",
+        "cattle"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Rain Blessing",
+        "description": "Restore 4 HP to all allies; cattle and nature allies gain +3 to all stats."
+      },
+      "description": "The benevolent black aspect of Enkai who brings rain, grass and good fortune to the Maasai.",
+      "id": "maasai-001",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Enkai Nanyokie",
+      "type": "god",
+      "domains": [
+        "red god",
+        "wrathful sky",
+        "drought",
+        "punishment"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Red Drought",
+        "description": "Deal 5 damage to all enemies; remove all regeneration and healing effects for 2 turns."
+      },
+      "description": "The wrathful red aspect of Enkai who withholds rain, sends lightning and punishes transgressors.",
+      "id": "maasai-002",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Ol Doinyo Lengai",
+      "type": "spirit",
+      "domains": [
+        "sacred volcano",
+        "mountain of god",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Mountain of God",
+        "description": "Deal 6 fire damage to all enemies; grant earth allies immunity to fire for 2 turns."
+      },
+      "description": "The sacred volcano of the Maasai — 'Mountain of God' — whose eruptions signal Enkai's direct intervention.",
+      "id": "maasai-003",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Laibon",
+      "type": "hero",
+      "domains": [
+        "spiritual leader",
+        "diviner",
+        "medicine",
+        "prophecy"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Laibon's Sight",
+        "description": "Look at all enemy cards; predict and nullify the most dangerous enemy ability for 2 turns."
+      },
+      "description": "The Maasai spiritual leader and diviner who reads signs, prepares protective medicine and guides the community.",
+      "id": "maasai-004",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Dorobo Hunter",
+      "type": "hero",
+      "domains": [
+        "first man",
+        "fire",
+        "honey",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "First Fire",
+        "description": "Grant all allies +2 power; enemies cannot extinguish fire or warmth effects this turn."
+      },
+      "description": "The first man of Maasai legend who kept the fire of the world and from whom all humanity descended.",
+      "id": "maasai-005",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Ilchamus Warrior",
+      "type": "hero",
+      "domains": [
+        "morani",
+        "warrior age",
+        "lion",
+        "courage"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Lion Mane",
+        "description": "This card cannot be charmed, frightened or controlled for the battle."
+      },
+      "description": "The archetypal young Maasai warrior (morani) who proves his courage through lion hunting and battle.",
+      "id": "maasai-006",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Lightning Bird (Maasai)",
+      "type": "creature",
+      "domains": [
+        "lightning",
+        "storm",
+        "message",
+        "divine"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Enkai's Arrow",
+        "description": "Deal 5 lightning damage; enemy struck cannot use sky or storm abilities next turn."
+      },
+      "description": "The bird through which Enkai sends lightning to strike down wrongdoers and announce divine displeasure.",
+      "id": "maasai-007",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Cattle Spirit",
+      "type": "spirit",
+      "domains": [
+        "sacred cattle",
+        "wealth",
+        "divine gift"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Cattle Gift",
+        "description": "Restore 3 HP to all allies; all ally stats increase by 1 from divine cattle wealth."
+      },
+      "description": "The sacred spirit of cattle — Enkai's first gift to the Maasai and their greatest spiritual and material wealth.",
+      "id": "maasai-008",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Enkiama",
+      "type": "spirit",
+      "domains": [
+        "protective spirit",
+        "household",
+        "blessing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Household Shield",
+        "description": "Prevent one dark ability from affecting any ally this turn."
+      },
+      "description": "The household protective spirit who guards the enkiama (home) and blesses all who dwell within.",
+      "id": "maasai-009",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Osotua",
+      "type": "spirit",
+      "domains": [
+        "sacred relationship",
+        "obligation",
+        "community bond"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Bond",
+        "description": "When this card helps an ally, grant that ally +2 to all stats from the sacred bond."
+      },
+      "description": "The spirit of osotua — the sacred unbounded obligation between people that cannot be refused or forgotten.",
+      "id": "maasai-010",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Ilkiama Forest Spirit",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "boundary",
+        "protection"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Edge",
+        "description": "Prevent enemies from approaching past the forest boundary for 1 turn."
+      },
+      "description": "The protective spirits of the forest edge who mark the boundary between Maasai grazing land and wilderness.",
+      "id": "maasai-011",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Embe Eagle",
+      "type": "creature",
+      "domains": [
+        "eagle",
+        "sky messenger",
+        "prophecy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky Scout",
+        "description": "Look at the enemy's next 2 plays before they reveal them."
+      },
+      "description": "The great eagle whose flight patterns the Laibon reads as messages from Enkai about coming events.",
+      "id": "maasai-012",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Eunoto Elder",
+      "type": "ancestor",
+      "domains": [
+        "shaving ceremony",
+        "adulthood",
+        "transition"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Rite of Passage",
+        "description": "One ally gains +3 to all stats from completing a sacred transition."
+      },
+      "description": "The elder who performs the Eunoto ceremony, shaving the warrior's hair to mark his transition to adulthood.",
+      "id": "maasai-013",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Inkidongi Laibon",
+      "type": "hero",
+      "domains": [
+        "most sacred Laibon",
+        "prophecy",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Supreme Vision",
+        "description": "Automatically negate the first enemy ability each turn."
+      },
+      "description": "The Inkidongi clan Laibon whose prophetic and spiritual authority is recognized across all Maasai sections.",
+      "id": "maasai-014",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Ilkiponi Serpent",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "earth",
+        "bad omen"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Evil Omen",
+        "description": "When played, reduce all enemy stats by 1 from dread."
+      },
+      "description": "The serpent whose appearance is considered a dire omen in Maasai tradition, signaling misfortune.",
+      "id": "maasai-015",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Rain Maker",
+      "type": "hero",
+      "domains": [
+        "rain ceremony",
+        "drought breaking",
+        "prayer"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Rain Song",
+        "description": "Restore 2 HP to all allies; restore all nature and earth effects that were removed."
+      },
+      "description": "The ritual specialist who performs the sacred ceremonies to break drought and bring Enkai's rain.",
+      "id": "maasai-016",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Red Ochre Spirit",
+      "type": "spirit",
+      "domains": [
+        "ritual color",
+        "warrior power",
+        "protection"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ochre Shield",
+        "description": "Reduce damage taken by warrior allies by 2 for 1 turn."
+      },
+      "description": "The spirit of the red ochre (engila) that warriors apply to their bodies for protection and power.",
+      "id": "maasai-017",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Moran Youth",
+      "type": "hero",
+      "domains": [
+        "warrior initiation",
+        "courage",
+        "age-set"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 9,
+        "magic": 4,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Age-Set Bond",
+        "description": "All warrior allies gain +2 speed and +1 power from age-set solidarity."
+      },
+      "description": "The young Maasai warrior in his moran age-set who protects his community through courage and discipline.",
+      "id": "maasai-018",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Sacred Spear",
+      "type": "spirit",
+      "domains": [
+        "spear",
+        "warrior weapon",
+        "divine protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Spear Blessing",
+        "description": "Prevent one attack from being blocked by an enemy shield or dodge ability."
+      },
+      "description": "The spirit of the Maasai spear that is never put down and represents the warrior's sacred duty.",
+      "id": "maasai-019",
+      "culture_slug": "maasai"
+    },
+    {
+      "name": "Enkang Fire",
+      "type": "spirit",
+      "domains": [
+        "household fire",
+        "family",
+        "protection",
+        "continuity"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Hearth",
+        "description": "At the start of each turn, restore 1 HP to all allies for 3 turns."
+      },
+      "description": "The sacred fire at the center of the Maasai enkang whose flame represents family continuity.",
+      "id": "maasai-020",
+      "culture_slug": "maasai"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "culture_slug": "mandaean",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Hibil Ziwa",
+      "type": "god",
+      "domains": [
+        "hero savior",
+        "light world",
+        "underworld descent",
+        "great"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Living Water Descent",
+        "description": "Descend and return: this card can be destroyed and returns next turn at full HP."
+      },
+      "description": "The greatest Mandaean light being who descended to the underworld to redeem souls and returned triumphant.",
+      "id": "mandaean-001",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Ptahil",
+      "type": "god",
+      "domains": [
+        "creator",
+        "third uthra",
+        "material world",
+        "demiurge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Material World",
+        "description": "Reshape the field: choose and reset any three stat values on the field."
+      },
+      "description": "The third uthra who was tasked with creating the material world but required help from demonic forces to complete it.",
+      "id": "mandaean-002",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Ruha",
+      "type": "spirit",
+      "domains": [
+        "holy spirit",
+        "demonic",
+        "wind",
+        "ambiguous"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Spirit Wind",
+        "description": "Shift all positions on the field; remove all debuffs and rebuffs simultaneously."
+      },
+      "description": "The ambiguous holy spirit who stands between light and darkness, creating both good and evil in the material world.",
+      "id": "mandaean-003",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Manda d-Hiia",
+      "type": "god",
+      "domains": [
+        "knowledge of life",
+        "supreme knowledge",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Gnosis of Life",
+        "description": "Grant all allies complete knowledge of enemy abilities for 2 turns."
+      },
+      "description": "The personification of divine knowledge itself, the knowing of life, who gives Mandaeanism its name.",
+      "id": "mandaean-004",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Shitil",
+      "type": "ancestor",
+      "domains": [
+        "Adam's son",
+        "prayers",
+        "spirit world"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "First Prayer",
+        "description": "Guarantee the next ally ability succeeds; grant +2 wisdom to all ancestors."
+      },
+      "description": "The righteous son of Adam who prays at the cosmic treasury and whose righteousness opens divine channels.",
+      "id": "mandaean-005",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Abatur",
+      "type": "spirit",
+      "domains": [
+        "scales of the dead",
+        "judgment",
+        "underworld"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Scales of Truth",
+        "description": "Weigh all enemies: the one with lowest righteousness (wisdom) loses 4 to all stats."
+      },
+      "description": "The Mandaean judge of the dead who sits at the entrance to the underworld and weighs souls on scales.",
+      "id": "mandaean-006",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Ur",
+      "type": "demon",
+      "domains": [
+        "lord of darkness",
+        "outer darkness",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Outer Darkness",
+        "description": "Create a darkness zone: light abilities deal 2 less damage for 2 turns."
+      },
+      "description": "Lord of the outer darkness who rules the realm of chaos beyond the material world.",
+      "id": "mandaean-007",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Anosh-Uthra",
+      "type": "spirit",
+      "domains": [
+        "life uthra",
+        "healing",
+        "earthly helper"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Healing Uthra",
+        "description": "Restore 3 HP to all allies; remove all disease effects from allies."
+      },
+      "description": "The life uthra sent to help humanity who walks among humans performing healing miracles.",
+      "id": "mandaean-008",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Sam Ziwa",
+      "type": "spirit",
+      "domains": [
+        "pure light being",
+        "uthra",
+        "guardian"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Pure Light",
+        "description": "Purify one ally: remove all dark and chaos effects; grant +2 magic."
+      },
+      "description": "A pure light being (uthra) who guards the celestial worlds and aids in the purification of souls.",
+      "id": "mandaean-009",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Kushta",
+      "type": "spirit",
+      "domains": [
+        "truth",
+        "cosmic handshake",
+        "Mandaean greeting"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Handshake of Truth",
+        "description": "Your side cannot use deceptive abilities; enemy abilities based on deception auto-fail."
+      },
+      "description": "The personification of divine truth whose name is exchanged in the Mandaean greeting of clasped hands.",
+      "id": "mandaean-010",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Leviathan (Mandaean)",
+      "type": "creature",
+      "domains": [
+        "world serpent",
+        "encircling",
+        "darkness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dark Coil",
+        "description": "Reduce all ally and enemy max HP by 2; this card gains +2 defense from the coiling."
+      },
+      "description": "The great serpent encircling the material world who holds the darkness at the edges of creation.",
+      "id": "mandaean-011",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Shdum",
+      "type": "demon",
+      "domains": [
+        "minor demon",
+        "affliction",
+        "material world"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Affliction",
+        "description": "Reduce one enemy's power by 3 for 2 turns from demonic pressure."
+      },
+      "description": "The minor demons who afflict the material world and must be expelled through ritual and the power of living water.",
+      "id": "mandaean-012",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Bhaq-Ziwa",
+      "type": "spirit",
+      "domains": [
+        "radiant uthra",
+        "celestial",
+        "beautiful"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aura",
+        "description": "Grant one ally a radiant shield: they absorb 4 damage before it reaches them."
+      },
+      "description": "A radiant uthra of the light world whose beauty is described in Mandaean hymns of the celestial realm.",
+      "id": "mandaean-013",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "First Life (Hayyi Rabbi)",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "hidden",
+        "unknowable",
+        "life"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Great Life",
+        "description": "All life and light effects on the field gain +2 power this turn."
+      },
+      "description": "The unknowable First Life (Great Living God) from whom all Mandaean divine beings ultimately emanate.",
+      "id": "mandaean-014",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Yushamin",
+      "type": "spirit",
+      "domains": [
+        "second uthra",
+        "transgressor",
+        "bound"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Transgressor's Power",
+        "description": "Deal 3 damage; this card is then weakened by 1 to all stats from the cost of transgression."
+      },
+      "description": "The second uthra who transgressed the divine mandate and was bound, becoming a cautionary figure.",
+      "id": "mandaean-015",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Cosmic Masbuta",
+      "type": "spirit",
+      "domains": [
+        "baptism",
+        "living water",
+        "purification ritual"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Living Water Rite",
+        "description": "Remove all darkness from one ally; restore 3 HP through the power of the flowing water."
+      },
+      "description": "The spirit of the Mandaean baptism performed in flowing water (masbuta) for purification and renewal.",
+      "id": "mandaean-016",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Dinanukht",
+      "type": "spirit",
+      "domains": [
+        "half-man half-book",
+        "wisdom",
+        "hybrid"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Half Book",
+        "description": "Read one enemy ability before it is used; reduce its power by 2."
+      },
+      "description": "The mysterious half-human half-book being who sits at the boundary between two worlds reading all knowledge.",
+      "id": "mandaean-017",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Soul Bird",
+      "type": "spirit",
+      "domains": [
+        "soul form",
+        "ascent",
+        "celestial journey"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Soul Flight",
+        "description": "Any ally can escape one incoming attack by briefly taking bird form."
+      },
+      "description": "The bird form the soul takes during its ascent through the underworld levels to the world of light.",
+      "id": "mandaean-018",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Zodiac Demon",
+      "type": "demon",
+      "domains": [
+        "astral prison",
+        "planets",
+        "material trap"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Astral Trap",
+        "description": "Reduce one enemy's speed by 3 as they are caught in astral chains."
+      },
+      "description": "The zodiac demons who guard the astral levels between earth and the light world, trapping ascending souls.",
+      "id": "mandaean-019",
+      "culture_slug": "mandaean"
+    },
+    {
+      "name": "Nasiruta Priest",
+      "type": "hero",
+      "domains": [
+        "priestly knowledge",
+        "secret",
+        "living water keeper"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Hidden Knowledge",
+        "description": "Gain knowledge: look at two face-down enemy cards."
+      },
+      "description": "The Mandaean priestly keeper of nasiruta (secret knowledge) who guards the sacred texts and rituals.",
+      "id": "mandaean-020",
+      "culture_slug": "mandaean"
+    }
+  ]
+}

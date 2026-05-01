@@ -1,0 +1,514 @@
+{
+  "culture_slug": "baltic-lithuanian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Dievas",
+      "type": "god",
+      "domains": [
+        "sky",
+        "order",
+        "divine law",
+        "cosmos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Cosmic Order",
+        "description": "Restore all debuffed stats to base values for all allies; deal 3 damage to chaos-aligned enemies."
+      },
+      "description": "Sky father and supreme deity who upholds cosmic order and whose name is related to the Proto-Indo-European divine.",
+      "id": "baltic-lithuanian-001",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Perkūnas",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "oak",
+        "war",
+        "justice"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Oak Strike",
+        "description": "Destroy one dark or serpent enemy; deal 5 thunder damage to all remaining enemies."
+      },
+      "description": "Thundering god of the oak who eternally battles the underworld serpent Velnias, upholding the world's moral order.",
+      "id": "baltic-lithuanian-002",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Velnias",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "cattle",
+        "magic",
+        "knowledge"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Serpent Wisdom",
+        "description": "Steal all knowledge abilities from one enemy permanently."
+      },
+      "description": "Shape-shifting underworld god of the dead and magic who steals Perkūnas' cattle and hides below the earth.",
+      "id": "baltic-lithuanian-003",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Laima",
+      "type": "goddess",
+      "domains": [
+        "fate",
+        "luck",
+        "fortune",
+        "birth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fate Decree",
+        "description": "Look at your deck; rearrange the next 3 cards in any order."
+      },
+      "description": "Cuckoo-goddess who decrees each person's fate at birth and whose decision even Dievas cannot override.",
+      "id": "baltic-lithuanian-004",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Saule",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "warmth",
+        "life",
+        "women",
+        "fate"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Amber",
+        "description": "Restore 3 HP to all allies; grant +2 to all stats to female/goddess allies."
+      },
+      "description": "Sun goddess who drives her amber chariot across the sky, weeps amber tears and dances at the solstice.",
+      "id": "baltic-lithuanian-005",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Žemyna",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "mother goddess",
+        "nature",
+        "harvests"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Earth's Embrace",
+        "description": "At the end of each turn, restore 1 HP to all allies for 3 turns."
+      },
+      "description": "Earth mother goddess honored at every meal with a libation, the most intimately worshipped of all Baltic deities.",
+      "id": "baltic-lithuanian-006",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Eglė the Serpent Queen",
+      "type": "heroine",
+      "domains": [
+        "serpent marriage",
+        "sea",
+        "transformation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Serpent Queen's Curse",
+        "description": "Transform one enemy into a harmless creature for 2 turns."
+      },
+      "description": "Mortal woman who married the Serpent King of the Sea and whose tragedy transformed her family into trees.",
+      "id": "baltic-lithuanian-007",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Aitvaras",
+      "type": "spirit",
+      "domains": [
+        "household luck",
+        "fire serpent",
+        "fortune"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lucky Serpent",
+        "description": "Steal 2 HP from one enemy and add to one ally's HP."
+      },
+      "description": "Household spirit appearing as a flying fiery serpent or black rooster who brings grain and gold but demands a price.",
+      "id": "baltic-lithuanian-008",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Meness",
+      "type": "god",
+      "domains": [
+        "moon",
+        "night",
+        "time",
+        "horses"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Silver Horseman",
+        "description": "Swap any two cards' positions; the card that moves gains +2 speed."
+      },
+      "description": "Moon god who drives silver horses across the night sky and married the sun goddess, causing the seasonal cycle.",
+      "id": "baltic-lithuanian-009",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Aušrinė",
+      "type": "goddess",
+      "domains": [
+        "dawn",
+        "morning star",
+        "Venus"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Morning Star",
+        "description": "This card always acts first in a turn; remove one enemy buff at the start of combat."
+      },
+      "description": "Dawn goddess who kindles the sacred fire each morning and tends the world tree for Saule.",
+      "id": "baltic-lithuanian-010",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Giltinė",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "poison tongue",
+        "fate"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "White Lady's Kiss",
+        "description": "Mark one enemy: they lose 2 HP at the start of each turn until healed by a light ability."
+      },
+      "description": "Death goddess who appears as a white lady and licks victims to death with her poison tongue.",
+      "id": "baltic-lithuanian-011",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Ragana",
+      "type": "witch",
+      "domains": [
+        "witchcraft",
+        "shapeshifting",
+        "dark magic"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dark Shifter",
+        "description": "Copy the appearance and stats of one enemy for 1 turn."
+      },
+      "description": "Baltic witch who shapeshifts into animals and who was once honored as a wise woman before Christian demonization.",
+      "id": "baltic-lithuanian-012",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Medeina",
+      "type": "goddess",
+      "domains": [
+        "forest",
+        "hunting",
+        "trees"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Sovereignty",
+        "description": "All nature and beast enemies lose 2 power; allies gain +2 speed in forest terrain."
+      },
+      "description": "Virgin goddess of forests and the hunt, depicted with a hare and a crescent moon, mistress of all wild things.",
+      "id": "baltic-lithuanian-013",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Gabija",
+      "type": "goddess",
+      "domains": [
+        "sacred fire",
+        "home",
+        "protection"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Hearth",
+        "description": "Negate the next attack against any ally; restore 2 HP to all allies."
+      },
+      "description": "Sacred fire goddess of the hearth whose flame must never be extinguished lest misfortune befall the household.",
+      "id": "baltic-lithuanian-014",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Laumė",
+      "type": "fairy",
+      "domains": [
+        "spinning",
+        "fate",
+        "bathing maiden",
+        "children"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fairy Spinner",
+        "description": "Choose one ally's fate: double their next roll or halve an enemy's."
+      },
+      "description": "Fate fairies who appear bathing in moonlit waters, protect children and weave the thread of human destiny.",
+      "id": "baltic-lithuanian-015",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Bangpūtys",
+      "type": "god",
+      "domains": [
+        "sea",
+        "storms",
+        "waves"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Wave Surge",
+        "description": "Deal 4 water damage to all enemies; 30% chance to knock each one back."
+      },
+      "description": "God of the Baltic Sea and storms who blows with such force he can swamp entire fleets.",
+      "id": "baltic-lithuanian-016",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Dimstipatis",
+      "type": "spirit",
+      "domains": [
+        "household master",
+        "homestead"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Homestead Ward",
+        "description": "Prevent the next debuff from affecting any ally this turn."
+      },
+      "description": "The master spirit of the farmstead who must be welcomed into a new home with offerings of bread and salt.",
+      "id": "baltic-lithuanian-017",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Kaukas",
+      "type": "spirit",
+      "domains": [
+        "field spirit",
+        "grain",
+        "crops"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Sprite",
+        "description": "Restore 2 HP to one ally; grant +1 power to all earth/nature allies."
+      },
+      "description": "Small grain-spirit who lives in the rye fields and brings abundance to farmers who respect the harvest.",
+      "id": "baltic-lithuanian-018",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Žilvinas",
+      "type": "hero",
+      "domains": [
+        "snake prince",
+        "transformation",
+        "love"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Prince's Scales",
+        "description": "Switch one ally's power and defense stats for 2 turns."
+      },
+      "description": "Serpent prince from Lithuanian legend who married the mortal Eglė and ruled the underwater kingdom.",
+      "id": "baltic-lithuanian-019",
+      "culture_slug": "baltic-lithuanian"
+    },
+    {
+      "name": "Vaidevutis",
+      "type": "ancestor",
+      "domains": [
+        "first Baltic king",
+        "sacred governance"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Royal Decree",
+        "description": "Your next 2 abilities cannot be countered by enemy reactions."
+      },
+      "description": "Legendary first king and high priest of the Baltic peoples who established the sacred flame at Romuva.",
+      "id": "baltic-lithuanian-020",
+      "culture_slug": "baltic-lithuanian"
+    }
+  ]
+}

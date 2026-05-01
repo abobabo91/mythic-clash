@@ -1,0 +1,273 @@
+"""
+Generate North America and Mesoamerica figures.
+11 cultures x 20 figures = 220 figures
+"""
+
+from figure_factory import C, L, R, U, save
+
+aztec = [
+    L("Huitzilopochtli", "god", ["sun", "war", "fire", "kingship"]),
+    L("Quetzalcoatl", "god", ["wind", "wisdom", "creation", "serpent"]),
+    R("Tezcatlipoca", "god", ["darkness", "night", "war", "magic"]),
+    R("Tlaloc", "god", ["rain", "storm", "water", "fertility"]),
+    R("Coatlicue", "goddess", ["earth", "serpent", "motherhood", "death"]),
+    R("Xipe Totec", "god", ["fertility", "war", "spring", "sacrifice"]),
+    R("Mictlantecuhtli", "god", ["underworld", "death", "darkness", "bone"]),
+    R("Mictecacihuatl", "goddess", ["death", "underworld", "night", "spirit"]),
+    U("Tonatiuh", "god", ["sun", "fire", "light", "war"]),
+    U("Xolotl", "god", ["underworld", "lightning", "dog", "death"]),
+    U("Cihuacoatl", "goddess", ["motherhood", "war", "death", "earth"]),
+    U("Chalchiuhtlicue", "goddess", ["water", "river", "fertility", "light"]),
+    U("Mayahuel", "goddess", ["fertility", "plant", "abundance", "earth"]),
+    U("Coyolxauhqui", "goddess", ["moon", "war", "night", "fate"]),
+    C("Xiuhtecuhtli", "god", ["fire", "hearth", "time", "light"]),
+    C("Tlazolteotl", "goddess", ["love", "purification", "lust", "earth"]),
+    C("Tlaltecuhtli", "monster", ["earth", "monster", "creation", "hunger"]),
+    C("Mixcoatl", "god", ["hunting", "storm", "sky", "war"]),
+    C("Itzpapalotl", "goddess", ["night", "star", "butterfly", "death"]),
+    U("Cipactli", "monster", ["monster", "earth", "sea", "creation"]),
+]
+save("aztec-mexica", "Aztec / Mexica", aztec)
+
+maya = [
+    L("Itzamna", "god", ["wisdom", "creation", "sky", "light"]),
+    L("Kukulkan", "god", ["serpent", "wind", "sky", "wisdom"]),
+    R("Ix Chel", "goddess", ["moon", "healing", "fertility", "water"]),
+    R("Hunahpu", "hero", ["sun", "trickster", "war", "ballgame"]),
+    R("Xbalanque", "hero", ["moon", "trickster", "magic", "ballgame"]),
+    R("Huracan", "god", ["storm", "wind", "sky", "creation"]),
+    R("Chaac", "god", ["rain", "storm", "water", "fertility"]),
+    R("Hun Hunahpu", "hero", ["maize", "death", "rebirth", "fertility"]),
+    U("Vucub Caquix", "monster", ["bird", "vanity", "sky", "power"]),
+    U("Zipacna", "monster", ["mountain", "earth", "strength", "chaos"]),
+    U("Cabrakan", "monster", ["earthquake", "mountain", "destruction", "strength"]),
+    U("Camazotz", "monster", ["night", "death", "bat", "darkness"]),
+    U("Xmucane", "goddess", ["wisdom", "craft", "ancestor", "maize"]),
+    U("Xpiyacoc", "ancestor", ["divination", "wisdom", "fate", "spirit"]),
+    C("Bacab", "guardian", ["sky", "earth", "support", "storm"]),
+    C("Ek Chuah", "god", ["trade", "cacao", "journey", "war"]),
+    C("Yum Kaax", "god", ["forest", "maize", "hunting", "fertility"]),
+    C("Ixtab", "goddess", ["death", "spirit", "rope", "afterlife"]),
+    C("Gucumatz", "god", ["serpent", "creation", "wind", "wisdom"]),
+    U("Bolon Yokte", "god", ["war", "underworld", "change", "darkness"]),
+]
+save("maya", "Maya", maya)
+
+navajo = [
+    L("Changing Woman", "goddess", ["fertility", "earth", "beauty", "life"]),
+    L("Monster Slayer", "hero", ["war", "justice", "sun", "strength"]),
+    R("Born-for-Water", "hero", ["water", "war", "protection", "brotherhood"]),
+    R("Spider Woman", "goddess", ["wisdom", "craft", "spirit", "creation"]),
+    R("First Man", "ancestor", ["creation", "earth", "order", "wisdom"]),
+    R("First Woman", "ancestor", ["creation", "fertility", "earth", "wisdom"]),
+    R("Black God", "god", ["fire", "night", "star", "spirit"]),
+    R("White Shell Woman", "goddess", ["water", "light", "beauty", "protection"]),
+    U("Talking God", "spirit", ["wind", "speech", "ritual", "wisdom"]),
+    U("House God", "guardian", ["protection", "earth", "hearth", "ancestor"]),
+    U("Water Sprinkler", "spirit", ["rain", "water", "healing", "storm"]),
+    U("Begochidi", "hero", ["trickster", "travel", "creation", "wit"]),
+    U("Coyote", "spirit", ["trickster", "night", "desert", "speed"]),
+    U("Yei Bi Chei", "spirit", ["healing", "ritual", "spirit", "light"]),
+    C("Horned Monster", "monster", ["monster", "water", "war", "darkness"]),
+    C("Rock Monster", "monster", ["earth", "stone", "strength", "monster"]),
+    C("Owl Monster", "monster", ["night", "death", "bird", "shadow"]),
+    C("Bat Monster", "monster", ["night", "bat", "darkness", "speed"]),
+    C("Salt Woman", "goddess", ["earth", "water", "healing", "sustenance"]),
+    U("Turquoise Boy", "hero", ["light", "protection", "sky", "youth"]),
+]
+save("navajo-dine", "Navajo (Dine)", navajo)
+
+lakota = [
+    L("Wakan Tanka", "god", ["sky", "spirit", "creation", "wisdom"]),
+    L("White Buffalo Calf Woman", "goddess", ["justice", "ritual", "fertility", "light"]),
+    R("Iktomi", "spirit", ["trickster", "wisdom", "story", "speed"]),
+    R("Inyan", "god", ["earth", "stone", "creation", "endurance"]),
+    R("Wi", "god", ["sun", "light", "sky", "life"]),
+    R("Hanwi", "goddess", ["moon", "night", "beauty", "fate"]),
+    R("Skan", "god", ["sky", "motion", "spirit", "time"]),
+    R("Wakinyan", "creature", ["thunder", "storm", "bird", "sky"]),
+    U("Unktehi", "monster", ["water", "monster", "serpent", "earth"]),
+    U("Anog Ite", "goddess", ["beauty", "fate", "shadow", "warning"]),
+    U("Wohpe", "goddess", ["peace", "beauty", "light", "harmony"]),
+    U("Canotila", "spirit", ["forest", "tree", "healing", "earth"]),
+    U("Iya", "monster", ["storm", "chaos", "monster", "wind"]),
+    U("Heyoka", "spirit", ["storm", "trickster", "vision", "spirit"]),
+    C("Tate", "god", ["wind", "sky", "breath", "speed"]),
+    C("Gnaski", "monster", ["deception", "monster", "water", "greed"]),
+    C("Double Woman", "spirit", ["craft", "fate", "spirit", "dream"]),
+    C("Okaga", "creature", ["bird", "storm", "sky", "animal"]),
+    C("Anukite", "monster", ["two-face", "monster", "night", "fear"]),
+    U("Buffalo Nation", "guardian", ["animal", "earth", "abundance", "protection"]),
+]
+save("lakota-sioux", "Lakota (Sioux)", lakota)
+
+iroquois = [
+    L("Sky Woman", "goddess", ["creation", "sky", "fertility", "earth"]),
+    L("Raweno", "god", ["creation", "wisdom", "sky", "light"]),
+    R("Hahgwehdiyu", "hero", ["light", "creation", "justice", "agriculture"]),
+    R("Tawiskaron", "demon", ["darkness", "chaos", "war", "winter"]),
+    R("Heno", "god", ["thunder", "storm", "sky", "protection"]),
+    R("Great Turtle", "guardian", ["earth", "water", "support", "creation"]),
+    R("Corn Mother", "goddess", ["corn", "fertility", "earth", "abundance"]),
+    R("Bean Sister", "spirit", ["fertility", "earth", "harvest", "life"]),
+    U("Squash Sister", "spirit", ["fertility", "earth", "protection", "harvest"]),
+    U("False Face", "spirit", ["healing", "fear", "ritual", "spirit"]),
+    U("Djodi'kwado", "spirit", ["wind", "ice", "north", "winter"]),
+    U("Flying Head", "monster", ["monster", "night", "hunger", "fear"]),
+    U("Stone Coat", "monster", ["stone", "monster", "winter", "strength"]),
+    U("Jikonsaseh", "heroine", ["peace", "council", "wisdom", "fire"]),
+    C("Little People", "spirit", ["forest", "spirit", "trickster", "protection"]),
+    C("Night Sun", "spirit", ["light", "night", "sky", "mystery"]),
+    C("Sapling", "hero", ["growth", "light", "justice", "spring"]),
+    C("Wolf Spirit", "creature", ["animal", "hunting", "night", "pack"]),
+    C("Turtle Island Keeper", "guardian", ["earth", "water", "protection", "ancestor"]),
+    U("Maple Spirit", "spirit", ["tree", "sweetness", "earth", "abundance"]),
+]
+save("iroquois-haudenosaunee", "Iroquois / Haudenosaunee", iroquois)
+
+cherokee = [
+    L("Unetlanvhi", "god", ["creation", "sky", "spirit", "wisdom"]),
+    L("Selu", "goddess", ["corn", "fertility", "earth", "motherhood"]),
+    R("Kana'ti", "hero", ["hunting", "forest", "provider", "wisdom"]),
+    R("Water Spider", "spirit", ["fire", "water", "craft", "speed"]),
+    R("Thunder Boys", "spirit", ["thunder", "storm", "sky", "war"]),
+    R("Uktena", "monster", ["serpent", "water", "monster", "magic"]),
+    R("Nunnehi", "spirit", ["ancestor", "mountain", "protection", "spirit"]),
+    R("Yunwi Tsunsdi", "spirit", ["forest", "spirit", "trickster", "healing"]),
+    U("Spearfinger", "monster", ["monster", "stone", "death", "mountain"]),
+    U("Stoneclad", "monster", ["stone", "monster", "strength", "earth"]),
+    U("Jistu", "spirit", ["trickster", "rabbit", "speed", "wit"]),
+    U("Great Buzzard", "creature", ["sky", "creation", "bird", "wind"]),
+    U("Tsul 'Kalu", "god", ["hunting", "mountain", "animal", "forest"]),
+    U("Raven Mocker", "monster", ["death", "night", "monster", "fear"]),
+    C("Wild Boy", "hero", ["forest", "animal", "strength", "freedom"]),
+    C("Little Deer", "spirit", ["animal", "forest", "guidance", "speed"]),
+    C("Long Man", "god", ["river", "water", "earth", "protection"]),
+    C("Owl Spirit", "spirit", ["night", "bird", "warning", "wisdom"]),
+    C("Firekeepers", "guardian", ["fire", "ritual", "earth", "order"]),
+    U("Medicine Boomer", "spirit", ["healing", "ritual", "wind", "spirit"]),
+]
+save("cherokee", "Cherokee", cherokee)
+
+haida = [
+    L("Raven", "hero", ["trickster", "creation", "light", "sky"]),
+    L("Bear Mother", "goddess", ["animal", "motherhood", "forest", "earth"]),
+    R("Mouse Woman", "spirit", ["wisdom", "trickster", "forest", "guidance"]),
+    R("Dogfish Woman", "goddess", ["sea", "animal", "magic", "power"]),
+    R("Sgaana", "spirit", ["sea", "orca", "power", "water"]),
+    R("Wasgo", "monster", ["sea", "wolf", "monster", "strength"]),
+    R("Dzalarhons", "spirit", ["sea", "salmon", "abundance", "water"]),
+    R("Nanasimgit", "hero", ["sea", "war", "strength", "revenge"]),
+    U("Killer Whale Chief", "guardian", ["sea", "animal", "kingship", "power"]),
+    U("Frog Woman", "spirit", ["water", "fertility", "earth", "song"]),
+    U("Eagle Chief", "guardian", ["sky", "bird", "kingship", "honor"]),
+    U("Sea Grizzly", "monster", ["sea", "animal", "monster", "strength"]),
+    U("Fog Woman", "spirit", ["mist", "sea", "abundance", "mystery"]),
+    U("Cedar Man", "ancestor", ["forest", "craft", "earth", "wisdom"]),
+    C("Salmon Boy", "hero", ["sea", "salmon", "transformation", "water"]),
+    C("Copper Maker", "hero", ["craft", "earth", "wealth", "wisdom"]),
+    C("Thunderbird", "creature", ["thunder", "storm", "bird", "sky"]),
+    C("Sea Otter Helper", "creature", ["sea", "animal", "speed", "play"]),
+    C("House Pole Guardian", "guardian", ["ancestor", "protection", "earth", "spirit"]),
+    U("Moon Snare Hunter", "hero", ["hunting", "sky", "trickster", "speed"]),
+]
+save("haida", "Haida", haida)
+
+inuit = [
+    L("Sedna", "goddess", ["sea", "underworld", "animal", "water"]),
+    L("Nanook", "god", ["animal", "ice", "hunting", "survival"]),
+    R("Sila", "god", ["sky", "wind", "spirit", "wisdom"]),
+    R("Anguta", "god", ["underworld", "death", "judgment", "sea"]),
+    R("Pinga", "goddess", ["hunting", "fertility", "animal", "protection"]),
+    R("Qalupalik", "monster", ["sea", "monster", "night", "fear"]),
+    R("Mahaha", "monster", ["ice", "trickster", "monster", "night"]),
+    R("Tornarsuk", "spirit", ["spirit", "strength", "protection", "night"]),
+    U("Ijiraq", "spirit", ["shapechanging", "speed", "ice", "mystery"]),
+    U("Amarok", "creature", ["wolf", "animal", "night", "hunting"]),
+    U("Akhlut", "creature", ["sea", "wolf", "shapechanging", "water"]),
+    U("Adlet", "monster", ["monster", "dog", "war", "snow"]),
+    U("Aningan", "god", ["moon", "night", "sky", "cycle"]),
+    U("Malina", "goddess", ["sun", "light", "sky", "flight"]),
+    C("Pana", "spirit", ["ice", "music", "night", "spirit"]),
+    C("Tekkeitsertok", "god", ["animal", "hunting", "strength", "protection"]),
+    C("Tupilak", "monster", ["monster", "magic", "revenge", "water"]),
+    C("Torngarsuk", "spirit", ["spirit", "guardian", "night", "power"]),
+    C("Kiviuq", "hero", ["voyage", "sea", "survival", "quest"]),
+    U("Polar Bear Ancestor", "ancestor", ["animal", "ice", "strength", "protection"]),
+]
+save("inuit", "Inuit (Yupik / Arctic Peoples)", inuit)
+
+algonquian = [
+    L("Nanabozho", "hero", ["trickster", "creation", "wisdom", "travel"]),
+    L("Gichi-Manidoo", "god", ["creation", "spirit", "sky", "light"]),
+    R("Nokomis", "ancestor", ["wisdom", "moon", "ancestor", "earth"]),
+    R("Mishipeshu", "monster", ["water", "monster", "lynx", "power"]),
+    R("Thunderbird", "creature", ["thunder", "storm", "bird", "sky"]),
+    R("Windigo", "monster", ["winter", "hunger", "monster", "darkness"]),
+    R("Jiibayabooz", "spirit", ["underworld", "death", "spirit", "guidance"]),
+    R("Gluskap", "hero", ["wisdom", "creation", "travel", "justice"]),
+    U("Malsum", "demon", ["darkness", "war", "chaos", "shadow"]),
+    U("Animikii", "spirit", ["storm", "bird", "sky", "protection"]),
+    U("Pukwudjie", "spirit", ["forest", "trickster", "speed", "mischief"]),
+    U("Memegwesi", "spirit", ["water", "craft", "earth", "spirit"]),
+    U("Bagwajinini", "creature", ["forest", "giant", "animal", "earth"]),
+    U("Aki", "goddess", ["earth", "fertility", "motherhood", "life"]),
+    C("Manitou", "spirit", ["spirit", "wisdom", "nature", "mystery"]),
+    C("Wisakedjak", "hero", ["trickster", "story", "travel", "wit"]),
+    C("Pakwis", "spirit", ["forest", "dwarf", "craft", "mischief"]),
+    C("Chenoo", "monster", ["winter", "monster", "hunger", "ice"]),
+    C("Beaver Helper", "creature", ["animal", "water", "craft", "endurance"]),
+    U("Stone Canoe Spirit", "spirit", ["water", "death", "journey", "night"]),
+]
+save("algonquian-ojibwe", "Algonquian (Ojibwe / Anishinaabe)", algonquian)
+
+apache = [
+    L("Ussen", "god", ["creation", "sky", "wisdom", "spirit"]),
+    L("White Painted Woman", "goddess", ["fertility", "light", "beauty", "life"]),
+    R("Killer of Enemies", "hero", ["war", "justice", "sun", "strength"]),
+    R("Child of the Water", "hero", ["water", "war", "protection", "speed"]),
+    R("Mountain Spirits", "spirit", ["mountain", "healing", "ritual", "storm"]),
+    R("Black Hactcin", "spirit", ["earth", "night", "wisdom", "ritual"]),
+    R("White Hactcin", "spirit", ["light", "spirit", "wisdom", "ritual"]),
+    R("Gahe", "spirit", ["water", "healing", "storm", "spirit"]),
+    U("Big Owl", "monster", ["night", "bird", "monster", "fear"]),
+    U("Rolling Head", "monster", ["monster", "death", "night", "terror"]),
+    U("Coyote", "spirit", ["trickster", "desert", "speed", "wit"]),
+    U("Wind Spirit", "spirit", ["wind", "desert", "sky", "speed"]),
+    U("Fire Spirit", "spirit", ["fire", "ritual", "desert", "power"]),
+    U("Ga'an Dancer", "guardian", ["ritual", "mountain", "protection", "spirit"]),
+    C("Changing Bear", "creature", ["animal", "mountain", "strength", "earth"]),
+    C("Snake Boy", "hero", ["serpent", "desert", "youth", "speed"]),
+    C("Thunder Runner", "hero", ["storm", "speed", "war", "sky"]),
+    C("Turquoise Maiden", "heroine", ["light", "water", "beauty", "protection"]),
+    C("Red Ant Helper", "creature", ["earth", "animal", "endurance", "craft"]),
+    U("Sunrise Guardian", "guardian", ["sun", "mountain", "protection", "light"]),
+]
+save("apache", "Apache", apache)
+
+hopi = [
+    L("Tawa", "god", ["sun", "creation", "light", "sky"]),
+    L("Spider Grandmother", "goddess", ["wisdom", "creation", "craft", "spirit"]),
+    R("Sotuknang", "god", ["creation", "sky", "order", "wisdom"]),
+    R("Masauwu", "god", ["earth", "death", "fire", "underworld"]),
+    R("Muyingwa", "god", ["fertility", "earth", "agriculture", "rain"]),
+    R("Eototo", "god", ["ritual", "rain", "dance", "sky"]),
+    R("Angak'china", "spirit", ["rain", "cloud", "water", "fertility"]),
+    R("Crow Mother", "goddess", ["ritual", "education", "protection", "spirit"]),
+    U("Pookanghoya", "hero", ["earth", "balance", "brotherhood", "strength"]),
+    U("Palongawhoya", "hero", ["sound", "echo", "brotherhood", "speed"]),
+    U("Kokopelli", "spirit", ["fertility", "music", "trickster", "joy"]),
+    U("Hemis Kachina", "spirit", ["ritual", "rain", "light", "dance"]),
+    U("Hahai-i Wuhti", "spirit", ["ritual", "guidance", "ancestor", "wisdom"]),
+    U("Soyoko", "monster", ["monster", "winter", "fear", "discipline"]),
+    C("Nataska", "monster", ["monster", "night", "ritual", "fear"]),
+    C("Poli Mana", "spirit", ["butterfly", "beauty", "spring", "light"]),
+    C("Talavai", "spirit", ["music", "dance", "ritual", "joy"]),
+    C("Mongwu", "guardian", ["owl", "night", "wisdom", "protection"]),
+    C("Kachina Chief", "guardian", ["spirit", "ritual", "protection", "sky"]),
+    U("Corn Maiden", "goddess", ["corn", "fertility", "earth", "abundance"]),
+]
+save("hopi", "Hopi", hopi)
+
+print("\nAmericas north figures complete.")
+print("Total: 11 cultures x 20 figures = 220 figures")

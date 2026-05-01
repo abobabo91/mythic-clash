@@ -1,0 +1,526 @@
+{
+  "culture_slug": "thai-buddhist",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Indra (Thai)",
+      "type": "god",
+      "domains": [
+        "sky",
+        "storms",
+        "heaven",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tavatimsa Gate",
+        "description": "Open the gates of the 33 heavens, granting all allied deities +2 to all stats for 1 turn."
+      },
+      "description": "The king of the Tavatimsa heaven in Thai cosmology, patron of warriors and kings, depicted riding the three-headed elephant Erawan.",
+      "id": "thai-buddhist-001",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Erawan",
+      "type": "creature",
+      "domains": [
+        "elephant",
+        "heaven",
+        "sky",
+        "majesty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Triple Blessing",
+        "description": "Three heads each bless a different allied card: +3 power, +3 defense, or +3 magic."
+      },
+      "description": "The divine three-headed white elephant mount of Indra in Thai mythology, symbol of royal power and cosmic order.",
+      "id": "thai-buddhist-002",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Nang Kwak",
+      "type": "spirit",
+      "domains": [
+        "prosperity",
+        "commerce",
+        "luck",
+        "welcome"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Merchant's Blessing",
+        "description": "Double the gold yield of all allied commerce-domain cards this turn."
+      },
+      "description": "The Thai spirit of good fortune and prosperity, depicted with a raised right hand welcoming customers and wealth into the home.",
+      "id": "thai-buddhist-003",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Phra Phirun",
+      "type": "god",
+      "domains": [
+        "rain",
+        "water",
+        "storms",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Monsoon Call",
+        "description": "Force opponent to discard a card and draw one; gain 3 water tokens usable as mana."
+      },
+      "description": "The Thai rain deity, essential for the rice-farming culture, invoked before each planting season.",
+      "id": "thai-buddhist-004",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Mae Thorani",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "protection",
+        "witness",
+        "purity"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wringing the Earth",
+        "description": "Wring water from her hair to flood the battlefield, reducing all enemy stats by 2 for 2 turns."
+      },
+      "description": "The earth goddess who witnessed the Buddha's enlightenment, wringing torrents from her hair to sweep away Mara's demonic army.",
+      "id": "thai-buddhist-005",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Yak (Giant Guardian)",
+      "type": "creature",
+      "domains": [
+        "guardian",
+        "temple",
+        "warding",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 4,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Temple Warden",
+        "description": "Prevent the next attack against any allied card; the blocked damage is reflected at half value."
+      },
+      "description": "The giant yaksha guardian figures that protect Thai Buddhist temples, fierce in appearance but devoted protectors of sacred spaces.",
+      "id": "thai-buddhist-006",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Kinnari",
+      "type": "spirit",
+      "domains": [
+        "music",
+        "dance",
+        "love",
+        "half-bird"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Celestial Song",
+        "description": "Heal all allied cards for 3 HP and remove one debuff from each."
+      },
+      "description": "The half-human half-bird celestial beings of Thai mythology, gifted with beautiful voices and graceful dance, symbols of faithful love.",
+      "id": "thai-buddhist-007",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Naga (Thai)",
+      "type": "creature",
+      "domains": [
+        "water",
+        "protection",
+        "temples",
+        "serpent"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Naga Blessing",
+        "description": "Create a protective ward on an allied card; first damage dealt to it this turn is absorbed."
+      },
+      "description": "The great serpent beings who protect Buddhist temples in Thailand, often depicted lining temple staircases as guardian rails.",
+      "id": "thai-buddhist-008",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Suvannamaccha",
+      "type": "spirit",
+      "domains": [
+        "sea",
+        "mischief",
+        "love",
+        "fish-tail"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Fish Tail",
+        "description": "Steal one item or resource from the opponent and add it to your hand."
+      },
+      "description": "The golden mermaid daughter of Ravana who tried to sabotage the monkey army's bridge construction, but fell in love with Hanuman.",
+      "id": "thai-buddhist-009",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Phra Narai (Thai Vishnu)",
+      "type": "god",
+      "domains": [
+        "preservation",
+        "cosmos",
+        "avatar",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Chakra of Order",
+        "description": "Deal 8 damage to one enemy and reduce their power by 3 permanently."
+      },
+      "description": "Vishnu as worshipped in Thai royal tradition, the cosmic preserver who incarnates to restore balance, closely linked with Thai kingship.",
+      "id": "thai-buddhist-010",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Wessuwan",
+      "type": "god",
+      "domains": [
+        "wealth",
+        "underworld",
+        "giants",
+        "north"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Giant Army",
+        "description": "Summon two Yak guardians with 7/7/4/5/4 stats to protect your field."
+      },
+      "description": "The king of the giant yakshas and lord of the northern quarter in Thai Buddhist cosmology, guardian of treasures and patron of wealth.",
+      "id": "thai-buddhist-011",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Mara (Thai)",
+      "type": "god",
+      "domains": [
+        "temptation",
+        "illusion",
+        "death",
+        "obstacles"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Army of Illusions",
+        "description": "Create three illusion copies of a target card; they have half stats but fight for you."
+      },
+      "description": "The tempter deity who tried to prevent the Buddha's enlightenment, commanding vast armies of demons and illusions.",
+      "id": "thai-buddhist-012",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Phi Krasue",
+      "type": "spirit",
+      "domains": [
+        "ghost",
+        "night",
+        "hunger",
+        "terror"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 3,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hungry Float",
+        "description": "Drain 4 life from target enemy card and heal self by same amount."
+      },
+      "description": "A terrifying Thai ghost appearing as a floating female head with glowing entrails, said to prey on the vulnerable at night.",
+      "id": "thai-buddhist-013",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Phi Phop",
+      "type": "spirit",
+      "domains": [
+        "possession",
+        "illness",
+        "village",
+        "curse"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Body Snatcher",
+        "description": "Possess one enemy card, flipping it to fight for you for 1 turn."
+      },
+      "description": "A Thai spirit that possesses people and causes illness, one of the most feared phi in the Thai spirit hierarchy.",
+      "id": "thai-buddhist-014",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Suriyaphob",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "righteousness",
+        "kingship",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Blade",
+        "description": "Deal 7 damage to one enemy; if they are dark-aligned, deal 10 instead."
+      },
+      "description": "A great hero of Thai epic tradition, champion of righteousness who battles the forces of darkness on behalf of the gods.",
+      "id": "thai-buddhist-015",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Hanuman (Thai)",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "loyalty",
+        "wind",
+        "battle"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Diamond Body",
+        "description": "Become invulnerable to all attacks for 1 turn; counterattack deals double damage."
+      },
+      "description": "The Thai version of the monkey warrior hero, depicted with a crystal-like body and often serving as a romantic figure alongside his battle prowess.",
+      "id": "thai-buddhist-016",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Tosakan (Ravana)",
+      "type": "god",
+      "domains": [
+        "power",
+        "sorcery",
+        "ten heads",
+        "Lanka"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ten-Headed Roar",
+        "description": "All enemies lose 3 stats across the board; Tosakan gains those stats temporarily."
+      },
+      "description": "The ten-headed demon king from the Thai Ramakien epic, sorcerer and warrior of immense power who abducts the princess Sida.",
+      "id": "thai-buddhist-017",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Pho Khun Ramkhamhaeng",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "law",
+        "writing",
+        "justice"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Law of the Land",
+        "description": "Establish a rule: for 2 turns, all cards must follow a chosen stat restriction or be discarded."
+      },
+      "description": "The legendary Thai king credited with creating the Thai alphabet and establishing a golden age of justice and prosperity.",
+      "id": "thai-buddhist-018",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Benjakai",
+      "type": "spirit",
+      "domains": [
+        "illusion",
+        "seduction",
+        "battle",
+        "dark magic"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "False Form",
+        "description": "Transform into a copy of any card on the field for 2 turns, inheriting their abilities."
+      },
+      "description": "A female demon general of Tosakan who disguises herself to infiltrate the monkey army, a shapeshifter of great cunning.",
+      "id": "thai-buddhist-019",
+      "culture_slug": "thai-buddhist"
+    },
+    {
+      "name": "Garuda (Thai)",
+      "type": "creature",
+      "domains": [
+        "sun",
+        "wind",
+        "royalty",
+        "serpent-slayer"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Naga Strike",
+        "description": "Deal 9 damage to any water or serpent-type enemy; become the royal emblem card."
+      },
+      "description": "The divine eagle-man who is the mount of Phra Narai, emblazoned on the Thai royal coat of arms, sworn enemy of the nagas.",
+      "id": "thai-buddhist-020",
+      "culture_slug": "thai-buddhist"
+    }
+  ]
+}

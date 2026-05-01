@@ -1,0 +1,516 @@
+{
+  "culture_slug": "jewish-mysticism",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Metatron",
+      "type": "angel",
+      "domains": [
+        "divine scribe",
+        "throne of glory",
+        "Enoch transformed"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Dictation",
+        "description": "Copy and store all information on the field; use stored info to predict enemy next action."
+      },
+      "description": "Greatest of archangels, once the human Enoch, who writes down all divine decrees and guards the throne.",
+      "id": "jewish-mysticism-001",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Lilith",
+      "type": "demon",
+      "domains": [
+        "first woman",
+        "night witch",
+        "child killer",
+        "independence"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "First Refusal",
+        "description": "Lilith cannot be controlled, charmed or enslaved by any effect; deal 4 dark damage."
+      },
+      "description": "Adam's first wife who refused subjugation and became a fearsome night demon who haunts the dark.",
+      "id": "jewish-mysticism-002",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Samael",
+      "type": "angel",
+      "domains": [
+        "accuser",
+        "poisoner",
+        "death angel",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Angel of Death",
+        "description": "Mark one enemy: they will be destroyed at the start of your next turn."
+      },
+      "description": "The angel of death and the accuser whose name means 'Poison of God,' associated with Rome and destruction.",
+      "id": "jewish-mysticism-003",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Sandalphon",
+      "type": "angel",
+      "domains": [
+        "twin of Metatron",
+        "prayers",
+        "music",
+        "height"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Prayer Tower",
+        "description": "All prayer and healing abilities gain +3 power while Sandalphon stands."
+      },
+      "description": "The tallest angel whose height spans heaven and earth, who weaves the prayers of Israel into crowns for God.",
+      "id": "jewish-mysticism-004",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Golem",
+      "type": "creature",
+      "domains": [
+        "clay man",
+        "protection",
+        "Prague",
+        "divine name"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 10,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Emet (Truth)",
+        "description": "Become unstoppable: cannot be debuffed or slowed; deal 6 damage. Remove Emet: destroy Golem."
+      },
+      "description": "Clay giant animated by the divine name, created by the Rabbi of Prague to protect the Jewish community.",
+      "id": "jewish-mysticism-005",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Azazel",
+      "type": "demon",
+      "domains": [
+        "scapegoat",
+        "fallen angel",
+        "Watchers",
+        "desert"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Scapegoat's Burden",
+        "description": "Transfer all debuffs on your allies to one enemy."
+      },
+      "description": "Fallen angel leader of the Watchers who taught humanity forbidden knowledge and dwells in the desert wilderness.",
+      "id": "jewish-mysticism-006",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "domains": [
+        "divine messenger",
+        "strength",
+        "trumpet",
+        "revelation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Revelation Trumpet",
+        "description": "Reveal all hidden information on the field; grant +3 to all allied angels."
+      },
+      "description": "The angel of divine revelation who announced the birth of Isaac and interpreted Daniel's visions.",
+      "id": "jewish-mysticism-007",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "domains": [
+        "divine warrior",
+        "Israel's protector",
+        "heavenly general"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Heavenly Host",
+        "description": "Grant all allies +2 defense; deal 5 damage to dark/chaos enemies from heavenly war."
+      },
+      "description": "Chief warrior angel and protector of Israel who leads the heavenly armies against the forces of evil.",
+      "id": "jewish-mysticism-008",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Behemoth",
+      "type": "creature",
+      "domains": [
+        "chaos beast",
+        "land monster",
+        "primordial"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 10,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Primal Might",
+        "description": "This card cannot be moved, pushed or repositioned by any ability."
+      },
+      "description": "The colossal chaos creature of the land created alongside Leviathan at the beginning of time.",
+      "id": "jewish-mysticism-009",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Leviathan (Hebrew)",
+      "type": "creature",
+      "domains": [
+        "sea monster",
+        "chaos",
+        "primordial serpent"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Primordial Sea",
+        "description": "Deal 4 damage to all enemies; enemies cannot use sea or water abilities against this card."
+      },
+      "description": "The great sea monster of chaos whom God slays at the end of time, whose flesh will feast the righteous.",
+      "id": "jewish-mysticism-010",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "domains": [
+        "healing",
+        "science",
+        "travel",
+        "medicine"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Medicine",
+        "description": "Fully remove all disease, poison and curse effects from all allies."
+      },
+      "description": "The healing archangel who traveled with Tobias in disguise and taught the secrets of all healing.",
+      "id": "jewish-mysticism-011",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Uriel",
+      "type": "angel",
+      "domains": [
+        "fire",
+        "repentance",
+        "divine light",
+        "Sheol"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Light of Uriel",
+        "description": "Illuminate: no dark abilities may be hidden or disguised for 2 turns."
+      },
+      "description": "The angel of light and fire who guards Eden's gate and oversees the souls of the departed.",
+      "id": "jewish-mysticism-012",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Asmodeus",
+      "type": "demon",
+      "domains": [
+        "lust",
+        "destruction",
+        "gambling",
+        "demon king"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Demon King's Compulsion",
+        "description": "Force one enemy to waste their most powerful ability on themselves."
+      },
+      "description": "King of demons who rules the sin of lust and who was bound by Raphael with incense fish liver and gall.",
+      "id": "jewish-mysticism-013",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Naamah",
+      "type": "demon",
+      "domains": [
+        "seduction",
+        "night terror",
+        "fallen angel"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Night Terror",
+        "description": "Inflict sleep on one enemy; they take 3 additional damage from any source while asleep."
+      },
+      "description": "The female demon of seduction, sister of Tubal-Cain, who joins Lilith in haunting the night.",
+      "id": "jewish-mysticism-014",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Ziz",
+      "type": "creature",
+      "domains": [
+        "sky monster",
+        "primordial bird",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Wing Shadow",
+        "description": "Block all light and sun abilities for 1 turn with Ziz's enormous wings."
+      },
+      "description": "The colossal primordial bird of the sky whose wingspan can block the sun, counterpart to Behemoth and Leviathan.",
+      "id": "jewish-mysticism-015",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Angel of the Lord",
+      "type": "angel",
+      "domains": [
+        "divine manifestation",
+        "burning bush",
+        "unnamed"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Manifestation",
+        "description": "This card's true identity is hidden; enemies cannot counter what they cannot identify."
+      },
+      "description": "The mysterious Angel of the Lord who appears in human or fire form and speaks with the full authority of God.",
+      "id": "jewish-mysticism-016",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Dumah",
+      "type": "angel",
+      "domains": [
+        "silence",
+        "guardian of Sheol",
+        "still waters"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Veil of Silence",
+        "description": "Silence all enemy abilities for 1 turn; they cannot use special moves."
+      },
+      "description": "The angel of silence who guards the realm of the dead and who stands at the entrance to Sheol.",
+      "id": "jewish-mysticism-017",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Azrael",
+      "type": "angel",
+      "domains": [
+        "death",
+        "soul taking",
+        "mourning"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Soul Separation",
+        "description": "Gently remove one friendly dying ally from battle; they cannot be returned or destroyed — only peacefully ended."
+      },
+      "description": "The Islamic and Jewish angel of death who takes souls from bodies with perfect gentleness.",
+      "id": "jewish-mysticism-018",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Elijah's Chariot",
+      "type": "spirit",
+      "domains": [
+        "heavenly ascent",
+        "fire",
+        "divine vehicle"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Whirlwind Ascent",
+        "description": "Any ally can fly to heaven for 1 turn: they become immune to all ground attacks."
+      },
+      "description": "The fiery chariot that carried the prophet Elijah to heaven without tasting death.",
+      "id": "jewish-mysticism-019",
+      "culture_slug": "jewish-mysticism"
+    },
+    {
+      "name": "Shedim",
+      "type": "demon",
+      "domains": [
+        "lesser demons",
+        "wilderness",
+        "disease",
+        "chaos"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Lesser Plague",
+        "description": "Inflict a random minor debuff on all enemies simultaneously."
+      },
+      "description": "The legions of lesser demons who inhabit desolate places, causing disease and misfortune.",
+      "id": "jewish-mysticism-020",
+      "culture_slug": "jewish-mysticism"
+    }
+  ]
+}

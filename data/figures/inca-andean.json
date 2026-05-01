@@ -1,0 +1,526 @@
+{
+  "culture_slug": "inca-andean",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Viracocha",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "sea",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Viracocha is a god from Inca / Andean (Quechua) tradition associated with creation, sky, sea, and wisdom.",
+      "id": "inca-andean-001",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Inti",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "kingship",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Inti is a god from Inca / Andean (Quechua) tradition associated with sun, light, kingship, and life.",
+      "id": "inca-andean-002",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Pachamama",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "fertility",
+        "motherhood",
+        "abundance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Pachamama is a goddess from Inca / Andean (Quechua) tradition associated with earth, fertility, motherhood, and abundance.",
+      "id": "inca-andean-003",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Mama Quilla",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "night",
+        "marriage",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Mama Quilla is a goddess from Inca / Andean (Quechua) tradition associated with moon, night, marriage, and light.",
+      "id": "inca-andean-004",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Illapa",
+      "type": "god",
+      "domains": [
+        "storm",
+        "thunder",
+        "rain",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Illapa is a god from Inca / Andean (Quechua) tradition associated with storm, thunder, rain, and war.",
+      "id": "inca-andean-005",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Supay",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "darkness",
+        "fire"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Supay is a god from Inca / Andean (Quechua) tradition associated with underworld, death, darkness, and fire.",
+      "id": "inca-andean-006",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Mama Cocha",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "water",
+        "fertility",
+        "protection"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Mama Cocha is a goddess from Inca / Andean (Quechua) tradition associated with sea, water, fertility, and protection.",
+      "id": "inca-andean-007",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Kon",
+      "type": "god",
+      "domains": [
+        "wind",
+        "sun",
+        "desert",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Kon is a god from Inca / Andean (Quechua) tradition associated with wind, sun, desert, and power.",
+      "id": "inca-andean-008",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Catequil",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "lightning",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Catequil is a god from Inca / Andean (Quechua) tradition associated with thunder, lightning, war, and sky.",
+      "id": "inca-andean-009",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Pariacaca",
+      "type": "god",
+      "domains": [
+        "mountain",
+        "storm",
+        "water",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Pariacaca is a god from Inca / Andean (Quechua) tradition associated with mountain, storm, water, and earth.",
+      "id": "inca-andean-010",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Manco Capac",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "sun",
+        "law",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Manco Capac is a hero from Inca / Andean (Quechua) tradition associated with kingship, sun, law, and ancestor.",
+      "id": "inca-andean-011",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Mama Ocllo",
+      "type": "heroine",
+      "domains": [
+        "fertility",
+        "wisdom",
+        "kingship",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Mama Ocllo is a heroine from Inca / Andean (Quechua) tradition associated with fertility, wisdom, kingship, and earth.",
+      "id": "inca-andean-012",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Ayar Manco",
+      "type": "hero",
+      "domains": [
+        "quest",
+        "kingship",
+        "mountain",
+        "honor"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Ayar Manco is a hero from Inca / Andean (Quechua) tradition associated with quest, kingship, mountain, and honor.",
+      "id": "inca-andean-013",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Ayar Cachi",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "stone",
+        "war",
+        "fire"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ayar Cachi is a hero from Inca / Andean (Quechua) tradition associated with strength, stone, war, and fire.",
+      "id": "inca-andean-014",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Ayar Uchu",
+      "type": "hero",
+      "domains": [
+        "journey",
+        "ritual",
+        "mountain",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Ayar Uchu is a hero from Inca / Andean (Quechua) tradition associated with journey, ritual, mountain, and spirit.",
+      "id": "inca-andean-015",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Ayar Auca",
+      "type": "hero",
+      "domains": [
+        "war",
+        "flight",
+        "mountain",
+        "quest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ayar Auca is a hero from Inca / Andean (Quechua) tradition associated with war, flight, mountain, and quest.",
+      "id": "inca-andean-016",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Cuniraya Viracocha",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "creation",
+        "journey",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Cuniraya Viracocha is a hero from Inca / Andean (Quechua) tradition associated with trickster, creation, journey, and wisdom.",
+      "id": "inca-andean-017",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Cavillaca",
+      "type": "heroine",
+      "domains": [
+        "water",
+        "love",
+        "fate",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Cavillaca is a heroine from Inca / Andean (Quechua) tradition associated with water, love, fate, and earth.",
+      "id": "inca-andean-018",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Urcuchillay",
+      "type": "god",
+      "domains": [
+        "animal",
+        "llama",
+        "sky",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Urcuchillay is a god from Inca / Andean (Quechua) tradition associated with animal, llama, sky, and protection.",
+      "id": "inca-andean-019",
+      "culture_slug": "inca-andean"
+    },
+    {
+      "name": "Urcaguary",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "wealth",
+        "underworld",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Urcaguary is a god from Inca / Andean (Quechua) tradition associated with serpent, wealth, underworld, and earth.",
+      "id": "inca-andean-020",
+      "culture_slug": "inca-andean"
+    }
+  ]
+}

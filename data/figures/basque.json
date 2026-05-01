@@ -1,0 +1,507 @@
+{
+  "culture_slug": "basque",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Mari",
+      "type": "goddess",
+      "domains": [
+        "storms",
+        "earth",
+        "mountains",
+        "supreme power"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm of Anboto",
+        "description": "Deal 5 storm damage to all enemies; cleanse all debuffs from all allies."
+      },
+      "description": "Supreme Basque goddess who lives in the mountain caves and manifests as storm, fire, tree or woman.",
+      "id": "basque-001",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Sugaar",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "storms",
+        "underground",
+        "fire"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Serpent Tempest",
+        "description": "Transform into a serpent: deal 4 damage to all enemies and inflict poison for 2 turns."
+      },
+      "description": "Serpentine storm god and consort of Mari who rises from underground to mate with her and birth the storms.",
+      "id": "basque-002",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Basajaun",
+      "type": "giant",
+      "domains": [
+        "wild man",
+        "forest",
+        "agriculture",
+        "protection"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Sentinel",
+        "description": "Grant all allies +3 defense; warn of danger — enemy ambush abilities fail once."
+      },
+      "description": "Wild lord of the forest who taught humans agriculture and ironwork and protects flocks from wolves.",
+      "id": "basque-003",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Urtzi",
+      "type": "god",
+      "domains": [
+        "sky",
+        "heaven"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky Vault",
+        "description": "Grant all allies immunity to air and storm attacks for 2 turns."
+      },
+      "description": "Ancient sky father of the Basques, largely replaced by Mari, but still remembered as the original sky.",
+      "id": "basque-004",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Herensuge",
+      "type": "dragon",
+      "domains": [
+        "seven heads",
+        "fire",
+        "destruction"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sevenfold Flame",
+        "description": "Attack seven times dealing 1 damage each; each attack ignores a different defensive ability."
+      },
+      "description": "Seven-headed dragon from Basque legend that terrorizes the land and requires human sacrifice to be appeased.",
+      "id": "basque-005",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Gaueko",
+      "type": "spirit",
+      "domains": [
+        "night",
+        "darkness",
+        "creatures of night"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Night Shroud",
+        "description": "Reduce all enemies' power by 2 during the night phase; immune to light damage."
+      },
+      "description": "Personification of the night who commands that those born of the day should return home at dark.",
+      "id": "basque-006",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Amalur",
+      "type": "goddess",
+      "domains": [
+        "earth mother",
+        "nature",
+        "soil"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Deep Earth",
+        "description": "Restore 3 HP to all allies; nature and earth allies gain +2 defense."
+      },
+      "description": "Mother Earth herself in Basque cosmology, from whose body all living things grow and to whom they return.",
+      "id": "basque-007",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Laminak",
+      "type": "fairy",
+      "domains": [
+        "beautiful fairies",
+        "water",
+        "building"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Night Builders",
+        "description": "Build a defense: reduce all incoming damage by 2 for 1 turn."
+      },
+      "description": "Beautiful fairy women who work ceaselessly at night constructing bridges and buildings, abandoned at dawn.",
+      "id": "basque-008",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Aker",
+      "type": "god",
+      "domains": [
+        "underground",
+        "goats",
+        "evil"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Subterranean Pull",
+        "description": "Drag one enemy underground: they miss their next turn."
+      },
+      "description": "Evil spirit of the underground associated with goats who brings misfortune from below.",
+      "id": "basque-009",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Hodei",
+      "type": "spirit",
+      "domains": [
+        "storm cloud",
+        "weather",
+        "rain"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Calling",
+        "description": "Restore 2 HP to earth and nature allies; inflict wet status on all enemies (-1 fire res)."
+      },
+      "description": "Personification of the storm cloud that follows in Mari's wake, bringing life-giving rain.",
+      "id": "basque-010",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Ilargi",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "spirits of dead",
+        "night"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Path",
+        "description": "Remove all dark debuffs from one ally; grant +2 magic for 1 turn."
+      },
+      "description": "Moon goddess who guides the spirits of the dead and lights the way for those who travel by night.",
+      "id": "basque-011",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Eguzki",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "warmth",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sunflower Ward",
+        "description": "Place a ward: the next dark ability used against any ally is negated."
+      },
+      "description": "Sun goddess whose image the sunflower (eguzkilore) replicates to ward off evil spirits from the home.",
+      "id": "basque-012",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Tartalo",
+      "type": "cyclops",
+      "domains": [
+        "mountains",
+        "devouring",
+        "one-eyed giant"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cyclops Crush",
+        "description": "Deal 6 damage to one enemy; destroy that enemy's shield or armor ability."
+      },
+      "description": "One-eyed mountain giant from Basque legend who captures and devours travelers, echoing the story of Polyphemus.",
+      "id": "basque-013",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Jentilak",
+      "type": "giants",
+      "domains": [
+        "ancient giants",
+        "stonework",
+        "pre-Christian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Standing Stone",
+        "description": "Place a stone: absorb the next 4 damage dealt to any ally."
+      },
+      "description": "Race of ancient Basque giants who built the great megalithic monuments and fled before the Christian cross.",
+      "id": "basque-014",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Sorgin",
+      "type": "witch",
+      "domains": [
+        "witchcraft",
+        "night flying",
+        "Mari's servants"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Witches' Sabbath",
+        "description": "Inflict confusion on one enemy for 2 turns; they have 50% chance to hit wrong target."
+      },
+      "description": "Night-flying witches who serve Mari and travel to her mountain on Fridays, masters of dark charms.",
+      "id": "basque-015",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Basandere",
+      "type": "spirit",
+      "domains": [
+        "forest woman",
+        "Basajaun's companion"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wild Woman's Grace",
+        "description": "Ally and beast cards gain +2 speed for 2 turns."
+      },
+      "description": "Companion of Basajaun, the wild woman of the forest who shares his role as guardian of the natural world.",
+      "id": "basque-016",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Olentzero",
+      "type": "figure",
+      "domains": [
+        "midwinter",
+        "solstice",
+        "gift-giving"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Solstice Coal",
+        "description": "Deal 1 damage to dark enemies; give light allies a bonus gift: +2 to a random stat."
+      },
+      "description": "Giant charcoal-maker who descends from the mountains at the winter solstice to celebrate the return of the sun.",
+      "id": "basque-017",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Intxixu",
+      "type": "spirit",
+      "domains": [
+        "mischief",
+        "caves",
+        "devil"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Cave Goblin",
+        "description": "Steal one random item buff from an enemy and destroy it."
+      },
+      "description": "Small devil-like cave spirit who causes mischief and chaos around the ancient sacred caves of the Basques.",
+      "id": "basque-018",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Anjel",
+      "type": "spirit",
+      "domains": [
+        "protection",
+        "intermediary",
+        "sky"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Guardian Voice",
+        "description": "Warn: the next attack against any ally deals 2 less damage."
+      },
+      "description": "Protective spirit being who serves as intermediary between the Basque people and the higher divine powers.",
+      "id": "basque-019",
+      "culture_slug": "basque"
+    },
+    {
+      "name": "Eguzkilore",
+      "type": "spirit",
+      "domains": [
+        "sun flower",
+        "protection",
+        "warding evil"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Bloom",
+        "description": "Negate the first dark-alignment ability used each turn against your team."
+      },
+      "description": "The sunflower spirit whose dried image placed above the doorway prevents all evil spirits from entering.",
+      "id": "basque-020",
+      "culture_slug": "basque"
+    }
+  ]
+}

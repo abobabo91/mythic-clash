@@ -1,0 +1,526 @@
+{
+  "culture_slug": "yakut-sakha",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Aiyy Toyon",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "white creator",
+        "heaven",
+        "light"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "White Creator",
+        "description": "Bring pure light into the darkest field; remove all dark effects and grant +3 to all allies."
+      },
+      "description": "The supreme benevolent creator deity of the Sakha people, lord of the upper world, who created humans and sent them the warmth of the sun.",
+      "id": "yakut-sakha-001",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Ulu Toyon",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "shamans",
+        "dark creator",
+        "chaos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dark Gift",
+        "description": "Grant a shaman card forbidden power; they gain +5 magic but become dark-aligned for 2 turns."
+      },
+      "description": "The powerful deity of the middle and lower worlds, who gave shamanic powers to humans, ambiguous force that both aids and threatens.",
+      "id": "yakut-sakha-002",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Iyeykhsit",
+      "type": "goddess",
+      "domains": [
+        "mother",
+        "childbirth",
+        "cattle",
+        "blessing"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Birth Blessing",
+        "description": "Bring a new card into existence from the deck; it is born onto the field with full stats."
+      },
+      "description": "The beneficent goddess who presides over the birth of children and cattle, essential to the pastoral and family life of the Sakha people.",
+      "id": "yakut-sakha-003",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Aiyy Syra Toyon",
+      "type": "god",
+      "domains": [
+        "sun",
+        "warmth",
+        "summer",
+        "life"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Summer Sun",
+        "description": "Extend summer for 2 turns; all life-aligned cards gain 3 HP per turn."
+      },
+      "description": "The solar deity of the Sakha, whose warmth is especially cherished in the extreme cold of Siberia, bringing the brief but intense summer.",
+      "id": "yakut-sakha-004",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Aan Darhan Toyon",
+      "type": "god",
+      "domains": [
+        "fire",
+        "hearth",
+        "warmth",
+        "winter survival"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Hearth",
+        "description": "The hearth fire cannot be extinguished; all allied cards are protected from cold and winter effects."
+      },
+      "description": "The fire lord and hearth deity, whose sacred fire was central to the survival of the Sakha through the brutal Siberian winters.",
+      "id": "yakut-sakha-005",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Olonkho Hero",
+      "type": "hero",
+      "domains": [
+        "epic",
+        "strength",
+        "supernatural",
+        "quest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Olonkho Battle",
+        "description": "Sing an epic battle chant; all allied cards gain +3 to all stats for 2 turns."
+      },
+      "description": "The great hero of the Olonkho, the Sakha epic performance tradition inscribed by UNESCO, who battles the Abaasy underworld creatures.",
+      "id": "yakut-sakha-006",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Abaasy",
+      "type": "creature",
+      "domains": [
+        "underworld demon",
+        "cold",
+        "illness",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cold Plague",
+        "description": "Send illness from the underworld; all enemy cards lose 2 HP per turn for 3 turns."
+      },
+      "description": "The underworld demons of Sakha belief who cause illness and misfortune, who must be battled by shamans to protect the living.",
+      "id": "yakut-sakha-007",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Udagan (Female Shaman)",
+      "type": "spirit",
+      "domains": [
+        "shamaness",
+        "white",
+        "healing",
+        "upper world"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "White Shamaness Journey",
+        "description": "Travel to the upper world; retrieve one blessing and apply it to all allied cards."
+      },
+      "description": "The female shaman of the Sakha people, who travels to the upper worlds and works with benevolent spirits to heal and protect.",
+      "id": "yakut-sakha-008",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Oyun (Male Shaman)",
+      "type": "spirit",
+      "domains": [
+        "shaman",
+        "lower world",
+        "battle",
+        "spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lower World Battle",
+        "description": "Battle underworld spirits; defeat one Abaasy and gain their power as a stat boost."
+      },
+      "description": "The male shaman of the Sakha, who battles underworld spirits and performs rituals at the great Ysyakh summer festival.",
+      "id": "yakut-sakha-009",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "White Horse",
+      "type": "creature",
+      "domains": [
+        "sacred",
+        "Ysyakh",
+        "sun",
+        "offering"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ysyakh Offering",
+        "description": "Perform the sacred offering; the sun deity grants all allies +2 to all stats."
+      },
+      "description": "The white horse sacred to the sun deity, offered at the great Ysyakh summer festival, symbol of the link between the Sakha and their sky deities.",
+      "id": "yakut-sakha-010",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Mammoth (Spirit)",
+      "type": "creature",
+      "domains": [
+        "ancient",
+        "underground",
+        "earthquake",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancient Trembling",
+        "description": "Stomp the earth; all grounded enemy cards are stunned for 1 turn."
+      },
+      "description": "The spirit of the mammoth, whose bones and tusks emerge from the Siberian permafrost, believed by the Sakha to be underground beings that cause earthquakes.",
+      "id": "yakut-sakha-011",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Burkit (Eagle)",
+      "type": "creature",
+      "domains": [
+        "eagle",
+        "sun",
+        "vision",
+        "shaman helper"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Eagle Vision",
+        "description": "See all hidden cards and abilities on the field; share the vision with all allied cards."
+      },
+      "description": "The eagle as a sacred shaman helper spirit of the Sakha, who assists the shaman in flying to the upper worlds and provides clarity of vision.",
+      "id": "yakut-sakha-012",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Kynta Toyon",
+      "type": "god",
+      "domains": [
+        "winter",
+        "cold",
+        "frost",
+        "endurance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Siberian Winter",
+        "description": "Plunge the field into winter; all speed stats are halved and cold-domain cards gain immunity."
+      },
+      "description": "The lord of winter and cold, whose season defines life and death for the Sakha people, testing their endurance each year.",
+      "id": "yakut-sakha-013",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Ebe Khotiun",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "old woman",
+        "soil",
+        "vegetation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Earth Old Woman",
+        "description": "Nurture the earth; all nature-domain allied cards gain 4 HP and +2 defense."
+      },
+      "description": "The earth old woman, mother earth deity of the Sakha, who nurtures vegetation and is propitiated before the spring planting.",
+      "id": "yakut-sakha-014",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Kunnei",
+      "type": "spirit",
+      "domains": [
+        "sun maiden",
+        "light",
+        "warmth",
+        "beauty"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sun Maiden's Grace",
+        "description": "Shower allies with sunlight; all allied cards gain +2 magic and are healed for 3 HP."
+      },
+      "description": "The sun maiden spirit of Sakha tradition, associated with the beautiful brief summer and the grace of sunlight on the frozen land.",
+      "id": "yakut-sakha-015",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Syulyukun",
+      "type": "spirit",
+      "domains": [
+        "water spirit",
+        "fishing",
+        "river",
+        "dangerous"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "River Pull",
+        "description": "Pull one enemy into the river depths; they lose all speed and aquatic movement advantages."
+      },
+      "description": "The water spirits of Sakha rivers who can either help or harm fishermen, propitiated before fishing and river crossings.",
+      "id": "yakut-sakha-016",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Elley Bootur",
+      "type": "hero",
+      "domains": [
+        "founding ancestor",
+        "clan",
+        "migration",
+        "endurance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Great Migration",
+        "description": "Lead all allied cards to a new position; choose optimal placement for all."
+      },
+      "description": "The legendary ancestor hero who led the Sakha people to their homeland around Lake Baikal and down to the Lena River basin.",
+      "id": "yakut-sakha-017",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Zhir Biir Toyon",
+      "type": "god",
+      "domains": [
+        "earth lord",
+        "middle world",
+        "balance",
+        "order"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Middle World Balance",
+        "description": "Restore balance to the field; equalize all extreme stat differences among all cards."
+      },
+      "description": "The lord of the middle world in Sakha cosmology, who maintains the order of the realm between the heavens and the underworld.",
+      "id": "yakut-sakha-018",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Orion (Sakha constellation)",
+      "type": "spirit",
+      "domains": [
+        "stars",
+        "hunting",
+        "winter sky",
+        "navigation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Star Hunter",
+        "description": "Navigate by stars; predict and avoid the next 2 enemy attacks perfectly."
+      },
+      "description": "The Orion constellation as understood by the Sakha hunters, whose stars guide winter hunting expeditions across the frozen landscape.",
+      "id": "yakut-sakha-019",
+      "culture_slug": "yakut-sakha"
+    },
+    {
+      "name": "Juruyung Aiyy Toyon",
+      "type": "god",
+      "domains": [
+        "white",
+        "creation",
+        "benevolent",
+        "horses"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "White Blessing",
+        "description": "Grant the ultimate white blessing; all allied cards are fully healed and gain +2 to all stats."
+      },
+      "description": "Another aspect of the supreme white creator deity, specifically associated with white horses and the benevolent upper world in Sakha cosmology.",
+      "id": "yakut-sakha-020",
+      "culture_slug": "yakut-sakha"
+    }
+  ]
+}

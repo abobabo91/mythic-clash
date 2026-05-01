@@ -1,0 +1,526 @@
+{
+  "culture_slug": "fijian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Degei",
+      "type": "god",
+      "domains": [
+        "serpent",
+        "creation",
+        "earth",
+        "judgment"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Degei is a god from Fijian tradition associated with serpent, creation, earth, and judgment.",
+      "id": "fijian-001",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Dakuwaqa",
+      "type": "god",
+      "domains": [
+        "shark",
+        "sea",
+        "storm",
+        "war"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Dakuwaqa is a god from Fijian tradition associated with shark, sea, storm, and war.",
+      "id": "fijian-002",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Rokobakaniceva",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "octopus",
+        "protection",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Rokobakaniceva is a goddess from Fijian tradition associated with sea, octopus, protection, and water.",
+      "id": "fijian-003",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Ratumaibulu",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "earth",
+        "underworld",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Ratumaibulu is a god from Fijian tradition associated with fertility, earth, underworld, and agriculture.",
+      "id": "fijian-004",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Lutunasobasoba",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "ancestor",
+        "sea",
+        "leadership"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Lutunasobasoba is a hero from Fijian tradition associated with voyage, ancestor, sea, and leadership.",
+      "id": "fijian-005",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Tavatavaimasi",
+      "type": "spirit",
+      "domains": [
+        "craft",
+        "wisdom",
+        "ritual",
+        "fire"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Tavatavaimasi is a spirit from Fijian tradition associated with craft, wisdom, ritual, and fire.",
+      "id": "fijian-006",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Kacikaaumoli",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "earth",
+        "night",
+        "magic"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Kacikaaumoli is a spirit from Fijian tradition associated with trickster, earth, night, and magic.",
+      "id": "fijian-007",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Bui Kalou",
+      "type": "goddess",
+      "domains": [
+        "spirit",
+        "ancestor",
+        "forest",
+        "earth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Bui Kalou is a goddess from Fijian tradition associated with spirit, ancestor, forest, and earth.",
+      "id": "fijian-008",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Rokola",
+      "type": "hero",
+      "domains": [
+        "serpent",
+        "strength",
+        "mountain",
+        "honor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Rokola is a hero from Fijian tradition associated with serpent, strength, mountain, and honor.",
+      "id": "fijian-009",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Kaunitoni Spirit",
+      "type": "guardian",
+      "domains": [
+        "voyage",
+        "sea",
+        "ancestor",
+        "guidance"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kaunitoni Spirit is a guardian from Fijian tradition associated with voyage, sea, ancestor, and guidance.",
+      "id": "fijian-010",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Tui Delai Gau",
+      "type": "god",
+      "domains": [
+        "sea",
+        "island",
+        "kingship",
+        "storm"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tui Delai Gau is a god from Fijian tradition associated with sea, island, kingship, and storm.",
+      "id": "fijian-011",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Qiolevu",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "monster",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Qiolevu is a creature from Fijian tradition associated with serpent, water, monster, and power.",
+      "id": "fijian-012",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Bitu-ni-valu",
+      "type": "spirit",
+      "domains": [
+        "war",
+        "ancestor",
+        "ritual",
+        "honor"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Bitu-ni-valu is a spirit from Fijian tradition associated with war, ancestor, ritual, and honor.",
+      "id": "fijian-013",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Ndengei's Judge",
+      "type": "guardian",
+      "domains": [
+        "judgment",
+        "underworld",
+        "stone",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Ndengei's Judge is a guardian from Fijian tradition associated with judgment, underworld, stone, and spirit.",
+      "id": "fijian-014",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Yalo Spirit",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "spirit",
+        "night",
+        "guidance"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Yalo Spirit is a spirit from Fijian tradition associated with ancestor, spirit, night, and guidance.",
+      "id": "fijian-015",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Firewalker of Beqa",
+      "type": "hero",
+      "domains": [
+        "fire",
+        "ritual",
+        "courage",
+        "earth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Firewalker of Beqa is a hero from Fijian tradition associated with fire, ritual, courage, and earth.",
+      "id": "fijian-016",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Cakau Guardian",
+      "type": "guardian",
+      "domains": [
+        "reef",
+        "sea",
+        "protection",
+        "animal"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Cakau Guardian is a guardian from Fijian tradition associated with reef, sea, protection, and animal.",
+      "id": "fijian-017",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Turtle Messenger",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "animal",
+        "guidance",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Turtle Messenger is a creature from Fijian tradition associated with sea, animal, guidance, and wisdom.",
+      "id": "fijian-018",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Yaqona Keeper",
+      "type": "spirit",
+      "domains": [
+        "ritual",
+        "healing",
+        "wisdom",
+        "earth"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Yaqona Keeper is a spirit from Fijian tradition associated with ritual, healing, wisdom, and earth.",
+      "id": "fijian-019",
+      "culture_slug": "fijian"
+    },
+    {
+      "name": "Storm Canoe Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "voyage",
+        "storm",
+        "ancestor",
+        "sea"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Storm Canoe Ancestor is an ancestor from Fijian tradition associated with voyage, storm, ancestor, and sea.",
+      "id": "fijian-020",
+      "culture_slug": "fijian"
+    }
+  ]
+}

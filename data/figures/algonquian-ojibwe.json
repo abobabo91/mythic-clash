@@ -1,0 +1,526 @@
+{
+  "culture_slug": "algonquian-ojibwe",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Nanabozho",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "creation",
+        "wisdom",
+        "travel"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Nanabozho is a hero from Algonquian (Ojibwe / Anishinaabe) tradition associated with trickster, creation, wisdom, and travel.",
+      "id": "algonquian-ojibwe-001",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Gichi-Manidoo",
+      "type": "god",
+      "domains": [
+        "creation",
+        "spirit",
+        "sky",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Gichi-Manidoo is a god from Algonquian (Ojibwe / Anishinaabe) tradition associated with creation, spirit, sky, and light.",
+      "id": "algonquian-ojibwe-002",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Nokomis",
+      "type": "ancestor",
+      "domains": [
+        "wisdom",
+        "moon",
+        "ancestor",
+        "earth"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 8,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Nokomis is an ancestor from Algonquian (Ojibwe / Anishinaabe) tradition associated with wisdom, moon, ancestor, and earth.",
+      "id": "algonquian-ojibwe-003",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Mishipeshu",
+      "type": "monster",
+      "domains": [
+        "water",
+        "monster",
+        "lynx",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Mishipeshu is a monster from Algonquian (Ojibwe / Anishinaabe) tradition associated with water, monster, lynx, and power.",
+      "id": "algonquian-ojibwe-004",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Thunderbird",
+      "type": "creature",
+      "domains": [
+        "thunder",
+        "storm",
+        "bird",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Thunderbird is a creature from Algonquian (Ojibwe / Anishinaabe) tradition associated with thunder, storm, bird, and sky.",
+      "id": "algonquian-ojibwe-005",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Windigo",
+      "type": "monster",
+      "domains": [
+        "winter",
+        "hunger",
+        "monster",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Windigo is a monster from Algonquian (Ojibwe / Anishinaabe) tradition associated with winter, hunger, monster, and darkness.",
+      "id": "algonquian-ojibwe-006",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Jiibayabooz",
+      "type": "spirit",
+      "domains": [
+        "underworld",
+        "death",
+        "spirit",
+        "guidance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Jiibayabooz is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with underworld, death, spirit, and guidance.",
+      "id": "algonquian-ojibwe-007",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Gluskap",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "creation",
+        "travel",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Gluskap is a hero from Algonquian (Ojibwe / Anishinaabe) tradition associated with wisdom, creation, travel, and justice.",
+      "id": "algonquian-ojibwe-008",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Malsum",
+      "type": "demon",
+      "domains": [
+        "darkness",
+        "war",
+        "chaos",
+        "shadow"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Malsum is a demon from Algonquian (Ojibwe / Anishinaabe) tradition associated with darkness, war, chaos, and shadow.",
+      "id": "algonquian-ojibwe-009",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Animikii",
+      "type": "spirit",
+      "domains": [
+        "storm",
+        "bird",
+        "sky",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Animikii is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with storm, bird, sky, and protection.",
+      "id": "algonquian-ojibwe-010",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Pukwudjie",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "trickster",
+        "speed",
+        "mischief"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Pukwudjie is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with forest, trickster, speed, and mischief.",
+      "id": "algonquian-ojibwe-011",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Memegwesi",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "craft",
+        "earth",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Memegwesi is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with water, craft, earth, and spirit.",
+      "id": "algonquian-ojibwe-012",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Bagwajinini",
+      "type": "creature",
+      "domains": [
+        "forest",
+        "giant",
+        "animal",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Bagwajinini is a creature from Algonquian (Ojibwe / Anishinaabe) tradition associated with forest, giant, animal, and earth.",
+      "id": "algonquian-ojibwe-013",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Aki",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "fertility",
+        "motherhood",
+        "life"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Aki is a goddess from Algonquian (Ojibwe / Anishinaabe) tradition associated with earth, fertility, motherhood, and life.",
+      "id": "algonquian-ojibwe-014",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Manitou",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "wisdom",
+        "nature",
+        "mystery"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Manitou is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with spirit, wisdom, nature, and mystery.",
+      "id": "algonquian-ojibwe-015",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Wisakedjak",
+      "type": "hero",
+      "domains": [
+        "trickster",
+        "story",
+        "travel",
+        "wit"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Wisakedjak is a hero from Algonquian (Ojibwe / Anishinaabe) tradition associated with trickster, story, travel, and wit.",
+      "id": "algonquian-ojibwe-016",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Pakwis",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "dwarf",
+        "craft",
+        "mischief"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Pakwis is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with forest, dwarf, craft, and mischief.",
+      "id": "algonquian-ojibwe-017",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Chenoo",
+      "type": "monster",
+      "domains": [
+        "winter",
+        "monster",
+        "hunger",
+        "ice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Chenoo is a monster from Algonquian (Ojibwe / Anishinaabe) tradition associated with winter, monster, hunger, and ice.",
+      "id": "algonquian-ojibwe-018",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Beaver Helper",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "water",
+        "craft",
+        "endurance"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Beaver Helper is a creature from Algonquian (Ojibwe / Anishinaabe) tradition associated with animal, water, craft, and endurance.",
+      "id": "algonquian-ojibwe-019",
+      "culture_slug": "algonquian-ojibwe"
+    },
+    {
+      "name": "Stone Canoe Spirit",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "death",
+        "journey",
+        "night"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Stone Canoe Spirit is a spirit from Algonquian (Ojibwe / Anishinaabe) tradition associated with water, death, journey, and night.",
+      "id": "algonquian-ojibwe-020",
+      "culture_slug": "algonquian-ojibwe"
+    }
+  ]
+}

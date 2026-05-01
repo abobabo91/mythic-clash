@@ -1,0 +1,526 @@
+{
+  "culture_slug": "javanese-kejawen",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Sang Hyang Wenang",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "void",
+        "first",
+        "light"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 4,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Before Creation",
+        "description": "Negate all effects for 1 turn; the void state makes all cards neutral."
+      },
+      "description": "The supreme primordial deity of Javanese cosmology, the first light in the darkness before creation, grandfather of the gods.",
+      "id": "javanese-kejawen-001",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Batara Guru (Java)",
+      "type": "god",
+      "domains": [
+        "Shiva",
+        "lame",
+        "supreme",
+        "cosmos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Three-Eyed Vision",
+        "description": "See all hidden strategies; cancel one ability before it is used."
+      },
+      "description": "The supreme god of the Javanese pantheon, identified with Shiva, whose lame leg is explained through myth as the price of cosmic knowledge.",
+      "id": "javanese-kejawen-002",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Semar",
+      "type": "spirit",
+      "domains": [
+        "clown",
+        "sacred",
+        "ancestor",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Punakawan Wisdom",
+        "description": "Negate the most powerful ability used this turn; wisdom defeats force."
+      },
+      "description": "The sacred clown-servant Semar, secretly one of the most powerful gods in disguise, the spiritual ancestor of the Javanese people, whose humor masks profound divine truth.",
+      "id": "javanese-kejawen-003",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Gareng",
+      "type": "spirit",
+      "domains": [
+        "clown",
+        "service",
+        "deformity",
+        "loyalty"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lame Wisdom",
+        "description": "Point out a hidden flaw in one enemy ability; reduce its effectiveness by half."
+      },
+      "description": "The first son of Semar in Javanese wayang, with a crooked arm and lame foot symbolizing human imperfection, yet loyal and wise.",
+      "id": "javanese-kejawen-004",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Petruk",
+      "type": "spirit",
+      "domains": [
+        "clown",
+        "long-nose",
+        "wit",
+        "service"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 3,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Long-Nose Sniff",
+        "description": "Detect all hidden cards and strategies; reveal one to your hand."
+      },
+      "description": "The second son of Semar, the tall clown with a long nose, known for his quick wit and adaptability in the Javanese shadow play.",
+      "id": "javanese-kejawen-005",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Bagong",
+      "type": "spirit",
+      "domains": [
+        "clown",
+        "youngest",
+        "earthy",
+        "bold"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Blunt Truth",
+        "description": "Force one enemy to reveal their next action; you may respond before it resolves."
+      },
+      "description": "The youngest and most earthy of Semar's sons in the punakawan clown quartet, symbolizing the common folk with his bold, unrefined wisdom.",
+      "id": "javanese-kejawen-006",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Arjuna (Java)",
+      "type": "hero",
+      "domains": [
+        "archery",
+        "asceticism",
+        "spiritual",
+        "love"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Arrow",
+        "description": "Fire an arrow that bypasses all defenses; deal 10 damage to one target."
+      },
+      "description": "The supreme hero of Javanese wayang, refined and spiritually advanced, whose inner battles and loves are celebrated in uniquely Javanese adaptations of the Mahabharata.",
+      "id": "javanese-kejawen-007",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Gatotkaca",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "flight",
+        "thunder armor",
+        "iron skin"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky Armor",
+        "description": "Become invulnerable to all physical attacks; fly above the battlefield for 2 turns."
+      },
+      "description": "The mighty son of Bima in Javanese tradition, whose body is armor itself, who flies to battle on thunderclouds; greatest warrior of the Pandavas.",
+      "id": "javanese-kejawen-008",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Srikandi",
+      "type": "hero",
+      "domains": [
+        "archery",
+        "female warrior",
+        "independence",
+        "bow"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Arrow Storm",
+        "description": "Fire arrows at all enemies simultaneously; each takes 5 damage."
+      },
+      "description": "The female warrior princess and expert archer of Javanese wayang, whose independence and martial skill have made her a feminist icon.",
+      "id": "javanese-kejawen-009",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Ken Dedes",
+      "type": "hero",
+      "domains": [
+        "queen",
+        "sacred womb",
+        "prophecy",
+        "power"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Womb Prophecy",
+        "description": "Reveal the destiny of one card; use its future power now."
+      },
+      "description": "The sacred queen whose divine light shining between her legs signaled the coming of a new dynasty, mother of kings in Javanese history-myth.",
+      "id": "javanese-kejawen-010",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Ken Arok",
+      "type": "hero",
+      "domains": [
+        "usurper",
+        "kris dagger",
+        "founding",
+        "dark ambition"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cursed Kris",
+        "description": "Deal 8 damage to one enemy with the cursed blade; the wielder then takes 4 damage."
+      },
+      "description": "The founding king of the Singhasari dynasty who rose from banditry through cunning and murder, wielding the cursed kris of Empu Gandring.",
+      "id": "javanese-kejawen-011",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Empu Gandring",
+      "type": "hero",
+      "domains": [
+        "blacksmith",
+        "cursed weapon",
+        "craft",
+        "revenge"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Death Kris Forged",
+        "description": "Create a cursed weapon card that deals double damage but injures its user too."
+      },
+      "description": "The master blacksmith who forged the cursed kris that killed both himself and seven kings, whose dying curse haunted the Singhasari dynasty.",
+      "id": "javanese-kejawen-012",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Nyai Loro Kidul",
+      "type": "goddess",
+      "domains": [
+        "south sea",
+        "queen",
+        "spirits",
+        "green"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "South Sea Covenant",
+        "description": "Form a pact with one card; both parties gain +3 to all stats but must serve each other."
+      },
+      "description": "The mystical Queen of the South Sea, who forms a spiritual marriage with Javanese sultans, ruler of an underwater spirit kingdom dressed in green.",
+      "id": "javanese-kejawen-013",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Loro Blonyo",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "marriage",
+        "home",
+        "pair"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Household Blessing",
+        "description": "Grant +2 to all stats to allied cards representing paired bonds."
+      },
+      "description": "The paired spirit figures of the rice goddess and her consort, placed in Javanese homes to bless fertility and marital harmony.",
+      "id": "javanese-kejawen-014",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Jaka Tarub",
+      "type": "hero",
+      "domains": [
+        "celestial wife",
+        "trickster",
+        "sky",
+        "mortal love"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stolen Garment",
+        "description": "Steal one ability or item from an enemy; they cannot use it while you hold it."
+      },
+      "description": "The mortal who stole the flying garment of a celestial nymph to keep her as his wife, the classic Javanese tale of love between worlds.",
+      "id": "javanese-kejawen-015",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Dewi Nawang Wulan",
+      "type": "spirit",
+      "domains": [
+        "celestial nymph",
+        "rice",
+        "heaven",
+        "garment"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Celestial Return",
+        "description": "Escape any trap or binding; return to your true domain restoring all stats."
+      },
+      "description": "The celestial nymph captured by Jaka Tarub, who secretly kept the rice supply magical until her garment was found, then returned to heaven.",
+      "id": "javanese-kejawen-016",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Damarwulan",
+      "type": "hero",
+      "domains": [
+        "humble hero",
+        "glory",
+        "virtue",
+        "justice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Humble Victory",
+        "description": "Win a contest despite lower stats through virtue; gain stats equal to the difference."
+      },
+      "description": "The humble servant who rises to defeat the great rebel Minak Jinggo and win the queen's love, representing virtue overcoming pride.",
+      "id": "javanese-kejawen-017",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Minak Jinggo",
+      "type": "hero",
+      "domains": [
+        "rebellion",
+        "power",
+        "one-eyed",
+        "ambition"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Rebel Lord",
+        "description": "Deal 8 damage to any noble or ruler card; take their position on the field."
+      },
+      "description": "The powerful rebel lord of Blambangan who challenges the queen, portrayed as a giant with one eye, whose defeat enables Damarwulan's rise.",
+      "id": "javanese-kejawen-018",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Ratu Kalinyamat",
+      "type": "hero",
+      "domains": [
+        "widow queen",
+        "sea power",
+        "revenge",
+        "justice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sea Fleet Vengeance",
+        "description": "Summon a naval fleet; deal 6 damage to all enemy cards and establish sea dominance."
+      },
+      "description": "The powerful 16th century queen of Jepara who organized naval expeditions and pursued justice with fierce determination, historical-mythologized heroine.",
+      "id": "javanese-kejawen-019",
+      "culture_slug": "javanese-kejawen"
+    },
+    {
+      "name": "Panji",
+      "type": "hero",
+      "domains": [
+        "refined love",
+        "identity",
+        "quest",
+        "royalty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Disguised Prince",
+        "description": "Change your identity temporarily; cannot be targeted by name-specific abilities for 2 turns."
+      },
+      "description": "The archetypal refined Javanese hero who wanders in disguise seeking his lost beloved Candrakirana, whose tales spread across Southeast Asia.",
+      "id": "javanese-kejawen-020",
+      "culture_slug": "javanese-kejawen"
+    }
+  ]
+}

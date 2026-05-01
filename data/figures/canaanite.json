@@ -1,0 +1,517 @@
+{
+  "culture_slug": "canaanite",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Baal Hadad",
+      "type": "god",
+      "domains": [
+        "storm",
+        "rain",
+        "fertility",
+        "kingship of heaven"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Storm Lord Victorious",
+        "description": "Deal 5 storm damage to all enemies; all nature and earth allies regenerate 2 HP."
+      },
+      "description": "Champion of the gods who defeated Yam and Mot to become king of heaven, dying and rising with the seasons.",
+      "id": "canaanite-001",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "El (Canaanite)",
+      "type": "god",
+      "domains": [
+        "father",
+        "wisdom",
+        "creator",
+        "divine assembly"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Assembly",
+        "description": "Call the council: all enemy special abilities are suspended for 1 turn."
+      },
+      "description": "Father of all Canaanite gods who presides at the divine assembly and whose wisdom governs all divine decisions.",
+      "id": "canaanite-002",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Asherah",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "mother of gods",
+        "sacred tree",
+        "Baal's consort"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Tree",
+        "description": "Restore 3 HP to all allies; grant all goddess allies +2 to all stats."
+      },
+      "description": "Mother of the seventy gods and Lady of the Sea whose sacred poles stood beside Israelite altars for centuries.",
+      "id": "canaanite-003",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Anat (Canaanite)",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "hunt",
+        "virgin warrior",
+        "death"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Warrior's Ecstasy",
+        "description": "Enter blood-frenzy: deal 5 damage to all enemies; gain 1 HP for each enemy struck."
+      },
+      "description": "Virgin goddess of war who slaughtered armies single-handedly and threatened even El to restore Baal to life.",
+      "id": "canaanite-004",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Mot (Canaanite)",
+      "type": "god",
+      "domains": [
+        "death",
+        "underworld",
+        "summer drought"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Gaping Maw",
+        "description": "Swallow one enemy: reduce all their stats to 1 for 2 turns."
+      },
+      "description": "God of death whose gaping mouth stretches from earth to heaven, devouring Baal and causing the dry season.",
+      "id": "canaanite-005",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Yam (Canaanite)",
+      "type": "god",
+      "domains": [
+        "sea",
+        "rivers",
+        "chaos",
+        "Prince Sea"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Prince Sea",
+        "description": "Deal 4 damage to all enemies; 50% chance to push any one enemy off the field for 1 turn."
+      },
+      "description": "Prince of the sea and rivers who challenged the divine assembly's authority and demanded Baal as his slave.",
+      "id": "canaanite-006",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Kothar-wa-Khasis (Canaanite)",
+      "type": "god",
+      "domains": [
+        "crafts",
+        "magic",
+        "weapons forge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Yagrush and Aymur",
+        "description": "Forge two magical clubs for Baal: grant one ally two attacks next turn."
+      },
+      "description": "The divine craftsman who forged the magical clubs Yagrush (Driver) and Aymur (Chaser) for Baal's victory.",
+      "id": "canaanite-007",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Dagon",
+      "type": "god",
+      "domains": [
+        "grain",
+        "agriculture",
+        "fish",
+        "Philistine"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Harvest Lord",
+        "description": "Restore 3 HP to all allies; all earth and grain abilities gain +2 power."
+      },
+      "description": "God of grain and father of Baal who was also adopted as the supreme deity of the Philistines.",
+      "id": "canaanite-008",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Shapsh",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "torch of the gods",
+        "light",
+        "messenger"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Torch of Heaven",
+        "description": "Reveal all hidden cards; deal 3 fire damage to all dark-aligned enemies."
+      },
+      "description": "Sun goddess and torch-bearer of the gods who mediates between the divine and underworld realms.",
+      "id": "canaanite-009",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Astarte (Canaanite)",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "war",
+        "evening star",
+        "horses"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Evening Star",
+        "description": "Grant +3 power to one warrior ally; charm one non-warrior enemy."
+      },
+      "description": "The Canaanite form of the universal Near Eastern love-and-war goddess who received horse sacrifices.",
+      "id": "canaanite-010",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Litan",
+      "type": "creature",
+      "domains": [
+        "Leviathan",
+        "primordial serpent",
+        "chaos",
+        "sea"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Twisting Serpent",
+        "description": "Coil around one enemy: they lose all buffs and cannot use abilities for 2 turns."
+      },
+      "description": "The primordial Leviathan of Canaanite myth whose battle with Baal echoes in the Hebrew Bible.",
+      "id": "canaanite-011",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Athirat",
+      "type": "goddess",
+      "domains": [
+        "Asherah form",
+        "creatrix",
+        "sea walker"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "She Who Walks the Sea",
+        "description": "Move any ally to any position; grant +2 magic to all water allies."
+      },
+      "description": "Another form of Asherah, Lady of the Sea, who walks upon the divine ocean and intercedes for humanity.",
+      "id": "canaanite-012",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Yarikh",
+      "type": "god",
+      "domains": [
+        "moon",
+        "wanderer",
+        "lamp of heaven",
+        "dew"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lamp of Heaven",
+        "description": "All allies gain +1 speed; remove all darkness debuffs from the field."
+      },
+      "description": "Moon god the wanderer whose silver light illuminates the night and whose dew waters the fields.",
+      "id": "canaanite-013",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Nikkal",
+      "type": "goddess",
+      "domains": [
+        "moon wife",
+        "orchards",
+        "fruitfulness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Orchard Blessing",
+        "description": "Restore 2 HP to all allies; all nature and earth allies gain +1 power."
+      },
+      "description": "Moon goddess married to Yarikh whose name means Great Lady and who governs all fruit-bearing trees.",
+      "id": "canaanite-014",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Pidray",
+      "type": "goddess",
+      "domains": [
+        "Baal's daughter",
+        "mist",
+        "light",
+        "first daughter"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Morning Mist",
+        "description": "All allies' stats are hidden from enemy view for 1 turn."
+      },
+      "description": "Baal's daughter Pidray of the mist, one of the three divine maidens who dwell in Baal's palace.",
+      "id": "canaanite-015",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Tallay",
+      "type": "goddess",
+      "domains": [
+        "Baal's daughter",
+        "dew",
+        "rain"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dew Drop",
+        "description": "Restore 1 HP to all allies at the start of each turn for 2 turns."
+      },
+      "description": "Baal's daughter Tallay of the dew whose gentle moisture brings life to the parched Canaanite earth.",
+      "id": "canaanite-016",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Arsay",
+      "type": "goddess",
+      "domains": [
+        "Baal's daughter",
+        "earth",
+        "underworld"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Earth's Depth",
+        "description": "Reduce all enemies' defense by 1 for 1 turn from earthen power."
+      },
+      "description": "Baal's third daughter Arsay of the earth who rules over the dark places beneath the ground.",
+      "id": "canaanite-017",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Athtar",
+      "type": "god",
+      "domains": [
+        "Venus star",
+        "underworld",
+        "failed king"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Failed King",
+        "description": "When placed on the throne: deal 3 damage to one enemy but immediately lose 2 power from inadequacy."
+      },
+      "description": "The morning star deity who attempted to take Baal's throne, found it too large and descended to rule below.",
+      "id": "canaanite-018",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Gapn and Ugar",
+      "type": "spirit",
+      "domains": [
+        "Baal's messengers",
+        "wine cup bearers",
+        "swift"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Messenger",
+        "description": "Deliver a message: grant one ally +2 to their most important stat this battle."
+      },
+      "description": "The two divine messengers (Vine and Field) who carry Baal's commands across heaven and earth.",
+      "id": "canaanite-019",
+      "culture_slug": "canaanite"
+    },
+    {
+      "name": "Rapi'uma",
+      "type": "ancestor",
+      "domains": [
+        "shades of the heroic dead",
+        "healing",
+        "divine"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Heroes of Old",
+        "description": "When any ally falls, they grant +1 to all remaining allies' stats from heroic legacy."
+      },
+      "description": "The deified shades of ancient heroes whom Baal feasts and who aid in healing and protection.",
+      "id": "canaanite-020",
+      "culture_slug": "canaanite"
+    }
+  ]
+}

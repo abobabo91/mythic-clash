@@ -1,0 +1,526 @@
+{
+  "culture_slug": "filipino-tagalog",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Bathala",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "creator",
+        "sky",
+        "lightning"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Creator's Will",
+        "description": "Create any one card type from scratch; it enters play with base stats."
+      },
+      "description": "The supreme creator deity of the Tagalog people, who created the world after a cosmic struggle between sky and sea, ruler of the heavens.",
+      "id": "filipino-tagalog-001",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Amihan",
+      "type": "spirit",
+      "domains": [
+        "north wind",
+        "first being",
+        "bird",
+        "creation"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Wind",
+        "description": "Rearrange all cards on the field; choose new positions for all allies."
+      },
+      "description": "The first being in some Tagalog creation myths, a bird who landed between the sky and sea, causing them to separate and create the world.",
+      "id": "filipino-tagalog-002",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Haliya",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "battle",
+        "silver",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Silver Moon Shield",
+        "description": "Create a silver barrier; the first 10 damage dealt to allies this turn is absorbed."
+      },
+      "description": "The masked goddess of the moonlight who wages eternal war against the moon-eating monster Bakunawa, protecting the moon.",
+      "id": "filipino-tagalog-003",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Bakunawa",
+      "type": "creature",
+      "domains": [
+        "sea serpent",
+        "eclipse",
+        "moon-eater",
+        "chaos"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moon Swallow",
+        "description": "Devour one light-aligned card entirely; the moon darkens, reducing all light powers by 3."
+      },
+      "description": "The great sea serpent who periodically rises to swallow the moon, causing eclipses; can only be driven back by noise and prayer.",
+      "id": "filipino-tagalog-004",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Anitun Tabu",
+      "type": "goddess",
+      "domains": [
+        "wind",
+        "rain",
+        "capricious",
+        "weather"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Capricious Storm",
+        "description": "Randomly boost or penalize all cards by 1-4 stats; effects are unpredictable."
+      },
+      "description": "The fickle goddess of wind and rain, daughter of Bathala, whose moods determine the weather, both benevolent and destructive.",
+      "id": "filipino-tagalog-005",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Amanikable",
+      "type": "god",
+      "domains": [
+        "sea",
+        "hunters",
+        "rage",
+        "unrequited love"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hunter's Rage",
+        "description": "Attack all enemies on the field; if you have been denied something this turn, deal double."
+      },
+      "description": "The ill-tempered god of the sea and patron of hunters, who became hostile toward humans after being rejected in love.",
+      "id": "filipino-tagalog-006",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Lakan Dula",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "wisdom",
+        "alliance",
+        "leadership"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Diplomatic Alliance",
+        "description": "Form an alliance with one opponent card; it cannot attack you for 3 turns."
+      },
+      "description": "A great datu and ruler of the Manila kingdom, known for his initial diplomacy with the Spanish before resistance, a hero of his people.",
+      "id": "filipino-tagalog-007",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Lapu-Lapu",
+      "type": "hero",
+      "domains": [
+        "resistance",
+        "battle",
+        "Mactan",
+        "freedom"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle of Mactan",
+        "description": "Deal 10 damage to one foreign invader-type enemy; your people rally with +3 power each."
+      },
+      "description": "The chieftain of Mactan who defeated and killed Ferdinand Magellan, celebrated as the first Filipino hero who resisted foreign colonization.",
+      "id": "filipino-tagalog-008",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Maria Makiling",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "mountain",
+        "protector",
+        "nature"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Blessing",
+        "description": "Heal one allied card completely; the forest provides abundant resources for 2 turns."
+      },
+      "description": "The enchantress of Mount Makiling, guardian of the forests who helps lost travelers and protects nature, but punishes those who exploit it.",
+      "id": "filipino-tagalog-009",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Bernardo Carpio",
+      "type": "hero",
+      "domains": [
+        "mountains",
+        "national",
+        "earthquake",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mountain Crush",
+        "description": "Cause an earthquake; all non-stone enemy cards lose 4 defense and are stunned for 1 turn."
+      },
+      "description": "The sleeping giant hero chained between two mountains, whose movements cause earthquakes; a symbol of Philippine nationalism and inevitable liberation.",
+      "id": "filipino-tagalog-010",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Tala",
+      "type": "goddess",
+      "domains": [
+        "stars",
+        "morning star",
+        "Venus",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Star Guidance",
+        "description": "Guide all allied cards to optimal positions; each gains +2 to their highest stat."
+      },
+      "description": "The star goddess and daughter of Bathala, associated with the morning star Venus, who lights the night sky for travelers.",
+      "id": "filipino-tagalog-011",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Hanan",
+      "type": "goddess",
+      "domains": [
+        "morning",
+        "dawn",
+        "hope",
+        "beginning"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "First Light",
+        "description": "Remove all darkness debuffs from allied cards; the dawn refreshes all allies' abilities."
+      },
+      "description": "The goddess of the morning and daughter of Bathala, whose rising signals hope and new beginnings in Tagalog cosmology.",
+      "id": "filipino-tagalog-012",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Kapre",
+      "type": "spirit",
+      "domains": [
+        "tree giant",
+        "tobacco",
+        "forest",
+        "isolation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancient Tree",
+        "description": "Root one enemy card in place for 3 turns; they cannot move or use speed-based abilities."
+      },
+      "description": "The giant spirit that lives in large trees, smoking a pipe and causing people to get lost; feared but sometimes forming bonds with humans.",
+      "id": "filipino-tagalog-013",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Tikbalang",
+      "type": "creature",
+      "domains": [
+        "horse-man",
+        "forest",
+        "trickster",
+        "roads"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wrong Road",
+        "description": "Cause target enemy card to take a wrong path; they attack an ally instead of you for 1 turn."
+      },
+      "description": "The half-horse half-human creature that guards the forests and causes travelers to lose their way, eternal trickster of Philippine folklore.",
+      "id": "filipino-tagalog-014",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Nuno sa Punso",
+      "type": "spirit",
+      "domains": [
+        "mound",
+        "earth",
+        "curse",
+        "elder"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mound Curse",
+        "description": "Curse one enemy who showed disrespect; they lose 2 to all stats for 3 turns."
+      },
+      "description": "The small old spirit who lives in termite mounds, who curses those who damage or disrespect his home without asking permission.",
+      "id": "filipino-tagalog-015",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Aswang",
+      "type": "spirit",
+      "domains": [
+        "shapeshifter",
+        "blood",
+        "night",
+        "fear"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blood Drain",
+        "description": "Drain life from one enemy card each turn for 3 turns; gain HP equal to drained amount."
+      },
+      "description": "The most feared creature of Philippine folklore, a shapeshifting monster that preys on the sick and pregnant, taking many terrible forms.",
+      "id": "filipino-tagalog-016",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Diwata",
+      "type": "spirit",
+      "domains": [
+        "nature",
+        "blessings",
+        "healing",
+        "beautiful"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Nature's Gift",
+        "description": "Grant one allied card a permanent +2 to magic and wisdom."
+      },
+      "description": "The nature spirits and fairy-like beings of Philippine mythology, beautiful guardians of nature who bless or curse those they encounter.",
+      "id": "filipino-tagalog-017",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Manananggal",
+      "type": "spirit",
+      "domains": [
+        "severing",
+        "blood",
+        "flight",
+        "night horror"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Upper Body Flight",
+        "description": "Separate and fly; deal 8 damage to one enemy while your lower body blocks attacks for you."
+      },
+      "description": "The terrifying creature that can sever its upper body and fly with bat wings, preying on sleeping pregnant women, one of the most feared Philippine monsters.",
+      "id": "filipino-tagalog-018",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Hari sa Ilalim ng Dagat",
+      "type": "god",
+      "domains": [
+        "ocean",
+        "underworld",
+        "sea kingdom",
+        "ruler"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Deep Kingdom",
+        "description": "Drag one enemy card to the ocean floor; they are removed from battle for 2 turns."
+      },
+      "description": "The king beneath the sea in Tagalog cosmology, ruler of the underwater realm where the dead sometimes reside.",
+      "id": "filipino-tagalog-019",
+      "culture_slug": "filipino-tagalog"
+    },
+    {
+      "name": "Sitan",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "temptation",
+        "evil",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Temptation's Web",
+        "description": "Offer one enemy card a false bargain; they must choose between losing stats or switching sides."
+      },
+      "description": "The god of the underworld in Tagalog belief, who tests and tempts souls, assisted by four evil helpers who spread misfortune.",
+      "id": "filipino-tagalog-020",
+      "culture_slug": "filipino-tagalog"
+    }
+  ]
+}

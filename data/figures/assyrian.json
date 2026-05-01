@@ -1,0 +1,526 @@
+{
+  "culture_slug": "assyrian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ashur",
+      "type": "god",
+      "domains": [
+        "war",
+        "kingship",
+        "sky",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ashur is a god from Assyrian tradition associated with war, kingship, sky, and justice.",
+      "id": "assyrian-001",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Ishtar of Nineveh",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "love",
+        "star",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ishtar of Nineveh is a goddess from Assyrian tradition associated with war, love, star, and power.",
+      "id": "assyrian-002",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Nabu",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "writing",
+        "fate",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Nabu is a god from Assyrian tradition associated with wisdom, writing, fate, and light.",
+      "id": "assyrian-003",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Ninurta",
+      "type": "god",
+      "domains": [
+        "war",
+        "hunting",
+        "storm",
+        "earth"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ninurta is a god from Assyrian tradition associated with war, hunting, storm, and earth.",
+      "id": "assyrian-004",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Shamash",
+      "type": "god",
+      "domains": [
+        "sun",
+        "justice",
+        "light",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Shamash is a god from Assyrian tradition associated with sun, justice, light, and wisdom.",
+      "id": "assyrian-005",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Adad",
+      "type": "god",
+      "domains": [
+        "storm",
+        "rain",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Adad is a god from Assyrian tradition associated with storm, rain, war, and sky.",
+      "id": "assyrian-006",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Sin",
+      "type": "god",
+      "domains": [
+        "moon",
+        "wisdom",
+        "night",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Sin is a god from Assyrian tradition associated with moon, wisdom, night, and fate.",
+      "id": "assyrian-007",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Mullissu",
+      "type": "goddess",
+      "domains": [
+        "kingship",
+        "motherhood",
+        "earth",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Mullissu is a goddess from Assyrian tradition associated with kingship, motherhood, earth, and protection.",
+      "id": "assyrian-008",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Nergal",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "war",
+        "plague",
+        "fire"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Nergal is a god from Assyrian tradition associated with underworld, war, plague, and fire.",
+      "id": "assyrian-009",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Ereshkigal",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "death",
+        "darkness",
+        "judgment"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Ereshkigal is a goddess from Assyrian tradition associated with underworld, death, darkness, and judgment.",
+      "id": "assyrian-010",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Tammuz",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "death",
+        "spring",
+        "agriculture"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Tammuz is a god from Assyrian tradition associated with fertility, death, spring, and agriculture.",
+      "id": "assyrian-011",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Lamassu",
+      "type": "guardian",
+      "domains": [
+        "protection",
+        "sky",
+        "animal",
+        "kingship"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Lamassu is a guardian from Assyrian tradition associated with protection, sky, animal, and kingship.",
+      "id": "assyrian-012",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Apkallu",
+      "type": "ancestor",
+      "domains": [
+        "wisdom",
+        "water",
+        "magic",
+        "craft"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Apkallu is an ancestor from Assyrian tradition associated with wisdom, water, magic, and craft.",
+      "id": "assyrian-013",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Pazuzu",
+      "type": "demon",
+      "domains": [
+        "wind",
+        "plague",
+        "desert",
+        "darkness"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Pazuzu is a demon from Assyrian tradition associated with wind, plague, desert, and darkness.",
+      "id": "assyrian-014",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Lamashtu",
+      "type": "demon",
+      "domains": [
+        "plague",
+        "night",
+        "monster",
+        "death"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Lamashtu is a demon from Assyrian tradition associated with plague, night, monster, and death.",
+      "id": "assyrian-015",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Anzu",
+      "type": "monster",
+      "domains": [
+        "storm",
+        "sky",
+        "theft",
+        "animal"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Anzu is a monster from Assyrian tradition associated with storm, sky, theft, and animal.",
+      "id": "assyrian-016",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Etana",
+      "type": "hero",
+      "domains": [
+        "sky",
+        "kingship",
+        "eagle",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Etana is a hero from Assyrian tradition associated with sky, kingship, eagle, and quest.",
+      "id": "assyrian-017",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Gilgamesh",
+      "type": "hero",
+      "domains": [
+        "war",
+        "kingship",
+        "strength",
+        "quest"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Gilgamesh is a hero from Assyrian tradition associated with war, kingship, strength, and quest.",
+      "id": "assyrian-018",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Utnapishtim",
+      "type": "ancestor",
+      "domains": [
+        "water",
+        "wisdom",
+        "survival",
+        "fate"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Utnapishtim is an ancestor from Assyrian tradition associated with water, wisdom, survival, and fate.",
+      "id": "assyrian-019",
+      "culture_slug": "assyrian"
+    },
+    {
+      "name": "Nisroch",
+      "type": "god",
+      "domains": [
+        "agriculture",
+        "storm",
+        "protection",
+        "forest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Field Blessing",
+        "description": "Gain 3 resource tokens and grant all earth allies +1 defense."
+      },
+      "description": "Nisroch is a god from Assyrian tradition associated with agriculture, storm, protection, and forest.",
+      "id": "assyrian-020",
+      "culture_slug": "assyrian"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "culture_slug": "aboriginal-australian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Rainbow Serpent",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "creation",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Rainbow Serpent is a creature from Aboriginal Australian (Dreamtime) tradition associated with serpent, water, creation, and earth.",
+      "id": "aboriginal-australian-001",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Baiame",
+      "type": "god",
+      "domains": [
+        "sky",
+        "creation",
+        "wisdom",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Baiame is a god from Aboriginal Australian (Dreamtime) tradition associated with sky, creation, wisdom, and law.",
+      "id": "aboriginal-australian-002",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Bunjil",
+      "type": "god",
+      "domains": [
+        "sky",
+        "light",
+        "eagle",
+        "creation"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Bunjil is a god from Aboriginal Australian (Dreamtime) tradition associated with sky, light, eagle, and creation.",
+      "id": "aboriginal-australian-003",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Yhi",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "light",
+        "creation",
+        "fire"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Yhi is a goddess from Aboriginal Australian (Dreamtime) tradition associated with sun, light, creation, and fire.",
+      "id": "aboriginal-australian-004",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Daramulum",
+      "type": "god",
+      "domains": [
+        "sky",
+        "law",
+        "initiation",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Daramulum is a god from Aboriginal Australian (Dreamtime) tradition associated with sky, law, initiation, and justice.",
+      "id": "aboriginal-australian-005",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Wandjina",
+      "type": "spirit",
+      "domains": [
+        "rain",
+        "cloud",
+        "storm",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Wandjina is a spirit from Aboriginal Australian (Dreamtime) tradition associated with rain, cloud, storm, and sky.",
+      "id": "aboriginal-australian-006",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Tiddalik",
+      "type": "monster",
+      "domains": [
+        "water",
+        "hunger",
+        "earth",
+        "monster"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Tiddalik is a monster from Aboriginal Australian (Dreamtime) tradition associated with water, hunger, earth, and monster.",
+      "id": "aboriginal-australian-007",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Julunggul",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "fertility",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Julunggul is a creature from Aboriginal Australian (Dreamtime) tradition associated with serpent, water, fertility, and spirit.",
+      "id": "aboriginal-australian-008",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Mamaragan",
+      "type": "god",
+      "domains": [
+        "lightning",
+        "storm",
+        "sky",
+        "fire"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Mamaragan is a god from Aboriginal Australian (Dreamtime) tradition associated with lightning, storm, sky, and fire.",
+      "id": "aboriginal-australian-009",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Mimi",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "art",
+        "wind",
+        "forest"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Mimi is a spirit from Aboriginal Australian (Dreamtime) tradition associated with spirit, art, wind, and forest.",
+      "id": "aboriginal-australian-010",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Namorrodor",
+      "type": "monster",
+      "domains": [
+        "night",
+        "death",
+        "monster",
+        "shadow"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Namorrodor is a monster from Aboriginal Australian (Dreamtime) tradition associated with night, death, monster, and shadow.",
+      "id": "aboriginal-australian-011",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Kunapipi",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "earth",
+        "ritual",
+        "life"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Kunapipi is a goddess from Aboriginal Australian (Dreamtime) tradition associated with fertility, earth, ritual, and life.",
+      "id": "aboriginal-australian-012",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Ungud",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "water",
+        "creation",
+        "spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Ungud is a creature from Aboriginal Australian (Dreamtime) tradition associated with serpent, water, creation, and spirit.",
+      "id": "aboriginal-australian-013",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Gnowee",
+      "type": "goddess",
+      "domains": [
+        "sun",
+        "light",
+        "motherhood",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Gnowee is a goddess from Aboriginal Australian (Dreamtime) tradition associated with sun, light, motherhood, and sky.",
+      "id": "aboriginal-australian-014",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Bahloo",
+      "type": "god",
+      "domains": [
+        "moon",
+        "night",
+        "water",
+        "sky"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Bahloo is a god from Aboriginal Australian (Dreamtime) tradition associated with moon, night, water, and sky.",
+      "id": "aboriginal-australian-015",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Kidili",
+      "type": "hero",
+      "domains": [
+        "moon",
+        "fire",
+        "trickster",
+        "wandering"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Kidili is a hero from Aboriginal Australian (Dreamtime) tradition associated with moon, fire, trickster, and wandering.",
+      "id": "aboriginal-australian-016",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Wati Kutjara",
+      "type": "hero",
+      "domains": [
+        "journey",
+        "desert",
+        "brotherhood",
+        "quest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Wati Kutjara is a hero from Aboriginal Australian (Dreamtime) tradition associated with journey, desert, brotherhood, and quest.",
+      "id": "aboriginal-australian-017",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Wawalag Sisters",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "ritual",
+        "serpent",
+        "song"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Wawalag Sisters is a spirit from Aboriginal Australian (Dreamtime) tradition associated with fertility, ritual, serpent, and song.",
+      "id": "aboriginal-australian-018",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Akurra",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "mountain",
+        "earth",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Akurra is a creature from Aboriginal Australian (Dreamtime) tradition associated with serpent, mountain, earth, and power.",
+      "id": "aboriginal-australian-019",
+      "culture_slug": "aboriginal-australian"
+    },
+    {
+      "name": "Altjira",
+      "type": "god",
+      "domains": [
+        "sky",
+        "ancestor",
+        "dream",
+        "creation"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Altjira is a god from Aboriginal Australian (Dreamtime) tradition associated with sky, ancestor, dream, and creation.",
+      "id": "aboriginal-australian-020",
+      "culture_slug": "aboriginal-australian"
+    }
+  ]
+}

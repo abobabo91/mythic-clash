@@ -1,0 +1,526 @@
+{
+  "culture_slug": "evenki-tungusic",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Buga",
+      "type": "god",
+      "domains": [
+        "supreme",
+        "sky",
+        "world",
+        "creator"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Creation",
+        "description": "Create any terrain card; the world itself reshapes to your will."
+      },
+      "description": "The supreme deity of the Evenki people, the sky-world creator, whose name means both 'sky' and 'world' in the Evenki language.",
+      "id": "evenki-tungusic-001",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Exeri",
+      "type": "spirit",
+      "domains": [
+        "good spirit",
+        "helpers",
+        "protection",
+        "beneficial"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Helper Spirits",
+        "description": "Summon two helper spirits with 4/4/6/7/7 stats to assist allied cards."
+      },
+      "description": "The beneficent spirits of Evenki belief who assist humans and the shaman, counterparts to the malevolent spirits.",
+      "id": "evenki-tungusic-002",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Hargi",
+      "type": "spirit",
+      "domains": [
+        "evil spirit",
+        "illness",
+        "death",
+        "dark"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Disease Spirit",
+        "description": "Infect one enemy with spiritual illness; they lose 2 to all stats per turn for 3 turns."
+      },
+      "description": "The evil spirits of Evenki belief who cause illness and misfortune, who must be combated by the shaman's power.",
+      "id": "evenki-tungusic-003",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Shaman Tengere",
+      "type": "spirit",
+      "domains": [
+        "shaman",
+        "supreme",
+        "ancestral",
+        "drum"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Master Shaman Call",
+        "description": "Call the master shaman to resolve any crisis; negate one ability and cast it back doubled."
+      },
+      "description": "The supreme ancestral shaman spirit of the Evenki, whose techniques and knowledge form the foundation of all Evenki shamanic practice.",
+      "id": "evenki-tungusic-004",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Reindeer Spirit",
+      "type": "creature",
+      "domains": [
+        "reindeer",
+        "guide",
+        "sacred",
+        "transport"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tundra Guide",
+        "description": "Guide all allied cards through any terrain; barriers and obstacles are ignored for 2 turns."
+      },
+      "description": "The sacred reindeer spirits central to Evenki life, who serve as guides between worlds for the shaman and provide the nomadic people with everything needed.",
+      "id": "evenki-tungusic-005",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Three-Legged Elk",
+      "type": "creature",
+      "domains": [
+        "cosmic",
+        "world tree",
+        "sun",
+        "ancient"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Elk",
+        "description": "Support the world tree; all allied nature cards gain +3 to all stats from cosmic connection."
+      },
+      "description": "The three-legged cosmic elk of Evenki cosmology who carries the sun across the sky, associated with the world tree and cosmic order.",
+      "id": "evenki-tungusic-006",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Dyldal",
+      "type": "spirit",
+      "domains": [
+        "lightning",
+        "fire from sky",
+        "power",
+        "smiths"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lightning Gift",
+        "description": "Strike the earth with lightning; either destroy one enemy or create a sacred fire card."
+      },
+      "description": "The lightning spirit of the Evenki, associated with the divine fire brought from the sky, connected to shamanic power and the blacksmith's art.",
+      "id": "evenki-tungusic-007",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Water Master (Eki)",
+      "type": "spirit",
+      "domains": [
+        "river",
+        "water",
+        "fish",
+        "life"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River Master's Gift",
+        "description": "Control one river; all fishing and water-gathering actions this turn yield double."
+      },
+      "description": "The master spirit of rivers and bodies of water, propitiated by Evenki fishers before entering any waters.",
+      "id": "evenki-tungusic-008",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Forest Master",
+      "type": "spirit",
+      "domains": [
+        "taiga",
+        "animals",
+        "hunt",
+        "permission"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Permission",
+        "description": "Gain permission to hunt; all hunting actions deal double damage and yield extra resources."
+      },
+      "description": "The master spirit of the taiga forest, who must grant permission for hunting to succeed; offending the forest master brings misfortune.",
+      "id": "evenki-tungusic-009",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Mudur",
+      "type": "creature",
+      "domains": [
+        "dragon",
+        "water",
+        "chaos",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "River Dragon Rage",
+        "description": "The river dragon erupts; deal 7 damage to all cards in one row."
+      },
+      "description": "The water dragon of Evenki belief, a great serpentine spirit of rivers and lakes whose anger brings floods and chaos.",
+      "id": "evenki-tungusic-010",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Enin",
+      "type": "spirit",
+      "domains": [
+        "mother",
+        "earth",
+        "taiga",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Taiga Mother",
+        "description": "Protect all children and young cards; they gain immunity to attacks for 1 turn."
+      },
+      "description": "The mother earth spirit of the Evenki taiga, who protects women in childbirth and watches over the young of both humans and animals.",
+      "id": "evenki-tungusic-011",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Seveki",
+      "type": "god",
+      "domains": [
+        "animals",
+        "master",
+        "hunt",
+        "spirit of game"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Game Master",
+        "description": "Release game animals into the field; all hunt-domain allies gain 3 resources."
+      },
+      "description": "The master of animals in Evenki belief, who controls the supply of game and must be propitiated to ensure successful hunts.",
+      "id": "evenki-tungusic-012",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Shingken",
+      "type": "spirit",
+      "domains": [
+        "clan ancestor",
+        "protection",
+        "lineage",
+        "memory"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestor's Shield",
+        "description": "Your lineage protects you; the ancestor spirit blocks the next attack against any allied card."
+      },
+      "description": "The clan ancestor spirits of the Evenki, who protect the living descendants and are honored in clan rituals.",
+      "id": "evenki-tungusic-013",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Chulbegen",
+      "type": "spirit",
+      "domains": [
+        "evil trickster",
+        "theft",
+        "chaos",
+        "demon"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 4,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Trickster Theft",
+        "description": "Steal one resource or card ability; the victim doesn't notice until their next turn."
+      },
+      "description": "A malevolent trickster spirit of Evenki belief who steals souls and causes mischief, one of the dangerous beings that shamans must combat.",
+      "id": "evenki-tungusic-014",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Iron Antler Deer",
+      "type": "creature",
+      "domains": [
+        "cosmic",
+        "sky deer",
+        "stellar",
+        "hunt"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Star Deer Sprint",
+        "description": "Sprint across the cosmic field; move any allied card to any position instantly."
+      },
+      "description": "The cosmic sky deer with iron antlers, a stellar being in Evenki mythology associated with the great hunt across the heavens.",
+      "id": "evenki-tungusic-015",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Shamanic Drum",
+      "type": "spirit",
+      "domains": [
+        "ritual",
+        "drum",
+        "journey",
+        "shaman tool"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Drum Journey",
+        "description": "Beat the cosmic drum; send one allied card on a spirit journey gaining +4 to magic and wisdom."
+      },
+      "description": "The sacred drum of the Evenki shaman, whose beating opens the path to spirit worlds and calls helping spirits to aid the shaman.",
+      "id": "evenki-tungusic-016",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Clan Fireplace Spirit",
+      "type": "spirit",
+      "domains": [
+        "hearth",
+        "clan",
+        "warmth",
+        "protection"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clan Fire",
+        "description": "Sustain all clan-allied cards; they gain 2 HP at the start of each turn while the fire burns."
+      },
+      "description": "The protective spirit of the clan's sacred fireplace, whose warmth sustains the family through the brutal Siberian winters.",
+      "id": "evenki-tungusic-017",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Ancestral Bear",
+      "type": "creature",
+      "domains": [
+        "bear",
+        "clan totem",
+        "strength",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bear Ancestor",
+        "description": "Invoke the bear ancestor; all allied cards gain +2 power and become bear-totem protected."
+      },
+      "description": "The bear as a clan totem animal of many Evenki groups, treated with great respect as an ancestor figure and addressed as 'grandfather.'",
+      "id": "evenki-tungusic-018",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Erge",
+      "type": "spirit",
+      "domains": [
+        "disease spirit",
+        "epidemic",
+        "dark",
+        "fear"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 4,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Epidemic Spread",
+        "description": "Spread disease across the entire enemy field; all enemies are weakened for 2 turns."
+      },
+      "description": "The great disease spirit who sends epidemics and mass illness, most feared of the dark spirits among the Evenki.",
+      "id": "evenki-tungusic-019",
+      "culture_slug": "evenki-tungusic"
+    },
+    {
+      "name": "Agdy",
+      "type": "spirit",
+      "domains": [
+        "thunder",
+        "lightning",
+        "purification",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Purification",
+        "description": "Strike with purifying thunder; remove all dark spirits from the field."
+      },
+      "description": "The thunder spirit of the Evenki, whose storms purify the air and drive away malevolent spirits, a powerful force of the natural world.",
+      "id": "evenki-tungusic-020",
+      "culture_slug": "evenki-tungusic"
+    }
+  ]
+}

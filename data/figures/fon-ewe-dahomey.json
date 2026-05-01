@@ -1,0 +1,519 @@
+{
+  "culture_slug": "fon-ewe-dahomey",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Mawu",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "creator",
+        "wisdom",
+        "night",
+        "female"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Moon Wisdom",
+        "description": "All allies gain +2 wisdom; remove all confusion effects from allies."
+      },
+      "description": "Female creator moon deity and the wisdom half of the creator twin pair who governs night and intellect.",
+      "id": "fon-ewe-dahomey-001",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Lisa",
+      "type": "god",
+      "domains": [
+        "sun",
+        "strength",
+        "creator",
+        "day",
+        "male"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Strength",
+        "description": "All allies gain +3 power from the sun's strength for 1 turn."
+      },
+      "description": "Male creator sun deity and the strength half of the creator twin pair who governs day and power.",
+      "id": "fon-ewe-dahomey-002",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Legba",
+      "type": "trickster",
+      "domains": [
+        "crossroads",
+        "gate",
+        "communication",
+        "old man"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Crossroads Key",
+        "description": "Unlock one sealed enemy ability and use it against them; open all closed gates on the field."
+      },
+      "description": "Trickster divine old man at the crossroads between worlds, the first to be honored in every ceremony.",
+      "id": "fon-ewe-dahomey-003",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Ogou",
+      "type": "god",
+      "domains": [
+        "iron",
+        "war",
+        "revolution",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Iron Revolution",
+        "description": "Destroy all armor and shield effects; deal 4 damage to all enemies from the revolutionary iron."
+      },
+      "description": "Warrior god of iron and fire who governs war, revolution and the fighting spirit of the oppressed.",
+      "id": "fon-ewe-dahomey-004",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Sakpata",
+      "type": "god",
+      "domains": [
+        "earth",
+        "smallpox",
+        "healing",
+        "justice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Earth Judgment",
+        "description": "Inflict disease on one enemy: -2 HP per turn for 3 turns; grant allies immunity to earth disease."
+      },
+      "description": "Lord of the earth and smallpox who strikes down wrongdoers with disease but heals those who show respect.",
+      "id": "fon-ewe-dahomey-005",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Mami Wata",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "beauty",
+        "wealth",
+        "spirits",
+        "foreign"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mami's Mirror",
+        "description": "Charm one enemy; they fight for your side for 1 turn while gazing at her reflection."
+      },
+      "description": "Beautiful water spirit half-human half-fish who brings wealth or madness to those who encounter her.",
+      "id": "fon-ewe-dahomey-006",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Gu",
+      "type": "god",
+      "domains": [
+        "iron",
+        "tools",
+        "war",
+        "divine weapon"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Cutlass",
+        "description": "This card's next attack cannot be blocked or deflected by any means."
+      },
+      "description": "The divine cutlass of the gods — Gu — the force of iron and all tools that enables civilized life.",
+      "id": "fon-ewe-dahomey-007",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Xevioso",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "justice",
+        "rain",
+        "lightning"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunder Justice",
+        "description": "Strike one evil-aligned enemy for 7 damage; all storm allies gain +2 power."
+      },
+      "description": "Thunder deity of the Ewe who executes divine justice through lightning and controls the rains.",
+      "id": "fon-ewe-dahomey-008",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Agbe",
+      "type": "god",
+      "domains": [
+        "sea",
+        "deep ocean",
+        "blue",
+        "abundance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean Abundance",
+        "description": "Restore 3 HP to all water and sea allies; deal 2 damage to all land-only enemies."
+      },
+      "description": "God of the deep blue sea and all ocean abundance, husband of Naete the sea goddess.",
+      "id": "fon-ewe-dahomey-009",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Dan",
+      "type": "spirit",
+      "domains": [
+        "rainbow serpent",
+        "cosmic balance",
+        "movement"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rainbow Arc",
+        "description": "Move any card to any position; remove all paralysis and stun effects from allies."
+      },
+      "description": "The great rainbow serpent who coils around the world and whose movement enables all things to change.",
+      "id": "fon-ewe-dahomey-010",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Nana Buluku (Fon)",
+      "type": "goddess",
+      "domains": [
+        "creator",
+        "female supreme",
+        "ancient"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancient Will",
+        "description": "Your next ability bypasses all enemy counters and immunities."
+      },
+      "description": "The most ancient creator, grandmother to the gods, who created Mawu-Lisa and stands above all Vodun.",
+      "id": "fon-ewe-dahomey-011",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Nesuhwe",
+      "type": "spirit",
+      "domains": [
+        "royal ancestors",
+        "Dahomey kings",
+        "divine dead"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Royal Ancestor",
+        "description": "All Dahomey/Fon allies gain +2 to all stats from royal ancestral power."
+      },
+      "description": "The royal ancestral spirits of the Dahomey kingdom who continue to govern through the divine authority of the dead.",
+      "id": "fon-ewe-dahomey-012",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Agassu",
+      "type": "ancestor",
+      "domains": [
+        "leopard ancestor",
+        "Dahomey royal line",
+        "hunting"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Leopard Blood",
+        "description": "Grant one ally the predator trait: they can attack twice in one turn once per battle."
+      },
+      "description": "The leopard ancestor and progenitor of the Dahomey royal lineage whose spotted power flows in royal blood.",
+      "id": "fon-ewe-dahomey-013",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Fa",
+      "type": "spirit",
+      "domains": [
+        "divination",
+        "destiny",
+        "Ifa counterpart",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Destiny Reading",
+        "description": "Look at the enemy's full plan for 2 turns and choose one to nullify."
+      },
+      "description": "The divine system of fate and divination (equivalent to Yoruba Ifa) that reveals each person's destiny.",
+      "id": "fon-ewe-dahomey-014",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Tovodun",
+      "type": "spirit",
+      "domains": [
+        "clan vodun",
+        "family protection",
+        "totem"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Clan Shield",
+        "description": "All members of the same type as this card gain +2 defense from clan protection."
+      },
+      "description": "The clan Vodun who protects specific family lineages and demands specific offerings in return.",
+      "id": "fon-ewe-dahomey-015",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Azonsu",
+      "type": "spirit",
+      "domains": [
+        "hunter vodun",
+        "forest",
+        "tracking"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Forest Track",
+        "description": "This card can target any enemy regardless of row or position."
+      },
+      "description": "The hunter Vodun of the forest who grants tracking skills and forest knowledge to Fon hunters.",
+      "id": "fon-ewe-dahomey-016",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Minona",
+      "type": "goddess",
+      "domains": [
+        "women's vodun",
+        "divination",
+        "first women"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "First Woman",
+        "description": "All female/goddess allies gain +2 to all stats for 1 turn."
+      },
+      "description": "The divine spirit of women and feminine power who was present at the very first divination.",
+      "id": "fon-ewe-dahomey-017",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Aido Hwedo",
+      "type": "creature",
+      "domains": [
+        "cosmic serpent",
+        "world bearer",
+        "rainbow"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Coils",
+        "description": "When this card takes damage, transfer 2 of that damage to any enemy instead."
+      },
+      "description": "The great serpent that carried the creator in its mouth during creation and now coils beneath the earth bearing it.",
+      "id": "fon-ewe-dahomey-018",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Heviosso",
+      "type": "god",
+      "domains": [
+        "thunder axes",
+        "lightning",
+        "Fon thunder vodun"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Thunder Axe",
+        "description": "Deal 5 lightning damage to one enemy; remove all their buffs from divine retribution."
+      },
+      "description": "The Fon thunder Vodun who hurls his double-headed axe as lightning at wrongdoers.",
+      "id": "fon-ewe-dahomey-019",
+      "culture_slug": "fon-ewe-dahomey"
+    },
+    {
+      "name": "Djoto",
+      "type": "spirit",
+      "domains": [
+        "earth vodun",
+        "soil",
+        "community"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fertile Ground",
+        "description": "All earth and nature effects on the field restore 1 additional HP to allies this turn."
+      },
+      "description": "The earth spirit who governs the sacred soil, demanding proper agricultural rituals for fertile harvests.",
+      "id": "fon-ewe-dahomey-020",
+      "culture_slug": "fon-ewe-dahomey"
+    }
+  ]
+}

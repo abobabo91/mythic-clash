@@ -1,0 +1,510 @@
+{
+  "culture_slug": "thracian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Orpheus",
+      "type": "hero",
+      "domains": [
+        "music",
+        "poetry",
+        "underworld",
+        "shamanism"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Song That Moves All Things",
+        "description": "Charm all enemies for 1 turn; even non-charmable enemies are stunned."
+      },
+      "description": "Greatest musician who ever lived whose singing moved stones, charmed beasts and almost rescued the dead.",
+      "id": "thracian-001",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Sabazios",
+      "type": "god",
+      "domains": [
+        "sky",
+        "horseman",
+        "thunder",
+        "ecstasy"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sky Rider",
+        "description": "Deal 5 thunder damage; all enemies are confused for 1 turn from divine ecstasy."
+      },
+      "description": "Thracian sky horseman god of thunder and ecstatic religion who rides across the heavens on his white horse.",
+      "id": "thracian-002",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Bendis",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "hunt",
+        "death",
+        "torches"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Twin Torches",
+        "description": "Illuminate the field and deal 4 fire damage to all dark-alignment enemies."
+      },
+      "description": "Two-spear-bearing moon goddess whose nocturnal torch procession was one of Athens's most beloved festivals.",
+      "id": "thracian-003",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Zalmoxis",
+      "type": "god",
+      "domains": [
+        "immortality",
+        "afterlife",
+        "mystery cult"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Immortality Teaching",
+        "description": "One ally per battle cannot be permanently destroyed; they return at 1 HP instead."
+      },
+      "description": "Mysterious divine figure who retreated to an underground chamber for three years and returned, teaching immortality.",
+      "id": "thracian-004",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Kotys",
+      "type": "goddess",
+      "domains": [
+        "ecstasy",
+        "night rites",
+        "wild"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Night Rite",
+        "description": "All enemies lose 2 wisdom; your dark abilities deal +2 bonus damage for 1 turn."
+      },
+      "description": "Wild goddess of ecstatic nocturnal rites whose ceremonies involved frenzied masked dancing in the mountains.",
+      "id": "thracian-005",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "The Rider Hero",
+      "type": "hero",
+      "domains": [
+        "horse",
+        "hunting",
+        "afterlife"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Horseman",
+        "description": "Gain +3 speed and deal 4 damage with a lance strike that ignores defense."
+      },
+      "description": "The anonymous divine horseman depicted on thousands of Thracian votive reliefs, patron of warriors and the dead.",
+      "id": "thracian-006",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Pleistoros",
+      "type": "god",
+      "domains": [
+        "war",
+        "human sacrifice",
+        "rivers"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blood Offering",
+        "description": "Sacrifice 2 of this card's HP to deal 7 damage to one enemy."
+      },
+      "description": "Savage war god honored with human sacrifice on the banks of Thracian rivers.",
+      "id": "thracian-007",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Hestiaea",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "rivers",
+        "vegetation",
+        "Thrace"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River's Bounty",
+        "description": "Restore 2 HP to all allies; nature enemies lose 1 power."
+      },
+      "description": "Earth and river goddess of Thrace who presided over fertility of the land and all flowing waters.",
+      "id": "thracian-008",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Dionysos of Thrace",
+      "type": "god",
+      "domains": [
+        "vine",
+        "wild frenzy",
+        "bull",
+        "leopard"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Thracian Frenzy",
+        "description": "Inflict berserk on all enemies: they gain +3 power but attack randomly for 1 turn."
+      },
+      "description": "The original wild Thracian Dionysos from whom the Greek Dionysus derived, god of intoxication and liberation.",
+      "id": "thracian-009",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Maenads",
+      "type": "spirit",
+      "domains": [
+        "divine frenzy",
+        "torn flesh",
+        "ivy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Sparagmos",
+        "description": "Deal 3 damage to all enemies; enemies with the highest defense lose 2 defense."
+      },
+      "description": "Frenzied female devotees of Dionysos who tore wild animals and enemies apart with their bare hands.",
+      "id": "thracian-010",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Eurydice",
+      "type": "spirit",
+      "domains": [
+        "death",
+        "love",
+        "tragedy",
+        "underworld"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Love",
+        "description": "When this card is destroyed, grant all allies +3 magic from grief and inspiration."
+      },
+      "description": "Orpheus's wife whose death in the grass drove him to the underworld and whose second death broke the world.",
+      "id": "thracian-011",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Ares of Thrace",
+      "type": "god",
+      "domains": [
+        "war",
+        "blood",
+        "Thrace"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Thracian Bloodlust",
+        "description": "This card deals +3 bonus damage while any ally is below half HP."
+      },
+      "description": "The Thracian form of Ares who was worshipped with greater devotion here than anywhere else in the ancient world.",
+      "id": "thracian-012",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Thrax",
+      "type": "hero",
+      "domains": [
+        "founding ancestor",
+        "warrior"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestor's Strength",
+        "description": "When played, all Thracian-culture allies gain +1 to all stats."
+      },
+      "description": "Legendary founder of the Thracian people, son of Ares and the Oceanid Kritobule.",
+      "id": "thracian-013",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Thracian Horseman Spirit",
+      "type": "spirit",
+      "domains": [
+        "horse",
+        "victory",
+        "roads"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Road of the Hero",
+        "description": "Prevent one enemy from changing position or using flanking abilities."
+      },
+      "description": "The anonymous divine horseman spirit who appears on boundary stones across Thrace protecting travelers.",
+      "id": "thracian-014",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Tereus",
+      "type": "hero",
+      "domains": [
+        "tragedy",
+        "transformation",
+        "hoopoe"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hoopoe's Cry",
+        "description": "Inflict a lasting debuff on one enemy that prevents them from using voice/song abilities."
+      },
+      "description": "Tragic king of Thrace transformed into the hoopoe bird after a cycle of violence and revenge.",
+      "id": "thracian-015",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Lykourgos",
+      "type": "hero",
+      "domains": [
+        "anti-Dionysos",
+        "madness",
+        "punishment"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Divine Punishment",
+        "description": "Deal 5 damage to any chaos-aligned card; this card then suffers 2 backlash damage."
+      },
+      "description": "Thracian king who defied Dionysos, was driven mad and killed his own son before being torn apart.",
+      "id": "thracian-016",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Sparti (Sown Warriors)",
+      "type": "creature",
+      "domains": [
+        "earth-born warriors",
+        "dragon's teeth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 4,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Sowing",
+        "description": "Summon two 4/4/4/4/4 warrior tokens for 2 turns."
+      },
+      "description": "Warriors born from dragon's teeth sown in the earth, brothers-in-arms until they destroy each other.",
+      "id": "thracian-017",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Kotys's Servant",
+      "type": "spirit",
+      "domains": [
+        "night ritual",
+        "torch",
+        "mask"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Masked Rite",
+        "description": "This card's identity is hidden; enemy cannot use targeted abilities against it for 1 turn."
+      },
+      "description": "Masked servant of the goddess Kotys who leads the nocturnal mountain processions.",
+      "id": "thracian-018",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Thracian Shaman",
+      "type": "hero",
+      "domains": [
+        "ecstasy",
+        "trance",
+        "spirit journey"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Trance Walk",
+        "description": "Look at all face-down enemy cards; choose one to activate immediately."
+      },
+      "description": "Thracian spirit-traveler who uses ecstatic trance to journey between the world of the living and the dead.",
+      "id": "thracian-019",
+      "culture_slug": "thracian"
+    },
+    {
+      "name": "Polydorus",
+      "type": "hero",
+      "domains": [
+        "Trojan prince",
+        "betrayal",
+        "ghost"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Restless Ghost",
+        "description": "Deal 2 damage per turn to the enemy who holds the most buffs."
+      },
+      "description": "Trojan prince whose murder by the treacherous Thracian king Polymestor is avenged by his mother Hecuba.",
+      "id": "thracian-020",
+      "culture_slug": "thracian"
+    }
+  ]
+}

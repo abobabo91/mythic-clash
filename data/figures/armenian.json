@@ -1,0 +1,526 @@
+{
+  "culture_slug": "armenian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Aramazd",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "fertility",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Aramazd is a god from Armenian tradition associated with creation, sky, fertility, and wisdom.",
+      "id": "armenian-001",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Vahagn",
+      "type": "god",
+      "domains": [
+        "fire",
+        "war",
+        "dragon",
+        "storm"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Vahagn is a god from Armenian tradition associated with fire, war, dragon, and storm.",
+      "id": "armenian-002",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Anahit",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "healing",
+        "wisdom",
+        "water"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Anahit is a goddess from Armenian tradition associated with fertility, healing, wisdom, and water.",
+      "id": "armenian-003",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Astghik",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "water",
+        "beauty",
+        "light"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Astghik is a goddess from Armenian tradition associated with love, water, beauty, and light.",
+      "id": "armenian-004",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Mihr",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "justice",
+        "oath"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Mihr is a god from Armenian tradition associated with sun, light, justice, and oath.",
+      "id": "armenian-005",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Nane",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "wisdom",
+        "protection",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Nane is a goddess from Armenian tradition associated with war, wisdom, protection, and kingship.",
+      "id": "armenian-006",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Tir",
+      "type": "god",
+      "domains": [
+        "wisdom",
+        "writing",
+        "fate",
+        "moon"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Tir is a god from Armenian tradition associated with wisdom, writing, fate, and moon.",
+      "id": "armenian-007",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Spandaramet",
+      "type": "goddess",
+      "domains": [
+        "underworld",
+        "earth",
+        "death",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Spandaramet is a goddess from Armenian tradition associated with underworld, earth, death, and fertility.",
+      "id": "armenian-008",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Barshamin",
+      "type": "god",
+      "domains": [
+        "sky",
+        "storm",
+        "light",
+        "kingship"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Barshamin is a god from Armenian tradition associated with sky, storm, light, and kingship.",
+      "id": "armenian-009",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Amanor",
+      "type": "god",
+      "domains": [
+        "time",
+        "harvest",
+        "hospitality",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Amanor is a god from Armenian tradition associated with time, harvest, hospitality, and earth.",
+      "id": "armenian-010",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Vanatur",
+      "type": "god",
+      "domains": [
+        "hospitality",
+        "earth",
+        "travel",
+        "abundance"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Vanatur is a god from Armenian tradition associated with hospitality, earth, travel, and abundance.",
+      "id": "armenian-011",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Ara the Beautiful",
+      "type": "hero",
+      "domains": [
+        "beauty",
+        "kingship",
+        "war",
+        "fate"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Ara the Beautiful is a hero from Armenian tradition associated with beauty, kingship, war, and fate.",
+      "id": "armenian-012",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Shamiram",
+      "type": "goddess",
+      "domains": [
+        "kingship",
+        "love",
+        "war",
+        "ambition"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Shamiram is a goddess from Armenian tradition associated with kingship, love, war, and ambition.",
+      "id": "armenian-013",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Hayk",
+      "type": "hero",
+      "domains": [
+        "war",
+        "archery",
+        "ancestor",
+        "freedom"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Hayk is a hero from Armenian tradition associated with war, archery, ancestor, and freedom.",
+      "id": "armenian-014",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Aralez",
+      "type": "creature",
+      "domains": [
+        "healing",
+        "animal",
+        "death",
+        "resurrection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Aralez is a creature from Armenian tradition associated with healing, animal, death, and resurrection.",
+      "id": "armenian-015",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Vishap",
+      "type": "monster",
+      "domains": [
+        "dragon",
+        "water",
+        "mountain",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dragon's Breath",
+        "description": "Deal 10 damage to one enemy and frighten adjacent foes."
+      },
+      "description": "Vishap is a monster from Armenian tradition associated with dragon, water, mountain, and chaos.",
+      "id": "armenian-016",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Torq Angegh",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "war",
+        "earth",
+        "giant"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Torq Angegh is a hero from Armenian tradition associated with strength, war, earth, and giant.",
+      "id": "armenian-017",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "David of Sassoun",
+      "type": "hero",
+      "domains": [
+        "war",
+        "horse",
+        "strength",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "David of Sassoun is a hero from Armenian tradition associated with war, horse, strength, and justice.",
+      "id": "armenian-018",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Mher",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "war",
+        "gate",
+        "fate"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Mher is a hero from Armenian tradition associated with sun, war, gate, and fate.",
+      "id": "armenian-019",
+      "culture_slug": "armenian"
+    },
+    {
+      "name": "Tsovinar",
+      "type": "goddess",
+      "domains": [
+        "sea",
+        "storm",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tsovinar is a goddess from Armenian tradition associated with sea, storm, water, and fertility.",
+      "id": "armenian-020",
+      "culture_slug": "armenian"
+    }
+  ]
+}

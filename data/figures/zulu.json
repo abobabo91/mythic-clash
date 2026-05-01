@@ -1,0 +1,514 @@
+{
+  "culture_slug": "zulu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Unkulunkulu",
+      "type": "god",
+      "domains": [
+        "creation",
+        "first man",
+        "reed bed",
+        "all things"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Reed of Creation",
+        "description": "When played, all allies enter with +2 to all stats from the first creation."
+      },
+      "description": "The supreme creator who emerged from a bed of reeds and broke off the first people and cattle from the reeds.",
+      "id": "zulu-001",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Inkosazana",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "agriculture",
+        "mist",
+        "women"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Princess of Heaven",
+        "description": "Restore 4 HP to all allies; all nature and earth allies gain +2 defense."
+      },
+      "description": "Beautiful princess of heaven who sits in mists above rivers and teaches women the arts of agriculture.",
+      "id": "zulu-002",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Inkanyamba",
+      "type": "creature",
+      "domains": [
+        "storm",
+        "serpent",
+        "whirlwinds",
+        "water"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Tornado Serpent",
+        "description": "Deal 5 damage to all enemies; create a storm effect lasting 2 turns."
+      },
+      "description": "Enormous feathered or horse-headed serpent that creates storms, floods and whirlwinds when angered.",
+      "id": "zulu-003",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Tokoloshe",
+      "type": "spirit",
+      "domains": [
+        "malevolent dwarf",
+        "mischief",
+        "fear",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ankle Biter",
+        "description": "Reduce one enemy's defense to zero for 1 turn from the creature gnawing."
+      },
+      "description": "Small hairy malevolent water sprite summoned by witches to harm enemies, feared throughout Southern Africa.",
+      "id": "zulu-004",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Umlungu",
+      "type": "ancestor",
+      "domains": [
+        "sky ancestor",
+        "lightning",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestor Strike",
+        "description": "Deal 4 damage and place an ancestral curse: enemy loses 1 stat per turn for 2 turns."
+      },
+      "description": "The sky ancestor who communicates through lightning and whose anger or blessing determines events.",
+      "id": "zulu-005",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Nomkhubulwane",
+      "type": "goddess",
+      "domains": [
+        "rain",
+        "fertility",
+        "earth",
+        "rainbow"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Rainbow Daughter",
+        "description": "Grant all allies immunity to drought and fire effects for 2 turns."
+      },
+      "description": "Daughter of the sky who appears as a rainbow to bring rain and fertility to the parched earth.",
+      "id": "zulu-006",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Mamlambo",
+      "type": "creature",
+      "domains": [
+        "river",
+        "night",
+        "death",
+        "brain-eating"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Brain Drain",
+        "description": "Reduce one enemy's wisdom to 1 permanently; that enemy cannot use magic abilities."
+      },
+      "description": "Brain-eating river creature of terrifying beauty that glows green and emerges at night to attack humans.",
+      "id": "zulu-007",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Thikoloshe",
+      "type": "spirit",
+      "domains": [
+        "shape-shifting",
+        "trickery",
+        "witch's servant"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Witch's Errand",
+        "description": "Steal one buff from an enemy and deliver it to any ally."
+      },
+      "description": "Shape-shifting familiar spirit that witches dispatch to cause illness, bad luck and mischief for enemies.",
+      "id": "zulu-008",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Hili",
+      "type": "spirit",
+      "domains": [
+        "flying cannibals",
+        "sky",
+        "fear"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Sky Cannibal",
+        "description": "Attack one enemy from above ignoring all ground defenses."
+      },
+      "description": "Fearsome flying cannibals who swoop from the sky and were among the most feared creatures in Zulu belief.",
+      "id": "zulu-009",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Izulu",
+      "type": "spirit",
+      "domains": [
+        "sky",
+        "cosmic forces",
+        "heavenly realm"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Heavenly Force",
+        "description": "All sky and storm allies gain +3 power for 1 turn."
+      },
+      "description": "The cosmic heavenly realm itself personified as a spiritual force governing all things above.",
+      "id": "zulu-010",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Abathakathi",
+      "type": "spirit",
+      "domains": [
+        "dark sorcerers",
+        "witchcraft",
+        "harm"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Witchcraft",
+        "description": "Inflict a random debuff on one enemy that lasts until dispelled."
+      },
+      "description": "Dark sorcerers who work harm through night-magic and must be counteracted by the isangoma diviner.",
+      "id": "zulu-011",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Isangoma",
+      "type": "hero",
+      "domains": [
+        "divination",
+        "healing",
+        "ancestors",
+        "bones"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Bone Throw",
+        "description": "Reveal all hidden enemy abilities; remove one debuff from all allies."
+      },
+      "description": "The Zulu diviner-healer who communicates with ancestors by throwing bones to diagnose illness and misfortune.",
+      "id": "zulu-012",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Sangoma Snake",
+      "type": "creature",
+      "domains": [
+        "healing serpent",
+        "ancestors",
+        "medicine"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ancestor Coil",
+        "description": "When this card heals an ally, also grant that ally +1 to their highest stat."
+      },
+      "description": "The ancestral snake familiar of the isangoma who brings healing wisdom from the ancestors.",
+      "id": "zulu-013",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Lightning Bird (Impundulu)",
+      "type": "creature",
+      "domains": [
+        "lightning",
+        "storms",
+        "witchcraft",
+        "bird"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Thunder Talon",
+        "description": "Deal 5 electric damage to one enemy; 50% chance to stun."
+      },
+      "description": "Supernatural lightning bird bound to witches that strikes with thunderbolts and craves human blood.",
+      "id": "zulu-014",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Ndlovu (Divine Elephant)",
+      "type": "creature",
+      "domains": [
+        "strength",
+        "memory",
+        "reverence"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Never Forgotten",
+        "description": "This card cannot be debuffed by memory or wisdom reduction effects."
+      },
+      "description": "The sacred elephant whose great strength, intelligence and memory make it a divine messenger.",
+      "id": "zulu-015",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Umdlebe Tree",
+      "type": "spirit",
+      "domains": [
+        "death tree",
+        "poison",
+        "dark magic"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Poison Shade",
+        "description": "All enemies resting in shade positions lose 2 HP per turn."
+      },
+      "description": "The poisonous shade-tree that kills all who sleep beneath it, used in dark witchcraft.",
+      "id": "zulu-016",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Amadlozi",
+      "type": "ancestor",
+      "domains": [
+        "ancestor spirits",
+        "family protection",
+        "guidance"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancestral Voice",
+        "description": "Grant one ally foreknowledge: they dodge the next attack aimed at them."
+      },
+      "description": "The collective ancestor spirits who intercede between the living and Unkulunkulu, protecting their descendants.",
+      "id": "zulu-017",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Uthikoloshe",
+      "type": "spirit",
+      "domains": [
+        "river sprite",
+        "night terror",
+        "children"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Night Fear",
+        "description": "Inflict fear on one enemy: they cannot attack for 1 turn."
+      },
+      "description": "River sprite that terrifies children and was placed so high on beds that Tokoloshe could not reach sleepers.",
+      "id": "zulu-018",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Umvelinqangi",
+      "type": "god",
+      "domains": [
+        "primal being",
+        "thunder",
+        "above"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Primal Thunder",
+        "description": "Deal 4 damage to all enemies simultaneously."
+      },
+      "description": "The primordial being who existed before Unkulunkulu, manifesting as thunder and governing the heavens.",
+      "id": "zulu-019",
+      "culture_slug": "zulu"
+    },
+    {
+      "name": "Nandi",
+      "type": "ancestor",
+      "domains": [
+        "mother of Shaka",
+        "warrior woman",
+        "strength"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Iron Will",
+        "description": "This card cannot be debuffed or charmed; grant +2 power to one warrior ally."
+      },
+      "description": "Mother of Shaka Zulu elevated to near-divine status whose fierce love shaped the greatest Zulu king.",
+      "id": "zulu-020",
+      "culture_slug": "zulu"
+    }
+  ]
+}

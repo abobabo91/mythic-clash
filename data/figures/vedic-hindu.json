@@ -1,0 +1,528 @@
+{
+  "culture_slug": "vedic-hindu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Indra",
+      "type": "god",
+      "domains": [
+        "thunder",
+        "war",
+        "king of gods",
+        "rain",
+        "soma"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vajra Strike",
+        "description": "Deal 8 thunder damage to one enemy; remove all enemy storm buffs."
+      },
+      "description": "King of the Vedic gods who slays the drought-serpent Vritra with his thunderbolt to release the rivers.",
+      "id": "vedic-hindu-001",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Varuna",
+      "type": "god",
+      "domains": [
+        "cosmic law",
+        "sky",
+        "water",
+        "morality",
+        "rta"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rta's Noose",
+        "description": "Bind one enemy who has violated law: they lose all stats and cannot act for 2 turns."
+      },
+      "description": "God of the cosmic law (Rta) who watches all deeds with his thousand eyes and punishes moral transgressors.",
+      "id": "vedic-hindu-002",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Agni",
+      "type": "god",
+      "domains": [
+        "fire",
+        "sacrifice",
+        "purification",
+        "priest of gods"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Fire",
+        "description": "All sacrificial and magic abilities gain +3 power; purify all allies of darkness."
+      },
+      "description": "God of the sacred fire who carries human prayers and offerings to the gods and purifies all he touches.",
+      "id": "vedic-hindu-003",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Surya",
+      "type": "god",
+      "domains": [
+        "sun",
+        "all-seeing",
+        "health",
+        "cosmic eye"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Chariot",
+        "description": "Grant all allies +2 speed; dark-aligned enemies lose 2 power from sunlight."
+      },
+      "description": "The sun god who drives his chariot drawn by seven horses across the sky, seeing all and healing all.",
+      "id": "vedic-hindu-004",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Saraswati",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "music",
+        "speech",
+        "arts",
+        "learning"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vak (Sacred Speech)",
+        "description": "Grant one ally complete mastery of all abilities for 1 turn."
+      },
+      "description": "Goddess of wisdom and sacred speech who presides over all arts, knowledge and flowing rivers of inspiration.",
+      "id": "vedic-hindu-005",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Rudra",
+      "type": "god",
+      "domains": [
+        "storm",
+        "death",
+        "healing",
+        "mountains",
+        "proto-Shiva"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Shining Archer",
+        "description": "Fire at one enemy dealing 6 damage; all enemies' defense is reduced by 2 from the storm."
+      },
+      "description": "Fierce storm god and divine archer whose arrows bring both disease and healing, precursor of Shiva.",
+      "id": "vedic-hindu-006",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Ushas",
+      "type": "goddess",
+      "domains": [
+        "dawn",
+        "hope",
+        "renewal",
+        "youth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 9,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "First Light",
+        "description": "Remove all darkness and sleep effects; all allies gain +2 speed from the new day."
+      },
+      "description": "The beautiful dawn goddess who drives away darkness each morning and awakens all living beings to a new day.",
+      "id": "vedic-hindu-007",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Yama",
+      "type": "god",
+      "domains": [
+        "death",
+        "dharma",
+        "judgment",
+        "first mortal"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dharma's Judgment",
+        "description": "Weigh one enemy's karma: if they have more dark abilities than light, deal 6 damage."
+      },
+      "description": "The first mortal to die who became lord of the dead and dharmic judge, accompanied by his twin sister Yami.",
+      "id": "vedic-hindu-008",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Vritra",
+      "type": "monster",
+      "domains": [
+        "drought serpent",
+        "cosmic enemy",
+        "water hoarder"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Water Hoard",
+        "description": "Lock all healing and water abilities for 2 turns until defeated."
+      },
+      "description": "The cosmic serpent of drought who blocked all the rivers until Indra slew him with the Vajra.",
+      "id": "vedic-hindu-009",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Vishvakarman",
+      "type": "god",
+      "domains": [
+        "divine architect",
+        "crafts",
+        "weapons",
+        "palaces"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Celestial Forge",
+        "description": "Grant one ally a divine weapon: +4 power for 1 battle."
+      },
+      "description": "The divine craftsman of the gods who built their celestial palaces and forged divine weapons.",
+      "id": "vedic-hindu-010",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Parjanya",
+      "type": "god",
+      "domains": [
+        "rain",
+        "clouds",
+        "fertility",
+        "storm"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rain Cloud",
+        "description": "Restore 2 HP to all earth and nature allies; inflict wet status on all enemies."
+      },
+      "description": "The rain cloud god who roars and fertilizes the earth with life-giving water.",
+      "id": "vedic-hindu-011",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Maruts",
+      "type": "spirit",
+      "domains": [
+        "storm warriors",
+        "Indra's companions",
+        "wind"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Storm Troop",
+        "description": "Deal 2 damage to all enemies simultaneously as a divine army."
+      },
+      "description": "The divine storm warriors who accompany Indra, warriors of the sky who ride their chariots through thunderclouds.",
+      "id": "vedic-hindu-012",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Ashvins",
+      "type": "god",
+      "domains": [
+        "healing twins",
+        "horses",
+        "medicine",
+        "rescue"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Physicians",
+        "description": "Fully heal one critically wounded ally; grant +2 to all healing effects this turn."
+      },
+      "description": "The twin divine physicians who ride their chariot at dawn healing the sick and rescuing those in distress.",
+      "id": "vedic-hindu-013",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Mitra",
+      "type": "god",
+      "domains": [
+        "friendship",
+        "contracts",
+        "sun",
+        "morality"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Contract",
+        "description": "Your side cannot break alliances; enemy treachery abilities auto-fail."
+      },
+      "description": "The Vedic god of friendship and contracts whose bond is inviolable and who governs the morning sun.",
+      "id": "vedic-hindu-014",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Soma",
+      "type": "god",
+      "domains": [
+        "moon",
+        "divine drink",
+        "immortality",
+        "plants"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Amrita Drink",
+        "description": "Grant one ally +4 to magic for 2 turns and immunity to death for 1 turn."
+      },
+      "description": "The divine drink of immortality and the moon god himself, pressed from mountain plants and drunk by the gods.",
+      "id": "vedic-hindu-015",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Vayu",
+      "type": "god",
+      "domains": [
+        "wind",
+        "breath",
+        "speed",
+        "life force"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 10,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Breath of Life",
+        "description": "All allies gain +3 speed; remove all poison and suffocation effects."
+      },
+      "description": "God of wind and breath whose life force animates all living beings and whose son Hanuman inherits his speed.",
+      "id": "vedic-hindu-016",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Aryaman",
+      "type": "god",
+      "domains": [
+        "hospitality",
+        "Aryan people",
+        "marriage",
+        "ancestors"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Guest's Right",
+        "description": "Prevent one enemy from using treacherous or ambush abilities for 1 turn."
+      },
+      "description": "The Vedic god of hospitality, nobility and the ancestral line who ensures proper social order.",
+      "id": "vedic-hindu-017",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Pushan",
+      "type": "god",
+      "domains": [
+        "paths",
+        "cattle",
+        "travel",
+        "prosperity"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Path Finder",
+        "description": "Any ally can move to any position this turn; grant +2 speed to all."
+      },
+      "description": "God of journeys and cattle who guides travelers along safe paths and ensures cattle return home.",
+      "id": "vedic-hindu-018",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Tvashtri",
+      "type": "god",
+      "domains": [
+        "crafts",
+        "shapes",
+        "Indra's thunderbolt",
+        "forms"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Master Shaper",
+        "description": "Change one card's stats: add 2 to any stat and remove 2 from another."
+      },
+      "description": "The divine craftsman who fashioned Indra's thunderbolt and shapes all living forms into their natural bodies.",
+      "id": "vedic-hindu-019",
+      "culture_slug": "vedic-hindu"
+    },
+    {
+      "name": "Nirrti",
+      "type": "goddess",
+      "domains": [
+        "death",
+        "dissolution",
+        "chaos",
+        "south"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dissolution",
+        "description": "Reduce all enemies' lowest stat by 2 from the creeping dissolution."
+      },
+      "description": "Goddess of dissolution, death and misfortune who governs the dark forces at the southern direction.",
+      "id": "vedic-hindu-020",
+      "culture_slug": "vedic-hindu"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "culture_slug": "celtic-welsh",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Gwydion",
+      "type": "god",
+      "domains": [
+        "magic",
+        "trickery",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Master of Illusion",
+        "description": "Create a perfect decoy of one ally; enemy attacks the decoy for 1 turn."
+      },
+      "description": "Wizard-prince of the Mabinogion who weaves reality itself with his magic and raises armies from illusion.",
+      "id": "celtic-welsh-001",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Arianrhod",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "stars",
+        "fate",
+        "weaving"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Silver Wheel",
+        "description": "Lock one enemy's fate: their stats cannot change in any direction for 2 turns."
+      },
+      "description": "Cosmic goddess of the silver wheel of stars who weaves destiny and refuses to be bound by any man.",
+      "id": "celtic-welsh-002",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Lleu Llaw Gyffes",
+      "type": "god",
+      "domains": [
+        "sun",
+        "crafts",
+        "transformation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Strike",
+        "description": "Deal 7 light damage; enemy cannot regenerate HP next turn."
+      },
+      "description": "Solar warrior who cannot be killed except under a unique impossible circumstance — his weakness hidden in paradox.",
+      "id": "celtic-welsh-003",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Rhiannon",
+      "type": "goddess",
+      "domains": [
+        "horses",
+        "sovereignty",
+        "birds",
+        "moon"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Three Birds of Rhiannon",
+        "description": "Sing: put all enemies to sleep for 1 turn; wake all sleeping allies."
+      },
+      "description": "Otherworldly queen on a white horse whose magical birds can revive the dead or kill the living.",
+      "id": "celtic-welsh-004",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Ceridwen",
+      "type": "goddess",
+      "domains": [
+        "transformation",
+        "cauldron",
+        "knowledge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Awen Cauldron",
+        "description": "Grant one ally omniscience for 2 turns: they can copy any enemy ability once per turn."
+      },
+      "description": "Witch goddess who brewed the cauldron of poetic inspiration, accidentally bestowing it on the young Taliesin.",
+      "id": "celtic-welsh-005",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Bran the Blessed",
+      "type": "giant",
+      "domains": [
+        "protection",
+        "ravens",
+        "cauldron of rebirth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 10,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Cauldron of Rebirth",
+        "description": "Resurrect one fallen ally at full HP; this card takes 4 damage."
+      },
+      "description": "Tragic giant king whose severed head remained alive and prophetic; his magical cauldron resurrects the slain.",
+      "id": "celtic-welsh-006",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Taliesin",
+      "type": "bard",
+      "domains": [
+        "poetry",
+        "music",
+        "wisdom",
+        "shapeshifting"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Chief of Bards",
+        "description": "Recite a poem: negate all enemy special abilities for 1 turn."
+      },
+      "description": "Shape-shifting chief bard of Britain who remembers all history from the beginning of the world.",
+      "id": "celtic-welsh-007",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Math fab Mathonwy",
+      "type": "god",
+      "domains": [
+        "magic",
+        "kingship",
+        "winds"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wind-Catching",
+        "description": "Trap one enemy in magical stasis for 2 turns; cannot be freed by any means."
+      },
+      "description": "King-wizard who can only survive if his feet rest in a virgin's lap and whose magic is absolute.",
+      "id": "celtic-welsh-008",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Pryderi",
+      "type": "hero",
+      "domains": [
+        "heroism",
+        "Annwn",
+        "loyalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lord of Dyfed",
+        "description": "Absorb 3 damage from any source on behalf of one ally."
+      },
+      "description": "Firstborn son of Rhiannon whose life from birth to death weaves through all four branches of the Mabinogion.",
+      "id": "celtic-welsh-009",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Pwyll",
+      "type": "hero",
+      "domains": [
+        "Annwn",
+        "sovereignty",
+        "honor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lord of the Otherworld",
+        "description": "After spending 1 turn in defense, gain +3 power next turn."
+      },
+      "description": "Prince of Dyfed who spent a year ruling the Otherworld in disguise, gaining wisdom and honor.",
+      "id": "celtic-welsh-010",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Branwen",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "peace",
+        "tragedy"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "White Raven",
+        "description": "Send a message to one ally in reserve; swap them immediately into play."
+      },
+      "description": "Daughter of Llyr whose tragic marriage triggered a catastrophic war between Britain and Ireland.",
+      "id": "celtic-welsh-011",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Blodeuwedd",
+      "type": "goddess",
+      "domains": [
+        "flowers",
+        "betrayal",
+        "owls"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Flower Face",
+        "description": "Charm one enemy and redirect their next attack to their strongest ally."
+      },
+      "description": "Woman created from flowers who betrayed her husband Lleu and was transformed into an owl as punishment.",
+      "id": "celtic-welsh-012",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Dylan ail Don",
+      "type": "god",
+      "domains": [
+        "sea",
+        "waves",
+        "swimming"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wave-Born",
+        "description": "Become immune to all non-magic attacks for 1 turn."
+      },
+      "description": "Son of Arianrhod who slipped into the sea at birth and became master of all ocean waves.",
+      "id": "celtic-welsh-013",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Efnisien",
+      "type": "hero",
+      "domains": [
+        "destruction",
+        "war",
+        "tragedy"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 5,
+        "speed": 8,
+        "magic": 4,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Act of Ruin",
+        "description": "Deal 7 damage but also deal 3 damage to one random ally — uncontrollable."
+      },
+      "description": "Malicious prince whose deliberate cruelty caused catastrophic war but whose final sacrifice saved his people.",
+      "id": "celtic-welsh-014",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Annwn Hound",
+      "type": "creature",
+      "domains": [
+        "Otherworld",
+        "hunting",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hell Hound Hunt",
+        "description": "Track one enemy: deal +2 bonus damage to that target for the rest of the battle."
+      },
+      "description": "White hound with red ears that rides with the Wild Hunt of the Otherworld, baying for chosen souls.",
+      "id": "celtic-welsh-015",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Gofannon",
+      "type": "god",
+      "domains": [
+        "smithcraft",
+        "brewing",
+        "crafts"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Smith's Blessing",
+        "description": "Equip one ally: +2 power; if that ally is destroyed, forge a new weapon for the next."
+      },
+      "description": "Divine smith of the Welsh gods, uncle of Lleu, whose ale feast grants immortality to the Tuatha.",
+      "id": "celtic-welsh-016",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Amaethon",
+      "type": "god",
+      "domains": [
+        "agriculture",
+        "farming",
+        "harvest"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Harvest",
+        "description": "Restore 2 HP to all allies at the start of each of your turns for 2 turns."
+      },
+      "description": "Divine farmer of the Welsh gods who stole a white roebuck and hound from the Otherworld.",
+      "id": "celtic-welsh-017",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Caswallawn",
+      "type": "hero",
+      "domains": [
+        "war",
+        "kingship",
+        "invisibility"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Invisible Cloak",
+        "description": "This card becomes untargetable for 1 turn; deal 4 damage to one enemy."
+      },
+      "description": "British warrior king who slew the guardians of the island while hidden under a magic invisibility cloak.",
+      "id": "celtic-welsh-018",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Don",
+      "type": "goddess",
+      "domains": [
+        "origins",
+        "mother of gods",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Mother",
+        "description": "Reduce the cost of all your card abilities by 1 this turn."
+      },
+      "description": "Ancient mother goddess of the Welsh divine family from whom Gwydion, Arianrhod and all the sky gods descend.",
+      "id": "celtic-welsh-019",
+      "culture_slug": "celtic-welsh"
+    },
+    {
+      "name": "Creiddylad",
+      "type": "goddess",
+      "domains": [
+        "spring",
+        "flowers",
+        "perennial maiden"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Spring",
+        "description": "Remove all winter/cold/dark debuffs from all allies."
+      },
+      "description": "Eternal flower maiden perpetually contested between Gwythyr and Gwyn ap Nudd until the end of the world.",
+      "id": "celtic-welsh-020",
+      "culture_slug": "celtic-welsh"
+    }
+  ]
+}

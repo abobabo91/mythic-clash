@@ -1,0 +1,507 @@
+{
+  "culture_slug": "etruscan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tinia",
+      "type": "god",
+      "domains": [
+        "sky",
+        "thunder",
+        "king of gods"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Triple Thunderbolt",
+        "description": "Tinia has three thunderbolts; this ability uses the most powerful, dealing 8 damage and stunning."
+      },
+      "description": "King of the Etruscan gods who wields three kinds of thunderbolts of increasing destructive power.",
+      "id": "etruscan-001",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Uni",
+      "type": "goddess",
+      "domains": [
+        "queen of gods",
+        "marriage",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Royal Mantle",
+        "description": "Grant all female/goddess allies +3 to all stats; block one enemy attack completely."
+      },
+      "description": "Queen of the Etruscan gods who later merged with Juno, protector of cities and divine authority.",
+      "id": "etruscan-002",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Menrva",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "war",
+        "crafts",
+        "healing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Augury Wisdom",
+        "description": "Look at all enemy abilities; choose one to permanently disable."
+      },
+      "description": "Etruscan goddess of wisdom and war who later merged with the Roman Minerva, one of the supreme triad.",
+      "id": "etruscan-003",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Charun",
+      "type": "demon",
+      "domains": [
+        "underworld",
+        "death",
+        "escort of souls"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Hammer of Passing",
+        "description": "When any card is destroyed, deal 2 damage to the nearest enemy."
+      },
+      "description": "Blue-skinned underworld demon with a hammer who guides and sometimes drags souls to the land of the dead.",
+      "id": "etruscan-004",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Vanth",
+      "type": "demon",
+      "domains": [
+        "underworld",
+        "fate",
+        "death",
+        "wings"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Winged Reckoning",
+        "description": "When any card dies, grant this card +1 to all stats permanently."
+      },
+      "description": "Winged female demon who accompanies the dying and witnesses every death, merciful yet inevitable.",
+      "id": "etruscan-005",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Voltumna",
+      "type": "god",
+      "domains": [
+        "earth",
+        "seasons",
+        "destiny",
+        "national god"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fanum Votumna",
+        "description": "All Etruscan/earth allies gain +2 to all stats; enemy strategies are revealed."
+      },
+      "description": "Supreme national god of the Etruscan league at whose sanctuary all twelve cities gathered in council.",
+      "id": "etruscan-006",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Nethuns",
+      "type": "god",
+      "domains": [
+        "water",
+        "sea",
+        "wells"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sacred Spring",
+        "description": "Restore 3 HP to all allies; water allies become immune to fire for 1 turn."
+      },
+      "description": "God of wells and all water who later merged with the Roman Neptune, lord of the sacred springs.",
+      "id": "etruscan-007",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Fufluns",
+      "type": "god",
+      "domains": [
+        "vine",
+        "wine",
+        "health",
+        "growth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Vine Surge",
+        "description": "Restore 3 HP to all allies; inflict ecstasy on one enemy for 1 turn."
+      },
+      "description": "Etruscan god of wine and plant growth who presided over health and the joyful abundance of the harvest.",
+      "id": "etruscan-008",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Turms",
+      "type": "god",
+      "domains": [
+        "messengers",
+        "travel",
+        "commerce"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 10,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Fleet Sandals",
+        "description": "Move any ally or enemy to a new position; steal one stat boost from an enemy."
+      },
+      "description": "Etruscan messenger god who guided souls and presided over commerce, later identified with Mercury.",
+      "id": "etruscan-009",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Aita",
+      "type": "god",
+      "domains": [
+        "underworld lord",
+        "death",
+        "riches"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Helm of the Dead",
+        "description": "Make this card invisible to enemies for 1 turn; deal 3 dark damage."
+      },
+      "description": "Etruscan ruler of the underworld who wore a wolf-skin cap of invisibility, counterpart of Greek Hades.",
+      "id": "etruscan-010",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Phersipnai",
+      "type": "goddess",
+      "domains": [
+        "underworld queen",
+        "death"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Queen's Decree",
+        "description": "Remove one enemy from the field for 1 turn; they return with -2 to all stats."
+      },
+      "description": "Queen of the Etruscan underworld, counterpart of Persephone, who presides over the realm of the dead.",
+      "id": "etruscan-011",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Tuchulcha",
+      "type": "demon",
+      "domains": [
+        "underworld demon",
+        "serpents",
+        "hammer"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Serpent Lash",
+        "description": "Inflict three different debuffs simultaneously on one enemy."
+      },
+      "description": "Terrifying underworld demon with a beak, donkey ears and serpents for hair who torments the dead.",
+      "id": "etruscan-012",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Laran",
+      "type": "god",
+      "domains": [
+        "war",
+        "warrior youth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Youth's Battle Cry",
+        "description": "Allies with power below 7 gain +3 power for 1 turn."
+      },
+      "description": "Young Etruscan god of war depicted as a naked warrior youth, fierce patron of soldiers.",
+      "id": "etruscan-013",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Alpan",
+      "type": "goddess",
+      "domains": [
+        "love",
+        "free will",
+        "underworld"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Free Gift",
+        "description": "Remove one forced ability or charm effect from any ally."
+      },
+      "description": "Etruscan goddess of love, grace and free will who appears in the underworld as a divine attendant.",
+      "id": "etruscan-014",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Usil",
+      "type": "god",
+      "domains": [
+        "sun",
+        "morning",
+        "solar disc"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Dawn Spear",
+        "description": "Deal 5 damage to dark-aligned enemies; grant +1 speed to all allies."
+      },
+      "description": "Etruscan sun god depicted running across the sky with a solar disc, twin of the dawn.",
+      "id": "etruscan-015",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Lasa",
+      "type": "spirit",
+      "domains": [
+        "fate",
+        "beauty",
+        "mirror",
+        "divine attendant"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mirror Truth",
+        "description": "Reflect one enemy ability back at them at half power."
+      },
+      "description": "Winged female fate spirits who appear in mirrors and attend the dying, recording their deeds.",
+      "id": "etruscan-016",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Mania",
+      "type": "spirit",
+      "domains": [
+        "spirits of the dead",
+        "mother of ghosts"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ghost Mother",
+        "description": "Summon one ghost with 4/6/4/4/4 stats for 2 turns."
+      },
+      "description": "Mother of the Lares, spirits of the household dead, whose name became a word for madness.",
+      "id": "etruscan-017",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Thalna",
+      "type": "goddess",
+      "domains": [
+        "childbirth",
+        "fate"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Birth Right",
+        "description": "The next ally summoned enters with +3 to all stats."
+      },
+      "description": "Etruscan goddess of birth and fate who appears at the moment of delivery to determine the child's destiny.",
+      "id": "etruscan-018",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Catha",
+      "type": "god",
+      "domains": [
+        "sun",
+        "underworld journey",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Torchbearer",
+        "description": "Illuminate the field: all hidden or invisible enemy cards are revealed."
+      },
+      "description": "Etruscan sun deity who not only crosses the sky but descends through the underworld each night.",
+      "id": "etruscan-019",
+      "culture_slug": "etruscan"
+    },
+    {
+      "name": "Sethlans",
+      "type": "god",
+      "domains": [
+        "fire",
+        "craft",
+        "forge"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Artisan's Touch",
+        "description": "Choose one ally: their next special ability cannot be blocked or negated."
+      },
+      "description": "Etruscan god of fire and the forge who later merged with Vulcan, patron of all skilled craftsmen.",
+      "id": "etruscan-020",
+      "culture_slug": "etruscan"
+    }
+  ]
+}

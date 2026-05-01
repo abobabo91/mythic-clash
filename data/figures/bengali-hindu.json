@@ -1,0 +1,515 @@
+{
+  "culture_slug": "bengali-hindu",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Durga",
+      "type": "goddess",
+      "domains": [
+        "warrior goddess",
+        "demon slayer",
+        "supreme Shakti",
+        "ten arms"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Lion Ride",
+        "description": "Destroy one demon enemy permanently; all allies gain +3 power from divine victory."
+      },
+      "description": "The great warrior goddess riding a lion who slays Mahishasura with ten arms bearing ten divine weapons.",
+      "id": "bengali-hindu-001",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Kali (Bengali)",
+      "type": "goddess",
+      "domains": [
+        "destruction",
+        "time",
+        "fierce",
+        "liberation",
+        "dark mother"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Blood Tongue",
+        "description": "This card cannot be stopped once activated; deal 5 damage to all enemies and drain their power."
+      },
+      "description": "The fierce black goddess of Bengal who fights in a cremation ground frenzy, adorned with skulls and blood.",
+      "id": "bengali-hindu-002",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Manasa",
+      "type": "goddess",
+      "domains": [
+        "serpent goddess",
+        "Bengali specific",
+        "poison",
+        "fertility"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Snake Queen's Wrath",
+        "description": "Inflict snake venom on one enemy and two adjacent enemies; all serpent allies gain +2."
+      },
+      "description": "The uniquely Bengali serpent goddess who competes with Shiva for devotion and rules over snakebite and fertility.",
+      "id": "bengali-hindu-003",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Saraswati (Bengali)",
+      "type": "goddess",
+      "domains": [
+        "knowledge",
+        "music",
+        "white",
+        "Bengali Puja"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vidya Blessing",
+        "description": "Grant all allies +3 wisdom; all knowledge-based abilities gain +3 power."
+      },
+      "description": "The goddess of knowledge and arts whose Bengali spring festival draws students to seek her blessing.",
+      "id": "bengali-hindu-004",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Jagaddhatri",
+      "type": "goddess",
+      "domains": [
+        "world bearer",
+        "lion",
+        "Chandernagore",
+        "Bengali specific"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World Sustainer",
+        "description": "This card cannot be debuffed or disrupted while it remains in play."
+      },
+      "description": "The World-Sustaining goddess uniquely beloved in Bengali tradition who rides a lion and holds the world in balance.",
+      "id": "bengali-hindu-005",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Lakshmi (Bengali)",
+      "type": "goddess",
+      "domains": [
+        "wealth",
+        "harvest",
+        "owl",
+        "Friday Bengal"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Autumn Wealth",
+        "description": "Restore 3 HP and grant +2 to all stats; all harvest and nature allies gain additional +1."
+      },
+      "description": "The Bengali autumn Lakshmi Puja celebrates the goddess arriving on her owl to bless the harvest season.",
+      "id": "bengali-hindu-006",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Kartik (Bengali)",
+      "type": "god",
+      "domains": [
+        "beautiful youth",
+        "war",
+        "Bengali Kartik Puja"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Bengali Warrior",
+        "description": "All Bengali warrior allies gain +2 power for 1 turn."
+      },
+      "description": "The Bengali form of Kartikeya worshipped as the ideal of beautiful divine youth in the autumn festival.",
+      "id": "bengali-hindu-007",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Bishahari",
+      "type": "goddess",
+      "domains": [
+        "snake goddess",
+        "variant of Manasa",
+        "south Bengal"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Serpent Blessing",
+        "description": "All snake and water allies gain +2 defense for 1 turn."
+      },
+      "description": "The southern Bengali serpent goddess Bishahari who governs snakebite and the protection of rural communities.",
+      "id": "bengali-hindu-008",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Annada",
+      "type": "goddess",
+      "domains": [
+        "food giver",
+        "Bengali Shakta",
+        "nourishment"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Food Giver",
+        "description": "Restore 4 HP to one ally and 2 HP to all others from divine nourishment."
+      },
+      "description": "The Bengali food-giving goddess Annada who ensures no devotee goes hungry and governs all nourishment.",
+      "id": "bengali-hindu-009",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Sitala",
+      "type": "goddess",
+      "domains": [
+        "smallpox",
+        "cooling",
+        "disease and cure",
+        "Bengali specific"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Cooling Touch",
+        "description": "Remove all fever and disease effects from allies; inflict disease on one enemy."
+      },
+      "description": "The donkey-riding Bengali goddess who both sends and cures smallpox — propitiated to prevent childhood illness.",
+      "id": "bengali-hindu-010",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Dakshina Raya",
+      "type": "god",
+      "domains": [
+        "tiger lord",
+        "Sundarbans",
+        "Bengali specific"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Sundarbans Lord",
+        "description": "Tiger allies gain +4 power; this card cannot be attacked by nature or forest enemies."
+      },
+      "description": "The tiger lord of the Sundarbans delta worshipped as a fierce god who must be appeased by fishermen and woodcutters.",
+      "id": "bengali-hindu-011",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Dharmaraj",
+      "type": "god",
+      "domains": [
+        "Bengal death judge",
+        "justice",
+        "dharma",
+        "Bengali specific"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dharma's Book",
+        "description": "Record one enemy's every action; at battle's end deal accumulated damage."
+      },
+      "description": "The Bengali judge of the dead who records all deeds in his divine ledger — distinct from pan-Indian Yama.",
+      "id": "bengali-hindu-012",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Muktakeshi",
+      "type": "goddess",
+      "domains": [
+        "loose-haired goddess",
+        "Bengali tantric"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tantric Power",
+        "description": "Activate a forbidden ability: deal 5 magic damage that bypasses all defenses."
+      },
+      "description": "The loose-haired tantric form of the goddess worshipped at midnight with forbidden rites in Bengal.",
+      "id": "bengali-hindu-013",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Chhaya",
+      "type": "goddess",
+      "domains": [
+        "shadow",
+        "shade",
+        "sun god's wife"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Twin",
+        "description": "Create a shadow duplicate of one ally; the duplicate draws all attacks for 1 turn."
+      },
+      "description": "The shadow woman who replaced Surya's wife Sanjna, whose children by the sun include Shani (Saturn).",
+      "id": "bengali-hindu-014",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Shani",
+      "type": "god",
+      "domains": [
+        "Saturn",
+        "karma",
+        "slowness",
+        "lessons"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Saturn's Lesson",
+        "description": "Reduce one enemy's speed by 3 permanently from the slow weight of karmic consequence."
+      },
+      "description": "The limping god of Saturn and karmic retribution whose gaze brings misfortune that ultimately teaches wisdom.",
+      "id": "bengali-hindu-015",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Pakshiraj",
+      "type": "creature",
+      "domains": [
+        "winged horse",
+        "Bengali heroic",
+        "sky"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Winged Sprint",
+        "description": "Move to any position; deal 3 damage from aerial speed."
+      },
+      "description": "The winged horse of Bengali heroic folklore who carries heroes on impossible journeys across the sky.",
+      "id": "bengali-hindu-016",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Thakurmar Jhuli Spirit",
+      "type": "spirit",
+      "domains": [
+        "fairy tale",
+        "folk wisdom",
+        "Abol Tabol"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Folk Tale",
+        "description": "Reveal one secret: expose the most dangerous enemy hidden ability."
+      },
+      "description": "The spirit of Bengali folk tales and the wondrous creatures that inhabit the grandmother's story basket.",
+      "id": "bengali-hindu-017",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Chandi",
+      "type": "goddess",
+      "domains": [
+        "fierce form",
+        "Chandi Mangal",
+        "Bengali battle"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Battle Cry",
+        "description": "Deal 4 damage to all enemies; all dark-aligned allies gain +2 power."
+      },
+      "description": "The fierce battle form of the goddess celebrated in the Bengali Chandi Mangal texts of medieval literature.",
+      "id": "bengali-hindu-018",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Nishumbha",
+      "type": "monster",
+      "domains": [
+        "great demon",
+        "Durga's battle",
+        "dark lord"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dark General",
+        "description": "All dark-aligned allies gain +2 power when this card enters play."
+      },
+      "description": "The great demon general defeated by Durga in the cosmic battle described in the Devi Mahatmya.",
+      "id": "bengali-hindu-019",
+      "culture_slug": "bengali-hindu"
+    },
+    {
+      "name": "Raktabija",
+      "type": "monster",
+      "domains": [
+        "blood seed demon",
+        "multiple revival",
+        "unstoppable"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Blood Seed",
+        "description": "When this card takes damage, create one copy with 4/4/4/4/4 stats for each 2 damage taken."
+      },
+      "description": "The demon whose every drop of blood creates a new demon — Kali defeated him by drinking all the blood.",
+      "id": "bengali-hindu-020",
+      "culture_slug": "bengali-hindu"
+    }
+  ]
+}

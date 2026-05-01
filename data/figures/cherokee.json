@@ -1,0 +1,526 @@
+{
+  "culture_slug": "cherokee",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Unetlanvhi",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Unetlanvhi is a god from Cherokee tradition associated with creation, sky, spirit, and wisdom.",
+      "id": "cherokee-001",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Selu",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "motherhood"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Selu is a goddess from Cherokee tradition associated with corn, fertility, earth, and motherhood.",
+      "id": "cherokee-002",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Kana'ti",
+      "type": "hero",
+      "domains": [
+        "hunting",
+        "forest",
+        "provider",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Kana'ti is a hero from Cherokee tradition associated with hunting, forest, provider, and wisdom.",
+      "id": "cherokee-003",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Water Spider",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "water",
+        "craft",
+        "speed"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Water Spider is a spirit from Cherokee tradition associated with fire, water, craft, and speed.",
+      "id": "cherokee-004",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Thunder Boys",
+      "type": "spirit",
+      "domains": [
+        "thunder",
+        "storm",
+        "sky",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Thunder Boys is a spirit from Cherokee tradition associated with thunder, storm, sky, and war.",
+      "id": "cherokee-005",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Uktena",
+      "type": "monster",
+      "domains": [
+        "serpent",
+        "water",
+        "monster",
+        "magic"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Uktena is a monster from Cherokee tradition associated with serpent, water, monster, and magic.",
+      "id": "cherokee-006",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Nunnehi",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "mountain",
+        "protection",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 8,
+        "speed": 4,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Nunnehi is a spirit from Cherokee tradition associated with ancestor, mountain, protection, and spirit.",
+      "id": "cherokee-007",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Yunwi Tsunsdi",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "spirit",
+        "trickster",
+        "healing"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 9,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Yunwi Tsunsdi is a spirit from Cherokee tradition associated with forest, spirit, trickster, and healing.",
+      "id": "cherokee-008",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Spearfinger",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "stone",
+        "death",
+        "mountain"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Spearfinger is a monster from Cherokee tradition associated with monster, stone, death, and mountain.",
+      "id": "cherokee-009",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Stoneclad",
+      "type": "monster",
+      "domains": [
+        "stone",
+        "monster",
+        "strength",
+        "earth"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Stoneclad is a monster from Cherokee tradition associated with stone, monster, strength, and earth.",
+      "id": "cherokee-010",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Jistu",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "rabbit",
+        "speed",
+        "wit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Jistu is a spirit from Cherokee tradition associated with trickster, rabbit, speed, and wit.",
+      "id": "cherokee-011",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Great Buzzard",
+      "type": "creature",
+      "domains": [
+        "sky",
+        "creation",
+        "bird",
+        "wind"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Great Buzzard is a creature from Cherokee tradition associated with sky, creation, bird, and wind.",
+      "id": "cherokee-012",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Tsul 'Kalu",
+      "type": "god",
+      "domains": [
+        "hunting",
+        "mountain",
+        "animal",
+        "forest"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Hunter's Mark",
+        "description": "Mark a target; all damage dealt to it this turn is increased by 2."
+      },
+      "description": "Tsul 'Kalu is a god from Cherokee tradition associated with hunting, mountain, animal, and forest.",
+      "id": "cherokee-013",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Raven Mocker",
+      "type": "monster",
+      "domains": [
+        "death",
+        "night",
+        "monster",
+        "fear"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Raven Mocker is a monster from Cherokee tradition associated with death, night, monster, and fear.",
+      "id": "cherokee-014",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Wild Boy",
+      "type": "hero",
+      "domains": [
+        "forest",
+        "animal",
+        "strength",
+        "freedom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Wild Boy is a hero from Cherokee tradition associated with forest, animal, strength, and freedom.",
+      "id": "cherokee-015",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Little Deer",
+      "type": "spirit",
+      "domains": [
+        "animal",
+        "forest",
+        "guidance",
+        "speed"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Little Deer is a spirit from Cherokee tradition associated with animal, forest, guidance, and speed.",
+      "id": "cherokee-016",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Long Man",
+      "type": "god",
+      "domains": [
+        "river",
+        "water",
+        "earth",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Long Man is a god from Cherokee tradition associated with river, water, earth, and protection.",
+      "id": "cherokee-017",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Owl Spirit",
+      "type": "spirit",
+      "domains": [
+        "night",
+        "bird",
+        "warning",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Owl Spirit is a spirit from Cherokee tradition associated with night, bird, warning, and wisdom.",
+      "id": "cherokee-018",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Firekeepers",
+      "type": "guardian",
+      "domains": [
+        "fire",
+        "ritual",
+        "earth",
+        "order"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 4,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Firekeepers is a guardian from Cherokee tradition associated with fire, ritual, earth, and order.",
+      "id": "cherokee-019",
+      "culture_slug": "cherokee"
+    },
+    {
+      "name": "Medicine Boomer",
+      "type": "spirit",
+      "domains": [
+        "healing",
+        "ritual",
+        "wind",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Medicine Boomer is a spirit from Cherokee tradition associated with healing, ritual, wind, and spirit.",
+      "id": "cherokee-020",
+      "culture_slug": "cherokee"
+    }
+  ]
+}

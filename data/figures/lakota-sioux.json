@@ -1,0 +1,526 @@
+{
+  "culture_slug": "lakota-sioux",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Wakan Tanka",
+      "type": "god",
+      "domains": [
+        "sky",
+        "spirit",
+        "creation",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Wakan Tanka is a god from Lakota (Sioux) tradition associated with sky, spirit, creation, and wisdom.",
+      "id": "lakota-sioux-001",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "White Buffalo Calf Woman",
+      "type": "goddess",
+      "domains": [
+        "justice",
+        "ritual",
+        "fertility",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Judgment Oath",
+        "description": "Expose one enemy card; if it has higher power than wisdom, stun it for 1 turn."
+      },
+      "description": "White Buffalo Calf Woman is a goddess from Lakota (Sioux) tradition associated with justice, ritual, fertility, and light.",
+      "id": "lakota-sioux-002",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Iktomi",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "wisdom",
+        "story",
+        "speed"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Iktomi is a spirit from Lakota (Sioux) tradition associated with trickster, wisdom, story, and speed.",
+      "id": "lakota-sioux-003",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Inyan",
+      "type": "god",
+      "domains": [
+        "earth",
+        "stone",
+        "creation",
+        "endurance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Inyan is a god from Lakota (Sioux) tradition associated with earth, stone, creation, and endurance.",
+      "id": "lakota-sioux-004",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Wi",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "sky",
+        "life"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Wi is a god from Lakota (Sioux) tradition associated with sun, light, sky, and life.",
+      "id": "lakota-sioux-005",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Hanwi",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "night",
+        "beauty",
+        "fate"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Hanwi is a goddess from Lakota (Sioux) tradition associated with moon, night, beauty, and fate.",
+      "id": "lakota-sioux-006",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Skan",
+      "type": "god",
+      "domains": [
+        "sky",
+        "motion",
+        "spirit",
+        "time"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Skan is a god from Lakota (Sioux) tradition associated with sky, motion, spirit, and time.",
+      "id": "lakota-sioux-007",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Wakinyan",
+      "type": "creature",
+      "domains": [
+        "thunder",
+        "storm",
+        "bird",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Spear",
+        "description": "Deal 9 damage to one target and chain 3 damage to another enemy."
+      },
+      "description": "Wakinyan is a creature from Lakota (Sioux) tradition associated with thunder, storm, bird, and sky.",
+      "id": "lakota-sioux-008",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Unktehi",
+      "type": "monster",
+      "domains": [
+        "water",
+        "monster",
+        "serpent",
+        "earth"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Unktehi is a monster from Lakota (Sioux) tradition associated with water, monster, serpent, and earth.",
+      "id": "lakota-sioux-009",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Anog Ite",
+      "type": "goddess",
+      "domains": [
+        "beauty",
+        "fate",
+        "shadow",
+        "warning"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Anog Ite is a goddess from Lakota (Sioux) tradition associated with beauty, fate, shadow, and warning.",
+      "id": "lakota-sioux-010",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Wohpe",
+      "type": "goddess",
+      "domains": [
+        "peace",
+        "beauty",
+        "light",
+        "harmony"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Wohpe is a goddess from Lakota (Sioux) tradition associated with peace, beauty, light, and harmony.",
+      "id": "lakota-sioux-011",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Canotila",
+      "type": "spirit",
+      "domains": [
+        "forest",
+        "tree",
+        "healing",
+        "earth"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Canotila is a spirit from Lakota (Sioux) tradition associated with forest, tree, healing, and earth.",
+      "id": "lakota-sioux-012",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Iya",
+      "type": "monster",
+      "domains": [
+        "storm",
+        "chaos",
+        "monster",
+        "wind"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 5,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Iya is a monster from Lakota (Sioux) tradition associated with storm, chaos, monster, and wind.",
+      "id": "lakota-sioux-013",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Heyoka",
+      "type": "spirit",
+      "domains": [
+        "storm",
+        "trickster",
+        "vision",
+        "spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Heyoka is a spirit from Lakota (Sioux) tradition associated with storm, trickster, vision, and spirit.",
+      "id": "lakota-sioux-014",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Tate",
+      "type": "god",
+      "domains": [
+        "wind",
+        "sky",
+        "breath",
+        "speed"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Tate is a god from Lakota (Sioux) tradition associated with wind, sky, breath, and speed.",
+      "id": "lakota-sioux-015",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Gnaski",
+      "type": "monster",
+      "domains": [
+        "deception",
+        "monster",
+        "water",
+        "greed"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Gnaski is a monster from Lakota (Sioux) tradition associated with deception, monster, water, and greed.",
+      "id": "lakota-sioux-016",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Double Woman",
+      "type": "spirit",
+      "domains": [
+        "craft",
+        "fate",
+        "spirit",
+        "dream"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Double Woman is a spirit from Lakota (Sioux) tradition associated with craft, fate, spirit, and dream.",
+      "id": "lakota-sioux-017",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Okaga",
+      "type": "creature",
+      "domains": [
+        "bird",
+        "storm",
+        "sky",
+        "animal"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Okaga is a creature from Lakota (Sioux) tradition associated with bird, storm, sky, and animal.",
+      "id": "lakota-sioux-018",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Anukite",
+      "type": "monster",
+      "domains": [
+        "two-face",
+        "monster",
+        "night",
+        "fear"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Anukite is a monster from Lakota (Sioux) tradition associated with two-face, monster, night, and fear.",
+      "id": "lakota-sioux-019",
+      "culture_slug": "lakota-sioux"
+    },
+    {
+      "name": "Buffalo Nation",
+      "type": "guardian",
+      "domains": [
+        "animal",
+        "earth",
+        "abundance",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Buffalo Nation is a guardian from Lakota (Sioux) tradition associated with animal, earth, abundance, and protection.",
+      "id": "lakota-sioux-020",
+      "culture_slug": "lakota-sioux"
+    }
+  ]
+}

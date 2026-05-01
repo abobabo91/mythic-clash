@@ -1,0 +1,526 @@
+{
+  "culture_slug": "hopi",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tawa",
+      "type": "god",
+      "domains": [
+        "sun",
+        "creation",
+        "light",
+        "sky"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Tawa is a god from Hopi tradition associated with sun, creation, light, and sky.",
+      "id": "hopi-001",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Spider Grandmother",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "creation",
+        "craft",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Spider Grandmother is a goddess from Hopi tradition associated with wisdom, creation, craft, and spirit.",
+      "id": "hopi-002",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Sotuknang",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "order",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Sotuknang is a god from Hopi tradition associated with creation, sky, order, and wisdom.",
+      "id": "hopi-003",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Masauwu",
+      "type": "god",
+      "domains": [
+        "earth",
+        "death",
+        "fire",
+        "underworld"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Masauwu is a god from Hopi tradition associated with earth, death, fire, and underworld.",
+      "id": "hopi-004",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Muyingwa",
+      "type": "god",
+      "domains": [
+        "fertility",
+        "earth",
+        "agriculture",
+        "rain"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Muyingwa is a god from Hopi tradition associated with fertility, earth, agriculture, and rain.",
+      "id": "hopi-005",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Eototo",
+      "type": "god",
+      "domains": [
+        "ritual",
+        "rain",
+        "dance",
+        "sky"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Eototo is a god from Hopi tradition associated with ritual, rain, dance, and sky.",
+      "id": "hopi-006",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Angak'china",
+      "type": "spirit",
+      "domains": [
+        "rain",
+        "cloud",
+        "water",
+        "fertility"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Angak'china is a spirit from Hopi tradition associated with rain, cloud, water, and fertility.",
+      "id": "hopi-007",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Crow Mother",
+      "type": "goddess",
+      "domains": [
+        "ritual",
+        "education",
+        "protection",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Crow Mother is a goddess from Hopi tradition associated with ritual, education, protection, and spirit.",
+      "id": "hopi-008",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Pookanghoya",
+      "type": "hero",
+      "domains": [
+        "earth",
+        "balance",
+        "brotherhood",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Pookanghoya is a hero from Hopi tradition associated with earth, balance, brotherhood, and strength.",
+      "id": "hopi-009",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Palongawhoya",
+      "type": "hero",
+      "domains": [
+        "sound",
+        "echo",
+        "brotherhood",
+        "speed"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Palongawhoya is a hero from Hopi tradition associated with sound, echo, brotherhood, and speed.",
+      "id": "hopi-010",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Kokopelli",
+      "type": "spirit",
+      "domains": [
+        "fertility",
+        "music",
+        "trickster",
+        "joy"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Kokopelli is a spirit from Hopi tradition associated with fertility, music, trickster, and joy.",
+      "id": "hopi-011",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Hemis Kachina",
+      "type": "spirit",
+      "domains": [
+        "ritual",
+        "rain",
+        "light",
+        "dance"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Hemis Kachina is a spirit from Hopi tradition associated with ritual, rain, light, and dance.",
+      "id": "hopi-012",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Hahai-i Wuhti",
+      "type": "spirit",
+      "domains": [
+        "ritual",
+        "guidance",
+        "ancestor",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Hahai-i Wuhti is a spirit from Hopi tradition associated with ritual, guidance, ancestor, and wisdom.",
+      "id": "hopi-013",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Soyoko",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "winter",
+        "fear",
+        "discipline"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Soyoko is a monster from Hopi tradition associated with monster, winter, fear, and discipline.",
+      "id": "hopi-014",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Nataska",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "night",
+        "ritual",
+        "fear"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Nataska is a monster from Hopi tradition associated with monster, night, ritual, and fear.",
+      "id": "hopi-015",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Poli Mana",
+      "type": "spirit",
+      "domains": [
+        "butterfly",
+        "beauty",
+        "spring",
+        "light"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Poli Mana is a spirit from Hopi tradition associated with butterfly, beauty, spring, and light.",
+      "id": "hopi-016",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Talavai",
+      "type": "spirit",
+      "domains": [
+        "music",
+        "dance",
+        "ritual",
+        "joy"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Talavai is a spirit from Hopi tradition associated with music, dance, ritual, and joy.",
+      "id": "hopi-017",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Mongwu",
+      "type": "guardian",
+      "domains": [
+        "owl",
+        "night",
+        "wisdom",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Mongwu is a guardian from Hopi tradition associated with owl, night, wisdom, and protection.",
+      "id": "hopi-018",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Kachina Chief",
+      "type": "guardian",
+      "domains": [
+        "spirit",
+        "ritual",
+        "protection",
+        "sky"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Kachina Chief is a guardian from Hopi tradition associated with spirit, ritual, protection, and sky.",
+      "id": "hopi-019",
+      "culture_slug": "hopi"
+    },
+    {
+      "name": "Corn Maiden",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "abundance"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Corn Maiden is a goddess from Hopi tradition associated with corn, fertility, earth, and abundance.",
+      "id": "hopi-020",
+      "culture_slug": "hopi"
+    }
+  ]
+}

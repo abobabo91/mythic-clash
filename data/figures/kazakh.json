@@ -1,0 +1,526 @@
+{
+  "culture_slug": "kazakh",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tengri (Kazakh)",
+      "type": "god",
+      "domains": [
+        "sky",
+        "supreme",
+        "eternal",
+        "steppe"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Steppe Sky",
+        "description": "Grant all steppe-domain cards +4 power; the vast sky has no boundaries."
+      },
+      "description": "The supreme sky deity as revered by the Kazakh people, the eternal blue sky whose vastness mirrors the endless steppe.",
+      "id": "kazakh-001",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Umai (Kazakh)",
+      "type": "goddess",
+      "domains": [
+        "mother",
+        "children",
+        "fire",
+        "fertility"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Hearth Mother",
+        "description": "Protect all allied cards; the hearth fire cannot be extinguished for 2 turns."
+      },
+      "description": "The mother goddess of the Kazakhs, protector of children and hearth, whose sacred fire must never be allowed to go out in the yurt.",
+      "id": "kazakh-002",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Erklik (Kazakh)",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "evil",
+        "death",
+        "cold"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Winter Death",
+        "description": "Freeze all enemy cards; they lose 2 speed and cannot use heating abilities for 2 turns."
+      },
+      "description": "The Kazakh lord of the underworld, similar to Erlik, who rules the frozen lower realm and sends cold and death into the world.",
+      "id": "kazakh-003",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Kozy-Korpesh",
+      "type": "hero",
+      "domains": [
+        "love",
+        "tragedy",
+        "youth",
+        "betrothed"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Betrothed Bond",
+        "description": "Form an unbreakable bond with one allied card; both share damage and healing equally."
+      },
+      "description": "The hero of the great Kazakh epic of tragic love, betrothed from birth to Bayan-Sulu, whose story ends in death and transformation.",
+      "id": "kazakh-004",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Bayan-Sulu",
+      "type": "hero",
+      "domains": [
+        "love",
+        "faithfulness",
+        "tragedy",
+        "beauty"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Faithful Love",
+        "description": "If your partner card is destroyed, gain +4 to all stats from grief; avenge the loss."
+      },
+      "description": "The beautiful heroine of the Kazakh epic, faithful to her betrothed Kozy-Korpesh, whose love story became the greatest Kazakh romance.",
+      "id": "kazakh-005",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Alpamys",
+      "type": "hero",
+      "domains": [
+        "warrior",
+        "bow",
+        "strength",
+        "legend"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Hero's Return",
+        "description": "Return from seemingly impossible odds; if reduced to 1 HP, recover to 50% next turn."
+      },
+      "description": "The great hero of the Kazakh epic Alpamys, whose extraordinary strength and archery allow him to save his people after years of captivity.",
+      "id": "kazakh-006",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Koblandy Batyr",
+      "type": "hero",
+      "domains": [
+        "warrior",
+        "steppe",
+        "battle",
+        "honor"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Steppe Charge",
+        "description": "Charge across the steppe; deal 9 damage to one enemy and disrupt their entire formation."
+      },
+      "description": "The legendary Kazakh batyr (hero) who fought to protect his people from enemies, one of the greatest warriors of the Kazakh epic tradition.",
+      "id": "kazakh-007",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Er Targyn",
+      "type": "hero",
+      "domains": [
+        "wisdom",
+        "negotiation",
+        "peace",
+        "elder"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder's Peace",
+        "description": "Negotiate an end to one conflict; stop all combat for 1 turn and restore 3 HP to all."
+      },
+      "description": "The elder hero of Kazakh tradition who uses wisdom rather than force, whose counsel prevents wars and saves his people.",
+      "id": "kazakh-008",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Baksy (Shaman)",
+      "type": "spirit",
+      "domains": [
+        "shaman",
+        "healing",
+        "spirit world",
+        "drumming"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Spirit Drum",
+        "description": "Journey to the spirit world; retrieve one lost ability and bring it back into play."
+      },
+      "description": "The Kazakh shaman who beats a drum to travel between worlds, healing illness by retrieving lost souls from the spirit realm.",
+      "id": "kazakh-009",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Jetibar",
+      "type": "creature",
+      "domains": [
+        "seven-headed",
+        "dragon",
+        "evil",
+        "monster"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Seven Heads",
+        "description": "Attack seven times in one turn at reduced power; each head strikes a different target."
+      },
+      "description": "The seven-headed dragon of Kazakh folklore who must be defeated by the hero, representing the ultimate challenge of the epic quest.",
+      "id": "kazakh-010",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Aydahar",
+      "type": "creature",
+      "domains": [
+        "dragon",
+        "water",
+        "evil",
+        "serpent"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dragon's Hoard",
+        "description": "Steal 3 resources from the enemy; they cannot use those resources until reclaimed."
+      },
+      "description": "The great serpentine dragon of Kazakh mythology, an evil creature that must be overcome by the epic heroes.",
+      "id": "kazakh-011",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Zhetysu",
+      "type": "spirit",
+      "domains": [
+        "seven rivers",
+        "land",
+        "fertility",
+        "homeland"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Seven Rivers Land",
+        "description": "Bless the homeland; all allied cards on the field gain 3 HP from the fertile land."
+      },
+      "description": "The spirit of the Seven Rivers land, the ancestral homeland of the Kazakhs in what is now Kazakhstan, whose abundance sustains the people.",
+      "id": "kazakh-012",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Saryarka",
+      "type": "spirit",
+      "domains": [
+        "golden steppe",
+        "homeland",
+        "freedom",
+        "beauty"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Golden Steppe",
+        "description": "Freedom of the steppe; all allied cards can move to any position freely for 1 turn."
+      },
+      "description": "The spirit of the golden steppe, the vast Kazakh heartland whose endless grasslands have shaped the nomadic culture and identity.",
+      "id": "kazakh-013",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Konyr Ata",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "cattle",
+        "protection",
+        "herdsman"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Herd Blessing",
+        "description": "All livestock and animal-domain cards gain +2 to all stats; the ancestral cattle prosper."
+      },
+      "description": "The ancestor spirit protector of cattle and herds, essential to the nomadic Kazakh economy, propitiated before migrations.",
+      "id": "kazakh-014",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Aq Shamal",
+      "type": "spirit",
+      "domains": [
+        "white wind",
+        "messenger",
+        "swift",
+        "news"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 3,
+        "speed": 10,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "White Wind Message",
+        "description": "Deliver information instantly; look at the opponent's hand and choose one card to reveal."
+      },
+      "description": "The white wind spirit who carries messages across the steppe, associated with good news and the swift travel of the nomadic people.",
+      "id": "kazakh-015",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Threshold Witch",
+      "type": "spirit",
+      "domains": [
+        "witch",
+        "forest",
+        "tests",
+        "threshold"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Threshold Test",
+        "description": "Test one allied card; if they pass the wisdom check, they gain +3 to all stats permanently."
+      },
+      "description": "The boundary witch figure in Kazakh tradition who tests heroes and provides them with magical gifts or sends them to their doom.",
+      "id": "kazakh-016",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Kyz-Zhibek",
+      "type": "hero",
+      "domains": [
+        "love",
+        "beauty",
+        "tragedy",
+        "song"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Love Song",
+        "description": "Your song reaches across all distance; reconnect with any previously separated ally card."
+      },
+      "description": "The beautiful heroine of the Kazakh epic Kyz-Zhibek, whose love story ends in tragedy, one of the most beloved Kazakh romantic epics.",
+      "id": "kazakh-017",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Tolegen",
+      "type": "hero",
+      "domains": [
+        "love",
+        "journey",
+        "youth",
+        "tragic"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Journey for Love",
+        "description": "Travel to any zone; appear where most needed regardless of distance."
+      },
+      "description": "The young hero who journeys to win Kyz-Zhibek's love in the Kazakh epic, but whose tragic fate prevents their union.",
+      "id": "kazakh-018",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Qorqyt Ata",
+      "type": "hero",
+      "domains": [
+        "shaman-bard",
+        "kobyz",
+        "death-defier",
+        "music"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Kobyz Song",
+        "description": "Play the kobyz to freeze death itself; prevent one card from being destroyed for 2 turns."
+      },
+      "description": "The legendary Kazakh shaman-bard who invented the kobyz instrument and tried to escape death by traveling the world, whose music could freeze the grim reaper.",
+      "id": "kazakh-019",
+      "culture_slug": "kazakh"
+    },
+    {
+      "name": "Shamshi Qazaq",
+      "type": "hero",
+      "domains": [
+        "national hero",
+        "resistance",
+        "independence",
+        "steppe"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Steppe Freedom",
+        "description": "Resist all foreign control; allied cards cannot be converted or controlled by enemy abilities."
+      },
+      "description": "A legendary Kazakh hero of resistance, representing the spirit of national independence and the refusal to submit to foreign domination.",
+      "id": "kazakh-020",
+      "culture_slug": "kazakh"
+    }
+  ]
+}

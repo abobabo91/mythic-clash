@@ -1,0 +1,526 @@
+{
+  "culture_slug": "samoan",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tagaloa",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "sea",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Tagaloa is a god from Samoan tradition associated with creation, sky, sea, and light.",
+      "id": "samoan-001",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Nafanua",
+      "type": "goddess",
+      "domains": [
+        "war",
+        "prophecy",
+        "justice",
+        "kingship"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Nafanua is a goddess from Samoan tradition associated with war, prophecy, justice, and kingship.",
+      "id": "samoan-002",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Saveasi'uleo",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "spirit",
+        "darkness",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Saveasi'uleo is a god from Samoan tradition associated with underworld, spirit, darkness, and fate.",
+      "id": "samoan-003",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Taema",
+      "type": "spirit",
+      "domains": [
+        "tattoo",
+        "craft",
+        "water",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 6,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Taema is a spirit from Samoan tradition associated with tattoo, craft, water, and wisdom.",
+      "id": "samoan-004",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Tilafaiga",
+      "type": "spirit",
+      "domains": [
+        "tattoo",
+        "war",
+        "craft",
+        "trickster"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Tilafaiga is a spirit from Samoan tradition associated with tattoo, war, craft, and trickster.",
+      "id": "samoan-005",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Sina",
+      "type": "heroine",
+      "domains": [
+        "moon",
+        "love",
+        "water",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Sina is a heroine from Samoan tradition associated with moon, love, water, and beauty.",
+      "id": "samoan-006",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Tigilau",
+      "type": "hero",
+      "domains": [
+        "sea",
+        "voyage",
+        "love",
+        "kingship"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tigilau is a hero from Samoan tradition associated with sea, voyage, love, and kingship.",
+      "id": "samoan-007",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Ti'iti'i",
+      "type": "hero",
+      "domains": [
+        "fire",
+        "trickster",
+        "quest",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Ti'iti'i is a hero from Samoan tradition associated with fire, trickster, quest, and strength.",
+      "id": "samoan-008",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Mafui'e",
+      "type": "god",
+      "domains": [
+        "fire",
+        "underworld",
+        "storm",
+        "power"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Mafui'e is a god from Samoan tradition associated with fire, underworld, storm, and power.",
+      "id": "samoan-009",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Pili",
+      "type": "hero",
+      "domains": [
+        "voyage",
+        "kingship",
+        "ancestor",
+        "sea"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Pili is a hero from Samoan tradition associated with voyage, kingship, ancestor, and sea.",
+      "id": "samoan-010",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Tui Fiti",
+      "type": "hero",
+      "domains": [
+        "sea",
+        "challenge",
+        "kingship",
+        "honor"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Tui Fiti is a hero from Samoan tradition associated with sea, challenge, kingship, and honor.",
+      "id": "samoan-011",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Le Sa",
+      "type": "spirit",
+      "domains": [
+        "sacred",
+        "taboo",
+        "judgment",
+        "spirit"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Le Sa is a spirit from Samoan tradition associated with sacred, taboo, judgment, and spirit.",
+      "id": "samoan-012",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Moso",
+      "type": "hero",
+      "domains": [
+        "strength",
+        "voyage",
+        "trickster",
+        "animal"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Moso is a hero from Samoan tradition associated with strength, voyage, trickster, and animal.",
+      "id": "samoan-013",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Aitu",
+      "type": "spirit",
+      "domains": [
+        "spirit",
+        "night",
+        "ancestor",
+        "mystery"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Otherworld Touch",
+        "description": "Phase through danger, avoid the next hit, and gain +2 magic."
+      },
+      "description": "Aitu is a spirit from Samoan tradition associated with spirit, night, ancestor, and mystery.",
+      "id": "samoan-014",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Tuna",
+      "type": "creature",
+      "domains": [
+        "water",
+        "shapechanging",
+        "love",
+        "moon"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Tuna is a creature from Samoan tradition associated with water, shapechanging, love, and moon.",
+      "id": "samoan-015",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Pulotu Keeper",
+      "type": "guardian",
+      "domains": [
+        "underworld",
+        "spirit",
+        "threshold",
+        "night"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Pulotu Keeper is a guardian from Samoan tradition associated with underworld, spirit, threshold, and night.",
+      "id": "samoan-016",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Aloalo",
+      "type": "hero",
+      "domains": [
+        "sun",
+        "light",
+        "youth",
+        "sky"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Aloalo is a hero from Samoan tradition associated with sun, light, youth, and sky.",
+      "id": "samoan-017",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Nifoloa",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "night",
+        "serpent",
+        "darkness"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Nifoloa is a monster from Samoan tradition associated with monster, night, serpent, and darkness.",
+      "id": "samoan-018",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Coconut Eel",
+      "type": "creature",
+      "domains": [
+        "water",
+        "fertility",
+        "animal",
+        "sacrifice"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Coconut Eel is a creature from Samoan tradition associated with water, fertility, animal, and sacrifice.",
+      "id": "samoan-019",
+      "culture_slug": "samoan"
+    },
+    {
+      "name": "Falealupo Gate",
+      "type": "guardian",
+      "domains": [
+        "underworld",
+        "wind",
+        "spirit",
+        "sea"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Falealupo Gate is a guardian from Samoan tradition associated with underworld, wind, spirit, and sea.",
+      "id": "samoan-020",
+      "culture_slug": "samoan"
+    }
+  ]
+}

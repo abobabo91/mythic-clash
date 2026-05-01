@@ -1,0 +1,526 @@
+{
+  "culture_slug": "sogdian",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Nana (Sogdian)",
+      "type": "goddess",
+      "domains": [
+        "supreme",
+        "moon",
+        "war",
+        "fertility"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Silk Road Queen",
+        "description": "Control trade routes; double all resource generation and prevent enemy resource gain for 1 turn."
+      },
+      "description": "The supreme goddess of the Sogdians, depicted with multiple arms and attributes, combining the functions of moon goddess, war deity, and fertility.",
+      "id": "sogdian-001",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Ahura Mazda (Sogdian)",
+      "type": "god",
+      "domains": [
+        "light",
+        "truth",
+        "fire",
+        "supreme"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Divine Fire",
+        "description": "Purify all allied cards; remove dark influences and grant +2 to all stats."
+      },
+      "description": "The supreme Zoroastrian deity as understood in Sogdian syncretism, lord of light and truth, whose fire was maintained in Sogdian temples.",
+      "id": "sogdian-002",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Siyavash",
+      "type": "hero",
+      "domains": [
+        "fire test",
+        "innocence",
+        "martyrdom",
+        "horse"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Innocence Through Fire",
+        "description": "Ride through fire unharmed; prove innocence and gain +3 to all stats permanently."
+      },
+      "description": "The Iranian prince who proves his innocence by riding through fire unharmed, then is martyred, becoming a beloved figure in Sogdian art.",
+      "id": "sogdian-003",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Rustam (Sogdian)",
+      "type": "hero",
+      "domains": [
+        "champion",
+        "strength",
+        "loyalty",
+        "epic"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Champion's Blow",
+        "description": "Deal 12 damage to one target; no card can withstand the champion's full strength."
+      },
+      "description": "The great Iranian-Sogdian hero of the Shahnameh, whose strength is without equal and whose story was painted on Sogdian palace walls.",
+      "id": "sogdian-004",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Merchants of Samarkand",
+      "type": "hero",
+      "domains": [
+        "trade",
+        "silk road",
+        "wealth",
+        "diplomacy"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Silk Road Network",
+        "description": "Connect all allied cards in a trade network; each gains +2 to their weakest stat."
+      },
+      "description": "The legendary Sogdian merchants who dominated the Silk Road trade routes, establishing colonies from China to the Mediterranean.",
+      "id": "sogdian-005",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Varahran (Bahram)",
+      "type": "god",
+      "domains": [
+        "victory",
+        "war",
+        "fire",
+        "triumph"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Twelve Forms",
+        "description": "Cycle through twelve forms; choose the form that grants the stat boost needed most."
+      },
+      "description": "The Zoroastrian god of victory and triumph, worshipped intensely in Sogdia, who appears in twelve divine forms.",
+      "id": "sogdian-006",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Anahita (Sogdian)",
+      "type": "goddess",
+      "domains": [
+        "water",
+        "fertility",
+        "rivers",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "River Blessing",
+        "description": "Purify all water sources; heal all allied cards for 5 HP."
+      },
+      "description": "The great water goddess and goddess of rivers, worshipped across the Persian world including Sogdia, whose waters bring life and purification.",
+      "id": "sogdian-007",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Mithra (Sogdian)",
+      "type": "god",
+      "domains": [
+        "sun",
+        "contract",
+        "friendship",
+        "light"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Contract",
+        "description": "Establish a contract both parties must honor; both must fulfill stated actions for 2 turns."
+      },
+      "description": "The solar deity of contracts and friendship, revered in Sogdian tradition as a guarantor of oaths and a solar guardian.",
+      "id": "sogdian-008",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Shapur I (Sogdian art)",
+      "type": "hero",
+      "domains": [
+        "empire",
+        "victory",
+        "capture",
+        "glory"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Roman Triumph",
+        "description": "Capture one enemy card and use their stats as your own for 2 turns."
+      },
+      "description": "The Sasanian king whose victory over Roman emperors was celebrated in Sogdian art, representing the triumph of Iranian civilization.",
+      "id": "sogdian-009",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Sogdian Dancer",
+      "type": "spirit",
+      "domains": [
+        "feasting",
+        "music",
+        "dance",
+        "joy"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Feasting Hall Joy",
+        "description": "Boost all allied cards with the spirit of celebration; each gains +2 to magic."
+      },
+      "description": "The dancers depicted in Sogdian palace frescoes, who performed at the great feasts of the merchant lords, embodiments of Silk Road cosmopolitan culture.",
+      "id": "sogdian-010",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Fire Temple Priest",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "sacred",
+        "ritual",
+        "zoroastrian"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Fire Eternal",
+        "description": "Maintain the sacred fire; all fire-domain allied cards gain immunity to water effects."
+      },
+      "description": "The Zoroastrian fire priests of the Sogdian temples, who maintained the eternal flames and performed the rituals of purification.",
+      "id": "sogdian-011",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Afrasiyab",
+      "type": "hero",
+      "domains": [
+        "Turan",
+        "enemy",
+        "rival",
+        "power"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Turan's Might",
+        "description": "Represent the great rival power; deal 8 damage to any Iranian-mythic card."
+      },
+      "description": "The king of Turan and great enemy of Iran in the Shahnameh, whose battles with the Iranian heroes shaped the Sogdian understanding of cosmic conflict.",
+      "id": "sogdian-012",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Feridun",
+      "type": "hero",
+      "domains": [
+        "justice",
+        "tyrant-slayer",
+        "three sons",
+        "throne"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tyrant's Fall",
+        "description": "Defeat the greatest evil; deal 12 damage to the highest-powered enemy card."
+      },
+      "description": "The great Iranian hero who defeats the tyrant Zahhak and divides the world among his three sons, a story beloved in Sogdian tradition.",
+      "id": "sogdian-013",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Khosrow I (Anushirvan)",
+      "type": "hero",
+      "domains": [
+        "justice",
+        "golden age",
+        "wisdom",
+        "reform"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Just King",
+        "description": "Establish just rule; redistribute stats evenly among all allied cards."
+      },
+      "description": "The Sasanian king of the golden age, renowned for justice and wisdom, whose reforms were celebrated in Sogdian-influenced traditions.",
+      "id": "sogdian-014",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Sogdian Griffin",
+      "type": "creature",
+      "domains": [
+        "guardian",
+        "power",
+        "wealth",
+        "supernatural"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Treasure Guard",
+        "description": "Guard the Silk Road treasure; the next enemy resource theft is completely blocked and returned."
+      },
+      "description": "The griffins depicted in Sogdian art protecting the wealth of merchants, supernatural guardians of the trade routes.",
+      "id": "sogdian-015",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Camel Caravan Spirit",
+      "type": "spirit",
+      "domains": [
+        "trade",
+        "endurance",
+        "journey",
+        "desert"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Long Journey",
+        "description": "Travel the Silk Road; draw 3 cards representing distant goods and knowledge."
+      },
+      "description": "The spirit of the camel caravans that traversed the Silk Road, embodying the endurance and adventure of long-distance trade.",
+      "id": "sogdian-016",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Nanaï",
+      "type": "goddess",
+      "domains": [
+        "Sogdian lunar",
+        "war",
+        "protection",
+        "local"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lunar War Banner",
+        "description": "Raise the war banner under the moon; all allied cards in battle gain +3 power at night."
+      },
+      "description": "The local Sogdian form of the goddess Nana, who appears on coins and frescoes as a warrior deity protecting the Sogdian city-states.",
+      "id": "sogdian-017",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Manichaean Elect",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "purity",
+        "asceticism",
+        "missionary"
+      ],
+      "stats": {
+        "power": 3,
+        "defense": 4,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Light Seed",
+        "description": "Plant light seeds in three enemy cards; they gradually convert to light alignment over 3 turns."
+      },
+      "description": "The Manichaean religious elite who spread their faith along the Silk Road through Sogdia, embodying the cosmic battle of light against darkness.",
+      "id": "sogdian-018",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Alexander (Sogdian)",
+      "type": "hero",
+      "domains": [
+        "conquest",
+        "rock fortress",
+        "marriage",
+        "east"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Conqueror",
+        "description": "Conquer any zone; gain control of one territory card from the opponent."
+      },
+      "description": "Alexander the Great as experienced by the Sogdians, who fiercely resisted him and then influenced his culture, whose marriage to Roxana united east and west.",
+      "id": "sogdian-019",
+      "culture_slug": "sogdian"
+    },
+    {
+      "name": "Roxana",
+      "type": "hero",
+      "domains": [
+        "queen",
+        "alliance",
+        "beauty",
+        "east-west"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "East-West Bridge",
+        "description": "Unite opposing forces; cause two enemy cards to become allies instead of fighting each other."
+      },
+      "description": "The Sogdian princess who married Alexander the Great, becoming a symbol of the cultural bridge between East and West on the Silk Road.",
+      "id": "sogdian-020",
+      "culture_slug": "sogdian"
+    }
+  ]
+}

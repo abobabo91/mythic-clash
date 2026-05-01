@@ -1,0 +1,526 @@
+{
+  "culture_slug": "zapotec",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Cocijo",
+      "type": "god",
+      "domains": [
+        "storm",
+        "rain",
+        "lightning",
+        "fertility"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Cocijo is a god from Zapotec tradition associated with storm, rain, lightning, and fertility.",
+      "id": "zapotec-001",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Pije Tao",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "earth",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Pije Tao is a god from Zapotec tradition associated with creation, sky, earth, and wisdom.",
+      "id": "zapotec-002",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Coquihani",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "fire",
+        "sky"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Coquihani is a god from Zapotec tradition associated with sun, light, fire, and sky.",
+      "id": "zapotec-003",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Pitao Cozobi",
+      "type": "god",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "abundance"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Pitao Cozobi is a god from Zapotec tradition associated with corn, fertility, earth, and abundance.",
+      "id": "zapotec-004",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Coqui Bezelao",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Chthonic Gate",
+        "description": "Banish one enemy card for 1 turn and weaken it by 2 defense on return."
+      },
+      "description": "Coqui Bezelao is a god from Zapotec tradition associated with underworld, death, night, and spirit.",
+      "id": "zapotec-005",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Coqui Xee",
+      "type": "god",
+      "domains": [
+        "creation",
+        "light",
+        "sky",
+        "law"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Coqui Xee is a god from Zapotec tradition associated with creation, light, sky, and law.",
+      "id": "zapotec-006",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Cozaana",
+      "type": "ancestor",
+      "domains": [
+        "creation",
+        "ancestor",
+        "earth",
+        "family"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 3,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Cozaana is an ancestor from Zapotec tradition associated with creation, ancestor, earth, and family.",
+      "id": "zapotec-007",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Huichaana",
+      "type": "ancestor",
+      "domains": [
+        "fertility",
+        "creation",
+        "motherhood",
+        "earth"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "Huichaana is an ancestor from Zapotec tradition associated with fertility, creation, motherhood, and earth.",
+      "id": "zapotec-008",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Copijcha",
+      "type": "god",
+      "domains": [
+        "light",
+        "spring",
+        "renewal",
+        "sun"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Copijcha is a god from Zapotec tradition associated with light, spring, renewal, and sun.",
+      "id": "zapotec-009",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Ndan",
+      "type": "god",
+      "domains": [
+        "earth",
+        "mountain",
+        "strength",
+        "stone"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Ndan is a god from Zapotec tradition associated with earth, mountain, strength, and stone.",
+      "id": "zapotec-010",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Pije Xoo",
+      "type": "spirit",
+      "domains": [
+        "earth",
+        "ancestor",
+        "ritual",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Pije Xoo is a spirit from Zapotec tradition associated with earth, ancestor, ritual, and wisdom.",
+      "id": "zapotec-011",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Bat God",
+      "type": "monster",
+      "domains": [
+        "night",
+        "death",
+        "bat",
+        "underworld"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Bat God is a monster from Zapotec tradition associated with night, death, bat, and underworld.",
+      "id": "zapotec-012",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Thirteen Serpent",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "fate",
+        "water",
+        "power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Thirteen Serpent is a creature from Zapotec tradition associated with serpent, fate, water, and power.",
+      "id": "zapotec-013",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "One Death",
+      "type": "spirit",
+      "domains": [
+        "death",
+        "fate",
+        "night",
+        "underworld"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "One Death is a spirit from Zapotec tradition associated with death, fate, night, and underworld.",
+      "id": "zapotec-014",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Rain Jaguar",
+      "type": "creature",
+      "domains": [
+        "storm",
+        "animal",
+        "forest",
+        "strength"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Rain Jaguar is a creature from Zapotec tradition associated with storm, animal, forest, and strength.",
+      "id": "zapotec-015",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Lightning Serpent",
+      "type": "creature",
+      "domains": [
+        "lightning",
+        "serpent",
+        "storm",
+        "speed"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Lightning Serpent is a creature from Zapotec tradition associated with lightning, serpent, storm, and speed.",
+      "id": "zapotec-016",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Monte Alban Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "ancestor",
+        "stone",
+        "earth",
+        "kingship"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Monte Alban Ancestor is an ancestor from Zapotec tradition associated with ancestor, stone, earth, and kingship.",
+      "id": "zapotec-017",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Urn Guardian",
+      "type": "guardian",
+      "domains": [
+        "death",
+        "ritual",
+        "earth",
+        "protection"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 3,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Urn Guardian is a guardian from Zapotec tradition associated with death, ritual, earth, and protection.",
+      "id": "zapotec-018",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Corn Maiden",
+      "type": "goddess",
+      "domains": [
+        "corn",
+        "fertility",
+        "earth",
+        "life"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Grain",
+        "description": "Feed the field: all allied cards recover 3 HP and +1 wisdom."
+      },
+      "description": "Corn Maiden is a goddess from Zapotec tradition associated with corn, fertility, earth, and life.",
+      "id": "zapotec-019",
+      "culture_slug": "zapotec"
+    },
+    {
+      "name": "Cloud Priest",
+      "type": "spirit",
+      "domains": [
+        "rain",
+        "sky",
+        "ritual",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Monsoon Blessing",
+        "description": "Restore 5 HP across your field and reduce enemy fire power by 2."
+      },
+      "description": "Cloud Priest is a spirit from Zapotec tradition associated with rain, sky, ritual, and wisdom.",
+      "id": "zapotec-020",
+      "culture_slug": "zapotec"
+    }
+  ]
+}

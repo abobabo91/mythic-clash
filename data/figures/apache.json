@@ -1,0 +1,526 @@
+{
+  "culture_slug": "apache",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ussen",
+      "type": "god",
+      "domains": [
+        "creation",
+        "sky",
+        "wisdom",
+        "spirit"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Ussen is a god from Apache tradition associated with creation, sky, wisdom, and spirit.",
+      "id": "apache-001",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "White Painted Woman",
+      "type": "goddess",
+      "domains": [
+        "fertility",
+        "light",
+        "beauty",
+        "life"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Harvest Plenty",
+        "description": "Double resource growth for 1 turn and heal all allies for 2 HP."
+      },
+      "description": "White Painted Woman is a goddess from Apache tradition associated with fertility, light, beauty, and life.",
+      "id": "apache-002",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Killer of Enemies",
+      "type": "hero",
+      "domains": [
+        "war",
+        "justice",
+        "sun",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Killer of Enemies is a hero from Apache tradition associated with war, justice, sun, and strength.",
+      "id": "apache-003",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Child of the Water",
+      "type": "hero",
+      "domains": [
+        "water",
+        "war",
+        "protection",
+        "speed"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Child of the Water is a hero from Apache tradition associated with water, war, protection, and speed.",
+      "id": "apache-004",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Mountain Spirits",
+      "type": "spirit",
+      "domains": [
+        "mountain",
+        "healing",
+        "ritual",
+        "storm"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Mountain Spirits is a spirit from Apache tradition associated with mountain, healing, ritual, and storm.",
+      "id": "apache-005",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Black Hactcin",
+      "type": "spirit",
+      "domains": [
+        "earth",
+        "night",
+        "wisdom",
+        "ritual"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 7,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Black Hactcin is a spirit from Apache tradition associated with earth, night, wisdom, and ritual.",
+      "id": "apache-006",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "White Hactcin",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "spirit",
+        "wisdom",
+        "ritual"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "White Hactcin is a spirit from Apache tradition associated with light, spirit, wisdom, and ritual.",
+      "id": "apache-007",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Gahe",
+      "type": "spirit",
+      "domains": [
+        "water",
+        "healing",
+        "storm",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 8,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Gahe is a spirit from Apache tradition associated with water, healing, storm, and spirit.",
+      "id": "apache-008",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Big Owl",
+      "type": "monster",
+      "domains": [
+        "night",
+        "bird",
+        "monster",
+        "fear"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Big Owl is a monster from Apache tradition associated with night, bird, monster, and fear.",
+      "id": "apache-009",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Rolling Head",
+      "type": "monster",
+      "domains": [
+        "monster",
+        "death",
+        "night",
+        "terror"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Grave Call",
+        "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy."
+      },
+      "description": "Rolling Head is a monster from Apache tradition associated with monster, death, night, and terror.",
+      "id": "apache-010",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Coyote",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "desert",
+        "speed",
+        "wit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Coyote is a spirit from Apache tradition associated with trickster, desert, speed, and wit.",
+      "id": "apache-011",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Wind Spirit",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "desert",
+        "sky",
+        "speed"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Wind Spirit is a spirit from Apache tradition associated with wind, desert, sky, and speed.",
+      "id": "apache-012",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Fire Spirit",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "ritual",
+        "desert",
+        "power"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Fire Spirit is a spirit from Apache tradition associated with fire, ritual, desert, and power.",
+      "id": "apache-013",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Ga'an Dancer",
+      "type": "guardian",
+      "domains": [
+        "ritual",
+        "mountain",
+        "protection",
+        "spirit"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Ga'an Dancer is a guardian from Apache tradition associated with ritual, mountain, protection, and spirit.",
+      "id": "apache-014",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Changing Bear",
+      "type": "creature",
+      "domains": [
+        "animal",
+        "mountain",
+        "strength",
+        "earth"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Changing Bear is a creature from Apache tradition associated with animal, mountain, strength, and earth.",
+      "id": "apache-015",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Snake Boy",
+      "type": "hero",
+      "domains": [
+        "serpent",
+        "desert",
+        "youth",
+        "speed"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Snake Boy is a hero from Apache tradition associated with serpent, desert, youth, and speed.",
+      "id": "apache-016",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Thunder Runner",
+      "type": "hero",
+      "domains": [
+        "storm",
+        "speed",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Thunder Runner is a hero from Apache tradition associated with storm, speed, war, and sky.",
+      "id": "apache-017",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Turquoise Maiden",
+      "type": "heroine",
+      "domains": [
+        "light",
+        "water",
+        "beauty",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Turquoise Maiden is a heroine from Apache tradition associated with light, water, beauty, and protection.",
+      "id": "apache-018",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Red Ant Helper",
+      "type": "creature",
+      "domains": [
+        "earth",
+        "animal",
+        "endurance",
+        "craft"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Red Ant Helper is a creature from Apache tradition associated with earth, animal, endurance, and craft.",
+      "id": "apache-019",
+      "culture_slug": "apache"
+    },
+    {
+      "name": "Sunrise Guardian",
+      "type": "guardian",
+      "domains": [
+        "sun",
+        "mountain",
+        "protection",
+        "light"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Sunrise Guardian is a guardian from Apache tradition associated with sun, mountain, protection, and light.",
+      "id": "apache-020",
+      "culture_slug": "apache"
+    }
+  ]
+}

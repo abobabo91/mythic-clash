@@ -1,0 +1,518 @@
+{
+  "culture_slug": "ancient-chinese",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Pangu",
+      "type": "god",
+      "domains": [
+        "creation",
+        "cosmic separation",
+        "first being"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Creation",
+        "description": "Reshape the field completely: reset all card positions and all active effects."
+      },
+      "description": "The cosmic giant who separated heaven and earth with his axe and whose body became the world.",
+      "id": "ancient-chinese-001",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Nu Wa",
+      "type": "goddess",
+      "domains": [
+        "humanity creator",
+        "sky repairer",
+        "marriage",
+        "serpent"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky Repair",
+        "description": "Negate all catastrophic or field-destroying enemy abilities for 2 turns."
+      },
+      "description": "The serpent-bodied creator goddess who fashioned humans from yellow clay and repaired the broken sky.",
+      "id": "ancient-chinese-002",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Jade Emperor",
+      "type": "god",
+      "domains": [
+        "heaven's ruler",
+        "bureaucracy",
+        "cosmic authority"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Celestial Mandate",
+        "description": "All ally special abilities are approved: they cannot be denied or countered for 1 turn."
+      },
+      "description": "Supreme ruler of the celestial bureaucracy whose cosmic administration governs all gods, spirits and humans.",
+      "id": "ancient-chinese-003",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Sun Wukong",
+      "type": "hero",
+      "domains": [
+        "Monkey King",
+        "72 transformations",
+        "staff",
+        "rebellion"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "ability": {
+        "name": "72 Transformations",
+        "description": "Transform into any other card on the field; copy their stats and abilities for 2 turns."
+      },
+      "description": "The irrepressible Monkey King who defeated the armies of heaven, learned 72 transformations and sought immortality.",
+      "id": "ancient-chinese-004",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Nezha",
+      "type": "god",
+      "domains": [
+        "child god",
+        "lotus body",
+        "rings",
+        "fire wheels"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 10,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Universe Ring",
+        "description": "Deal 6 damage to all enemies; grant +3 speed to all child and youth allies."
+      },
+      "description": "The rebellious divine child reborn from lotus flowers who wields fire wheels and defies the Dragon Kings.",
+      "id": "ancient-chinese-005",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Guan Yu",
+      "type": "ancestor",
+      "domains": [
+        "war god",
+        "loyalty",
+        "brotherhood",
+        "righteous"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Righteousness",
+        "description": "All allies with loyalty abilities gain +4 power; enemy betrayal abilities auto-fail."
+      },
+      "description": "The deified Han general whose absolute loyalty and righteousness made him China's god of war and brotherhood.",
+      "id": "ancient-chinese-006",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Zhong Kui",
+      "type": "god",
+      "domains": [
+        "demon queller",
+        "ugly hero",
+        "underworld",
+        "scholar"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Demon Quelling",
+        "description": "Permanently expel one demon or dark enemy from the battle."
+      },
+      "description": "The ugly failed scholar who became the supreme queller of demons in the celestial hierarchy.",
+      "id": "ancient-chinese-007",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Chang'e",
+      "type": "goddess",
+      "domains": [
+        "moon goddess",
+        "immortality potion",
+        "jade rabbit",
+        "loneliness"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Moonlit Grace",
+        "description": "Grant all allies immunity to darkness for 1 turn; restore 3 HP from moonlight."
+      },
+      "description": "The moon goddess who drank the immortality elixir and flew to her lonely palace on the moon with her jade rabbit.",
+      "id": "ancient-chinese-008",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Lei Gong",
+      "type": "god",
+      "domains": [
+        "thunder god",
+        "drum",
+        "lightning",
+        "punishment"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Thunder Drum",
+        "description": "Deal 5 thunder damage to all enemies; stun those who committed evil deeds (dark alignment)."
+      },
+      "description": "The drum-bearing thunder deity who punishes the evil and those who escape human justice.",
+      "id": "ancient-chinese-009",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Dian Mu",
+      "type": "goddess",
+      "domains": [
+        "lightning goddess",
+        "Lei Gong's wife",
+        "mirrors"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Mirror Flash",
+        "description": "Blind all enemies for 1 turn with lightning mirrors; deal 3 damage to evil-aligned cards."
+      },
+      "description": "The lightning goddess who illuminates darkness with her mirrors to help Thunder Duke find guilty targets.",
+      "id": "ancient-chinese-010",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Dragon King",
+      "type": "god",
+      "domains": [
+        "water",
+        "rain",
+        "sea power",
+        "celestial court"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Dragon Rain",
+        "description": "Restore 3 HP to all water allies; inflict wet status on all fire-type enemies."
+      },
+      "description": "The four Dragon Kings of the seas who control rain, floods and all ocean power under the Jade Emperor.",
+      "id": "ancient-chinese-011",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Eight Immortals",
+      "type": "hero",
+      "domains": [
+        "ba xian",
+        "diverse powers",
+        "Taoist immortals"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Eight Treasures",
+        "description": "Each of the Eight grants +1 to a different stat: all eight stats on all allies increase by 1."
+      },
+      "description": "The Eight Immortals each bearing a sacred object and representing diverse paths to immortality.",
+      "id": "ancient-chinese-012",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Hou Yi",
+      "type": "hero",
+      "domains": [
+        "archer",
+        "ten suns",
+        "sun shooting",
+        "Chang'e's husband"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ten Suns Shot",
+        "description": "Deal 5 damage to one enemy repeatedly for 3 turns — always hits."
+      },
+      "description": "The divine archer who shot down nine of the ten suns to save the earth from burning.",
+      "id": "ancient-chinese-013",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Gong Gong",
+      "type": "monster",
+      "domains": [
+        "water god",
+        "chaos",
+        "pillar of heaven",
+        "flood"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "ability": {
+        "name": "Heaven's Pillar",
+        "description": "When this card rages, deal 4 damage to all cards and tilt the field: stats randomize by 1."
+      },
+      "description": "The water spirit whose rage shattered the pillar of heaven creating floods and tilting the world.",
+      "id": "ancient-chinese-014",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Fuxi",
+      "type": "god",
+      "domains": [
+        "civilization bringer",
+        "hexagrams",
+        "marriage",
+        "creator"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Eight Trigrams",
+        "description": "Read the I Ching: look at all enemy future plays for the next 2 turns."
+      },
+      "description": "The divine creator who invented writing, fishing, music and the I Ching — giver of all civilization.",
+      "id": "ancient-chinese-015",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Yellow Emperor",
+      "type": "ancestor",
+      "domains": [
+        "Huangdi",
+        "civilization",
+        "medicine",
+        "war"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Yellow Emperor's Canon",
+        "description": "All ally healing abilities gain +2 power from the divine emperor's medical wisdom."
+      },
+      "description": "The legendary Yellow Emperor whose reign established Chinese medicine, writing, music and government.",
+      "id": "ancient-chinese-016",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Meng Po",
+      "type": "goddess",
+      "domains": [
+        "forgetting soup",
+        "reincarnation",
+        "bridge of souls"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Five Flavors Soup",
+        "description": "Make one enemy forget their most recently used ability; they cannot use it again this battle."
+      },
+      "description": "The old woman at the bridge of souls who gives the soup of forgetfulness before reincarnation.",
+      "id": "ancient-chinese-017",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Tian Gou",
+      "type": "creature",
+      "domains": [
+        "celestial dog",
+        "eclipse",
+        "solar devourer"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Eclipse",
+        "description": "Block all sun and light abilities for 1 turn as the celestial dog swallows the sun."
+      },
+      "description": "The celestial dog who devours the sun causing eclipses and whose howl triggers celestial disasters.",
+      "id": "ancient-chinese-018",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Bai Ze",
+      "type": "creature",
+      "domains": [
+        "white beast",
+        "all knowledge",
+        "supernatural catalog"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Complete Catalog",
+        "description": "Reveal the type, abilities and weaknesses of all enemies on the field."
+      },
+      "description": "The mystical white beast who told the Yellow Emperor about all 11,520 species of supernatural beings.",
+      "id": "ancient-chinese-019",
+      "culture_slug": "ancient-chinese"
+    },
+    {
+      "name": "Xiwangmu",
+      "type": "goddess",
+      "domains": [
+        "Queen Mother of the West",
+        "peaches of immortality",
+        "Kunlun"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Immortal Peach",
+        "description": "Grant one ally immortality for 1 turn; that ally cannot be destroyed during this time."
+      },
+      "description": "The Queen Mother of the West who tends the peach garden of immortality and hosts the celestial banquets.",
+      "id": "ancient-chinese-020",
+      "culture_slug": "ancient-chinese"
+    }
+  ]
+}

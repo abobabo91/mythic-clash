@@ -1,0 +1,515 @@
+{
+  "culture_slug": "jain",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Rishabhadeva",
+      "type": "god",
+      "domains": [
+        "first Tirthankara",
+        "liberation",
+        "founder",
+        "bull"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "First Ford-Maker",
+        "description": "All allies begin battle immune to the first three attacks from cosmic protection."
+      },
+      "description": "The first Tirthankara who established civilization and then renounced all to attain liberation.",
+      "id": "jain-001",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Mahavira",
+      "type": "god",
+      "domains": [
+        "24th Tirthankara",
+        "non-violence",
+        "liberation",
+        "historical"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 10,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ahimsa Absolute",
+        "description": "No violence can be directed at nature or creature allies while Mahavira is in play."
+      },
+      "description": "The 24th and last Tirthankara whose radical non-violence and omniscient liberation founded modern Jainism.",
+      "id": "jain-002",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Parshvanatha",
+      "type": "god",
+      "domains": [
+        "23rd Tirthankara",
+        "serpent hood",
+        "precursor of Mahavira"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Serpent Protection",
+        "description": "Summon a serpent hood over one ally: they absorb 5 damage before it reaches them."
+      },
+      "description": "The 23rd Tirthankara whose multi-hooded serpent canopy protects him and who preceded Mahavira by 250 years.",
+      "id": "jain-003",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Bahubali",
+      "type": "hero",
+      "domains": [
+        "Gommateshvara",
+        "liberation",
+        "meditation",
+        "vines"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 4,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vine Meditation",
+        "description": "This card becomes immovable for 2 turns; in that time it absorbs all damage for all allies."
+      },
+      "description": "The Jain hero who stood in meditation so long that vines grew up his legs, achieving liberation through stillness.",
+      "id": "jain-004",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Chakravarti",
+      "type": "hero",
+      "domains": [
+        "world emperor",
+        "six divine treasures",
+        "dharma ruler"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Six Treasures",
+        "description": "Grant one ally six different +1 bonuses to six different stats simultaneously."
+      },
+      "description": "The universal world emperor of Jain cosmology who possesses six divine treasures but must renounce all for liberation.",
+      "id": "jain-005",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Ambika",
+      "type": "goddess",
+      "domains": [
+        "yakshi of Neminatha",
+        "lions",
+        "motherhood",
+        "beauty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Lion Throne",
+        "description": "Summon two lion guardians; grant all mother and protector allies +2 to all stats."
+      },
+      "description": "The beautiful golden yakshi of the 22nd Tirthankara who protects devotees riding her lion throne.",
+      "id": "jain-006",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Dharanendra",
+      "type": "god",
+      "domains": [
+        "naga protector",
+        "Parshvanatha's guard",
+        "serpent king"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Divine Cobra",
+        "description": "Protect one ally completely for 1 turn with divine serpent hood."
+      },
+      "description": "The naga king who protects Parshvanatha from rain and storms with his multi-hooded divine cobra canopy.",
+      "id": "jain-007",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Padmavati",
+      "type": "goddess",
+      "domains": [
+        "yakshi",
+        "lotus",
+        "Parshvanatha",
+        "protection"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Lotus Seat",
+        "description": "Restore 2 HP to all allies; grant +2 magic to all Jain-aligned allies."
+      },
+      "description": "The lotus-seated yakshi of Parshvanatha who protects Jain devotees and communities.",
+      "id": "jain-008",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Jinendra",
+      "type": "god",
+      "domains": [
+        "conqueror",
+        "all Tirthankaras collective",
+        "jina"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Victor's Power",
+        "description": "All Jain allies cannot be charmed or controlled by any means."
+      },
+      "description": "The title Jinendra — Lord of Conquerors — applied to all 24 Tirthankaras who conquered inner enemies.",
+      "id": "jain-009",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Harinegameshi",
+      "type": "deity",
+      "domains": [
+        "child liberator",
+        "embryo transfer",
+        "Mahavira's birth"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Transfer",
+        "description": "Move one ally's most important ability to another ally permanently."
+      },
+      "description": "The divine figure who transferred Mahavira's embryo from a brahmin womb to a kshatriya womb at Indra's command.",
+      "id": "jain-010",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Manibhadra",
+      "type": "god",
+      "domains": [
+        "merchant protector",
+        "yaksha",
+        "fortune",
+        "travelers"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Merchant's Ward",
+        "description": "Prevent all theft or steal abilities from affecting your allies this turn."
+      },
+      "description": "The great yaksha protector of merchants and travelers worshipped throughout Jain trading communities.",
+      "id": "jain-011",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Gomukha",
+      "type": "yaksha",
+      "domains": [
+        "Rishabhadeva's yaksha",
+        "bull face",
+        "power"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Bull Power",
+        "description": "All strength-based allies gain +2 power for 1 turn from bull energy."
+      },
+      "description": "The bull-faced yaksha protector of the first Tirthankara Rishabhadeva.",
+      "id": "jain-012",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Neminatha",
+      "type": "god",
+      "domains": [
+        "22nd Tirthankara",
+        "marriage renounced",
+        "animals"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Compassion Renounced",
+        "description": "All animal and creature allies gain +2 defense from protection."
+      },
+      "description": "The 22nd Tirthankara who renounced his marriage when he saw the animals being slaughtered for his wedding feast.",
+      "id": "jain-013",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Siddha Soul",
+      "type": "spirit",
+      "domains": [
+        "liberated soul",
+        "pure consciousness",
+        "apex"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Pure Liberation",
+        "description": "This card cannot be damaged, debuffed or affected by any ability from a state of pure liberation."
+      },
+      "description": "The liberated Jain soul at the apex of the universe — pure, weightless, omniscient and eternally free.",
+      "id": "jain-014",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Jain Monk",
+      "type": "hero",
+      "domains": [
+        "five vows",
+        "non-violence",
+        "truth",
+        "non-possession"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Five Vows",
+        "description": "This card cannot participate in violence; instead grant +3 to all ally magical defenses."
+      },
+      "description": "The Jain monk who has taken the five great vows: non-violence, truth, non-stealing, celibacy and non-possession.",
+      "id": "jain-015",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Suparshvanatha",
+      "type": "god",
+      "domains": [
+        "7th Tirthankara",
+        "serpent hood",
+        "liberation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Seventh Liberation",
+        "description": "Restore 3 HP to all allies from the seventh Tirthankara's cosmic compassion."
+      },
+      "description": "The seventh Tirthankara identified by the seven-hooded serpent canopy that shelters his meditation.",
+      "id": "jain-016",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Shantinatha",
+      "type": "god",
+      "domains": [
+        "16th Tirthankara",
+        "peace",
+        "deer",
+        "liberation"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 9,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Peace-Maker",
+        "description": "Remove all conflict debuffs; no enemy can initiate a new attack for 1 turn."
+      },
+      "description": "The 16th Tirthankara of peace whose symbol is the deer and who brings the tranquility of ahimsa.",
+      "id": "jain-017",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Kundakunda",
+      "type": "hero",
+      "domains": [
+        "philosopher",
+        "Samayasara",
+        "pure soul",
+        "Digambara"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Inner Self",
+        "description": "Grant one ally knowledge of their pure self: immunity to all external stat reduction for 1 turn."
+      },
+      "description": "The greatest Digambara Jain philosopher who wrote the Samayasara — the Essence of the Self.",
+      "id": "jain-018",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Leshya",
+      "type": "spirit",
+      "domains": [
+        "karmic color",
+        "soul coloring",
+        "black to white"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Color Change",
+        "description": "Change one card's alignment; their abilities shift to match their new color."
+      },
+      "description": "The six karmic colorings of the soul from black (wickedest) to white (purest) in Jain cosmology.",
+      "id": "jain-019",
+      "culture_slug": "jain"
+    },
+    {
+      "name": "Time Wheel",
+      "type": "spirit",
+      "domains": [
+        "cosmic time",
+        "Jain cosmic cycle",
+        "Kalachakra"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Cosmic Cycle",
+        "description": "All cards on the field age by 1 turn worth of effects: all timers advance."
+      },
+      "description": "The great cosmic time wheel of Jain cosmology that revolves through ascending and descending half-cycles eternally.",
+      "id": "jain-020",
+      "culture_slug": "jain"
+    }
+  ]
+}

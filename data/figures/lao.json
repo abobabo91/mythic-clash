@@ -1,0 +1,526 @@
+{
+  "culture_slug": "lao",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Phi Fa",
+      "type": "spirit",
+      "domains": [
+        "sky spirit",
+        "rain",
+        "lightning",
+        "storms"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 6,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Lightning Spirit",
+        "description": "Deal 7 damage to all enemy cards simultaneously with a lightning strike."
+      },
+      "description": "The sky spirit of Lao belief who governs thunder and lightning, propitiated during storms and before the rainy season.",
+      "id": "lao-001",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Khun Borom",
+      "type": "hero",
+      "domains": [
+        "ancestor",
+        "heaven",
+        "founding",
+        "rice"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Heavenly Descent",
+        "description": "Descend from the sky bringing all foundational resources; all allied cards gain 2 to all stats."
+      },
+      "description": "The heavenly ancestor of the Lao people who descended from the sky with his gourd of rice, founder of the royal lineage and agriculture.",
+      "id": "lao-002",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Nang Thorani (Lao)",
+      "type": "goddess",
+      "domains": [
+        "earth",
+        "witness",
+        "protection",
+        "water"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 8,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Earth Witness",
+        "description": "Call on the earth to witness; all deception and illusion effects on the field are nullified."
+      },
+      "description": "The earth goddess in Lao Buddhism, identical to the Thai Mae Thorani, whose hair-wringing drove away Mara's armies during the Buddha's enlightenment.",
+      "id": "lao-003",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Phra Lak",
+      "type": "hero",
+      "domains": [
+        "loyalty",
+        "brotherhood",
+        "warrior",
+        "devotion"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Devoted Brother",
+        "description": "Shield the strongest allied card from all attacks for 1 turn; take all damage instead."
+      },
+      "description": "The Lao version of Lakshmana, devoted brother of Phra Ram, whose loyalty and martial skill are celebrated in the Lao Ramayana Pha Lak Pha Lam.",
+      "id": "lao-004",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Phra Ram (Lao)",
+      "type": "hero",
+      "domains": [
+        "hero",
+        "bow",
+        "virtue",
+        "royalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Sacred Bow",
+        "description": "Fire an arrow that never misses; deal 9 damage to the enemy with the highest defense."
+      },
+      "description": "The Lao version of Rama, the great hero of the Pha Lak Pha Lam epic, whose journey and battles take on uniquely Lao characteristics.",
+      "id": "lao-005",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Nang Sida (Lao)",
+      "type": "goddess",
+      "domains": [
+        "virtue",
+        "beauty",
+        "devotion",
+        "earth-daughter"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Earth Daughter Purity",
+        "description": "Purify the entire field; all dark effects and curses are removed."
+      },
+      "description": "The Lao Sita, whose purity and devotion are central to the Lao Ramayana, proven by her return to the earth at the story's end.",
+      "id": "lao-006",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Thaen",
+      "type": "god",
+      "domains": [
+        "creator",
+        "sky",
+        "supreme",
+        "rice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "World Creation",
+        "description": "Create any terrain or environment card; it persists for the entire game."
+      },
+      "description": "The creator god of Lao cosmology, ruler of the sky realm, who sent rice down to humans and established the cosmic order.",
+      "id": "lao-007",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Mangkhalasena",
+      "type": "hero",
+      "domains": [
+        "warrior",
+        "elephant",
+        "battle",
+        "glory"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "War Elephant",
+        "description": "Charge all enemies with an elephant; deal 7 damage to the front row of enemies."
+      },
+      "description": "A great Lao warrior hero celebrated in temple murals, riding into battle on a war elephant in defense of the Lao kingdom.",
+      "id": "lao-008",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Naga (Lao)",
+      "type": "creature",
+      "domains": [
+        "serpent",
+        "Mekong",
+        "rain",
+        "guardian"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Mekong Guardian",
+        "description": "Control the Mekong; increase all water resources by 3 and prevent enemy water use."
+      },
+      "description": "The great naga of the Mekong River, central to Lao identity, whose fire bubbles at the naga fireballs festival signal the rainy season's end.",
+      "id": "lao-009",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Ketsana",
+      "type": "hero",
+      "domains": [
+        "heroic",
+        "dragon",
+        "quest",
+        "bravery"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Dragon Quest",
+        "description": "Embark on a quest; reveal three cards from the deck and take the one you need most."
+      },
+      "description": "A Lao hero of epic tales who battles dragons and supernatural forces, representing the bravery of the common hero in Lao folklore.",
+      "id": "lao-010",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Phi Pop (Lao)",
+      "type": "spirit",
+      "domains": [
+        "possession",
+        "illness",
+        "village",
+        "curse"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Village Curse",
+        "description": "Spread illness; all enemy cards in one row lose 2 HP per turn for 2 turns."
+      },
+      "description": "The possessing spirit of Lao belief that causes illness, feared throughout villages, similar to the Thai Phi Phop.",
+      "id": "lao-011",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Nang Ae Nang Kham",
+      "type": "spirit",
+      "domains": [
+        "golden girl",
+        "beauty",
+        "fortune",
+        "blessing"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 4,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Golden Fortune",
+        "description": "Grant 3 fortune tokens to allied cards; each token can be spent for +2 to any stat."
+      },
+      "description": "The golden spirit girl who brings fortune and beauty, propitiated in Lao homes for good luck and prosperity.",
+      "id": "lao-012",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Pou Gnoe Gna Gnoe",
+      "type": "spirit",
+      "domains": [
+        "ancestral",
+        "New Year",
+        "spirits",
+        "visiting"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancestral Visit",
+        "description": "Ancestral spirits visit; all allied cards are healed for 4 HP at the New Year moment."
+      },
+      "description": "The ancestral spirits who visit during the Lao New Year, bringing blessings from the realm of the ancestors to the living.",
+      "id": "lao-013",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Indra (Lao)",
+      "type": "god",
+      "domains": [
+        "heaven",
+        "rain",
+        "thunder",
+        "protection"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Heavenly Army",
+        "description": "Summon a celestial army; deal 5 damage to all enemies and grant all allies +2 defense."
+      },
+      "description": "Indra as revered in Lao Buddhism, lord of the Tavatimsa heaven and protector of righteous kings, whose sacred mount is the elephant.",
+      "id": "lao-014",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Yama (Lao)",
+      "type": "god",
+      "domains": [
+        "death",
+        "judgment",
+        "book of deeds",
+        "justice"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ledger of Deeds",
+        "description": "Read one card's history; deal damage equal to karmic debt accumulated this game."
+      },
+      "description": "The Lao lord of the dead who maintains the book of deeds, judging souls after death and determining their next incarnation.",
+      "id": "lao-015",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Kalakeya",
+      "type": "creature",
+      "domains": [
+        "demon",
+        "war",
+        "battle",
+        "obstacles"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "War Demons",
+        "description": "Release a horde of war demons; all enemy cards are attacked simultaneously for 4 damage each."
+      },
+      "description": "The demon warriors who appear as obstacles in Lao epic tales, testing the heroes with battle and supernatural challenges.",
+      "id": "lao-016",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Boon (Merit)",
+      "type": "spirit",
+      "domains": [
+        "merit",
+        "karma",
+        "good deeds",
+        "light"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Merit Making",
+        "description": "Gain merit tokens equal to good deeds this turn; spend them for any beneficial effect."
+      },
+      "description": "The spiritual force of accumulated merit in Lao Buddhism, which protects and elevates those who have performed virtuous deeds.",
+      "id": "lao-017",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Sin (Demerit)",
+      "type": "spirit",
+      "domains": [
+        "bad karma",
+        "misfortune",
+        "sin",
+        "darkness"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 3,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Karmic Debt",
+        "description": "Place karmic debt on one enemy; they lose 1 stat point for each dark action taken."
+      },
+      "description": "The accumulated negative karma in Lao Buddhist belief, the counterforce to merit, which leads souls to unfavorable rebirths.",
+      "id": "lao-018",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Sangkha Nakhon",
+      "type": "hero",
+      "domains": [
+        "merchant",
+        "sea voyage",
+        "riches",
+        "adventure"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 9,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Merchant Voyage",
+        "description": "Travel to a distant realm; draw 3 cards and gain resources from the journey."
+      },
+      "description": "A merchant hero of Lao folk tales who undertakes sea voyages and encounters supernatural beings, returning with wisdom and wealth.",
+      "id": "lao-019",
+      "culture_slug": "lao"
+    },
+    {
+      "name": "Pha Lak",
+      "type": "hero",
+      "domains": [
+        "devotion",
+        "elder brother",
+        "battle",
+        "loyalty"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Elder's Shield",
+        "description": "Protect all younger allied cards; they cannot be targeted while Pha Lak stands."
+      },
+      "description": "Variant spelling of Phra Lak, the devoted brother who fights alongside Phra Ram through all dangers in the Lao Ramayana tradition.",
+      "id": "lao-020",
+      "culture_slug": "lao"
+    }
+  ]
+}

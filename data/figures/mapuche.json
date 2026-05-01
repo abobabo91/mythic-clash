@@ -1,0 +1,526 @@
+{
+  "culture_slug": "mapuche",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Ngenechen",
+      "type": "god",
+      "domains": [
+        "creation",
+        "earth",
+        "spirit",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 9,
+        "speed": 6,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "World-Seed",
+        "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card."
+      },
+      "description": "Ngenechen is a god from Mapuche tradition associated with creation, earth, spirit, and wisdom.",
+      "id": "mapuche-001",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Antu",
+      "type": "god",
+      "domains": [
+        "sun",
+        "light",
+        "sky",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Solar Ascendance",
+        "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn."
+      },
+      "description": "Antu is a god from Mapuche tradition associated with sun, light, sky, and power.",
+      "id": "mapuche-002",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Kuyen",
+      "type": "goddess",
+      "domains": [
+        "moon",
+        "night",
+        "fertility",
+        "beauty"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Moonlit Veil",
+        "description": "Give one allied card stealth for 2 turns and restore 4 HP."
+      },
+      "description": "Kuyen is a goddess from Mapuche tradition associated with moon, night, fertility, and beauty.",
+      "id": "mapuche-003",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Pillan",
+      "type": "god",
+      "domains": [
+        "fire",
+        "storm",
+        "ancestor",
+        "mountain"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Pillan is a god from Mapuche tradition associated with fire, storm, ancestor, and mountain.",
+      "id": "mapuche-004",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Wangulen",
+      "type": "spirit",
+      "domains": [
+        "star",
+        "sky",
+        "light",
+        "beauty"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 8,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Wangulen is a spirit from Mapuche tradition associated with star, sky, light, and beauty.",
+      "id": "mapuche-005",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Tren Tren Vilu",
+      "type": "creature",
+      "domains": [
+        "earth",
+        "serpent",
+        "protection",
+        "mountain"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 10,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Tren Tren Vilu is a creature from Mapuche tradition associated with earth, serpent, protection, and mountain.",
+      "id": "mapuche-006",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Kai Kai Vilu",
+      "type": "creature",
+      "domains": [
+        "sea",
+        "serpent",
+        "flood",
+        "chaos"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ocean's Claim",
+        "description": "Pull one enemy out of position and lower its speed by 3."
+      },
+      "description": "Kai Kai Vilu is a creature from Mapuche tradition associated with sea, serpent, flood, and chaos.",
+      "id": "mapuche-007",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Cherufe",
+      "type": "monster",
+      "domains": [
+        "fire",
+        "volcano",
+        "monster",
+        "stone"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Cherufe is a monster from Mapuche tradition associated with fire, volcano, monster, and stone.",
+      "id": "mapuche-008",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Wekufe",
+      "type": "spirit",
+      "domains": [
+        "darkness",
+        "curse",
+        "night",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Shadow Eclipse",
+        "description": "Reduce all enemy stats by 2 for 1 turn and drain 3 life from the weakest foe."
+      },
+      "description": "Wekufe is a spirit from Mapuche tradition associated with darkness, curse, night, and spirit.",
+      "id": "mapuche-009",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Anchimallen",
+      "type": "spirit",
+      "domains": [
+        "light",
+        "night",
+        "magic",
+        "spirit"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Anchimallen is a spirit from Mapuche tradition associated with light, night, magic, and spirit.",
+      "id": "mapuche-010",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Chonchon",
+      "type": "monster",
+      "domains": [
+        "night",
+        "flight",
+        "monster",
+        "sorcery"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Mythic Presence",
+        "description": "Grant one allied card +2 to all stats until end of turn."
+      },
+      "description": "Chonchon is a monster from Mapuche tradition associated with night, flight, monster, and sorcery.",
+      "id": "mapuche-011",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Peripillan",
+      "type": "god",
+      "domains": [
+        "storm",
+        "war",
+        "mountain",
+        "fire"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Peripillan is a god from Mapuche tradition associated with storm, war, mountain, and fire.",
+      "id": "mapuche-012",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Ngen-ko",
+      "type": "guardian",
+      "domains": [
+        "water",
+        "river",
+        "protection",
+        "spirit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 9,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Tidal Ward",
+        "description": "Heal all allies for 3 HP and negate the next fire effect played against them."
+      },
+      "description": "Ngen-ko is a guardian from Mapuche tradition associated with water, river, protection, and spirit.",
+      "id": "mapuche-013",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Ngen-kurruf",
+      "type": "spirit",
+      "domains": [
+        "wind",
+        "sky",
+        "storm",
+        "speed"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Sky-Rider Rush",
+        "description": "Move freely, dodge the next attack, and gain +3 speed this turn."
+      },
+      "description": "Ngen-kurruf is a spirit from Mapuche tradition associated with wind, sky, storm, and speed.",
+      "id": "mapuche-014",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Machi Ancestor",
+      "type": "ancestor",
+      "domains": [
+        "healing",
+        "spirit",
+        "ritual",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 4,
+        "magic": 8,
+        "wisdom": 9
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Restoring Rite",
+        "description": "Restore one ally to full HP and remove one curse from it."
+      },
+      "description": "Machi Ancestor is an ancestor from Mapuche tradition associated with healing, spirit, ritual, and wisdom.",
+      "id": "mapuche-015",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Volcano Pillan",
+      "type": "spirit",
+      "domains": [
+        "fire",
+        "mountain",
+        "ancestor",
+        "rage"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Volcano Pillan is a spirit from Mapuche tradition associated with fire, mountain, ancestor, and rage.",
+      "id": "mapuche-016",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Pewma",
+      "type": "spirit",
+      "domains": [
+        "dream",
+        "wisdom",
+        "night",
+        "vision"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Pewma is a spirit from Mapuche tradition associated with dream, wisdom, night, and vision.",
+      "id": "mapuche-017",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Huentru Spirit",
+      "type": "spirit",
+      "domains": [
+        "ancestor",
+        "earth",
+        "guidance",
+        "honor"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Elder Memory",
+        "description": "Call on the elders to block the next attack against any ally."
+      },
+      "description": "Huentru Spirit is a spirit from Mapuche tradition associated with ancestor, earth, guidance, and honor.",
+      "id": "mapuche-018",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Mapu Guardian",
+      "type": "guardian",
+      "domains": [
+        "earth",
+        "protection",
+        "forest",
+        "spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 10,
+        "speed": 3,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Stoneheart Guard",
+        "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage."
+      },
+      "description": "Mapu Guardian is a guardian from Mapuche tradition associated with earth, protection, forest, and spirit.",
+      "id": "mapuche-019",
+      "culture_slug": "mapuche"
+    },
+    {
+      "name": "Caleufu Serpent",
+      "type": "creature",
+      "domains": [
+        "river",
+        "serpent",
+        "water",
+        "speed"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Coiled Fate",
+        "description": "Poison one enemy for 2 turns and steal 2 speed from it."
+      },
+      "description": "Caleufu Serpent is a creature from Mapuche tradition associated with river, serpent, water, and speed.",
+      "id": "mapuche-020",
+      "culture_slug": "mapuche"
+    }
+  ]
+}

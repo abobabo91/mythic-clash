@@ -1,0 +1,526 @@
+{
+  "culture_slug": "georgian-nart",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Amirani",
+      "type": "hero",
+      "domains": [
+        "fire",
+        "mountain",
+        "rebellion",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 9,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Amirani is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with fire, mountain, rebellion, and strength.",
+      "id": "georgian-nart-001",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Satanaya",
+      "type": "goddess",
+      "domains": [
+        "wisdom",
+        "motherhood",
+        "magic",
+        "fate"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 9,
+        "speed": 7,
+        "magic": 10,
+        "wisdom": 10
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Ancient Counsel",
+        "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom."
+      },
+      "description": "Satanaya is a goddess from Georgian / Caucasian (Nart Sagas) tradition associated with wisdom, motherhood, magic, and fate.",
+      "id": "georgian-nart-002",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Sosruko",
+      "type": "hero",
+      "domains": [
+        "fire",
+        "trickster",
+        "war",
+        "speed"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 6,
+        "speed": 10,
+        "magic": 6,
+        "wisdom": 6
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Ember Wrath",
+        "description": "Burn the opposing field for 3 damage now and 2 more next turn."
+      },
+      "description": "Sosruko is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with fire, trickster, war, and speed.",
+      "id": "georgian-nart-003",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Batraz",
+      "type": "hero",
+      "domains": [
+        "storm",
+        "iron",
+        "war",
+        "sky"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 5
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Batraz is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with storm, iron, war, and sky.",
+      "id": "georgian-nart-004",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Uryzmag",
+      "type": "hero",
+      "domains": [
+        "kingship",
+        "war",
+        "wisdom",
+        "honor"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 7,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Uryzmag is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with kingship, war, wisdom, and honor.",
+      "id": "georgian-nart-005",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Tlepsh",
+      "type": "god",
+      "domains": [
+        "iron",
+        "craft",
+        "fire",
+        "wisdom"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Forged Will",
+        "description": "Gain +3 power and +2 defense until the end of the turn."
+      },
+      "description": "Tlepsh is a god from Georgian / Caucasian (Nart Sagas) tradition associated with iron, craft, fire, and wisdom.",
+      "id": "georgian-nart-006",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Syrdon",
+      "type": "spirit",
+      "domains": [
+        "trickster",
+        "music",
+        "shadow",
+        "wit"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 4,
+        "speed": 9,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Clever Reversal",
+        "description": "Swap the highest and lowest stats of one enemy for 2 turns."
+      },
+      "description": "Syrdon is a spirit from Georgian / Caucasian (Nart Sagas) tradition associated with trickster, music, shadow, and wit.",
+      "id": "georgian-nart-007",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Dali",
+      "type": "goddess",
+      "domains": [
+        "animal",
+        "mountain",
+        "hunting",
+        "beauty"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Primal Charge",
+        "description": "Rush a target for 7 damage, then retreat without taking counter damage."
+      },
+      "description": "Dali is a goddess from Georgian / Caucasian (Nart Sagas) tradition associated with animal, mountain, hunting, and beauty.",
+      "id": "georgian-nart-008",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Khamyts",
+      "type": "hero",
+      "domains": [
+        "war",
+        "horse",
+        "honor",
+        "strength"
+      ],
+      "stats": {
+        "power": 10,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Khamyts is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with war, horse, honor, and strength.",
+      "id": "georgian-nart-009",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Atsamaz",
+      "type": "hero",
+      "domains": [
+        "music",
+        "love",
+        "spirit",
+        "nature"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Binding Charm",
+        "description": "Charm one enemy for 1 turn or create a protective bond between 2 allies."
+      },
+      "description": "Atsamaz is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with music, love, spirit, and nature.",
+      "id": "georgian-nart-010",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Mindia",
+      "type": "hero",
+      "domains": [
+        "forest",
+        "wisdom",
+        "animal",
+        "healing"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 6,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Mindia is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with forest, wisdom, animal, and healing.",
+      "id": "georgian-nart-011",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Kopala",
+      "type": "god",
+      "domains": [
+        "storm",
+        "war",
+        "mountain",
+        "justice"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 4,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Kopala is a god from Georgian / Caucasian (Nart Sagas) tradition associated with storm, war, mountain, and justice.",
+      "id": "georgian-nart-012",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Iakhsar",
+      "type": "god",
+      "domains": [
+        "war",
+        "hunting",
+        "mountain",
+        "protection"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 5,
+        "magic": 8,
+        "wisdom": 7
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Battle Surge",
+        "description": "All allied attackers gain +3 power and +1 speed this turn."
+      },
+      "description": "Iakhsar is a god from Georgian / Caucasian (Nart Sagas) tradition associated with war, hunting, mountain, and protection.",
+      "id": "georgian-nart-013",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Samdzimari",
+      "type": "spirit",
+      "domains": [
+        "mountain",
+        "fertility",
+        "love",
+        "light"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Samdzimari is a spirit from Georgian / Caucasian (Nart Sagas) tradition associated with mountain, fertility, love, and light.",
+      "id": "georgian-nart-014",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Ochokochi",
+      "type": "monster",
+      "domains": [
+        "forest",
+        "monster",
+        "hunting",
+        "night"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 5,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Wildwood Pact",
+        "description": "Summon a wild ally token and heal your weakest card for 4 HP."
+      },
+      "description": "Ochokochi is a monster from Georgian / Caucasian (Nart Sagas) tradition associated with forest, monster, hunting, and night.",
+      "id": "georgian-nart-015",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Gveleshapi",
+      "type": "monster",
+      "domains": [
+        "dragon",
+        "water",
+        "mountain",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 3
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Dragon's Breath",
+        "description": "Deal 10 damage to one enemy and frighten adjacent foes."
+      },
+      "description": "Gveleshapi is a monster from Georgian / Caucasian (Nart Sagas) tradition associated with dragon, water, mountain, and chaos.",
+      "id": "georgian-nart-016",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Devi",
+      "type": "monster",
+      "domains": [
+        "mountain",
+        "darkness",
+        "strength",
+        "chaos"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 7,
+        "wisdom": 4
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Peak Resolve",
+        "description": "This card becomes immovable for 2 turns and gains +3 defense."
+      },
+      "description": "Devi is a monster from Georgian / Caucasian (Nart Sagas) tradition associated with mountain, darkness, strength, and chaos.",
+      "id": "georgian-nart-017",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Ali",
+      "type": "spirit",
+      "domains": [
+        "storm",
+        "wind",
+        "mountain",
+        "night"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 6
+      },
+      "rarity": "common",
+      "alignment": "dark",
+      "ability": {
+        "name": "Storm Crown",
+        "description": "Strike all enemies for 4 damage and stun the fastest target."
+      },
+      "description": "Ali is a spirit from Georgian / Caucasian (Nart Sagas) tradition associated with storm, wind, mountain, and night.",
+      "id": "georgian-nart-018",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Tetri Giorgi",
+      "type": "hero",
+      "domains": [
+        "light",
+        "war",
+        "horse",
+        "protection"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 7,
+        "magic": 5,
+        "wisdom": 5
+      },
+      "rarity": "common",
+      "alignment": "light",
+      "ability": {
+        "name": "Radiant Aegis",
+        "description": "Remove one negative effect from all allies and raise their wisdom by 2."
+      },
+      "description": "Tetri Giorgi is a hero from Georgian / Caucasian (Nart Sagas) tradition associated with light, war, horse, and protection.",
+      "id": "georgian-nart-019",
+      "culture_slug": "georgian-nart"
+    },
+    {
+      "name": "Paskunji",
+      "type": "creature",
+      "domains": [
+        "sky",
+        "mountain",
+        "rescue",
+        "animal"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 7,
+        "magic": 7,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Vault of Heaven",
+        "description": "Reveal hidden enemies and grant all allies +2 magic."
+      },
+      "description": "Paskunji is a creature from Georgian / Caucasian (Nart Sagas) tradition associated with sky, mountain, rescue, and animal.",
+      "id": "georgian-nart-020",
+      "culture_slug": "georgian-nart"
+    }
+  ]
+}

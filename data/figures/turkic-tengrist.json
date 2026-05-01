@@ -1,0 +1,526 @@
+{
+  "culture_slug": "turkic-tengrist",
+  "count": 20,
+  "figures": [
+    {
+      "name": "Tengri",
+      "type": "god",
+      "domains": [
+        "sky",
+        "supreme",
+        "eternal",
+        "blue"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 9,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Eternal Blue Sky",
+        "description": "Grant all Tengrist-aligned cards +3 to all stats; the sky protects the chosen people."
+      },
+      "description": "The supreme sky deity of the Turkic and Mongolic peoples, the Eternal Blue Sky whose will determines the fate of nations and khans.",
+      "id": "turkic-tengrist-001",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Umay",
+      "type": "goddess",
+      "domains": [
+        "mother",
+        "fertility",
+        "children",
+        "fire"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 7,
+        "speed": 6,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Mother's Flame",
+        "description": "Protect all allied child or young hero cards; they gain +3 defense and cannot be sacrificed."
+      },
+      "description": "The great mother goddess of Turkic tradition, protector of children and women in childbirth, associated with the hearth fire.",
+      "id": "turkic-tengrist-002",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Erlik",
+      "type": "god",
+      "domains": [
+        "underworld",
+        "death",
+        "evil",
+        "temptation"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 6,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "dark",
+      "ability": {
+        "name": "Underworld Pull",
+        "description": "Drag the weakest enemy card to the underworld; they are removed for 3 turns then return weakened."
+      },
+      "description": "The lord of the underworld in Turkic shamanic tradition, the dark counterpart to Tengri, who rules the dead and tempts the living.",
+      "id": "turkic-tengrist-003",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Ulgen",
+      "type": "god",
+      "domains": [
+        "good",
+        "creation",
+        "sky",
+        "benevolence"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Creator's Blessing",
+        "description": "Restore all destroyed allied cards to half stats; the good god reclaims his own."
+      },
+      "description": "The benevolent sky deity who assists shamans on their upper-world journeys, counterpart to the underworld Erlik, source of light and good.",
+      "id": "turkic-tengrist-004",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Ayyildiz",
+      "type": "spirit",
+      "domains": [
+        "moon",
+        "star",
+        "guidance",
+        "Turkish"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 5,
+        "speed": 7,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "light",
+      "ability": {
+        "name": "Star and Crescent",
+        "description": "Guide all allied cards to safety; nullify all traps for 2 turns."
+      },
+      "description": "The moon and star, sacred symbols in Turkic cosmology representing celestial guidance, associated with the night sky's protective powers.",
+      "id": "turkic-tengrist-005",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Dede Korkut",
+      "type": "hero",
+      "domains": [
+        "shaman-bard",
+        "wisdom",
+        "stories",
+        "authority"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 5,
+        "magic": 7,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Epic Song",
+        "description": "Recite an epic that boosts all allied card stats by 2 for 3 turns."
+      },
+      "description": "The legendary shaman-bard and storyteller of the Oghuz Turks, whose Book of Dede Korkut is the foundational epic of Turkic culture.",
+      "id": "turkic-tengrist-006",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Bozkurt (Grey Wolf)",
+      "type": "creature",
+      "domains": [
+        "guide",
+        "totemic",
+        "ancestor",
+        "steppe"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Grey Wolf Ancestor",
+        "description": "All allied cards trace descent from the wolf; they gain +2 power and cannot flee."
+      },
+      "description": "The grey wolf, totemic ancestor and guide of the Turkic peoples, who led the ancestral Turks out of danger to a new homeland.",
+      "id": "turkic-tengrist-007",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Alp Arslan",
+      "type": "hero",
+      "domains": [
+        "sultan",
+        "victory",
+        "Manzikert",
+        "warrior"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 5,
+        "wisdom": 7
+      },
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Manzikert Charge",
+        "description": "Charge at superior numbers; if outnumbered, deal 50% more damage for 2 turns."
+      },
+      "description": "The great Seljuk sultan whose victory at Manzikert opened Anatolia to the Turks, celebrated as a warrior who trusted in Tengri's will.",
+      "id": "turkic-tengrist-008",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Koroglu",
+      "type": "hero",
+      "domains": [
+        "bandit hero",
+        "freedom",
+        "horse",
+        "rebellion"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 9,
+        "magic": 6,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Rebel Rider",
+        "description": "Ride against all injustice; deal 8 damage to any oppressor-type card."
+      },
+      "description": "The legendary outlaw hero of Turkic tradition, a rebel who fights against oppression and corruption, celebrated in epic poetry across Central Asia.",
+      "id": "turkic-tengrist-009",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Gok Tanri (Sky God)",
+      "type": "god",
+      "domains": [
+        "sky",
+        "thunder",
+        "storms",
+        "power"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 8,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Sky Thunder",
+        "description": "Strike the entire enemy field with lightning; each enemy takes 5 damage."
+      },
+      "description": "The blue sky god in its thunder aspect, whose lightning bolts smite the unrighteous and announce the will of heaven.",
+      "id": "turkic-tengrist-010",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Ak Ana",
+      "type": "spirit",
+      "domains": [
+        "white mother",
+        "creation",
+        "sea",
+        "first spirit"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 5,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "White Mother's Word",
+        "description": "Speak the first word; create one new ability that has never been used this game."
+      },
+      "description": "The White Mother, primordial spirit who spoke the first words to the creator Tengri, setting creation in motion in Turkic cosmogony.",
+      "id": "turkic-tengrist-011",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Sahmaran",
+      "type": "creature",
+      "domains": [
+        "snake queen",
+        "wisdom",
+        "healing",
+        "half-woman"
+      ],
+      "stats": {
+        "power": 5,
+        "defense": 6,
+        "speed": 6,
+        "magic": 9,
+        "wisdom": 9
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Serpent Wisdom",
+        "description": "Reveal all healing and poison knowledge; allied cards may use any healing ability for free."
+      },
+      "description": "The Queen of Serpents, half-woman half-snake, who lives underground and possesses healing knowledge, her body a cure for all poisons.",
+      "id": "turkic-tengrist-012",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Tepegoz",
+      "type": "creature",
+      "domains": [
+        "cyclops",
+        "giant",
+        "cave",
+        "terror"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 7,
+        "speed": 5,
+        "magic": 6,
+        "wisdom": 4
+      },
+      "rarity": "rare",
+      "alignment": "dark",
+      "ability": {
+        "name": "Single Eye",
+        "description": "See one enemy's weakness; deal 12 damage exploiting that flaw."
+      },
+      "description": "The one-eyed giant of the Oghuz epics, a cyclops-like monster born of a peri's union with a mortal, whose hide cannot be pierced by arrows.",
+      "id": "turkic-tengrist-013",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Bamsi Beyrek",
+      "type": "hero",
+      "domains": [
+        "archer",
+        "love",
+        "loyalty",
+        "captivity"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Undying Loyalty",
+        "description": "Return from any captivity or defeat; restore to 80% stats after being destroyed once."
+      },
+      "description": "The hero Bamsi Beyrek of the Book of Dede Korkut, captured by enemies but freed by his faithful betrothed after 16 years.",
+      "id": "turkic-tengrist-014",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Oghuz Khagan",
+      "type": "hero",
+      "domains": [
+        "founding",
+        "conquest",
+        "empire",
+        "ancestor"
+      ],
+      "stats": {
+        "power": 9,
+        "defense": 8,
+        "speed": 8,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "legendary",
+      "alignment": "light",
+      "ability": {
+        "name": "Empire Founding",
+        "description": "Establish dominance; all allied Turkic cards gain +3 to all stats permanently."
+      },
+      "description": "The legendary founding ancestor-hero of the Oghuz Turks, who conquered vast territories and established the great Oghuz confederation.",
+      "id": "turkic-tengrist-015",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Kirkpinar Pehlivan",
+      "type": "hero",
+      "domains": [
+        "wrestling",
+        "strength",
+        "honor",
+        "competition"
+      ],
+      "stats": {
+        "power": 8,
+        "defense": 7,
+        "speed": 6,
+        "magic": 5,
+        "wisdom": 6
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Oil Wrestling",
+        "description": "Grapple one enemy; they cannot use any ability for 2 turns while held."
+      },
+      "description": "The legendary oil wrestler hero of Turkic tradition, whose contests of strength and honor are preserved in the ancient Kirkpinar festival.",
+      "id": "turkic-tengrist-016",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Alkarisi",
+      "type": "spirit",
+      "domains": [
+        "nightmare",
+        "childbirth",
+        "female terror",
+        "illness"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 4,
+        "speed": 8,
+        "magic": 8,
+        "wisdom": 4
+      },
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "ability": {
+        "name": "Childbirth Terror",
+        "description": "Curse one allied card to be weakened at their most critical moment."
+      },
+      "description": "The Turkic nightmare demon who attacks women in childbirth and causes infant illness, one of the most feared spirits of folk belief.",
+      "id": "turkic-tengrist-017",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Hizir",
+      "type": "spirit",
+      "domains": [
+        "immortal guide",
+        "green",
+        "helper",
+        "sacred"
+      ],
+      "stats": {
+        "power": 4,
+        "defense": 5,
+        "speed": 7,
+        "magic": 9,
+        "wisdom": 10
+      },
+      "rarity": "rare",
+      "alignment": "light",
+      "ability": {
+        "name": "Green Man's Help",
+        "description": "Appear to the most desperate ally; instantly resolve their crisis with +5 to the needed stat."
+      },
+      "description": "The immortal green man who appears to help the desperate and lost, associated with Khidr in Islamic synthesis, Turkic culture's most benevolent wandering spirit.",
+      "id": "turkic-tengrist-018",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Suleyman Shah",
+      "type": "hero",
+      "domains": [
+        "ancestor",
+        "leadership",
+        "Anatolia",
+        "founding"
+      ],
+      "stats": {
+        "power": 7,
+        "defense": 7,
+        "speed": 6,
+        "magic": 6,
+        "wisdom": 8
+      },
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "ability": {
+        "name": "River Crossing",
+        "description": "Cross any barrier; allied cards can enter any zone regardless of terrain restrictions."
+      },
+      "description": "The grandfather of Osman I who drowned crossing the Euphrates, his tomb maintained as Turkish sovereign territory, founding ancestor of Ottoman glory.",
+      "id": "turkic-tengrist-019",
+      "culture_slug": "turkic-tengrist"
+    },
+    {
+      "name": "Asena",
+      "type": "creature",
+      "domains": [
+        "wolf",
+        "ancestor",
+        "nurturing",
+        "founding"
+      ],
+      "stats": {
+        "power": 6,
+        "defense": 6,
+        "speed": 8,
+        "magic": 7,
+        "wisdom": 7
+      },
+      "rarity": "rare",
+      "alignment": "neutral",
+      "ability": {
+        "name": "Wolf Mother",
+        "description": "Nurture the weakest allied card to full strength; it gains wolf totem +2 all stats."
+      },
+      "description": "The she-wolf who nursed the ancestral Turk from whom the ruling clan descended, the nurturing aspect of the wolf totem.",
+      "id": "turkic-tengrist-020",
+      "culture_slug": "turkic-tengrist"
+    }
+  ]
+}
