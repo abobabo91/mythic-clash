@@ -1,0 +1,1809 @@
+{
+  "set_code": "taino-caribbean-v1",
+  "culture_slug": "taino-caribbean",
+  "primary_family": "Tidebound",
+  "secondary_family": "Sanctuary",
+  "hero_id": "taino-caribbean-hero-yucahu-sea-root",
+  "notes": [
+    "Wave-five translation keeps Taino Caribbean readable as tide-heal tempo with storm bursts and sturdy ritual bodies.",
+    "Midgame anchors live in Atabey, Juracan, Yucahu, and the Cemi guard shell."
+  ],
+  "cards": [
+    {
+      "id": "taino-caribbean-hero-yucahu-sea-root",
+      "name": "Yucahu, Sea Root Father",
+      "card_type": "hero",
+      "culture_slug": "taino-caribbean",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "cassava",
+        "sea",
+        "fertility",
+        "life"
+      ],
+      "rules_text": "Hero Power - Guiding Tide (2): Heal a friendly Figure for 2. Give it +1 Attack this turn.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "taino-caribbean-hero-yucahu-sea-root-1",
+          "label": "Guiding Tide",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": null,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-001",
+      "name": "Yucahu",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "cassava",
+        "sea",
+        "fertility",
+        "life"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "taino-caribbean-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "taino-caribbean-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-002",
+      "name": "Atabey",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "water",
+        "fertility",
+        "motherhood",
+        "creation"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "taino-caribbean-002-1",
+          "label": "Mother Waters",
+          "timing": "passive",
+          "trigger": "on_turn_end",
+          "target_rule": "all_friendly_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-003",
+      "name": "Juracan",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "storm",
+        "wind",
+        "destruction",
+        "sky"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "taino-caribbean-003-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "taino-caribbean-003-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-004",
+      "name": "Guabancex",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "storm",
+        "hurricane",
+        "wind",
+        "rage"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "taino-caribbean-004-1",
+          "label": "Hurricane Rage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "taino-caribbean-004-2",
+          "label": "Hurricane Rage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-005",
+      "name": "Boinayel",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "rain",
+        "water",
+        "fertility",
+        "sky"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "taino-caribbean-005-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-006",
+      "name": "Marohu",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "light",
+        "clear sky",
+        "day"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-006-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "taino-caribbean-006-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-007",
+      "name": "Guatauba",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "thunder",
+        "storm",
+        "warning",
+        "sky"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-007-1",
+          "label": "Thunder Warning",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "taino-caribbean-007-2",
+          "label": "Thunder Warning",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-008",
+      "name": "Coatrisquie",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "flood",
+        "water",
+        "storm",
+        "sea"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-008-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-009",
+      "name": "Opiyelguobiran",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "dog",
+        "underworld",
+        "night",
+        "guidance"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-009-1",
+          "label": "Underworld Hound",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-010",
+      "name": "Deminan Caracaracol",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "trickster",
+        "sea",
+        "culture",
+        "wit"
+      ],
+      "rules_text": "Stealth. On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "taino-caribbean-010-1",
+          "label": "Clever Shell",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-011",
+      "name": "Bayamanaco",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "fire",
+        "culture",
+        "craft",
+        "wisdom"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "taino-caribbean-011-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-012",
+      "name": "Itiba Cahubaba",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "motherhood",
+        "fertility",
+        "cave",
+        "birth"
+      ],
+      "rules_text": "Guard. On play: Restore 2 Health to your Hero.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-012-1",
+          "label": "Birth Cavern",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-013",
+      "name": "Maquetaurie Guayaba",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "underworld",
+        "death",
+        "night",
+        "spirit"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "taino-caribbean-013-1",
+          "label": "Night Recall",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_from_discard",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 4
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-014",
+      "name": "Baibrama",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "healing",
+        "cassava",
+        "ritual",
+        "earth"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "taino-caribbean-014-1",
+          "label": "Cassava Rite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-015",
+      "name": "Cacibajagua",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "cave",
+        "creation",
+        "ancestor",
+        "earth"
+      ],
+      "rules_text": "Guard. On play: Summon a Cemi Spirit.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "taino-caribbean-015-1",
+          "label": "First Cavern",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "summon_token",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": "taino-caribbean-token-cemi-spirit",
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-016",
+      "name": "Corocote",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "messenger",
+        "sea",
+        "guidance",
+        "spirit"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "taino-caribbean-016-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-017",
+      "name": "Faraguvaol",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "wind",
+        "storm",
+        "sea",
+        "warning"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "taino-caribbean-018",
+      "name": "Guabonito",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "love",
+        "cave",
+        "beauty",
+        "water"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "taino-caribbean-018-1",
+          "label": "Water Bond",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-019",
+      "name": "Yaya",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "creation",
+        "water",
+        "wisdom",
+        "sky"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "taino-caribbean-019-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "taino-caribbean-020",
+      "name": "Cemi Keeper",
+      "card_type": "figure",
+      "culture_slug": "taino-caribbean",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "spirit",
+        "ancestor",
+        "ritual",
+        "protection"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "taino-caribbean-token-cemi-spirit",
+      "name": "Cemi Spirit",
+      "card_type": "token",
+      "culture_slug": "taino-caribbean",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": [
+        "ancestor",
+        "spirit",
+        "protection"
+      ],
+      "rules_text": "Guard.",
+      "cost": 0,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "taino-caribbean-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s1",
+      "name": "Taino Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s1-ab0",
+          "label": "Taino Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s1b",
+      "name": "Taino Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s1b-ab0",
+          "label": "Taino Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s2",
+      "name": "Taino Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s2-ab0",
+          "label": "Taino Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s3",
+      "name": "Taino Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s3-ab0",
+          "label": "Taino Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s4",
+      "name": "Taino Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s4-ab0",
+          "label": "Taino Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s5",
+      "name": "Taino Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s5-ab0",
+          "label": "Taino Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s6",
+      "name": "Taino Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s6-ab0",
+          "label": "Taino Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-s7",
+      "name": "Taino Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-s7-ab0",
+          "label": "Taino Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-r1",
+      "name": "Taino Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-r1-ab0",
+          "label": "Taino Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "taino-caribbean-r2",
+      "name": "Taino Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "taino-caribbean",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "taino-caribbean-r2-ab0",
+          "label": "Taino Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

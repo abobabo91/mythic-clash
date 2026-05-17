@@ -1,0 +1,102 @@
+{
+  "name": "muisca-colombian deck",
+  "hero_id": "muisca-colombian-hero-bochica-lawgiver",
+  "cards": [
+    {
+      "id": "muisca-colombian-011",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-004",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-018",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-009",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-008",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-003",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-006",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-002",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-005",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-001",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-015",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-016",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-010",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-012",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s1",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s1b",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s2",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s3",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s4",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s5",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s6",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-s7",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-r1",
+      "count": 1
+    },
+    {
+      "id": "muisca-colombian-r2",
+      "count": 1
+    }
+  ]
+}

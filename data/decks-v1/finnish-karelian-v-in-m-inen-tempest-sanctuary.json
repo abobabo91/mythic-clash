@@ -1,0 +1,102 @@
+{
+  "name": "finnish-karelian deck",
+  "hero_id": "finnish-karelian-hero-v-in-m-inen",
+  "cards": [
+    {
+      "id": "finnish-karelian-013",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-008",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-014",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-015",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-017",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-018",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-007",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-009",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-003",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-004",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-001",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-019",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-020",
+      "count": 1
+    },
+    {
+      "id": "finnish-karelian-016",
+      "count": 1
+    },
+    {
+      "id": "fk-s1",
+      "count": 1
+    },
+    {
+      "id": "fk-s1b",
+      "count": 1
+    },
+    {
+      "id": "fk-s2",
+      "count": 1
+    },
+    {
+      "id": "fk-s2b",
+      "count": 1
+    },
+    {
+      "id": "fk-s3",
+      "count": 1
+    },
+    {
+      "id": "fk-s4",
+      "count": 1
+    },
+    {
+      "id": "fk-s5",
+      "count": 1
+    },
+    {
+      "id": "fk-s6",
+      "count": 1
+    },
+    {
+      "id": "fk-r1",
+      "count": 1
+    },
+    {
+      "id": "fk-r2",
+      "count": 1
+    }
+  ]
+}

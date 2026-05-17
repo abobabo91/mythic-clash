@@ -5,27 +5,37 @@ Hearthstone-like prototype rules for Mythic Clash.
 from __future__ import annotations
 
 HERO_HEALTH = 30
-STARTING_HAND_FIRST = 3
-STARTING_HAND_SECOND = 4
+STARTING_HAND_FIRST = 4
+STARTING_HAND_SECOND = 5
 MAX_MANA = 10
-MAX_BOARD_SIZE = 7
+MAX_BOARD_SIZE = 5
 MAX_HAND_SIZE = 10
 MAX_TURNS = 30
 HERO_POWER_COST = 2
+SURVIVAL_INSTINCT_THRESHOLD = 15  # extra draw when HP <= this
+DESPERATE_DRAW_THRESHOLD = 5  # draw 2 extra (instead of 1) when HP <= this
+LAST_STAND_THRESHOLD = 10  # figures enter ready when HP <= this
 
 RULES_TEXT = """
 Mythic Clash Tavern Prototype
 
 Goal
 - Reduce the opposing hero from 30 Health to 0.
-- If the game reaches turn 30, the player with more total effective life wins.
+- Drawing from an empty deck deals escalating fatigue damage (1, 2, 3, ...).
+- Past turn 30, both players take escalating overtime fatigue each turn.
 
 Core structure
 - Each player has a hero, a deck, a hand, and a board.
-- Each side can control up to 7 minions.
+- Each side can control up to 5 figures.
 - Cards cost mana to play.
 - Mana increases by 1 each turn, up to 10.
-- The second player starts with an extra card and The Coin.
+- The second player starts with an extra card, The Coin, and 1 Ritual Mana after mulligan.
+
+Setup
+1. First player draws 4 cards.
+2. Second player draws 5 cards.
+3. Each player gets one mulligan.
+4. The second player gains The Coin after mulligan.
 
 Turn flow
 1. Start of turn:
@@ -54,6 +64,8 @@ Keywords in this prototype
 - Lifesteal: damage dealt also heals your hero.
 - Poisonous: any damage dealt to a minion destroys it.
 - Reborn: the first time this dies, return it with 1 Health.
+- Survival Instinct: at 15 or fewer Health, draw an extra card at the start of your turn. At 5 or fewer, draw 2 extra instead.
+- Last Stand: at 10 or fewer Health, your Figures enter play Ready (no sleeping).
 
 Competitive design goals
 - Low entry: one board, one resource, no reaction stack.

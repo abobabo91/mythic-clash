@@ -1,0 +1,1693 @@
+{
+  "set_code": "tongan-v1",
+  "culture_slug": "tongan",
+  "primary_family": "Tempest",
+  "secondary_family": "Gravebound",
+  "hero_id": "tongan-hero-tangaloa-eitumatupua",
+  "notes": [
+    "Bulk rollout translation keeps Tongan readable as tempest with a gravebound secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "tongan-hero-tangaloa-eitumatupua",
+      "name": "Tangaloa 'Eitumatupua, Tempest Paragon",
+      "card_type": "hero",
+      "culture_slug": "tongan",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "creation",
+        "kingship",
+        "light"
+      ],
+      "rules_text": "Hero Power - Sky Spark (2): Deal 1 damage to an enemy Figure. Draw a card from your top 3 cards.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "tongan-hero-tangaloa-eitumatupua-1",
+          "label": "Sky Spark",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "tongan-001",
+      "name": "Tangaloa 'Eitumatupua",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "creation",
+        "kingship",
+        "light"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "tongan-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tongan-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-002",
+      "name": "Hikule'o",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "legendary",
+      "alignment": "dark",
+      "traits": [
+        "underworld",
+        "spirit",
+        "fertility",
+        "power"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "tongan-002-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tongan-002-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-003",
+      "name": "Maui Kisikisi",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "trickster",
+        "sun",
+        "sea",
+        "quest"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tongan-003-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tongan-003-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-004",
+      "name": "Maui Atalanga",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "strength",
+        "sea",
+        "voyage",
+        "family"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-004-1",
+          "label": "Ocean's Claim",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-005",
+      "name": "Hina",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "moon",
+        "beauty",
+        "wisdom",
+        "water"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tongan-005-1",
+          "label": "Moonlit Veil",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-006",
+      "name": "Aho'eitu",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "sky",
+        "kingship",
+        "ancestor",
+        "honor"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tongan-006-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tongan-006-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-007",
+      "name": "Havea Hikule'o",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "underworld",
+        "storm",
+        "darkness",
+        "earth"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-007-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-008",
+      "name": "Sinilau",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "sea",
+        "abundance",
+        "love",
+        "water"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-008-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-009",
+      "name": "Lau-fakanaa",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "voyage",
+        "trickster",
+        "sea",
+        "wisdom"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-009-1",
+          "label": "Clever Reversal",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-010",
+      "name": "Kae",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "trickster",
+        "theft",
+        "sea",
+        "speech"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-010-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-011",
+      "name": "Lata",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "voyage",
+        "craft",
+        "forest",
+        "quest"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": []
+    },
+    {
+      "id": "tongan-012",
+      "name": "Toloa",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "bird",
+        "voyage",
+        "sky",
+        "guidance"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tongan-012-1",
+          "label": "Vault of Heaven",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-013",
+      "name": "Pulotu Keeper",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "underworld",
+        "spirit",
+        "threshold",
+        "night"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tongan-013-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-014",
+      "name": "Ilaheva",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "love",
+        "kingship",
+        "sea",
+        "beauty"
+      ],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "tongan-015",
+      "name": "Niuhi",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "shark",
+        "sea",
+        "monster",
+        "hunger"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "monster"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tongan-015-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-016",
+      "name": "Lupe",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "bird",
+        "messenger",
+        "sky",
+        "guidance"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tongan-016-1",
+          "label": "Vault of Heaven",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-017",
+      "name": "Talatupou",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "voyage",
+        "honor",
+        "sea",
+        "strength"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "tongan-018",
+      "name": "Tafakula",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "sea",
+        "animal",
+        "storm",
+        "fury"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tongan-018-1",
+          "label": "Ocean's Claim",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-019",
+      "name": "Tongahiti",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "ancestor",
+        "voyage",
+        "kingship",
+        "earth"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tongan-019-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tongan-020",
+      "name": "Kau'ulufonua",
+      "card_type": "figure",
+      "culture_slug": "tongan",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "kingship",
+        "justice",
+        "war",
+        "earth"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tongan-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s1",
+      "name": "Tongan Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s1-ab0",
+          "label": "Tongan Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s1b",
+      "name": "Tongan Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s1b-ab0",
+          "label": "Tongan Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s2",
+      "name": "Tongan Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s2-ab0",
+          "label": "Tongan Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s3",
+      "name": "Tongan Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s3-ab0",
+          "label": "Tongan Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s4",
+      "name": "Tongan Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s4-ab0",
+          "label": "Tongan Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s5",
+      "name": "Tongan Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s5-ab0",
+          "label": "Tongan Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s6",
+      "name": "Tongan Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s6-ab0",
+          "label": "Tongan Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-s7",
+      "name": "Tongan Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-s7-ab0",
+          "label": "Tongan Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-r1",
+      "name": "Tongan Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-r1-ab0",
+          "label": "Tongan Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tongan-r2",
+      "name": "Tongan Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "tongan",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tongan-r2-ab0",
+          "label": "Tongan Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

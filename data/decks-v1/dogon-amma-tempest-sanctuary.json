@@ -1,0 +1,102 @@
+{
+  "name": "dogon deck",
+  "hero_id": "dogon-hero-amma",
+  "cards": [
+    {
+      "id": "dogon-014",
+      "count": 1
+    },
+    {
+      "id": "dogon-016",
+      "count": 1
+    },
+    {
+      "id": "dogon-018",
+      "count": 1
+    },
+    {
+      "id": "dogon-007",
+      "count": 1
+    },
+    {
+      "id": "dogon-017",
+      "count": 1
+    },
+    {
+      "id": "dogon-008",
+      "count": 1
+    },
+    {
+      "id": "dogon-009",
+      "count": 1
+    },
+    {
+      "id": "dogon-003",
+      "count": 1
+    },
+    {
+      "id": "dogon-004",
+      "count": 1
+    },
+    {
+      "id": "dogon-001",
+      "count": 1
+    },
+    {
+      "id": "dogon-019",
+      "count": 1
+    },
+    {
+      "id": "dogon-020",
+      "count": 1
+    },
+    {
+      "id": "dogon-013",
+      "count": 1
+    },
+    {
+      "id": "dogon-015",
+      "count": 1
+    },
+    {
+      "id": "dogon-s1",
+      "count": 1
+    },
+    {
+      "id": "dogon-s1b",
+      "count": 1
+    },
+    {
+      "id": "dogon-s2",
+      "count": 1
+    },
+    {
+      "id": "dogon-s3",
+      "count": 1
+    },
+    {
+      "id": "dogon-s4",
+      "count": 1
+    },
+    {
+      "id": "dogon-s5",
+      "count": 1
+    },
+    {
+      "id": "dogon-s6",
+      "count": 1
+    },
+    {
+      "id": "dogon-s7",
+      "count": 1
+    },
+    {
+      "id": "dogon-r1",
+      "count": 1
+    },
+    {
+      "id": "dogon-r2",
+      "count": 1
+    }
+  ]
+}

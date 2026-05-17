@@ -1,0 +1,102 @@
+{
+  "name": "fon-ewe-dahomey deck",
+  "hero_id": "fon-ewe-dahomey-hero-mawu",
+  "cards": [
+    {
+      "id": "fon-ewe-dahomey-014",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-008",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-018",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-013",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-017",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-007",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-009",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-003",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-004",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-001",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-019",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-020",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-015",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-016",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s1",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s1b",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s2",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s3",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s4",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s5",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s6",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-s7",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-r1",
+      "count": 1
+    },
+    {
+      "id": "fon-ewe-dahomey-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "candidate": "shaiva-hindu",
+  "benchmarks": [
+    "ancient-greek"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 0,
+      "losses": 4,
+      "draws": 0,
+      "average_turn": 7.0,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 45,
+          "candidate_health": 0,
+          "benchmark_health": 22
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 41,
+          "candidate_health": -1,
+          "benchmark_health": 12
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 50,
+          "candidate_health": -2,
+          "benchmark_health": 1
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 40,
+          "candidate_health": -1,
+          "benchmark_health": 22
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 140
+}

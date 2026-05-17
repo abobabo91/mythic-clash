@@ -1,0 +1,102 @@
+{
+  "name": "akan deck",
+  "hero_id": "akan-hero-nyame",
+  "cards": [
+    {
+      "id": "akan-020",
+      "count": 1
+    },
+    {
+      "id": "akan-014",
+      "count": 1
+    },
+    {
+      "id": "akan-018",
+      "count": 1
+    },
+    {
+      "id": "akan-007",
+      "count": 1
+    },
+    {
+      "id": "akan-013",
+      "count": 1
+    },
+    {
+      "id": "akan-008",
+      "count": 1
+    },
+    {
+      "id": "akan-009",
+      "count": 1
+    },
+    {
+      "id": "akan-003",
+      "count": 1
+    },
+    {
+      "id": "akan-004",
+      "count": 1
+    },
+    {
+      "id": "akan-001",
+      "count": 1
+    },
+    {
+      "id": "akan-017",
+      "count": 1
+    },
+    {
+      "id": "akan-019",
+      "count": 1
+    },
+    {
+      "id": "akan-015",
+      "count": 1
+    },
+    {
+      "id": "akan-016",
+      "count": 1
+    },
+    {
+      "id": "akan-s1",
+      "count": 1
+    },
+    {
+      "id": "akan-s1b",
+      "count": 1
+    },
+    {
+      "id": "akan-s2",
+      "count": 1
+    },
+    {
+      "id": "akan-s3",
+      "count": 1
+    },
+    {
+      "id": "akan-s4",
+      "count": 1
+    },
+    {
+      "id": "akan-s5",
+      "count": 1
+    },
+    {
+      "id": "akan-s6",
+      "count": 1
+    },
+    {
+      "id": "akan-s7",
+      "count": 1
+    },
+    {
+      "id": "akan-r1",
+      "count": 1
+    },
+    {
+      "id": "akan-r2",
+      "count": 1
+    }
+  ]
+}

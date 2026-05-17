@@ -1,0 +1,1754 @@
+{
+  "set_code": "muisca-colombian-v1",
+  "culture_slug": "muisca-colombian",
+  "primary_family": "Sanctuary",
+  "secondary_family": "Oracle",
+  "hero_id": "muisca-colombian-hero-bochica-lawgiver",
+  "notes": [
+    "Wave-three translation keeps Muisca readable as healing-light control with bounded draw and freeze tools.",
+    "Midgame stability comes from Bachue, Chibchacum, Sue, and the guard-heal raft shell."
+  ],
+  "cards": [
+    {
+      "id": "muisca-colombian-hero-bochica-lawgiver",
+      "name": "Bochica, Lawgiver of Light",
+      "card_type": "hero",
+      "culture_slug": "muisca-colombian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "wisdom",
+        "justice",
+        "civilization",
+        "light"
+      ],
+      "rules_text": "Hero Power - Ancient Counsel (2): Draw a card from your top 3 cards. Give a friendly Figure +1 Health.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "muisca-colombian-hero-bochica-lawgiver-1",
+          "label": "Ancient Counsel",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": null,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-001",
+      "name": "Chiminigagua",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "creation",
+        "light",
+        "sky",
+        "wisdom"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 8,
+      "abilities": [
+        {
+          "id": "muisca-colombian-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "muisca-colombian-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-002",
+      "name": "Bochica",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "wisdom",
+        "light",
+        "justice",
+        "civilization"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "muisca-colombian-002-1",
+          "label": "Path of Law",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "heal",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-003",
+      "name": "Bachue",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "fertility",
+        "water",
+        "motherhood",
+        "creation"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "muisca-colombian-003-1",
+          "label": "First Family",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_friendly_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "muisca-colombian-003-2",
+          "label": "First Family",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "summon_token",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": "muisca-token-lake-child",
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-004",
+      "name": "Chia",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "moon",
+        "night",
+        "fertility",
+        "light"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "muisca-colombian-004-1",
+          "label": "Moonlit Veil",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-005",
+      "name": "Sue",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "light",
+        "sky",
+        "life"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "muisca-colombian-005-1",
+          "label": "Solar Verdict",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-006",
+      "name": "Huitaca",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "trickster",
+        "moon",
+        "beauty",
+        "rebellion"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "muisca-colombian-006-1",
+          "label": "Clever Reversal",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_to_hand",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 4
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-007",
+      "name": "Chibchacum",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "rain",
+        "storm",
+        "earth",
+        "strength"
+      ],
+      "rules_text": "Guard. On play: Heal your Hero for 3.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "muisca-colombian-007-1",
+          "label": "Rainfather",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-008",
+      "name": "Cuchavira",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "rainbow",
+        "healing",
+        "light",
+        "water"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "muisca-colombian-008-1",
+          "label": "Rainbow Restoration",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-009",
+      "name": "Chaquen",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "war",
+        "fertility",
+        "fields",
+        "strength"
+      ],
+      "rules_text": "Rush.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "muisca-colombian-010",
+      "name": "Nencatacoa",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "music",
+        "drink",
+        "festivity",
+        "trickster"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "muisca-colombian-010-1",
+          "label": "Festival Counsel",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-011",
+      "name": "Sugunsua",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "origin",
+        "family",
+        "earth",
+        "fate"
+      ],
+      "rules_text": "Guard.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "muisca-colombian-012",
+      "name": "Fu",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "night",
+        "sleep",
+        "dream",
+        "darkness"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "muisca-colombian-012-1",
+          "label": "Dream Sleep",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-013",
+      "name": "Goranchacha",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "kingship",
+        "gold",
+        "justice"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "muisca-colombian-013-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-014",
+      "name": "Pacanchique",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "love",
+        "plants",
+        "healing",
+        "quest"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "muisca-colombian-014-1",
+          "label": "Questing Mercy",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_friendly_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-015",
+      "name": "Azay",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "love",
+        "fate",
+        "rebirth",
+        "beauty"
+      ],
+      "rules_text": "Reborn.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "muisca-colombian-016",
+      "name": "Guatavita Spirit",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "water",
+        "gold",
+        "ritual",
+        "mystery"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "muisca-colombian-016-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-017",
+      "name": "Nemqueteba",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "wisdom",
+        "journey",
+        "light",
+        "law"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "muisca-colombian-017-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-018",
+      "name": "Moon Owl",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "moon",
+        "night",
+        "bird",
+        "warning"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "muisca-colombian-018-1",
+          "label": "Moon Warning",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-colombian-019",
+      "name": "Golden Raft Keeper",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "gold",
+        "water",
+        "ritual",
+        "earth"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "muisca-colombian-020",
+      "name": "Iguaque Guardian",
+      "card_type": "figure",
+      "culture_slug": "muisca-colombian",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "lake",
+        "creation",
+        "water",
+        "earth"
+      ],
+      "rules_text": "Guard. When this dies, summon a Lake Child.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "muisca-colombian-020-1",
+          "label": "Birth Lake",
+          "timing": "passive",
+          "trigger": "on_death",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "summon_token",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": "muisca-token-lake-child",
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "muisca-token-sunbird",
+      "name": "Sunbird",
+      "card_type": "token",
+      "culture_slug": "muisca-colombian",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": [
+        "sun",
+        "light",
+        "sky"
+      ],
+      "rules_text": "Rush.",
+      "cost": 0,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "muisca-token-lake-child",
+      "name": "Lake Child",
+      "card_type": "token",
+      "culture_slug": "muisca-colombian",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": [
+        "water",
+        "ritual",
+        "creation"
+      ],
+      "rules_text": "Guard.",
+      "cost": 0,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "muisca-colombian-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s1",
+      "name": "Muisca Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s1-ab0",
+          "label": "Muisca Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s1b",
+      "name": "Muisca Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s1b-ab0",
+          "label": "Muisca Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s2",
+      "name": "Muisca Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s2-ab0",
+          "label": "Muisca Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s3",
+      "name": "Muisca Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s3-ab0",
+          "label": "Muisca Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s4",
+      "name": "Muisca Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s4-ab0",
+          "label": "Muisca Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s5",
+      "name": "Muisca Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s5-ab0",
+          "label": "Muisca Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s6",
+      "name": "Muisca Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s6-ab0",
+          "label": "Muisca Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-s7",
+      "name": "Muisca Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-s7-ab0",
+          "label": "Muisca Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-r1",
+      "name": "Muisca Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-r1-ab0",
+          "label": "Muisca Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "muisca-colombian-r2",
+      "name": "Muisca Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "muisca-colombian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "muisca-colombian-r2-ab0",
+          "label": "Muisca Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

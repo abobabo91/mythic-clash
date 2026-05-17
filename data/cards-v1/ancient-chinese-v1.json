@@ -1,0 +1,914 @@
+{
+  "culture_slug": "ancient-chinese",
+  "set_code": "ancient-chinese-v1",
+  "cards": [
+    {
+      "id": "ancient-chinese-hero",
+      "name": "Jade Emperor",
+      "card_type": "hero",
+      "culture_slug": "ancient-chinese",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [],
+      "rules_text": "Hero Power (2): Gain 2 Armor. If you have more Figures than the enemy, draw a card instead.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-h1",
+          "label": "Celestial Decree",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "gain_armor",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-001",
+      "name": "Scholar",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "ancient-chinese-01",
+          "label": "Study",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-002",
+      "name": "Dragon Whelp",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "ancient-chinese-003",
+      "name": "Jade Warrior",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "ancient-chinese-004",
+      "name": "Monkey King",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Give a friendly Figure +1/+1.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "ancient-chinese-04",
+          "label": "Mischief",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-005",
+      "name": "Phoenix",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Reborn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "ancient-chinese-006",
+      "name": "Iron Fan",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "ancient-chinese-06",
+          "label": "Wind Fan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-007",
+      "name": "Erlang Shen",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Deal 1 damage to an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "ancient-chinese-07",
+          "label": "Third Eye",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-008",
+      "name": "Guan Yu",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "ancient-chinese-009",
+      "name": "Nezha",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "ancient-chinese-09",
+          "label": "Fire Wheels",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-010",
+      "name": "Azure Dragon",
+      "card_type": "figure",
+      "culture_slug": "ancient-chinese",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "ancient-chinese-10",
+          "label": "Storm Breath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-harmony",
+      "name": "Celestial Harmony",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Choose: Give a friendly Figure +2/+2 this combat OR Deal 2 damage to an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s1a",
+          "label": "Yang",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 2,
+              "keyword": null,
+              "duration": "combat",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "ancient-chinese-s1b",
+          "label": "Yin",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-jade",
+      "name": "Jade Shield",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +0/+3 and Guard this turn.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s2",
+          "label": "Jade Shield",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "guard",
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-bolt",
+      "name": "Dragon Bolt",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 4 damage to an enemy Figure.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s3",
+          "label": "Dragon Bolt",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-scroll",
+      "name": "Ancient Scroll",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw a card. Gain 1 Ritual Mana.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s4",
+          "label": "Ancient Scroll",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-balance",
+      "name": "Balance of Five",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Restore 3 Health. Draw a card. Gain 1 Armor.",
+      "cost": 3,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s5",
+          "label": "Balance of Five",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_armor",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-sp-ward",
+      "name": "Dragon Ward",
+      "card_type": "spell",
+      "culture_slug": "ancient-chinese",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure Ward.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-s6",
+          "label": "Dragon Ward",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-rel-scroll",
+      "name": "Scroll of Wisdom",
+      "card_type": "relic",
+      "culture_slug": "ancient-chinese",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "After you cast a spell, give a random friendly Figure +1/+1.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-r1",
+          "label": "Scroll of Wisdom",
+          "timing": "passive",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": "random_friendly_figure",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-chinese-rel-gong",
+      "name": "Dragon Gong",
+      "card_type": "relic",
+      "culture_slug": "ancient-chinese",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Activate (1): Draw a card. Once per turn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-chinese-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-chinese-r2",
+          "label": "Dragon Gong",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 1,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    }
+  ]
+}

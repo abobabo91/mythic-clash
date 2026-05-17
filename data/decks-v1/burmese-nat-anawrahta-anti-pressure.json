@@ -1,0 +1,102 @@
+{
+  "name": "burmese-nat deck",
+  "hero_id": "burmese-nat-hero-anawrahta",
+  "cards": [
+    {
+      "id": "burmese-nat-014",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-016",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-018",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-007",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-017",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-008",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-009",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-003",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-004",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-001",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-019",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-020",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-013",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-015",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s1",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s1b",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s2",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s3",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s4",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s5",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s6",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-s7",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-r1",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-r2",
+      "count": 1
+    }
+  ]
+}

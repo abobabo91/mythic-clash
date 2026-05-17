@@ -1,0 +1,1673 @@
+{
+  "set_code": "evenki-tungusic-v1",
+  "culture_slug": "evenki-tungusic",
+  "primary_family": "Tempest",
+  "secondary_family": "Vanguard",
+  "hero_id": "evenki-tungusic-hero-buga",
+  "notes": [
+    "Bulk rollout translation keeps Evenki Tungusic readable as tempest with a vanguard secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "evenki-tungusic-hero-buga",
+      "name": "Buga, Tempest Paragon",
+      "card_type": "hero",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "supreme",
+        "sky",
+        "world",
+        "creator"
+      ],
+      "rules_text": "Hero Power - Sky Spark (2): Deal 1 damage to an enemy Figure. Draw a card from your top 3 cards.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-hero-buga-1",
+          "label": "Sky Spark",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-001",
+      "name": "Buga",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "supreme",
+        "sky",
+        "world",
+        "creator"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "evenki-tungusic-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-002",
+      "name": "Exeri",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "good spirit",
+        "helpers",
+        "protection",
+        "beneficial"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-002-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "evenki-tungusic-002-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-003",
+      "name": "Hargi",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "evil spirit",
+        "illness",
+        "death",
+        "dark"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-003-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "evenki-tungusic-003-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-004",
+      "name": "Shaman Tengere",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "shaman",
+        "supreme",
+        "ancestral",
+        "drum"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-004-1",
+          "label": "Master Shaman Call",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-005",
+      "name": "Reindeer Spirit",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "reindeer",
+        "guide",
+        "sacred",
+        "transport"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-005-1",
+          "label": "Tundra Guide",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-006",
+      "name": "Three-Legged Elk",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "cosmic",
+        "world tree",
+        "sun",
+        "ancient"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-006-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "evenki-tungusic-006-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-007",
+      "name": "Dyldal",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "lightning",
+        "fire from sky",
+        "power",
+        "smiths"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-007-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-008",
+      "name": "Water Master (Eki)",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "river",
+        "water",
+        "fish",
+        "life"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-008-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-009",
+      "name": "Forest Master",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "taiga",
+        "animals",
+        "hunt",
+        "permission"
+      ],
+      "rules_text": "Rush.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "evenki-tungusic-010",
+      "name": "Mudur",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "dragon",
+        "water",
+        "chaos",
+        "power"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-010-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-011",
+      "name": "Enin",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "mother",
+        "earth",
+        "taiga",
+        "protection"
+      ],
+      "rules_text": "Guard.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": []
+    },
+    {
+      "id": "evenki-tungusic-012",
+      "name": "Seveki",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "animals",
+        "master",
+        "hunt",
+        "spirit of game"
+      ],
+      "rules_text": "Rush.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "evenki-tungusic-013",
+      "name": "Shingken",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "clan ancestor",
+        "protection",
+        "lineage",
+        "memory"
+      ],
+      "rules_text": "Guard. On play: Restore 2 Health to your Hero.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-013-1",
+          "label": "Ancestor's Shield",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-014",
+      "name": "Chulbegen",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "evil trickster",
+        "theft",
+        "chaos",
+        "demon"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-014-1",
+          "label": "Trickster Theft",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-015",
+      "name": "Iron Antler Deer",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "cosmic",
+        "sky deer",
+        "stellar",
+        "hunt"
+      ],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "evenki-tungusic-016",
+      "name": "Shamanic Drum",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "ritual",
+        "drum",
+        "journey",
+        "shaman tool"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-016-1",
+          "label": "Drum Journey",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-017",
+      "name": "Clan Fireplace Spirit",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "hearth",
+        "clan",
+        "warmth",
+        "protection"
+      ],
+      "rules_text": "Guard.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "evenki-tungusic-018",
+      "name": "Ancestral Bear",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "bear",
+        "clan totem",
+        "strength",
+        "ancestor"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-018-1",
+          "label": "Bear Ancestor",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-019",
+      "name": "Erge",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "disease spirit",
+        "epidemic",
+        "dark",
+        "fear"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-019-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "evenki-tungusic-020",
+      "name": "Agdy",
+      "card_type": "figure",
+      "culture_slug": "evenki-tungusic",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "thunder",
+        "lightning",
+        "purification",
+        "sky"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "evenki-tungusic-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-020-1",
+          "label": "Thunder Purification",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s1",
+      "name": "Evenki Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s1-ab0",
+          "label": "Evenki Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s1b",
+      "name": "Evenki Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s1b-ab0",
+          "label": "Evenki Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s2",
+      "name": "Evenki Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s2-ab0",
+          "label": "Evenki Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s3",
+      "name": "Evenki Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s3-ab0",
+          "label": "Evenki Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s4",
+      "name": "Evenki Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s4-ab0",
+          "label": "Evenki Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s5",
+      "name": "Evenki Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s5-ab0",
+          "label": "Evenki Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s6",
+      "name": "Evenki Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s6-ab0",
+          "label": "Evenki Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-s7",
+      "name": "Evenki Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-s7-ab0",
+          "label": "Evenki Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-r1",
+      "name": "Evenki Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-r1-ab0",
+          "label": "Evenki Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "evenki-tungusic-r2",
+      "name": "Evenki Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "evenki-tungusic",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "evenki-tungusic-r2-ab0",
+          "label": "Evenki Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

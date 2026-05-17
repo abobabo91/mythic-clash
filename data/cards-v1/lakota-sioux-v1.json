@@ -1,0 +1,2064 @@
+{
+  "set_code": "lakota-sioux-v1",
+  "culture_slug": "lakota-sioux",
+  "primary_family": "Tempest",
+  "secondary_family": "Sanctuary",
+  "hero_id": "lakota-sioux-hero-wakan-tanka",
+  "notes": [
+    "Bulk rollout translation keeps Lakota Sioux readable as tempest with a sanctuary secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "lakota-sioux-hero-wakan-tanka",
+      "name": "Wakan Tanka, Tempest Paragon",
+      "card_type": "hero",
+      "culture_slug": "lakota-sioux",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "spirit",
+        "creation",
+        "wisdom"
+      ],
+      "rules_text": "Hero Power - Sky Spark (2): Deal 1 damage to an enemy Figure. Draw a card from your top 3 cards.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "lakota-sioux-hero-wakan-tanka-1",
+          "label": "Wakan Tanka, Tempest Paragon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 1
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-001",
+      "name": "Wakan Tanka",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "spirit",
+        "creation",
+        "wisdom"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "lakota-sioux-001-ab0",
+          "label": "Wakan Tanka",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "lakota-sioux-001-ab1",
+          "label": "Wakan Tanka",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-002",
+      "name": "White Buffalo Calf Woman",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "justice",
+        "ritual",
+        "fertility",
+        "light"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "lakota-sioux-002-ab0",
+          "label": "White Buffalo Calf Woman",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "lakota-sioux-002-ab1",
+          "label": "White Buffalo Calf Woman",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-003",
+      "name": "Iktomi",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "trickster",
+        "wisdom",
+        "story",
+        "speed"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-003-ab0",
+          "label": "Iktomi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-004",
+      "name": "Inyan",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "earth",
+        "stone",
+        "creation",
+        "endurance"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-004-1",
+          "label": "Inyan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-005",
+      "name": "Wi",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "light",
+        "sky",
+        "life"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-005-1",
+          "label": "Wi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-006",
+      "name": "Hanwi",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "moon",
+        "night",
+        "beauty",
+        "fate"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-006-ab0",
+          "label": "Hanwi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-007",
+      "name": "Skan",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "sky",
+        "motion",
+        "spirit",
+        "time"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "lakota-sioux-007-ab0",
+          "label": "Skan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-008",
+      "name": "Wakinyan",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "thunder",
+        "storm",
+        "bird",
+        "sky"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "lakota-sioux-008-ab0",
+          "label": "Wakinyan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-009",
+      "name": "Unktehi",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "water",
+        "monster",
+        "serpent",
+        "earth"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "monster"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-009-ab0",
+          "label": "Unktehi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-010",
+      "name": "Anog Ite",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "beauty",
+        "fate",
+        "shadow",
+        "warning"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "lakota-sioux-010-ab0",
+          "label": "Anog Ite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-011",
+      "name": "Wohpe",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "peace",
+        "beauty",
+        "light",
+        "harmony"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-011-ab0",
+          "label": "Wohpe",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-012",
+      "name": "Canotila",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "forest",
+        "tree",
+        "healing",
+        "earth"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "lakota-sioux-012-ab0",
+          "label": "Canotila",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-013",
+      "name": "Iya",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "storm",
+        "chaos",
+        "monster",
+        "wind"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "monster"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "lakota-sioux-013-ab0",
+          "label": "Iya",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-014",
+      "name": "Heyoka",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "storm",
+        "trickster",
+        "vision",
+        "spirit"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "lakota-sioux-014-1",
+          "label": "Heyoka",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-015",
+      "name": "Tate",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "wind",
+        "sky",
+        "breath",
+        "speed"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "lakota-sioux-015-ab0",
+          "label": "Tate",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-016",
+      "name": "Gnaski",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "deception",
+        "monster",
+        "water",
+        "greed"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "monster"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "lakota-sioux-016-1",
+          "label": "Gnaski",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-017",
+      "name": "Double Woman",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "craft",
+        "fate",
+        "spirit",
+        "dream"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "lakota-sioux-017-1",
+          "label": "Double Woman",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-018",
+      "name": "Okaga",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "bird",
+        "storm",
+        "sky",
+        "animal"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "lakota-sioux-018-1",
+          "label": "Okaga",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-019",
+      "name": "Anukite",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "two-face",
+        "monster",
+        "night",
+        "fear"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "monster"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "lakota-sioux-019-ab0",
+          "label": "Anukite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lakota-sioux-020",
+      "name": "Buffalo Nation",
+      "card_type": "figure",
+      "culture_slug": "lakota-sioux",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "animal",
+        "earth",
+        "abundance",
+        "protection"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "guardian"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "lakota-sioux-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "lakota-sioux-s1",
+      "name": "Thunder Arrow",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s1-ab0",
+          "label": "Thunder Arrow",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s1b",
+      "name": "Thunder Arrow",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s1b-ab0",
+          "label": "Thunder Arrow",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s2",
+      "name": "Vision Shield",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 3
+              },
+              {
+                "kind": "grant_keyword",
+                "keyword": "divine_shield"
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s2-ab0",
+          "label": "Vision Shield",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "grant_keyword",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s3",
+      "name": "Spirit Walk",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff_temp",
+                "attack": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s3-ab0",
+          "label": "Spirit Walk",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff_temp",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s4",
+      "name": "Medicine Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s4-ab0",
+          "label": "Medicine Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s5",
+      "name": "Storm Fury",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_all_enemies",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s5-ab0",
+          "label": "Storm Fury",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_all_enemies",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s6",
+      "name": "Vision Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s6-ab0",
+          "label": "Vision Sight",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-s7",
+      "name": "Eagle's Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 4
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-s7-ab0",
+          "label": "Eagle's Choice",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 4
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-r1",
+      "name": "Sacred Pipe",
+      "card_type": "relic",
+      "cost": 3,
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "activated",
+            "cost": 2,
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_hero",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-r1-ab0",
+          "label": "Sacred Pipe",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_hero",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "lakota-sioux-r2",
+      "name": "Medicine Wheel",
+      "card_type": "relic",
+      "cost": 2,
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_spell_cast",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "lakota-sioux",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "lakota-sioux-r2-ab0",
+          "label": "Medicine Wheel",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

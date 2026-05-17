@@ -1,0 +1,75 @@
+{
+  "hero_id": "ancient-egyptian-hero-isis",
+  "name": "Isis Reborn Control",
+  "notes": [],
+  "cards": [
+    {
+      "id": "ancient-egyptian-001",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-002",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-004",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-005",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-007",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-008",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-011",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-012",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-016",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-017",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-embalm",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-spell-ankh-shield",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-spell-book-dead",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-mummify",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-divine-shield",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-relic-canopic",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-relic-rod",
+      "count": 1
+    }
+  ]
+}

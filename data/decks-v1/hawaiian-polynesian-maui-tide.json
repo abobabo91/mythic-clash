@@ -1,0 +1,71 @@
+{
+  "hero_id": "hawaiian-polynesian-hero",
+  "name": "Maui Tide",
+  "notes": [],
+  "cards": [
+    {
+      "id": "hawaiian-polynesian-01",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-02",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-03",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-04",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-05",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-06",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-08",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-09",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-s1",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-s2",
+      "count": 2
+    },
+    {
+      "id": "hawaiian-polynesian-s3",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-s4",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-s5",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-s6",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-r1",
+      "count": 1
+    },
+    {
+      "id": "hawaiian-polynesian-r2",
+      "count": 1
+    }
+  ]
+}

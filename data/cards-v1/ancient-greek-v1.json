@@ -1,0 +1,1462 @@
+{
+  "culture_slug": "ancient-greek",
+  "set_code": "ancient-greek-v1",
+  "cards": [
+    {
+      "id": "ancient-greek-hero-athena",
+      "name": "Athena, Goddess of Strategy",
+      "card_type": "hero",
+      "culture_slug": "ancient-greek",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [],
+      "rules_text": "Hero Power - Owl's Insight (2): Deal 1 damage to an enemy Figure. Draw a card.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-hero-1",
+          "label": "Owl's Insight",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-001",
+      "name": "Hermes",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Give a friendly Figure +1 Attack this turn.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "ancient-greek-001-1",
+          "label": "Swift Blessing",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 0,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-002",
+      "name": "Arachne",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 1,
+      "abilities": [
+        {
+          "id": "ancient-greek-002-1",
+          "label": "Weaver",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-003",
+      "name": "Satyr",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 1,
+      "abilities": []
+    },
+    {
+      "id": "ancient-greek-004",
+      "name": "Dionysus",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "ancient-greek-004-1",
+          "label": "Revelry",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-005",
+      "name": "Artemis",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "ancient-greek-006",
+      "name": "Pan",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Give a friendly Figure +1/+1.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "ancient-greek-006-1",
+          "label": "Wild Growth",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-007",
+      "name": "Chimera",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Poisonous.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "ancient-greek-008",
+      "name": "Ares",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 1 damage to an enemy Figure.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "ancient-greek-008-1",
+          "label": "War Cry",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-009",
+      "name": "Medusa",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Freeze an enemy Figure.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "ancient-greek-009-1",
+          "label": "Petrify",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-010",
+      "name": "Hephaestus",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Give a friendly Figure +2/+1.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "ancient-greek-010-1",
+          "label": "Forge",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-011",
+      "name": "Pegasus",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "ancient-greek-011-1",
+          "label": "Skyborne",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-012",
+      "name": "Achilles",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "ancient-greek-013",
+      "name": "Apollo",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 2 to an enemy Figure. Restore 2 Health.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "ancient-greek-013-1",
+          "label": "Solar Arrow",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "heal",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-014",
+      "name": "Hades",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Return a Figure (cost 3-) from your discard to hand.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "ancient-greek-014-1",
+          "label": "Underworld Gate",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_from_discard",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 3
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-015",
+      "name": "Athena",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard. On play: Give another Figure +1/+2 and Ward.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "ancient-greek-015-1",
+          "label": "Aegis",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "other_friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 2,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-016",
+      "name": "Minotaur",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Charge.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "charge"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "ancient-greek-017",
+      "name": "Zeus",
+      "card_type": "figure",
+      "culture_slug": "ancient-greek",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 3 damage to an enemy Figure. Deal 2 to all other enemies.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "ancient-greek-017-1",
+          "label": "Thunderbolt",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "on_kill_aoe": 2
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-phalanx",
+      "name": "Phalanx Formation",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +2/+2 this combat.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp1",
+          "label": "Phalanx",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 2,
+              "keyword": null,
+              "duration": "combat",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-olympian-bolt",
+      "name": "Olympian Bolt",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 3 damage to an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp2",
+          "label": "Olympian Bolt",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-oracle-vision",
+      "name": "Oracle Vision",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw a card. Gain 1 Ritual Mana.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp3",
+          "label": "Oracle Vision",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-aegis-ward",
+      "name": "Aegis Ward",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure Ward.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp4",
+          "label": "Aegis Ward",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-heroic-charge",
+      "name": "Heroic Charge",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +3 Attack and Rush this turn.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp5",
+          "label": "Heroic Charge",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 3,
+              "health": 0,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "rush",
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-odyssey",
+      "name": "Odyssey",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Return an enemy Figure (cost 3-) to its owner's hand.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp6",
+          "label": "Odyssey",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_to_hand",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 3
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-hubris",
+      "name": "Hubris",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 2 damage to an enemy Figure. If it dies, draw 2 cards.",
+      "cost": 4,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp7",
+          "label": "Hubris",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "on_kill_draw": 2
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-ambrosia",
+      "name": "Ambrosia",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Restore 4 Health to your Hero. Draw a card.",
+      "cost": 3,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp8",
+          "label": "Ambrosia",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-trojan-horse",
+      "name": "Trojan Horse",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Summon a 3/3 Warrior with Rush.",
+      "cost": 4,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp9",
+          "label": "Trojan Horse",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "summon_token",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": "ancient-greek-token-warrior",
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-spell-gift-of-gods",
+      "name": "Gift of the Gods",
+      "card_type": "spell",
+      "culture_slug": "ancient-greek",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Choose: Give a friendly Figure +2/+2 this combat OR Deal 2 damage to an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-sp10a",
+          "label": "Blessing of Ares",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 2,
+              "keyword": null,
+              "duration": "combat",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "ancient-greek-sp10b",
+          "label": "Wrath of Zeus",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-relic-aegis",
+      "name": "Aegis of Athena",
+      "card_type": "relic",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "After you cast a spell, give a random friendly Figure +1/+1.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-r1",
+          "label": "Aegis of Athena",
+          "timing": "passive",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": "random_friendly_figure",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-relic-tripod",
+      "name": "Oracle's Tripod",
+      "card_type": "relic",
+      "culture_slug": "ancient-greek",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Activate (1): Draw a card. Once per turn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "ancient-greek-r2",
+          "label": "Oracle's Tripod",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 1,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "ancient-greek-token-warrior",
+      "name": "Greek Warrior",
+      "card_type": "token",
+      "culture_slug": "ancient-greek",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 0,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "ancient-greek-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": []
+    }
+  ]
+}

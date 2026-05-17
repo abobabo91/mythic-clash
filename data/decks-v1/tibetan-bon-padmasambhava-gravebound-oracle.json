@@ -1,0 +1,66 @@
+{
+  "name": "Padmasambhava Gravebound Oracle",
+  "format": "mythic-clash-v1",
+  "hero_id": "tibetan-bon-hero-padmasambhava",
+  "notes": [
+    "Gravebound-Oracle rollout deck for Tibetan BON."
+  ],
+  "cards": [
+    {
+      "id": "tibetan-bon-001",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-002",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-017",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-018",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-013",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-014",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-007",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-008",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-003",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-004",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "tibetan-bon-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

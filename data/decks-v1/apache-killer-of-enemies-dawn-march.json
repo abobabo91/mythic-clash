@@ -1,0 +1,102 @@
+{
+  "name": "apache deck",
+  "hero_id": "apache-hero-killer-of-enemies",
+  "cards": [
+    {
+      "id": "apache-018",
+      "count": 1
+    },
+    {
+      "id": "apache-004",
+      "count": 1
+    },
+    {
+      "id": "apache-012",
+      "count": 1
+    },
+    {
+      "id": "apache-013",
+      "count": 1
+    },
+    {
+      "id": "apache-019",
+      "count": 1
+    },
+    {
+      "id": "apache-007",
+      "count": 1
+    },
+    {
+      "id": "apache-005",
+      "count": 1
+    },
+    {
+      "id": "apache-002",
+      "count": 1
+    },
+    {
+      "id": "apache-003",
+      "count": 1
+    },
+    {
+      "id": "apache-001",
+      "count": 1
+    },
+    {
+      "id": "apache-011",
+      "count": 1
+    },
+    {
+      "id": "apache-006",
+      "count": 1
+    },
+    {
+      "id": "apache-008",
+      "count": 1
+    },
+    {
+      "id": "apache-009",
+      "count": 1
+    },
+    {
+      "id": "apache-s1",
+      "count": 1
+    },
+    {
+      "id": "apache-s1b",
+      "count": 1
+    },
+    {
+      "id": "apache-s2",
+      "count": 1
+    },
+    {
+      "id": "apache-s3",
+      "count": 1
+    },
+    {
+      "id": "apache-s4",
+      "count": 1
+    },
+    {
+      "id": "apache-s5",
+      "count": 1
+    },
+    {
+      "id": "apache-s6",
+      "count": 1
+    },
+    {
+      "id": "apache-s7",
+      "count": 1
+    },
+    {
+      "id": "apache-r1",
+      "count": 1
+    },
+    {
+      "id": "apache-r2",
+      "count": 1
+    }
+  ]
+}

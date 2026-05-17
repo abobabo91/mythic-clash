@@ -1,0 +1,71 @@
+{
+  "hero_id": "babylonian-hero",
+  "name": "Marduk Prophecy",
+  "notes": [],
+  "cards": [
+    {
+      "id": "babylonian-01",
+      "count": 2
+    },
+    {
+      "id": "babylonian-02",
+      "count": 2
+    },
+    {
+      "id": "babylonian-03",
+      "count": 2
+    },
+    {
+      "id": "babylonian-04",
+      "count": 2
+    },
+    {
+      "id": "babylonian-05",
+      "count": 2
+    },
+    {
+      "id": "babylonian-06",
+      "count": 2
+    },
+    {
+      "id": "babylonian-08",
+      "count": 1
+    },
+    {
+      "id": "babylonian-09",
+      "count": 1
+    },
+    {
+      "id": "babylonian-s1",
+      "count": 2
+    },
+    {
+      "id": "babylonian-s2",
+      "count": 2
+    },
+    {
+      "id": "babylonian-s3",
+      "count": 1
+    },
+    {
+      "id": "babylonian-s4",
+      "count": 1
+    },
+    {
+      "id": "babylonian-s5",
+      "count": 1
+    },
+    {
+      "id": "babylonian-s6",
+      "count": 1
+    },
+    {
+      "id": "babylonian-r1",
+      "count": 1
+    },
+    {
+      "id": "babylonian-r2",
+      "count": 1
+    }
+  ]
+}

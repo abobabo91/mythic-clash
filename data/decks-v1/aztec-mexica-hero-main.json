@@ -1,0 +1,71 @@
+{
+  "hero_id": "aztec-mexica-hero",
+  "name": "Aztec Mexica Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "aztec-mexica-001",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-002",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-003",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-004",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-005",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-006",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-007",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-009",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-010",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-sp-sacrifice",
+      "count": 2
+    },
+    {
+      "id": "aztec-mexica-sp-sun-bolt",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-sp-rage",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-sp-obsidian",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-sp-draw",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-rel-altar",
+      "count": 1
+    },
+    {
+      "id": "aztec-mexica-rel-knife",
+      "count": 1
+    }
+  ]
+}

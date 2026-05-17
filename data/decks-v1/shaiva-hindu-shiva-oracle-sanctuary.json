@@ -1,0 +1,66 @@
+{
+  "name": "Shiva Oracle Sanctuary",
+  "format": "mythic-clash-v1",
+  "hero_id": "shaiva-hindu-hero-shiva",
+  "notes": [
+    "Oracle-Sanctuary rollout deck for Shaiva Hindu."
+  ],
+  "cards": [
+    {
+      "id": "shaiva-hindu-001",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-002",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-017",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-018",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-013",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-014",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-007",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-008",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-003",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-004",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "shaiva-hindu-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

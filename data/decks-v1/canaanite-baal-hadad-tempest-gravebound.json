@@ -1,0 +1,102 @@
+{
+  "name": "canaanite deck",
+  "hero_id": "canaanite-hero-baal-hadad",
+  "cards": [
+    {
+      "id": "canaanite-020",
+      "count": 1
+    },
+    {
+      "id": "canaanite-014",
+      "count": 1
+    },
+    {
+      "id": "canaanite-018",
+      "count": 1
+    },
+    {
+      "id": "canaanite-007",
+      "count": 1
+    },
+    {
+      "id": "canaanite-013",
+      "count": 1
+    },
+    {
+      "id": "canaanite-008",
+      "count": 1
+    },
+    {
+      "id": "canaanite-009",
+      "count": 1
+    },
+    {
+      "id": "canaanite-003",
+      "count": 1
+    },
+    {
+      "id": "canaanite-004",
+      "count": 1
+    },
+    {
+      "id": "canaanite-001",
+      "count": 1
+    },
+    {
+      "id": "canaanite-017",
+      "count": 1
+    },
+    {
+      "id": "canaanite-019",
+      "count": 1
+    },
+    {
+      "id": "canaanite-015",
+      "count": 1
+    },
+    {
+      "id": "canaanite-016",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s1",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s1b",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s2",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s3",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s4",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s5",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s6",
+      "count": 1
+    },
+    {
+      "id": "canaanite-s7",
+      "count": 1
+    },
+    {
+      "id": "canaanite-r1",
+      "count": 1
+    },
+    {
+      "id": "canaanite-r2",
+      "count": 1
+    }
+  ]
+}

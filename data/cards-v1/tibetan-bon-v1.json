@@ -1,0 +1,1793 @@
+{
+  "set_code": "tibetan-bon-v1",
+  "culture_slug": "tibetan-bon",
+  "primary_family": "Gravebound",
+  "secondary_family": "Oracle",
+  "hero_id": "tibetan-bon-hero-padmasambhava",
+  "notes": [
+    "Bulk rollout translation keeps Tibetan BON readable as gravebound with a oracle secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "tibetan-bon-hero-padmasambhava",
+      "name": "Padmasambhava, Gravebound Paragon",
+      "card_type": "hero",
+      "culture_slug": "tibetan-bon",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "Guru Rinpoche",
+        "tantra bringer",
+        "terma",
+        "Tibet"
+      ],
+      "rules_text": "Hero Power - Grave Whisper (2): Draw a card from your top 3 cards. Restore 1 Health to your Hero.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "tibetan-bon-hero-padmasambhava-1",
+          "label": "Grave Whisper",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "discover_from_pool",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "heal",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-001",
+      "name": "Padmasambhava",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "Guru Rinpoche",
+        "tantra bringer",
+        "terma",
+        "Tibet"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "tibetan-bon-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tibetan-bon-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-002",
+      "name": "Gesar of Ling",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "epic hero",
+        "divine descent",
+        "18 heroes",
+        "Tibet"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "tibetan-bon-002-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tibetan-bon-002-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-003",
+      "name": "Yama Dharmaraja",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "lord of death",
+        "judgment",
+        "bull head",
+        "Tibet"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tibetan-bon-003-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tibetan-bon-003-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-004",
+      "name": "Tara (Tibetan)",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "swift savior",
+        "21 forms",
+        "green and white"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tibetan-bon-004-1",
+          "label": "Swift Liberation",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_from_discard",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 4
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-005",
+      "name": "Mahakala",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "great black one",
+        "protector",
+        "six arms",
+        "Bon and Buddhist"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tibetan-bon-005-1",
+          "label": "Black Cloak",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_from_discard",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 4
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-006",
+      "name": "Milarepa (Tibetan)",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "cave yogi",
+        "cotton robe",
+        "songs",
+        "liberation"
+      ],
+      "rules_text": "On play: Deal 2 damage to an enemy Figure. Draw a card.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "tibetan-bon-006-ab0",
+          "label": "Damage",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "tibetan-bon-006-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-007",
+      "name": "Nangsal Obum",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "reincarnation story",
+        "revival",
+        "terma heroine"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-007-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-008",
+      "name": "Tamdrin (Hayagriva)",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "horse head",
+        "fierce protector",
+        "Bon and Buddhist"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-008-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-009",
+      "name": "Bon Dragon",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "traits": [
+        "drala",
+        "Bon spirit",
+        "sky protector",
+        "Tibet"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-009-1",
+          "label": "Dragon Wind",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-010",
+      "name": "Drolma",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "Tibetan Tara",
+        "green protector",
+        "swift compassion"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-010-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-011",
+      "name": "Dorje Shugden",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "controversial protector",
+        "fierce deity",
+        "Gelug"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-011-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-012",
+      "name": "Nechung Oracle",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "state oracle",
+        "Pehar spirit",
+        "Tibet",
+        "divination"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "tibetan-bon-012-1",
+          "label": "Oracle Trance",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_to_hand",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "max_cost": 4
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-013",
+      "name": "Shinje Chogyal",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "dharma king of death",
+        "judgment",
+        "peace"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tibetan-bon-013-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-014",
+      "name": "Bardo Being",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "bardo",
+        "between-life",
+        "Tibetan Book of Dead",
+        "wandering"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tibetan-bon-014-1",
+          "label": "Bardo State",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-015",
+      "name": "Jowo Shakyamuni",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "holiest Tibetan statue",
+        "Lhasa",
+        "pilgrimage"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tibetan-bon-015-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-016",
+      "name": "Naga (Tibetan)",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "lu",
+        "water spirit",
+        "treasure",
+        "disease"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "tibetan-bon-016-1",
+          "label": "Naga Treasure",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-017",
+      "name": "Mountain Deity",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "nyenchen",
+        "great mountain",
+        "protector",
+        "Tibet"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tibetan-bon-017-1",
+          "label": "Mountain Shield",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-018",
+      "name": "Drala",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "warrior spirit",
+        "Bon",
+        "drala invocation",
+        "sacred"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tibetan-bon-018-1",
+          "label": "Drala Invocation",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-019",
+      "name": "Pehar",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "spirit king",
+        "oracle body",
+        "Nechung",
+        "five forms"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tibetan-bon-019-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "tibetan-bon-020",
+      "name": "Chod Dakini",
+      "card_type": "figure",
+      "culture_slug": "tibetan-bon",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "cutting",
+        "offering body",
+        "tantric practice",
+        "fearless"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "tibetan-bon-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "tibetan-bon-020-1",
+          "label": "Body Offering",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s1",
+      "name": "Tibetan Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s1-ab0",
+          "label": "Tibetan Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s1b",
+      "name": "Tibetan Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s1b-ab0",
+          "label": "Tibetan Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s2",
+      "name": "Tibetan Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s2-ab0",
+          "label": "Tibetan Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s3",
+      "name": "Tibetan Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s3-ab0",
+          "label": "Tibetan Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s4",
+      "name": "Tibetan Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s4-ab0",
+          "label": "Tibetan Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s5",
+      "name": "Tibetan Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s5-ab0",
+          "label": "Tibetan Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s6",
+      "name": "Tibetan Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s6-ab0",
+          "label": "Tibetan Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-s7",
+      "name": "Tibetan Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-s7-ab0",
+          "label": "Tibetan Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-r1",
+      "name": "Tibetan Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-r1-ab0",
+          "label": "Tibetan Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "tibetan-bon-r2",
+      "name": "Tibetan Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "tibetan-bon",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "tibetan-bon-r2-ab0",
+          "label": "Tibetan Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

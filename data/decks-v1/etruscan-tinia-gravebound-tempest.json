@@ -1,0 +1,102 @@
+{
+  "name": "etruscan deck",
+  "hero_id": "etruscan-hero-tinia",
+  "cards": [
+    {
+      "id": "etruscan-019",
+      "count": 1
+    },
+    {
+      "id": "etruscan-014",
+      "count": 1
+    },
+    {
+      "id": "etruscan-018",
+      "count": 1
+    },
+    {
+      "id": "etruscan-020",
+      "count": 1
+    },
+    {
+      "id": "etruscan-013",
+      "count": 1
+    },
+    {
+      "id": "etruscan-007",
+      "count": 1
+    },
+    {
+      "id": "etruscan-008",
+      "count": 1
+    },
+    {
+      "id": "etruscan-009",
+      "count": 1
+    },
+    {
+      "id": "etruscan-003",
+      "count": 1
+    },
+    {
+      "id": "etruscan-004",
+      "count": 1
+    },
+    {
+      "id": "etruscan-001",
+      "count": 1
+    },
+    {
+      "id": "etruscan-017",
+      "count": 1
+    },
+    {
+      "id": "etruscan-015",
+      "count": 1
+    },
+    {
+      "id": "etruscan-016",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s1",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s1b",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s2",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s3",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s4",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s5",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s6",
+      "count": 1
+    },
+    {
+      "id": "etruscan-s7",
+      "count": 1
+    },
+    {
+      "id": "etruscan-r1",
+      "count": 1
+    },
+    {
+      "id": "etruscan-r2",
+      "count": 1
+    }
+  ]
+}

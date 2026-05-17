@@ -1,0 +1,1657 @@
+{
+  "set_code": "thracian-v1",
+  "culture_slug": "thracian",
+  "primary_family": "Vanguard",
+  "secondary_family": "Gravebound",
+  "hero_id": "thracian-hero-orpheus",
+  "notes": [
+    "Bulk rollout translation keeps Thracian readable as vanguard with a gravebound secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "thracian-hero-orpheus",
+      "name": "Orpheus, Vanguard Paragon",
+      "card_type": "hero",
+      "culture_slug": "thracian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "music",
+        "poetry",
+        "underworld",
+        "shamanism"
+      ],
+      "rules_text": "Hero Power - Battle Drill (2): Deal 1 damage to an enemy Figure. Give a friendly Figure +1 Attack.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "thracian-hero-orpheus-1",
+          "label": "Battle Drill",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "thracian-001",
+      "name": "Orpheus",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "music",
+        "poetry",
+        "underworld",
+        "shamanism"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "thracian-001-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "thracian-001-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-002",
+      "name": "Sabazios",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "legendary",
+      "alignment": "chaos",
+      "traits": [
+        "sky",
+        "horseman",
+        "thunder",
+        "ecstasy"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "thracian-002-ab0",
+          "label": "AoE",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "thracian-002-ab1",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-003",
+      "name": "Bendis",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "moon",
+        "hunt",
+        "death",
+        "torches"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-003-1",
+          "label": "Twin Torches",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-004",
+      "name": "Zalmoxis",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "immortality",
+        "afterlife",
+        "mystery cult"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-004-1",
+          "label": "Immortality Teaching",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-005",
+      "name": "Kotys",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "rare",
+      "alignment": "chaos",
+      "traits": [
+        "ecstasy",
+        "night rites",
+        "wild"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-005-1",
+          "label": "Night Rite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-006",
+      "name": "The Rider Hero",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "horse",
+        "hunting",
+        "afterlife"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-006-1",
+          "label": "Sacred Horseman",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-007",
+      "name": "Pleistoros",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "war",
+        "human sacrifice",
+        "rivers"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-007-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-008",
+      "name": "Hestiaea",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "earth",
+        "rivers",
+        "vegetation",
+        "Thrace"
+      ],
+      "rules_text": "Guard.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": []
+    },
+    {
+      "id": "thracian-009",
+      "name": "Dionysos of Thrace",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "traits": [
+        "vine",
+        "wild frenzy",
+        "bull",
+        "leopard"
+      ],
+      "rules_text": "Poisonous.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-009-1",
+          "label": "Thracian Frenzy",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-010",
+      "name": "Maenads",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "uncommon",
+      "alignment": "chaos",
+      "traits": [
+        "divine frenzy",
+        "torn flesh",
+        "ivy"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-010-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-011",
+      "name": "Eurydice",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "death",
+        "love",
+        "tragedy",
+        "underworld"
+      ],
+      "rules_text": "Guard. On play: Give a friendly Figure +1/+1.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "thracian-011-ab0",
+          "label": "Buff",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 1,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-012",
+      "name": "Ares of Thrace",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "war",
+        "blood",
+        "Thrace"
+      ],
+      "rules_text": "Rush.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "thracian-013",
+      "name": "Thrax",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "founding ancestor",
+        "warrior"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "thracian-013-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-014",
+      "name": "Thracian Horseman Spirit",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "horse",
+        "victory",
+        "roads"
+      ],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "thracian-015",
+      "name": "Tereus",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "tragedy",
+        "transformation",
+        "hoopoe"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "thracian-015-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-016",
+      "name": "Lykourgos",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "anti-Dionysos",
+        "madness",
+        "punishment"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "thracian-016-1",
+          "label": "Divine Punishment",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "set_cant_attack",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-017",
+      "name": "Sparti (Sown Warriors)",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "earth-born warriors",
+        "dragon's teeth"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "thracian-017-1",
+          "label": "Dragon Sowing",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-018",
+      "name": "Kotys's Servant",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "night ritual",
+        "torch",
+        "mask"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "thracian-018-1",
+          "label": "Masked Rite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-019",
+      "name": "Thracian Shaman",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "ecstasy",
+        "trance",
+        "spirit journey"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "thracian-019-ab0",
+          "label": "Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "thracian-020",
+      "name": "Polydorus",
+      "card_type": "figure",
+      "culture_slug": "thracian",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "Trojan prince",
+        "betrayal",
+        "ghost"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "thracian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "thracian-020-1",
+          "label": "Restless Ghost",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s1",
+      "name": "Thracian Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s1-ab0",
+          "label": "Thracian Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s1b",
+      "name": "Thracian Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s1b-ab0",
+          "label": "Thracian Strike",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s2",
+      "name": "Thracian Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s2-ab0",
+          "label": "Thracian Ward",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s3",
+      "name": "Thracian Cry",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s3-ab0",
+          "label": "Thracian Cry",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "buff_temp",
+              "amount": null,
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s4",
+      "name": "Thracian Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s4-ab0",
+          "label": "Thracian Draw",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s5",
+      "name": "Thracian Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s5-ab0",
+          "label": "Thracian Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_all_enemies",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s6",
+      "name": "Thracian Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s6-ab0",
+          "label": "Thracian Sight",
+          "timing": "burst",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-s7",
+      "name": "Thracian Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-s7-ab0",
+          "label": "Thracian Choice",
+          "timing": "fast",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-r1",
+      "name": "Thracian Totem",
+      "card_type": "relic",
+      "cost": 3,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-r1-ab0",
+          "label": "Thracian Totem",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage_hero",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "id": "thracian-r2",
+      "name": "Thracian Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "speed": "",
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "culture_slug": "thracian",
+      "keywords": [],
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "thracian-r2-ab0",
+          "label": "Thracian Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

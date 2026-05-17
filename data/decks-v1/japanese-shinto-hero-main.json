@@ -1,0 +1,71 @@
+{
+  "hero_id": "japanese-shinto-hero",
+  "name": "Japanese Shinto Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "japanese-shinto-001",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-002",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-003",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-004",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-005",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-006",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-007",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-009",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-010",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-sp-rally",
+      "count": 2
+    },
+    {
+      "id": "japanese-shinto-sp-spirit-wave",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-sp-divine-wind",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-sp-purify",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-sp-offering",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-rel-torii",
+      "count": 1
+    },
+    {
+      "id": "japanese-shinto-rel-drum",
+      "count": 1
+    }
+  ]
+}

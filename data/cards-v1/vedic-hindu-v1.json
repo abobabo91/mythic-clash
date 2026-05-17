@@ -1,0 +1,940 @@
+{
+  "culture_slug": "vedic-hindu",
+  "set_code": "vedic-hindu-v1",
+  "cards": [
+    {
+      "id": "vedic-hindu-hero",
+      "name": "Vishnu, The Preserver",
+      "card_type": "hero",
+      "culture_slug": "vedic-hindu",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [],
+      "rules_text": "Hero Power (2): Gain 1 Ritual Mana. Give a friendly Figure +0/+1.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-h1",
+          "label": "Preserve",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 0,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-001",
+      "name": "Devotee",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Gain 1 Ritual Mana.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "vedic-hindu-01",
+          "label": "Prayer",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-002",
+      "name": "Temple Monkey",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "vedic-hindu-02",
+          "label": "Curiosity",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-003",
+      "name": "Naga",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "vedic-hindu-004",
+      "name": "Yaksha",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Gain 1 Ritual Mana. Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "vedic-hindu-04",
+          "label": "Forest Gift",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-005",
+      "name": "Garuda",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "vedic-hindu-006",
+      "name": "Hanuman",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Give another friendly Figure +1 Attack.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "vedic-hindu-06",
+          "label": "Valor",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "other_friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 0,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-007",
+      "name": "Ganesha",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "vedic-hindu-07",
+          "label": "Wisdom",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-008",
+      "name": "Indra",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Overwhelm. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "vedic-hindu-08",
+          "label": "Thunderbolt",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-009",
+      "name": "Shiva",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Overwhelm. On play: Deal 2 damage to all enemy Figures.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "vedic-hindu-09",
+          "label": "Dance of Destruction",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-010",
+      "name": "Brahma",
+      "card_type": "figure",
+      "culture_slug": "vedic-hindu",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw 2 cards. Restore 5 Health to your Hero.",
+      "cost": 7,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 8,
+      "abilities": [
+        {
+          "id": "vedic-hindu-10",
+          "label": "Creation",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "heal",
+              "amount": 5,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-mantra",
+      "name": "Sacred Mantra",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Gain 2 Ritual Mana.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s1",
+          "label": "Sacred Mantra",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-flame",
+      "name": "Agni's Flame",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 3 damage to any enemy.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s2",
+          "label": "Agni's Flame",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-shield",
+      "name": "Dharma Shield",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +0/+3 this combat.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s3",
+          "label": "Dharma Shield",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": "combat",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-sight",
+      "name": "Third Eye",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw 2 cards.",
+      "cost": 2,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s4",
+          "label": "Third Eye",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-smite",
+      "name": "Divine Smite",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 4 damage to an enemy Figure.",
+      "cost": 4,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s5",
+          "label": "Divine Smite",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-sp-modal",
+      "name": "Trimurti's Will",
+      "card_type": "spell",
+      "culture_slug": "vedic-hindu",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Choose: Deal 3 damage to an enemy Figure OR Give a friendly Figure +2/+2.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-s6a",
+          "label": "Shiva's Wrath",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "vedic-hindu-s6b",
+          "label": "Brahma's Gift",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 2,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-rel-lotus",
+      "name": "Lotus Throne",
+      "card_type": "relic",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "At the start of your turn, if you have 2+ Ritual Mana, draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-r1",
+          "label": "Lotus Throne",
+          "timing": "passive",
+          "trigger": "on_turn_start",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "vedic-hindu-rel-trident",
+      "name": "Shiva's Trident",
+      "card_type": "relic",
+      "culture_slug": "vedic-hindu",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Activate (2): Deal 3 damage to an enemy Figure. Once per turn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "vedic-hindu-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "vedic-hindu-r2",
+          "label": "Shiva's Trident",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_figure",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    }
+  ]
+}

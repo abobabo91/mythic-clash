@@ -1,0 +1,66 @@
+{
+  "name": "Dangun Wanggeom Oracle Sanctuary",
+  "format": "mythic-clash-v1",
+  "hero_id": "korean-hero-dangun-wanggeom",
+  "notes": [
+    "Oracle-Sanctuary rollout deck for Korean."
+  ],
+  "cards": [
+    {
+      "id": "korean-001",
+      "count": 1
+    },
+    {
+      "id": "korean-002",
+      "count": 1
+    },
+    {
+      "id": "korean-017",
+      "count": 2
+    },
+    {
+      "id": "korean-018",
+      "count": 2
+    },
+    {
+      "id": "korean-016",
+      "count": 2
+    },
+    {
+      "id": "korean-013",
+      "count": 2
+    },
+    {
+      "id": "korean-007",
+      "count": 2
+    },
+    {
+      "id": "korean-010",
+      "count": 2
+    },
+    {
+      "id": "korean-003",
+      "count": 2
+    },
+    {
+      "id": "korean-004",
+      "count": 2
+    },
+    {
+      "id": "korean-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "korean-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "korean-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "korean-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

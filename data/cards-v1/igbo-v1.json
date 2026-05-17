@@ -1,0 +1,2074 @@
+{
+  "set_code": "igbo-v1",
+  "culture_slug": "igbo",
+  "primary_family": "Oracle",
+  "secondary_family": "Sanctuary",
+  "hero_id": "igbo-hero-chukwu",
+  "notes": [
+    "Bulk rollout translation keeps Igbo readable as oracle with a sanctuary secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "igbo-hero-chukwu",
+      "name": "Chukwu, Oracle Paragon",
+      "card_type": "hero",
+      "culture_slug": "igbo",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "supreme creator",
+        "omnipotence",
+        "universe"
+      ],
+      "rules_text": "Hero Power - Foresight (2): Draw a card from your top 3 cards. An enemy Figure can't attack next turn.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "igbo-hero-chukwu-1",
+          "label": "Chukwu, Oracle Paragon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "set_cant_attack",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-001",
+      "name": "Chukwu",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "supreme creator",
+        "omnipotence",
+        "universe"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "igbo-001-ab0",
+          "label": "Chukwu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "igbo-001-ab1",
+          "label": "Chukwu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-002",
+      "name": "Ala",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "earth",
+        "morality",
+        "fertility",
+        "law"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "igbo-002-ab0",
+          "label": "Ala",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "igbo-002-ab1",
+          "label": "Ala",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-003",
+      "name": "Amadioha",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "thunder",
+        "lightning",
+        "justice",
+        "sky"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "igbo-003-ab0",
+          "label": "Amadioha",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-004",
+      "name": "Agwu",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "rare",
+      "alignment": "chaos",
+      "traits": [
+        "divination",
+        "wisdom",
+        "health",
+        "trickster"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "igbo-004-1",
+          "label": "Agwu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-005",
+      "name": "Ekwensu",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "war",
+        "bargaining",
+        "change",
+        "challenge"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "igbo-005-1",
+          "label": "Ekwensu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-006",
+      "name": "Ikenga",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "right hand",
+        "achievement",
+        "personal power"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "igbo-006-ab0",
+          "label": "Ikenga",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-007",
+      "name": "Ogbuide",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "lake",
+        "Oguta Lake",
+        "beauty",
+        "wealth"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "igbo-007-ab0",
+          "label": "Ogbuide",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-008",
+      "name": "Mmuo",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "spirit world",
+        "ancestors",
+        "masquerade"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "igbo-008-ab0",
+          "label": "Mmuo",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-009",
+      "name": "Anyanwu",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "vision",
+        "divinity in light"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "igbo-009-ab0",
+          "label": "Anyanwu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-010",
+      "name": "Ogwugwu",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "strength",
+        "power",
+        "personal chi"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "igbo-010-ab0",
+          "label": "Ogwugwu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-011",
+      "name": "Njoku Ji",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "yam",
+        "harvest",
+        "prosperity"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "igbo-011-ab0",
+          "label": "Njoku Ji",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-012",
+      "name": "Imo Miri",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "Imo River",
+        "water spirits",
+        "female force"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "igbo-012-ab0",
+          "label": "Imo Miri",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-013",
+      "name": "Ogbanje",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "spirit children",
+        "reincarnation cycle",
+        "tragedy"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "igbo-013-ab0",
+          "label": "Ogbanje",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-014",
+      "name": "Ekpe",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "leopard",
+        "secret society",
+        "power",
+        "law"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "igbo-014-1",
+          "label": "Ekpe",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-015",
+      "name": "Odinani",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "traditional law",
+        "Igbo custom",
+        "sacred order"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "igbo-015-ab0",
+          "label": "Odinani",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-016",
+      "name": "Agbara",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "divine power",
+        "spiritual force",
+        "deity in nature"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "igbo-016-1",
+          "label": "Agbara",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "set_cant_attack",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-017",
+      "name": "Eze Nri",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "sacred king",
+        "ritual",
+        "purification"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "igbo-017-1",
+          "label": "Eze Nri",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-018",
+      "name": "Mmo",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "masquerade spirit",
+        "community authority",
+        "otherness"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "igbo-018-1",
+          "label": "Mmo",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-019",
+      "name": "Onwa",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "moon",
+        "time",
+        "female cycles"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "igbo-019-ab0",
+          "label": "Onwa",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "igbo-020",
+      "name": "Uju",
+      "card_type": "figure",
+      "culture_slug": "igbo",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "abundance",
+        "fullness",
+        "generosity"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "igbo-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "igbo-020-1",
+          "label": "Uju",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s1",
+      "name": "Chi Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s1-ab0",
+          "label": "Chi Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s1b",
+      "name": "Chi Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s1b-ab0",
+          "label": "Chi Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s2",
+      "name": "Ofo Ward",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 3
+              },
+              {
+                "kind": "grant_keyword",
+                "keyword": "divine_shield"
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s2-ab0",
+          "label": "Ofo Ward",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "grant_keyword",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s3",
+      "name": "Ancestor Call",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff_temp",
+                "attack": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s3-ab0",
+          "label": "Ancestor Call",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff_temp",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s4",
+      "name": "Dibia Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s4-ab0",
+          "label": "Dibia Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s5",
+      "name": "Amadioha's Wrath",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_all_enemies",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s5-ab0",
+          "label": "Amadioha's Wrath",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_all_enemies",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s6",
+      "name": "Oracle Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s6-ab0",
+          "label": "Oracle Sight",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-s7",
+      "name": "Ala's Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 4
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-s7-ab0",
+          "label": "Ala's Choice",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 4
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-r1",
+      "name": "Ofo Staff",
+      "card_type": "relic",
+      "cost": 3,
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "activated",
+            "cost": 2,
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_hero",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-r1-ab0",
+          "label": "Ofo Staff",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_hero",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "igbo-r2",
+      "name": "Ikenga Shrine",
+      "card_type": "relic",
+      "cost": 2,
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_spell_cast",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "igbo",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "igbo-r2-ab0",
+          "label": "Ikenga Shrine",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

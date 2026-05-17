@@ -1,0 +1,67 @@
+{
+  "hero_id": "slavic-hero",
+  "name": "Perun Berserker",
+  "notes": [],
+  "cards": [
+    {
+      "id": "slavic-01",
+      "count": 2
+    },
+    {
+      "id": "slavic-02",
+      "count": 2
+    },
+    {
+      "id": "slavic-03",
+      "count": 2
+    },
+    {
+      "id": "slavic-04",
+      "count": 2
+    },
+    {
+      "id": "slavic-05",
+      "count": 2
+    },
+    {
+      "id": "slavic-06",
+      "count": 2
+    },
+    {
+      "id": "slavic-07",
+      "count": 2
+    },
+    {
+      "id": "slavic-09",
+      "count": 1
+    },
+    {
+      "id": "slavic-10",
+      "count": 1
+    },
+    {
+      "id": "slavic-s1",
+      "count": 2
+    },
+    {
+      "id": "slavic-s2",
+      "count": 2
+    },
+    {
+      "id": "slavic-s3",
+      "count": 1
+    },
+    {
+      "id": "slavic-s4",
+      "count": 1
+    },
+    {
+      "id": "slavic-r1",
+      "count": 1
+    },
+    {
+      "id": "slavic-r2",
+      "count": 1
+    }
+  ]
+}

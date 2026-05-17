@@ -1,0 +1,899 @@
+{
+  "culture_slug": "babylonian",
+  "set_code": "babylonian-v1",
+  "cards": [
+    {
+      "id": "babylonian-hero",
+      "name": "Marduk, Supreme God",
+      "card_type": "hero",
+      "culture_slug": "babylonian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [],
+      "rules_text": "Hero Power (2): Draw a card. Gain 1 Ritual Mana.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-h1",
+          "label": "Divine Sight",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-01",
+      "name": "Scribe",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "babylonian-a01",
+          "label": "Record",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-02",
+      "name": "Ziggurat Guard",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "babylonian-03",
+      "name": "Astrologer",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card. Gain 1 Ritual Mana.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "babylonian-a03",
+          "label": "Star Chart",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-04",
+      "name": "Lamassu",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "babylonian-05",
+      "name": "Enkidu",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "babylonian-06",
+      "name": "Ishtar",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw 2 cards.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "babylonian-a06",
+          "label": "Star Gate",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-07",
+      "name": "Gilgamesh",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Deal 1 damage to an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "babylonian-a07",
+          "label": "Heroic Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-08",
+      "name": "Tiamat",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "babylonian-a08",
+          "label": "Chaos Wave",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-09",
+      "name": "Marduk",
+      "card_type": "figure",
+      "culture_slug": "babylonian",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 3 damage to an enemy Figure. Draw 2 cards.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "babylonian-a09",
+          "label": "Supreme Decree",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s1",
+      "name": "Tablet of Fate",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw 2 cards.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa1",
+          "label": "Tablet of Fate",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s2",
+      "name": "Starfire",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 3 damage to an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa2",
+          "label": "Starfire",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s3",
+      "name": "Divine Shield",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +0/+3 and Guard this turn.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa3",
+          "label": "Divine Shield",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "guard",
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s4",
+      "name": "Prophecy",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw a card. Gain 1 Ritual Mana.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa4",
+          "label": "Prophecy",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s5",
+      "name": "Marduk's Choice",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Draw 2 cards and gain 2 Ritual Mana.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa5a",
+          "label": "Smite",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "babylonian-sa5b",
+          "label": "Foresight",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "gain_ritual_mana",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-s6",
+      "name": "Ward of Ishtar",
+      "card_type": "spell",
+      "culture_slug": "babylonian",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure Ward.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-sa6",
+          "label": "Ward of Ishtar",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_keyword",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": "ward",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-r1",
+      "name": "Star Chart",
+      "card_type": "relic",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "At the start of your turn, if you have 2+ Ritual Mana, draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-ra1",
+          "label": "Star Chart",
+          "timing": "passive",
+          "trigger": "on_turn_start",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "babylonian-r2",
+      "name": "Tablet Press",
+      "card_type": "relic",
+      "culture_slug": "babylonian",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Activate (1): Draw a card. Once per turn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "babylonian-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "babylonian-ra2",
+          "label": "Tablet Press",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 1,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "candidate": "Guarani",
+  "benchmarks": [
+    "ancient-greek",
+    "haitian-vodou",
+    "inuit"
+  ],
+  "seeds": [
+    31
+  ],
+  "overall_record": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 1
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "average_turn": 9.0,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 9,
+          "steps": 82,
+          "candidate_health": -2,
+          "benchmark_health": 3
+        }
+      ]
+    },
+    "haitian-vodou": {
+      "label": "Haitian Vodou",
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "average_turn": 12.0,
+      "runs": [
+        {
+          "benchmark": "haitian-vodou",
+          "benchmark_label": "Haitian Vodou",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "draw",
+          "winner": null,
+          "turn_number": 12,
+          "steps": 120,
+          "candidate_health": 7,
+          "benchmark_health": 3
+        }
+      ]
+    },
+    "inuit": {
+      "label": "Inuit",
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "average_turn": 11.0,
+      "runs": [
+        {
+          "benchmark": "inuit",
+          "benchmark_label": "Inuit",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 11,
+          "steps": 92,
+          "candidate_health": 11,
+          "benchmark_health": 0
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 120
+}

@@ -1,0 +1,205 @@
+{
+  "culture_slug": "neutral",
+  "set_code": "domain-support-v1",
+  "cards": [
+    {
+      "id": "ds-battle-standard", "name": "Battle Standard", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["war"],
+      "rules_text": "Friendly attacking Figures have +1 Attack.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-battle-standard-1", "label": "Battle Standard", "timing": "passive", "trigger": "on_attack_declared", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": 1, "health": null, "keyword": null, "duration": "combat", "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-test-of-valor", "name": "Test of Valor", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["war"],
+      "rules_text": "Deal 2 damage to an enemy Figure. If it survives, deal 2 damage to a friendly Figure.", "cost": 2, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-test-of-valor-1", "label": "Test of Valor", "timing": "fast", "trigger": "manual", "target_rule": "enemy_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "deal_damage", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-lightning-path", "name": "Lightning Path", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["storm"],
+      "rules_text": "Deal 2 damage to an enemy Figure.", "cost": 3, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-lightning-path-1", "label": "Lightning Path", "timing": "fast", "trigger": "manual", "target_rule": "enemy_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "deal_damage", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-thunder-archive", "name": "Thunder Archive", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["storm"],
+      "rules_text": "The first time each turn you play a Fast spell, deal 1 damage to the enemy Hero.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-thunder-archive-1", "label": "Thunder Archive", "timing": "passive", "trigger": "on_friendly_play", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "deal_damage", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": "enemy_hero", "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-solar-verdict", "name": "Solar Verdict", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "rare", "alignment": "neutral", "traits": ["sun"],
+      "rules_text": "Deal 3 damage to an enemy Figure. If it dies, restore 2 Health to your Hero.", "cost": 4, "speed": "slow",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-solar-verdict-1", "label": "Solar Verdict", "timing": "slow", "trigger": "manual", "target_rule": "enemy_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "deal_damage", "amount": 3, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-dawn-altar", "name": "Dawn Altar", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["sun"],
+      "rules_text": "At the start of your turn, gain 1 Armor.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-dawn-altar-1", "label": "Dawn Altar", "timing": "passive", "trigger": "on_turn_start", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "gain_armor", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-veil-of-night", "name": "Veil of Night", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["moon"],
+      "rules_text": "Give a friendly Figure Stealth until your next turn.", "cost": 2, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-veil-of-night-1", "label": "Veil of Night", "timing": "fast", "trigger": "manual", "target_rule": "friendly_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_keyword", "amount": null, "attack": null, "health": null, "keyword": "stealth", "duration": "turn", "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-moonwell-mirror", "name": "Moonwell Mirror", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["moon"],
+      "rules_text": "Gain 1 Ritual Mana at the start of your turn.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-moonwell-mirror-1", "label": "Moonwell Mirror", "timing": "passive", "trigger": "on_turn_start", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "gain_ritual_mana", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-grave-bargain", "name": "Grave Bargain", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "rare", "alignment": "neutral", "traits": ["death"],
+      "rules_text": "Destroy a friendly Figure. Draw 2 cards.", "cost": 3, "speed": "slow",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-grave-bargain-1", "label": "Grave Bargain", "timing": "slow", "trigger": "manual", "target_rule": "friendly_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "destroy", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}, {"kind": "draw_cards", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-ossuary-gate", "name": "Ossuary Gate", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "rare", "alignment": "neutral", "traits": ["death"],
+      "rules_text": "The first time a friendly Figure dies each turn, draw a card.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-ossuary-gate-1", "label": "Ossuary Gate", "timing": "passive", "trigger": "on_death", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-call-the-shades", "name": "Call the Shades", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["underworld"],
+      "rules_text": "Summon two 1/1 Spirit tokens.", "cost": 4, "speed": "slow",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-call-the-shades-1", "label": "Call the Shades", "timing": "slow", "trigger": "manual", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "nc-token-spirit", "extra": {}}, {"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "nc-token-spirit", "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-ferrymans-toll", "name": "Ferryman's Toll", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["underworld"],
+      "rules_text": "Once each turn, the first card you return from discard enters your hand.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-ferrymans-toll-1", "label": "Ferryman's Toll", "timing": "passive", "trigger": "on_friendly_play", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "reduce_cost", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": "discard_return", "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-tidal-return", "name": "Tidal Return", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["sea"],
+      "rules_text": "Return a Figure to its owner's hand.", "cost": 2, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-tidal-return-1", "label": "Tidal Return", "timing": "fast", "trigger": "manual", "target_rule": "any_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "return_to_hand", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-deepwater-reliquary", "name": "Deepwater Reliquary", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["sea"],
+      "rules_text": "At the end of your turn, restore 2 Health to your Hero.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-deepwater-reliquary-1", "label": "Deepwater Reliquary", "timing": "passive", "trigger": "on_turn_end", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "heal", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": "friendly_hero", "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-windstep", "name": "Windstep", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "common", "alignment": "neutral", "traits": ["sky"],
+      "rules_text": "Give a friendly Figure +1 Attack this turn.", "cost": 1, "speed": "burst",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-windstep-1", "label": "Windstep", "timing": "burst", "trigger": "manual", "target_rule": "friendly_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": 1, "health": null, "keyword": null, "duration": "turn", "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-celestial-roost", "name": "Celestial Roost", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["sky"],
+      "rules_text": "At the start of your turn, gain 1 Ritual Mana if you control a Figure with Rush.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-celestial-roost-1", "label": "Celestial Roost", "timing": "passive", "trigger": "on_turn_start", "target_rule": "none", "resource_cost": null, "conditions": [{"kind": "if_you_control_trait", "value": "rush"}], "effects": [{"kind": "gain_ritual_mana", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-false-path", "name": "False Path", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "rare", "alignment": "neutral", "traits": ["trickery"],
+      "rules_text": "Give an enemy Figure -2 Attack this turn.", "cost": 2, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-false-path-1", "label": "False Path", "timing": "fast", "trigger": "manual", "target_rule": "enemy_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": -2, "health": null, "keyword": null, "duration": "turn", "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-mask-of-trickster", "name": "Mask of the Trickster", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "rare", "alignment": "neutral", "traits": ["trickery"],
+      "rules_text": "Once each turn, when you play a spell, draw a card.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-mask-of-trickster-1", "label": "Mask of the Trickster", "timing": "passive", "trigger": "on_friendly_play", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-prophetic-choice", "name": "Prophetic Choice", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["wisdom"],
+      "rules_text": "Look at the top 3 cards. Put one into your hand.", "cost": 2, "speed": "burst",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-prophetic-choice-1", "label": "Prophetic Choice", "timing": "burst", "trigger": "manual", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "discover_from_pool", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": "top_3_deck", "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-hall-of-sages", "name": "Hall of Sages", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["wisdom"],
+      "rules_text": "At the end of your turn, if you have 2 or more Ritual Mana, draw a card.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-hall-of-sages-1", "label": "Hall of Sages", "timing": "passive", "trigger": "on_turn_end", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-blessing-of-plenty", "name": "Blessing of Plenty", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["fertility"],
+      "rules_text": "Summon a 2/2 Initiate token and restore 2 Health to your Hero.", "cost": 3, "speed": "slow",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-blessing-of-plenty-1", "label": "Blessing of Plenty", "timing": "slow", "trigger": "manual", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "ds-token-initiate", "extra": {}}, {"kind": "heal", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": "friendly_hero", "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-sacred-grove", "name": "Sacred Grove", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["fertility"],
+      "rules_text": "The first token you summon each turn enters with +1/+1.", "cost": 3, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-sacred-grove-1", "label": "Sacred Grove", "timing": "passive", "trigger": "on_summon", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": 1, "health": 1, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": "once_each_turn"}]
+    },
+    {
+      "id": "ds-hunts-reward", "name": "Hunt's Reward", "card_type": "spell", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["beasts"],
+      "rules_text": "Give a friendly Figure +2 Attack this combat.", "cost": 2, "speed": "fast",
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-hunts-reward-1", "label": "Hunt's Reward", "timing": "fast", "trigger": "manual", "target_rule": "friendly_figure", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": 2, "health": null, "keyword": null, "duration": "combat", "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-totem-of-wild", "name": "Totem of the Wild", "card_type": "relic", "culture_slug": "neutral",
+      "rarity": "uncommon", "alignment": "neutral", "traits": ["beasts"],
+      "rules_text": "Friendly Figures have +1 Health.", "cost": 2, "speed": null,
+      "subtypes": [], "keywords": [], "unique": false, "legendary": false, "token": false, "collectible": true,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": null, "health": null,
+      "abilities": [{"id": "ds-totem-of-wild-1", "label": "Totem of the Wild", "timing": "passive", "trigger": "on_summon", "target_rule": "none", "resource_cost": null, "conditions": [], "effects": [{"kind": "grant_stats", "amount": null, "attack": null, "health": 1, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}], "limit": null}]
+    },
+    {
+      "id": "ds-token-initiate", "name": "Initiate", "card_type": "token", "culture_slug": "neutral",
+      "rarity": "token", "alignment": "neutral", "traits": ["fertility"],
+      "rules_text": "", "cost": 1, "speed": null,
+      "subtypes": ["spirit"], "keywords": [], "unique": false, "legendary": false, "token": true, "collectible": false,
+      "set_code": "domain-support-v1", "flavor_text": "", "attack": 2, "health": 2, "abilities": []
+    }
+  ]
+}

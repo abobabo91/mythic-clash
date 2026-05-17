@@ -1,0 +1,1309 @@
+{
+  "culture_slug": "norse-viking",
+  "set_code": "norse-viking-v1",
+  "cards": [
+    {
+      "id": "norse-viking-hero-thor",
+      "name": "Thor, Storm Keeper",
+      "card_type": "hero",
+      "culture_slug": "norse-viking",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [],
+      "rules_text": "Hero Power - Thunder Strike (2): Deal 2 damage to the enemy Hero.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-hero-1",
+          "label": "Thunder Strike",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_hero",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-001",
+      "name": "Ratatoskr",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Stealth. On play: Draw a card.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 1,
+      "abilities": [
+        {
+          "id": "norse-viking-001-1",
+          "label": "Gossip",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-002",
+      "name": "Einherjar",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Deal 1 damage to the enemy Hero.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 1,
+      "abilities": [
+        {
+          "id": "norse-viking-002-1",
+          "label": "Battle Cry",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-003",
+      "name": "Shield Maiden",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "",
+      "cost": 1,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-004",
+      "name": "Sleipnir",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-005",
+      "name": "Valkyrie Scout",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Give a friendly Figure +1 Attack this turn.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 1,
+      "abilities": [
+        {
+          "id": "norse-viking-005-1",
+          "label": "Inspire",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 0,
+              "keyword": null,
+              "duration": "turn",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-006",
+      "name": "Ulfhednar",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Overwhelm.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-007",
+      "name": "Berserker",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-008",
+      "name": "Brynhildr",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "norse-viking-008-1",
+          "label": "Shield Maiden Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-009",
+      "name": "Sigurd",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Deal 1 damage to the enemy Hero.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "norse-viking-009-1",
+          "label": "Dragon Slayer",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-010",
+      "name": "Skadi",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-011",
+      "name": "Fenrir Pup",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "norse-viking-011-1",
+          "label": "Savage Bite",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-012",
+      "name": "Heimdall",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Guard.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-013",
+      "name": "Nidhogg",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Overwhelm. On play: Deal 1 to all enemy Figures.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "norse-viking-013-1",
+          "label": "Gnaw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-014",
+      "name": "Tyr",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Charge.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "charge"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-015",
+      "name": "Fenrir",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm",
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 6,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "norse-viking-016",
+      "name": "Thor",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Overwhelm. On play: Deal 2 to all enemy Figures.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "overwhelm"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "norse-viking-016-1",
+          "label": "Lightning Storm",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-017",
+      "name": "Odin",
+      "card_type": "figure",
+      "culture_slug": "norse-viking",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "On play: Draw 2 cards. Deal 2 damage to the enemy Hero.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "norse-viking-017-1",
+          "label": "Allfather",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-battle-rage",
+      "name": "Battle Rage",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give a friendly Figure +2 Attack this combat.",
+      "cost": 1,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp1",
+          "label": "Battle Rage",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 2,
+              "health": 0,
+              "keyword": null,
+              "duration": "combat",
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-lightning-bolt",
+      "name": "Lightning Bolt",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 3 damage to any enemy.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp2",
+          "label": "Lightning Bolt",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 3,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-berserker-cry",
+      "name": "Berserker Cry",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Give all friendly Figures +1 Attack this turn.",
+      "cost": 2,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp3",
+          "label": "Berserker Cry",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "grant_stats",
+              "amount": null,
+              "attack": 1,
+              "health": 0,
+              "keyword": null,
+              "duration": "turn",
+              "scope": "all_friendly_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-rune-sight",
+      "name": "Rune Sight",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw a card.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp4",
+          "label": "Rune Sight",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-ragnarok-axe",
+      "name": "Ragnarok Axe",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Deal 4 damage to an enemy Figure.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp5",
+          "label": "Ragnarok Axe",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 4,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-loki-trick",
+      "name": "Loki's Trick",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Return a friendly Figure to your hand. It costs 1 less.",
+      "cost": 1,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp6",
+          "label": "Loki's Trick",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "return_to_hand",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {
+                "cost_reduction": 1,
+                "side": "friendly"
+              }
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-valhalla-call",
+      "name": "Valhalla's Call",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Draw 2 cards. Deal 1 damage to your Hero.",
+      "cost": 3,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp7",
+          "label": "Valhalla's Call",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "friendly_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-frost-axe",
+      "name": "Frost Axe",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Freeze an enemy Figure. Deal 1 damage to it.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp8",
+          "label": "Frost Axe",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "freeze",
+              "amount": null,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            },
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-spell-odins-choice",
+      "name": "Odin's Choice",
+      "card_type": "spell",
+      "culture_slug": "norse-viking",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Choose: Deal 2 damage to the enemy Hero OR Draw a card.",
+      "cost": 2,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-sp9a",
+          "label": "Odin's Wrath",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "enemy_hero",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "norse-viking-sp9b",
+          "label": "Odin's Wisdom",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "draw_cards",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-relic-horn",
+      "name": "Horn of Valhalla",
+      "card_type": "relic",
+      "culture_slug": "norse-viking",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "The first time each turn a friendly Figure attacks the enemy Hero, deal 1 extra damage.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-r1",
+          "label": "Horn of Valhalla",
+          "timing": "passive",
+          "trigger": "on_attack_hero",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 1,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-relic-mjolnir",
+      "name": "Mjolnir Shard",
+      "card_type": "relic",
+      "culture_slug": "norse-viking",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Activate (1): Deal 2 damage to the enemy Hero. Once per turn.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "norse-viking-r2",
+          "label": "Mjolnir Shard",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 1,
+          "conditions": [],
+          "effects": [
+            {
+              "kind": "deal_damage",
+              "amount": 2,
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_hero",
+              "pool": null,
+              "card_id": null,
+              "extra": {}
+            }
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "norse-viking-token-warrior",
+      "name": "Spirit Warrior",
+      "card_type": "token",
+      "culture_slug": "norse-viking",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": [],
+      "rules_text": "Rush.",
+      "cost": 0,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "norse-viking-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 1,
+      "abilities": []
+    }
+  ]
+}

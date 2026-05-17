@@ -1,0 +1,2043 @@
+{
+  "set_code": "filipino-tagalog-v1",
+  "culture_slug": "filipino-tagalog",
+  "primary_family": "Tempest",
+  "secondary_family": "Wildhost",
+  "hero_id": "filipino-tagalog-hero-bathala",
+  "notes": [
+    "Bulk rollout translation keeps Filipino Tagalog readable as tempest with a wildhost secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "filipino-tagalog-hero-bathala",
+      "name": "Bathala, Tempest Paragon",
+      "card_type": "hero",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "supreme",
+        "creator",
+        "sky",
+        "lightning"
+      ],
+      "rules_text": "Hero Power - Sky Spark (2): Deal 1 damage to an enemy Figure. Draw a card from your top 3 cards.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-hero-bathala-1",
+          "label": "Bathala, Tempest Paragon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 1
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-001",
+      "name": "Bathala",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "supreme",
+        "creator",
+        "sky",
+        "lightning"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-001-ab0",
+          "label": "Bathala",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "filipino-tagalog-001-ab1",
+          "label": "Bathala",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-002",
+      "name": "Amihan",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "north wind",
+        "first being",
+        "bird",
+        "creation"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-002-ab0",
+          "label": "Amihan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "filipino-tagalog-002-ab1",
+          "label": "Amihan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-003",
+      "name": "Haliya",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "moon",
+        "battle",
+        "silver",
+        "light"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-003-ab0",
+          "label": "Haliya",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-004",
+      "name": "Bakunawa",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "legendary",
+      "alignment": "dark",
+      "traits": [
+        "sea serpent",
+        "eclipse",
+        "moon-eater",
+        "chaos"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-004-1",
+          "label": "Bakunawa",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-005",
+      "name": "Anitun Tabu",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "wind",
+        "rain",
+        "capricious",
+        "weather"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-005-1",
+          "label": "Anitun Tabu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-006",
+      "name": "Amanikable",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "sea",
+        "hunters",
+        "rage",
+        "unrequited love"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-006-ab0",
+          "label": "Amanikable",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-007",
+      "name": "Lakan Dula",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "kingship",
+        "wisdom",
+        "alliance",
+        "leadership"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-007-ab0",
+          "label": "Lakan Dula",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-008",
+      "name": "Lapu-Lapu",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "resistance",
+        "battle",
+        "Mactan",
+        "freedom"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-008-ab0",
+          "label": "Lapu-Lapu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-009",
+      "name": "Maria Makiling",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "forest",
+        "mountain",
+        "protector",
+        "nature"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-009-ab0",
+          "label": "Maria Makiling",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-010",
+      "name": "Bernardo Carpio",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "mountains",
+        "national",
+        "earthquake",
+        "strength"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-010-ab0",
+          "label": "Bernardo Carpio",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-011",
+      "name": "Tala",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "stars",
+        "morning star",
+        "Venus",
+        "light"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-011-ab0",
+          "label": "Tala",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-012",
+      "name": "Hanan",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "morning",
+        "dawn",
+        "hope",
+        "beginning"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-012-ab0",
+          "label": "Hanan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-013",
+      "name": "Kapre",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "tree giant",
+        "tobacco",
+        "forest",
+        "isolation"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "poisonous"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-013-ab0",
+          "label": "Kapre",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-014",
+      "name": "Tikbalang",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "horse-man",
+        "forest",
+        "trickster",
+        "roads"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": []
+    },
+    {
+      "id": "filipino-tagalog-015",
+      "name": "Nuno sa Punso",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "mound",
+        "earth",
+        "curse",
+        "elder"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-015-ab0",
+          "label": "Nuno sa Punso",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-016",
+      "name": "Aswang",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "shapeshifter",
+        "blood",
+        "night",
+        "fear"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-016-1",
+          "label": "Aswang",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "set_cant_attack",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-017",
+      "name": "Diwata",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "nature",
+        "blessings",
+        "healing",
+        "beautiful"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "filipino-tagalog-018",
+      "name": "Manananggal",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "severing",
+        "blood",
+        "flight",
+        "night horror"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-018-1",
+          "label": "Manananggal",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-019",
+      "name": "Hari sa Ilalim ng Dagat",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "ocean",
+        "underworld",
+        "sea kingdom",
+        "ruler"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-019-ab0",
+          "label": "Hari sa Ilalim ng Dagat",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "filipino-tagalog-020",
+      "name": "Sitan",
+      "card_type": "figure",
+      "culture_slug": "filipino-tagalog",
+      "rarity": "rare",
+      "alignment": "dark",
+      "traits": [
+        "underworld",
+        "temptation",
+        "evil",
+        "death"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "filipino-tagalog-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-020-1",
+          "label": "Sitan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s1",
+      "name": "Aswang Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s1-ab0",
+          "label": "Aswang Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s1b",
+      "name": "Aswang Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s1b-ab0",
+          "label": "Aswang Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s2",
+      "name": "Diwata Shield",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 3
+              },
+              {
+                "kind": "grant_keyword",
+                "keyword": "divine_shield"
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s2-ab0",
+          "label": "Diwata Shield",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "grant_keyword",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s3",
+      "name": "Tikbalang Shift",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff_temp",
+                "attack": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s3-ab0",
+          "label": "Tikbalang Shift",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff_temp",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s4",
+      "name": "Babaylan Draw",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s4-ab0",
+          "label": "Babaylan Draw",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s5",
+      "name": "Bagyo Storm",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_all_enemies",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s5-ab0",
+          "label": "Bagyo Storm",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_all_enemies",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s6",
+      "name": "Ancestor Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s6-ab0",
+          "label": "Ancestor Sight",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-s7",
+      "name": "Diwata's Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 4
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-s7-ab0",
+          "label": "Diwata's Choice",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 4
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-r1",
+      "name": "Agimat Charm",
+      "card_type": "relic",
+      "cost": 3,
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "activated",
+            "cost": 2,
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_hero",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-r1-ab0",
+          "label": "Agimat Charm",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_hero",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "filipino-tagalog-r2",
+      "name": "Babaylan Staff",
+      "card_type": "relic",
+      "cost": 2,
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_spell_cast",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "filipino-tagalog",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "filipino-tagalog-r2-ab0",
+          "label": "Babaylan Staff",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

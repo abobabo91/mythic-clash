@@ -1,0 +1,102 @@
+{
+  "name": "samoan deck",
+  "hero_id": "samoan-hero-tagaloa",
+  "cards": [
+    {
+      "id": "samoan-019",
+      "count": 1
+    },
+    {
+      "id": "samoan-014",
+      "count": 1
+    },
+    {
+      "id": "samoan-018",
+      "count": 1
+    },
+    {
+      "id": "samoan-013",
+      "count": 1
+    },
+    {
+      "id": "samoan-007",
+      "count": 1
+    },
+    {
+      "id": "samoan-008",
+      "count": 1
+    },
+    {
+      "id": "samoan-009",
+      "count": 1
+    },
+    {
+      "id": "samoan-003",
+      "count": 1
+    },
+    {
+      "id": "samoan-004",
+      "count": 1
+    },
+    {
+      "id": "samoan-001",
+      "count": 1
+    },
+    {
+      "id": "samoan-017",
+      "count": 1
+    },
+    {
+      "id": "samoan-020",
+      "count": 1
+    },
+    {
+      "id": "samoan-015",
+      "count": 1
+    },
+    {
+      "id": "samoan-016",
+      "count": 1
+    },
+    {
+      "id": "samoan-s1",
+      "count": 1
+    },
+    {
+      "id": "samoan-s1b",
+      "count": 1
+    },
+    {
+      "id": "samoan-s2",
+      "count": 1
+    },
+    {
+      "id": "samoan-s3",
+      "count": 1
+    },
+    {
+      "id": "samoan-s4",
+      "count": 1
+    },
+    {
+      "id": "samoan-s5",
+      "count": 1
+    },
+    {
+      "id": "samoan-s6",
+      "count": 1
+    },
+    {
+      "id": "samoan-s7",
+      "count": 1
+    },
+    {
+      "id": "samoan-r1",
+      "count": 1
+    },
+    {
+      "id": "samoan-r2",
+      "count": 1
+    }
+  ]
+}

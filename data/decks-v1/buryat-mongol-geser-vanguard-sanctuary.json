@@ -1,0 +1,102 @@
+{
+  "name": "buryat-mongol deck",
+  "hero_id": "buryat-mongol-hero-geser",
+  "cards": [
+    {
+      "id": "buryat-mongol-020",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-014",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-018",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-013",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-007",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-008",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-009",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-003",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-004",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-001",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-017",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-019",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-015",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-016",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s1",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s1b",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s2",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s3",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s4",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s5",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s6",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-s7",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-r1",
+      "count": 1
+    },
+    {
+      "id": "buryat-mongol-r2",
+      "count": 1
+    }
+  ]
+}

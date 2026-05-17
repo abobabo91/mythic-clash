@@ -1,0 +1,102 @@
+{
+  "name": "melanesian-papuan deck",
+  "hero_id": "melanesian-papuan-hero-qat",
+  "cards": [
+    {
+      "id": "melanesian-papuan-020",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-013",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-018",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-007",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-014",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-008",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-009",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-003",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-004",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-001",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-017",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-019",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-015",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-016",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s1",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s1b",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s2",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s3",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s4",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s5",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s6",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-s7",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-r1",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-r2",
+      "count": 1
+    }
+  ]
+}

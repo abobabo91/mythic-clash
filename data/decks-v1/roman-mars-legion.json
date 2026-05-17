@@ -1,0 +1,67 @@
+{
+  "hero_id": "roman-hero",
+  "name": "Mars Legion",
+  "notes": [],
+  "cards": [
+    {
+      "id": "roman-01",
+      "count": 2
+    },
+    {
+      "id": "roman-02",
+      "count": 2
+    },
+    {
+      "id": "roman-03",
+      "count": 2
+    },
+    {
+      "id": "roman-04",
+      "count": 2
+    },
+    {
+      "id": "roman-05",
+      "count": 2
+    },
+    {
+      "id": "roman-06",
+      "count": 2
+    },
+    {
+      "id": "roman-07",
+      "count": 2
+    },
+    {
+      "id": "roman-09",
+      "count": 1
+    },
+    {
+      "id": "roman-10",
+      "count": 1
+    },
+    {
+      "id": "roman-s1",
+      "count": 2
+    },
+    {
+      "id": "roman-s2",
+      "count": 2
+    },
+    {
+      "id": "roman-s3",
+      "count": 1
+    },
+    {
+      "id": "roman-s4",
+      "count": 1
+    },
+    {
+      "id": "roman-r1",
+      "count": 1
+    },
+    {
+      "id": "roman-r2",
+      "count": 1
+    }
+  ]
+}

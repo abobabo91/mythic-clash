@@ -1,0 +1,66 @@
+{
+  "name": "Qat Sanctuary Tempest",
+  "format": "mythic-clash-v1",
+  "hero_id": "melanesian-papuan-hero-qat",
+  "notes": [
+    "Sanctuary-Tempest rollout deck for Melanesian Papuan."
+  ],
+  "cards": [
+    {
+      "id": "melanesian-papuan-001",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-002",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-020",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-019",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-013",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-014",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-007",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-008",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-009",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-004",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-spell-light-lash",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-spell-sanctuary-reading",
+      "count": 2
+    },
+    {
+      "id": "melanesian-papuan-spell-healing-rite",
+      "count": 1
+    },
+    {
+      "id": "melanesian-papuan-relic-sacred-standard",
+      "count": 1
+    }
+  ]
+}

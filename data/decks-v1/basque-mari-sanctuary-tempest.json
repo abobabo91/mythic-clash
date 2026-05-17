@@ -1,0 +1,102 @@
+{
+  "name": "basque deck",
+  "hero_id": "basque-hero-mari",
+  "cards": [
+    {
+      "id": "basque-019",
+      "count": 1
+    },
+    {
+      "id": "basque-020",
+      "count": 1
+    },
+    {
+      "id": "basque-018",
+      "count": 1
+    },
+    {
+      "id": "basque-007",
+      "count": 1
+    },
+    {
+      "id": "basque-013",
+      "count": 1
+    },
+    {
+      "id": "basque-014",
+      "count": 1
+    },
+    {
+      "id": "basque-008",
+      "count": 1
+    },
+    {
+      "id": "basque-009",
+      "count": 1
+    },
+    {
+      "id": "basque-003",
+      "count": 1
+    },
+    {
+      "id": "basque-004",
+      "count": 1
+    },
+    {
+      "id": "basque-001",
+      "count": 1
+    },
+    {
+      "id": "basque-017",
+      "count": 1
+    },
+    {
+      "id": "basque-015",
+      "count": 1
+    },
+    {
+      "id": "basque-016",
+      "count": 1
+    },
+    {
+      "id": "basque-s1",
+      "count": 1
+    },
+    {
+      "id": "basque-s1b",
+      "count": 1
+    },
+    {
+      "id": "basque-s2",
+      "count": 1
+    },
+    {
+      "id": "basque-s3",
+      "count": 1
+    },
+    {
+      "id": "basque-s4",
+      "count": 1
+    },
+    {
+      "id": "basque-s5",
+      "count": 1
+    },
+    {
+      "id": "basque-s6",
+      "count": 1
+    },
+    {
+      "id": "basque-s7",
+      "count": 1
+    },
+    {
+      "id": "basque-r1",
+      "count": 1
+    },
+    {
+      "id": "basque-r2",
+      "count": 1
+    }
+  ]
+}

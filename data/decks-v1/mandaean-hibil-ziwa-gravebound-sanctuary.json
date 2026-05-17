@@ -1,0 +1,66 @@
+{
+  "name": "Hibil Ziwa Gravebound Sanctuary",
+  "format": "mythic-clash-v1",
+  "hero_id": "mandaean-hero-hibil-ziwa",
+  "notes": [
+    "Gravebound-Sanctuary rollout deck for Mandaean."
+  ],
+  "cards": [
+    {
+      "id": "mandaean-001",
+      "count": 1
+    },
+    {
+      "id": "mandaean-002",
+      "count": 1
+    },
+    {
+      "id": "mandaean-017",
+      "count": 2
+    },
+    {
+      "id": "mandaean-018",
+      "count": 2
+    },
+    {
+      "id": "mandaean-013",
+      "count": 2
+    },
+    {
+      "id": "mandaean-014",
+      "count": 2
+    },
+    {
+      "id": "mandaean-007",
+      "count": 2
+    },
+    {
+      "id": "mandaean-011",
+      "count": 2
+    },
+    {
+      "id": "mandaean-006",
+      "count": 2
+    },
+    {
+      "id": "mandaean-003",
+      "count": 2
+    },
+    {
+      "id": "mandaean-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "mandaean-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "mandaean-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "mandaean-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "sami deck",
+  "hero_id": "sami-hero-radien-attje",
+  "cards": [
+    {
+      "id": "sami-017",
+      "count": 1
+    },
+    {
+      "id": "sami-014",
+      "count": 1
+    },
+    {
+      "id": "sami-018",
+      "count": 1
+    },
+    {
+      "id": "sami-007",
+      "count": 1
+    },
+    {
+      "id": "sami-013",
+      "count": 1
+    },
+    {
+      "id": "sami-008",
+      "count": 1
+    },
+    {
+      "id": "sami-009",
+      "count": 1
+    },
+    {
+      "id": "sami-003",
+      "count": 1
+    },
+    {
+      "id": "sami-004",
+      "count": 1
+    },
+    {
+      "id": "sami-001",
+      "count": 1
+    },
+    {
+      "id": "sami-019",
+      "count": 1
+    },
+    {
+      "id": "sami-020",
+      "count": 1
+    },
+    {
+      "id": "sami-015",
+      "count": 1
+    },
+    {
+      "id": "sami-016",
+      "count": 1
+    },
+    {
+      "id": "sami-s1",
+      "count": 1
+    },
+    {
+      "id": "sami-s1b",
+      "count": 1
+    },
+    {
+      "id": "sami-s2",
+      "count": 1
+    },
+    {
+      "id": "sami-s3",
+      "count": 1
+    },
+    {
+      "id": "sami-s4",
+      "count": 1
+    },
+    {
+      "id": "sami-s5",
+      "count": 1
+    },
+    {
+      "id": "sami-s6",
+      "count": 1
+    },
+    {
+      "id": "sami-s7",
+      "count": 1
+    },
+    {
+      "id": "sami-r1",
+      "count": 1
+    },
+    {
+      "id": "sami-r2",
+      "count": 1
+    }
+  ]
+}

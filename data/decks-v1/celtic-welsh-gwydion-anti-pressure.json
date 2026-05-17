@@ -1,0 +1,102 @@
+{
+  "name": "celtic-welsh deck",
+  "hero_id": "celtic-welsh-hero-gwydion",
+  "cards": [
+    {
+      "id": "celtic-welsh-017",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-016",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-018",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-014",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-007",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-008",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-009",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-003",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-004",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-001",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-019",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-020",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-013",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-015",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s1",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s1b",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s2",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s3",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s4",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s5",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s6",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-s7",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-r1",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-r2",
+      "count": 1
+    }
+  ]
+}

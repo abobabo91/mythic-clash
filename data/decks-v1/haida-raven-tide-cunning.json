@@ -1,0 +1,102 @@
+{
+  "name": "haida deck",
+  "hero_id": "haida-hero-raven-first-light",
+  "cards": [
+    {
+      "id": "haida-010",
+      "count": 1
+    },
+    {
+      "id": "haida-014",
+      "count": 1
+    },
+    {
+      "id": "haida-015",
+      "count": 1
+    },
+    {
+      "id": "haida-020",
+      "count": 1
+    },
+    {
+      "id": "haida-016",
+      "count": 1
+    },
+    {
+      "id": "haida-007",
+      "count": 1
+    },
+    {
+      "id": "haida-009",
+      "count": 1
+    },
+    {
+      "id": "haida-011",
+      "count": 1
+    },
+    {
+      "id": "haida-004",
+      "count": 1
+    },
+    {
+      "id": "haida-005",
+      "count": 1
+    },
+    {
+      "id": "haida-001",
+      "count": 1
+    },
+    {
+      "id": "haida-018",
+      "count": 1
+    },
+    {
+      "id": "haida-003",
+      "count": 1
+    },
+    {
+      "id": "haida-013",
+      "count": 1
+    },
+    {
+      "id": "haida-s1",
+      "count": 1
+    },
+    {
+      "id": "haida-s1b",
+      "count": 1
+    },
+    {
+      "id": "haida-s2",
+      "count": 1
+    },
+    {
+      "id": "haida-s3",
+      "count": 1
+    },
+    {
+      "id": "haida-s4",
+      "count": 1
+    },
+    {
+      "id": "haida-s5",
+      "count": 1
+    },
+    {
+      "id": "haida-s6",
+      "count": 1
+    },
+    {
+      "id": "haida-s7",
+      "count": 1
+    },
+    {
+      "id": "haida-r1",
+      "count": 1
+    },
+    {
+      "id": "haida-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "olmec deck",
+  "hero_id": "olmec-hero-were-jaguar-first-roar",
+  "cards": [
+    {
+      "id": "olmec-012",
+      "count": 1
+    },
+    {
+      "id": "olmec-018",
+      "count": 1
+    },
+    {
+      "id": "olmec-015",
+      "count": 1
+    },
+    {
+      "id": "olmec-010",
+      "count": 1
+    },
+    {
+      "id": "olmec-013",
+      "count": 1
+    },
+    {
+      "id": "olmec-005",
+      "count": 1
+    },
+    {
+      "id": "olmec-009",
+      "count": 1
+    },
+    {
+      "id": "olmec-011",
+      "count": 1
+    },
+    {
+      "id": "olmec-003",
+      "count": 1
+    },
+    {
+      "id": "olmec-004",
+      "count": 1
+    },
+    {
+      "id": "olmec-001",
+      "count": 1
+    },
+    {
+      "id": "olmec-016",
+      "count": 1
+    },
+    {
+      "id": "olmec-019",
+      "count": 1
+    },
+    {
+      "id": "olmec-020",
+      "count": 1
+    },
+    {
+      "id": "olmec-s1",
+      "count": 1
+    },
+    {
+      "id": "olmec-s1b",
+      "count": 1
+    },
+    {
+      "id": "olmec-s2",
+      "count": 1
+    },
+    {
+      "id": "olmec-s3",
+      "count": 1
+    },
+    {
+      "id": "olmec-s4",
+      "count": 1
+    },
+    {
+      "id": "olmec-s5",
+      "count": 1
+    },
+    {
+      "id": "olmec-s6",
+      "count": 1
+    },
+    {
+      "id": "olmec-s7",
+      "count": 1
+    },
+    {
+      "id": "olmec-r1",
+      "count": 1
+    },
+    {
+      "id": "olmec-r2",
+      "count": 1
+    }
+  ]
+}

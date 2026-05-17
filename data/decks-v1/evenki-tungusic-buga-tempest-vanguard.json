@@ -1,0 +1,102 @@
+{
+  "name": "evenki-tungusic deck",
+  "hero_id": "evenki-tungusic-hero-buga",
+  "cards": [
+    {
+      "id": "evenki-tungusic-017",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-013",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-018",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-015",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-007",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-008",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-009",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-003",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-004",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-001",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-019",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-020",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-014",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-016",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s1",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s1b",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s2",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s3",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s4",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s5",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s6",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-s7",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-r1",
+      "count": 1
+    },
+    {
+      "id": "evenki-tungusic-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "zapotec deck",
+  "hero_id": "zapotec-hero-cocijo-rain-of-kings",
+  "cards": [
+    {
+      "id": "zapotec-017",
+      "count": 1
+    },
+    {
+      "id": "zapotec-020",
+      "count": 1
+    },
+    {
+      "id": "zapotec-015",
+      "count": 1
+    },
+    {
+      "id": "zapotec-016",
+      "count": 1
+    },
+    {
+      "id": "zapotec-019",
+      "count": 1
+    },
+    {
+      "id": "zapotec-007",
+      "count": 1
+    },
+    {
+      "id": "zapotec-008",
+      "count": 1
+    },
+    {
+      "id": "zapotec-010",
+      "count": 1
+    },
+    {
+      "id": "zapotec-003",
+      "count": 1
+    },
+    {
+      "id": "zapotec-004",
+      "count": 1
+    },
+    {
+      "id": "zapotec-001",
+      "count": 1
+    },
+    {
+      "id": "zapotec-009",
+      "count": 1
+    },
+    {
+      "id": "zapotec-011",
+      "count": 1
+    },
+    {
+      "id": "zapotec-012",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s1",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s1b",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s2",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s3",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s4",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s5",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s6",
+      "count": 1
+    },
+    {
+      "id": "zapotec-s7",
+      "count": 1
+    },
+    {
+      "id": "zapotec-r1",
+      "count": 1
+    },
+    {
+      "id": "zapotec-r2",
+      "count": 1
+    }
+  ]
+}

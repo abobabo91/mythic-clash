@@ -1,0 +1,74 @@
+{
+  "candidate": "Guarani",
+  "benchmarks": [
+    "ancient-greek"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 1,
+      "losses": 3,
+      "draws": 0,
+      "average_turn": 9.5,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 8,
+          "steps": 67,
+          "candidate_health": -2,
+          "benchmark_health": 14
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 10,
+          "steps": 75,
+          "candidate_health": -1,
+          "benchmark_health": 17
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 10,
+          "steps": 74,
+          "candidate_health": 21,
+          "benchmark_health": -3
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 10,
+          "steps": 81,
+          "candidate_health": -1,
+          "benchmark_health": 12
+        }
+      ]
+    }
+  }
+}

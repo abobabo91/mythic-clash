@@ -1,0 +1,75 @@
+{
+  "hero_id": "norse-viking-hero-thor",
+  "name": "Thor Rush Burn",
+  "notes": [],
+  "cards": [
+    {
+      "id": "norse-viking-001",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-002",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-003",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-004",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-006",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-009",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-010",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-014",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-015",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-battle-rage",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-spell-lightning-bolt",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-spell-rune-sight",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-valhalla-call",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-berserker-cry",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-odins-choice",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-relic-horn",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-relic-mjolnir",
+      "count": 1
+    }
+  ]
+}

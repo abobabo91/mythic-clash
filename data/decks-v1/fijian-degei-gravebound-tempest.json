@@ -1,0 +1,66 @@
+{
+  "name": "Degei Gravebound Tempest",
+  "format": "mythic-clash-v1",
+  "hero_id": "fijian-hero-degei",
+  "notes": [
+    "Gravebound-Tempest rollout deck for Fijian."
+  ],
+  "cards": [
+    {
+      "id": "fijian-001",
+      "count": 1
+    },
+    {
+      "id": "fijian-002",
+      "count": 1
+    },
+    {
+      "id": "fijian-020",
+      "count": 2
+    },
+    {
+      "id": "fijian-017",
+      "count": 2
+    },
+    {
+      "id": "fijian-014",
+      "count": 2
+    },
+    {
+      "id": "fijian-013",
+      "count": 2
+    },
+    {
+      "id": "fijian-008",
+      "count": 2
+    },
+    {
+      "id": "fijian-007",
+      "count": 2
+    },
+    {
+      "id": "fijian-004",
+      "count": 2
+    },
+    {
+      "id": "fijian-005",
+      "count": 2
+    },
+    {
+      "id": "fijian-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "fijian-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "fijian-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "fijian-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

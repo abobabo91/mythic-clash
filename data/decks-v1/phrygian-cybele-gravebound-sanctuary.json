@@ -1,0 +1,102 @@
+{
+  "name": "phrygian deck",
+  "hero_id": "phrygian-hero-cybele",
+  "cards": [
+    {
+      "id": "phrygian-017",
+      "count": 1
+    },
+    {
+      "id": "phrygian-020",
+      "count": 1
+    },
+    {
+      "id": "phrygian-018",
+      "count": 1
+    },
+    {
+      "id": "phrygian-007",
+      "count": 1
+    },
+    {
+      "id": "phrygian-013",
+      "count": 1
+    },
+    {
+      "id": "phrygian-014",
+      "count": 1
+    },
+    {
+      "id": "phrygian-008",
+      "count": 1
+    },
+    {
+      "id": "phrygian-009",
+      "count": 1
+    },
+    {
+      "id": "phrygian-003",
+      "count": 1
+    },
+    {
+      "id": "phrygian-004",
+      "count": 1
+    },
+    {
+      "id": "phrygian-001",
+      "count": 1
+    },
+    {
+      "id": "phrygian-019",
+      "count": 1
+    },
+    {
+      "id": "phrygian-015",
+      "count": 1
+    },
+    {
+      "id": "phrygian-016",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s1",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s1b",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s2",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s3",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s4",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s5",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s6",
+      "count": 1
+    },
+    {
+      "id": "phrygian-s7",
+      "count": 1
+    },
+    {
+      "id": "phrygian-r1",
+      "count": 1
+    },
+    {
+      "id": "phrygian-r2",
+      "count": 1
+    }
+  ]
+}

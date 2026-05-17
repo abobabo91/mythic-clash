@@ -1,0 +1,102 @@
+{
+  "name": "igbo deck",
+  "hero_id": "igbo-hero-chukwu",
+  "cards": [
+    {
+      "id": "igbo-014",
+      "count": 1
+    },
+    {
+      "id": "igbo-016",
+      "count": 1
+    },
+    {
+      "id": "igbo-018",
+      "count": 1
+    },
+    {
+      "id": "igbo-007",
+      "count": 1
+    },
+    {
+      "id": "igbo-017",
+      "count": 1
+    },
+    {
+      "id": "igbo-008",
+      "count": 1
+    },
+    {
+      "id": "igbo-009",
+      "count": 1
+    },
+    {
+      "id": "igbo-003",
+      "count": 1
+    },
+    {
+      "id": "igbo-004",
+      "count": 1
+    },
+    {
+      "id": "igbo-001",
+      "count": 1
+    },
+    {
+      "id": "igbo-019",
+      "count": 1
+    },
+    {
+      "id": "igbo-020",
+      "count": 1
+    },
+    {
+      "id": "igbo-013",
+      "count": 1
+    },
+    {
+      "id": "igbo-015",
+      "count": 1
+    },
+    {
+      "id": "igbo-s1",
+      "count": 1
+    },
+    {
+      "id": "igbo-s1b",
+      "count": 1
+    },
+    {
+      "id": "igbo-s2",
+      "count": 1
+    },
+    {
+      "id": "igbo-s3",
+      "count": 1
+    },
+    {
+      "id": "igbo-s4",
+      "count": 1
+    },
+    {
+      "id": "igbo-s5",
+      "count": 1
+    },
+    {
+      "id": "igbo-s6",
+      "count": 1
+    },
+    {
+      "id": "igbo-s7",
+      "count": 1
+    },
+    {
+      "id": "igbo-r1",
+      "count": 1
+    },
+    {
+      "id": "igbo-r2",
+      "count": 1
+    }
+  ]
+}

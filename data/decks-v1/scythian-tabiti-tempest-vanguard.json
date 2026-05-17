@@ -1,0 +1,66 @@
+{
+  "name": "Tabiti Tempest Vanguard",
+  "format": "mythic-clash-v1",
+  "hero_id": "scythian-hero-tabiti",
+  "notes": [
+    "Tempest-Vanguard rollout deck for Scythian."
+  ],
+  "cards": [
+    {
+      "id": "scythian-001",
+      "count": 1
+    },
+    {
+      "id": "scythian-002",
+      "count": 1
+    },
+    {
+      "id": "scythian-020",
+      "count": 2
+    },
+    {
+      "id": "scythian-017",
+      "count": 2
+    },
+    {
+      "id": "scythian-014",
+      "count": 2
+    },
+    {
+      "id": "scythian-016",
+      "count": 2
+    },
+    {
+      "id": "scythian-008",
+      "count": 2
+    },
+    {
+      "id": "scythian-007",
+      "count": 2
+    },
+    {
+      "id": "scythian-006",
+      "count": 2
+    },
+    {
+      "id": "scythian-003",
+      "count": 2
+    },
+    {
+      "id": "scythian-spell-storm-bolt",
+      "count": 2
+    },
+    {
+      "id": "scythian-spell-sky-reading",
+      "count": 2
+    },
+    {
+      "id": "scythian-spell-rain-blessing",
+      "count": 1
+    },
+    {
+      "id": "scythian-relic-sky-seal",
+      "count": 1
+    }
+  ]
+}

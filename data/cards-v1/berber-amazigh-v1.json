@@ -1,0 +1,2055 @@
+{
+  "set_code": "berber-amazigh-v1",
+  "culture_slug": "berber-amazigh",
+  "primary_family": "Tempest",
+  "secondary_family": "Vanguard",
+  "hero_id": "berber-amazigh-hero-ammon",
+  "notes": [
+    "Bulk rollout translation keeps Berber Amazigh readable as tempest with a vanguard secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "berber-amazigh-hero-ammon",
+      "name": "Ammon, Tempest Paragon",
+      "card_type": "hero",
+      "culture_slug": "berber-amazigh",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "ram",
+        "sun",
+        "oracle",
+        "supreme"
+      ],
+      "rules_text": "Hero Power - Sky Spark (2): Deal 1 damage to an enemy Figure. Draw a card from your top 3 cards.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "berber-amazigh-hero-ammon-1",
+          "label": "Ammon, Tempest Paragon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 1
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-001",
+      "name": "Ammon",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "ram",
+        "sun",
+        "oracle",
+        "supreme"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "berber-amazigh-001-ab0",
+          "label": "Ammon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "berber-amazigh-001-ab1",
+          "label": "Ammon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-002",
+      "name": "Gurzil",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "bull",
+        "war",
+        "sun",
+        "Berber champion"
+      ],
+      "rules_text": "On play: Deal 2 damage to all enemy Figures. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "berber-amazigh-002-ab0",
+          "label": "Gurzil",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "berber-amazigh-002-ab1",
+          "label": "Gurzil",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "all_enemy_figures",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-003",
+      "name": "Tanit",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "moon",
+        "fertility",
+        "Carthage",
+        "queen of heaven"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "berber-amazigh-003-ab0",
+          "label": "Tanit",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-004",
+      "name": "Baal Hammon",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "rare",
+      "alignment": "chaos",
+      "traits": [
+        "fire",
+        "sky",
+        "Carthaginian supreme",
+        "storm"
+      ],
+      "rules_text": "Rush. Overwhelm.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush",
+        "overwhelm"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "berber-amazigh-004-1",
+          "label": "Baal Hammon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-005",
+      "name": "Antaeus",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "earth",
+        "strength",
+        "wrestling",
+        "North Africa"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "giant"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "berber-amazigh-005-1",
+          "label": "Antaeus",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "all_enemy_figures",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-006",
+      "name": "Massinissa",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "first Berber king",
+        "unity",
+        "horse"
+      ],
+      "rules_text": "On play: Return an enemy Figure to its owner's hand.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "berber-amazigh-006-ab0",
+          "label": "Massinissa",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "bounce",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "bounce"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-007",
+      "name": "Kahina",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "warrior queen",
+        "prophecy",
+        "resistance"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "berber-amazigh-007-ab0",
+          "label": "Kahina",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-008",
+      "name": "Jugurtha",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "rebellion",
+        "cunning war",
+        "Berber hero"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "berber-amazigh-008-ab0",
+          "label": "Jugurtha",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-009",
+      "name": "Azurki",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "mountain snow",
+        "Atlas",
+        "purity"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "berber-amazigh-009-ab0",
+          "label": "Azurki",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-010",
+      "name": "Anzar",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "rain",
+        "sky",
+        "agriculture"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "berber-amazigh-010-ab0",
+          "label": "Anzar",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-011",
+      "name": "Ifri",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "caves",
+        "earth mother",
+        "origin"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "berber-amazigh-011-ab0",
+          "label": "Ifri",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-012",
+      "name": "Atlas",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": [
+        "sky bearing",
+        "mountains",
+        "endurance"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "titan"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "berber-amazigh-012-ab0",
+          "label": "Atlas",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-013",
+      "name": "Tin Hinan",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "queen mother",
+        "Tuareg",
+        "founding ancestor"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "berber-amazigh-013-ab0",
+          "label": "Tin Hinan",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-014",
+      "name": "Amma (Berber)",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "protective spirit",
+        "home",
+        "small deity"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "berber-amazigh-014-1",
+          "label": "Amma (Berber)",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "set_cant_attack",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-015",
+      "name": "Imazighen Spirit",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "free people",
+        "mountains",
+        "independence"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "berber-amazigh-015-ab0",
+          "label": "Imazighen Spirit",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-016",
+      "name": "Desert Jinn",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "chaos",
+      "traits": [
+        "jinn",
+        "desert",
+        "illusion",
+        "wind"
+      ],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "berber-amazigh-016-1",
+          "label": "Desert Jinn",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-017",
+      "name": "Syphax",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "Numidian king",
+        "warrior",
+        "cunning"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "berber-amazigh-017-1",
+          "label": "Syphax",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-018",
+      "name": "Agelid",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "sacred king",
+        "ritual authority",
+        "tribe"
+      ],
+      "rules_text": "Rush.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "berber-amazigh-018-1",
+          "label": "Agelid",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-019",
+      "name": "Ifriqiya Lion",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "Atlas lion",
+        "strength",
+        "sacred"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "berber-amazigh-019-ab0",
+          "label": "Ifriqiya Lion",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "berber-amazigh-020",
+      "name": "Neith of the West",
+      "card_type": "figure",
+      "culture_slug": "berber-amazigh",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "war",
+        "weaving",
+        "origin",
+        "Libya"
+      ],
+      "rules_text": "Stealth.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "berber-amazigh-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "berber-amazigh-s1",
+      "name": "Desert Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s1-ab0",
+          "label": "Desert Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s1b",
+      "name": "Desert Strike",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s1b-ab0",
+          "label": "Desert Strike",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s2",
+      "name": "Sand Shield",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 3
+              },
+              {
+                "kind": "grant_keyword",
+                "keyword": "divine_shield"
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s2-ab0",
+          "label": "Sand Shield",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "grant_keyword",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s3",
+      "name": "Nomad Rush",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff_temp",
+                "attack": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s3-ab0",
+          "label": "Nomad Rush",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff_temp",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s4",
+      "name": "Scout's Report",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s4-ab0",
+          "label": "Scout's Report",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s5",
+      "name": "Sandstorm",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_all_enemies",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s5-ab0",
+          "label": "Sandstorm",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_all_enemies",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s6",
+      "name": "Star Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s6-ab0",
+          "label": "Star Sight",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-s7",
+      "name": "Wanderer's Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 4
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-s7-ab0",
+          "label": "Wanderer's Choice",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 4
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-r1",
+      "name": "Silver Amulet",
+      "card_type": "relic",
+      "cost": 3,
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "activated",
+            "cost": 2,
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_hero",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-r1-ab0",
+          "label": "Silver Amulet",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_hero",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "berber-amazigh-r2",
+      "name": "Caravan Horn",
+      "card_type": "relic",
+      "cost": 2,
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_spell_cast",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "berber-amazigh",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "berber-amazigh-r2-ab0",
+          "label": "Caravan Horn",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "georgian-nart deck",
+  "hero_id": "georgian-nart-hero-amirani-mountain-rebel",
+  "cards": [
+    {
+      "id": "georgian-nart-018",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-011",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-019",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-015",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-020",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-009",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-010",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-003",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-004",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-001",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-016",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-017",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-012",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-013",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s1",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s1b",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s2",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s3",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s4",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s5",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s6",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-s7",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-r1",
+      "count": 1
+    },
+    {
+      "id": "georgian-nart-r2",
+      "count": 1
+    }
+  ]
+}

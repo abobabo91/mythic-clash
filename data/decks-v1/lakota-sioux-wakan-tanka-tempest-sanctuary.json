@@ -1,0 +1,102 @@
+{
+  "name": "lakota-sioux deck",
+  "hero_id": "lakota-sioux-hero-wakan-tanka",
+  "cards": [
+    {
+      "id": "lakota-sioux-014",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-016",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-018",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-007",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-017",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-008",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-009",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-003",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-004",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-001",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-019",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-020",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-013",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-015",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s1",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s1b",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s2",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s3",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s4",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s5",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s6",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-s7",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-r1",
+      "count": 1
+    },
+    {
+      "id": "lakota-sioux-r2",
+      "count": 1
+    }
+  ]
+}

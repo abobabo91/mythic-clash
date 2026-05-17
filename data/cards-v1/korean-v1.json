@@ -1,0 +1,2122 @@
+{
+  "set_code": "korean-v1",
+  "culture_slug": "korean",
+  "primary_family": "Oracle",
+  "secondary_family": "Sanctuary",
+  "hero_id": "korean-hero-dangun-wanggeom",
+  "notes": [
+    "Bulk rollout translation keeps Korean readable as oracle with a sanctuary secondary lean.",
+    "This pack uses the constrained v1 rollout grammar so it stays compatible with the current engine and smoke-test stack."
+  ],
+  "cards": [
+    {
+      "id": "korean-hero-dangun-wanggeom",
+      "name": "Dangun Wanggeom, Oracle Paragon",
+      "card_type": "hero",
+      "culture_slug": "korean",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "first Korean king",
+        "Gojoseon",
+        "divine birth",
+        "bear woman"
+      ],
+      "rules_text": "Hero Power - Foresight (2): Draw a card from your top 3 cards. An enemy Figure can't attack next turn.",
+      "cost": null,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "korean-hero-dangun-wanggeom-1",
+          "label": "Dangun Wanggeom, Oracle Paragon",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "set_cant_attack",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-001",
+      "name": "Dangun Wanggeom",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "legendary",
+      "alignment": "neutral",
+      "traits": [
+        "first Korean king",
+        "Gojoseon",
+        "divine birth",
+        "bear woman"
+      ],
+      "rules_text": "On play: Deal 3 damage to an enemy Figure. Draw a card.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "ancestor"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "korean-001-ab0",
+          "label": "Dangun Wanggeom",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        },
+        {
+          "id": "korean-001-ab1",
+          "label": "Dangun Wanggeom",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          },
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-002",
+      "name": "Haemosu",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sun prince",
+        "Goguryeo",
+        "chariot of five dragons"
+      ],
+      "rules_text": "Reborn. On play: Return a friendly Figure from discard to hand.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "reborn"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": [
+        {
+          "id": "korean-002-ab0",
+          "label": "Haemosu",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "return_from_discard",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "return_from_discard"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-003",
+      "name": "Jumong",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "archer hero",
+        "Goguryeo founder",
+        "flight",
+        "divine birth"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "hero"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "korean-003-ab0",
+          "label": "Jumong",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-004",
+      "name": "Cheoyong",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "dragon son",
+        "disease spirit",
+        "dance",
+        "apotropaic"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "korean-004-1",
+          "label": "Cheoyong",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-005",
+      "name": "Dragon King of the Sea",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": [
+        "ocean",
+        "Korean undersea palace",
+        "rain",
+        "power"
+      ],
+      "rules_text": "Rush. On play: Deal 2 damage to an enemy Figure.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "korean-005-ab0",
+          "label": "Dragon King of the Sea",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-006",
+      "name": "Baridegi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "abandoned princess",
+        "underworld journey",
+        "healing",
+        "mudang"
+      ],
+      "rules_text": "Guard. Reborn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard",
+        "reborn"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "korean-006-1",
+          "label": "Baridegi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "discover_from_pool",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-007",
+      "name": "Dokkaebi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "rare",
+      "alignment": "chaos",
+      "traits": [
+        "goblin",
+        "club",
+        "mischief",
+        "supernatural energy"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "korean-007-ab0",
+          "label": "Dokkaebi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-008",
+      "name": "Jeseok",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "Buddhist king",
+        "rice",
+        "abundance",
+        "sky king"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "korean-008-ab0",
+          "label": "Jeseok",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-009",
+      "name": "Mago",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "creation",
+        "grandmother",
+        "ancient Korea",
+        "original"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 6,
+      "abilities": [
+        {
+          "id": "korean-009-ab0",
+          "label": "Mago",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-010",
+      "name": "Samshin Halmoni",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "birth",
+        "children",
+        "fate",
+        "grandmother spirit"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "korean-010-ab0",
+          "label": "Samshin Halmoni",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-011",
+      "name": "Haechi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "uncommon",
+      "alignment": "light",
+      "traits": [
+        "fire-eating",
+        "law",
+        "Seoul",
+        "guardian"
+      ],
+      "rules_text": "Rush. On play: Draw a card.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "rush"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "korean-011-ab0",
+          "label": "Haechi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-012",
+      "name": "Gumiho",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "uncommon",
+      "alignment": "dark",
+      "traits": [
+        "nine-tailed fox",
+        "seduction",
+        "liver hunger",
+        "transformation"
+      ],
+      "rules_text": "Guard. On play: Freeze an enemy Figure.",
+      "cost": 4,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 5,
+      "abilities": [
+        {
+          "id": "korean-012-ab0",
+          "label": "Gumiho",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "freeze",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "freeze"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-013",
+      "name": "Yeomna",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "Korean hell judge",
+        "ten kings",
+        "karma"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "korean-013-ab0",
+          "label": "Yeomna",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-014",
+      "name": "Cheonjiwang",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "heaven-earth king",
+        "Jeju creation",
+        "first Korean creator"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "korean-014-ab0",
+          "label": "Cheonjiwang",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-015",
+      "name": "Agwi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "fire spirit",
+        "malevolent",
+        "household",
+        "Korea"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "demon"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "korean-015-ab0",
+          "label": "Agwi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-016",
+      "name": "Mountain God (Sansin)",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "mountain spirit",
+        "tiger companion",
+        "wisdom"
+      ],
+      "rules_text": "On play: Draw a card.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 4,
+      "abilities": [
+        {
+          "id": "korean-016-ab0",
+          "label": "Mountain God (Sansin)",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-017",
+      "name": "Imuggi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "water dragon",
+        "becoming",
+        "thousand year wait"
+      ],
+      "rules_text": "Stealth. On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "korean-017-ab0",
+          "label": "Imuggi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-018",
+      "name": "Dalgi",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "dark",
+      "traits": [
+        "fox spirit",
+        "treachery",
+        "Gija Joseon",
+        "Daji parallel"
+      ],
+      "rules_text": "On play: Give a friendly Figure +1 Health.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "heroine"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "korean-018-ab0",
+          "label": "Dalgi",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-019",
+      "name": "Mireuk",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "light",
+      "traits": [
+        "future Buddha",
+        "Maitreya",
+        "Korean millenarian"
+      ],
+      "rules_text": "Stealth. On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [
+        "stealth"
+      ],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "korean-019-ab0",
+          "label": "Mireuk",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-020",
+      "name": "Chamsuri",
+      "card_type": "figure",
+      "culture_slug": "korean",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": [
+        "butterfly",
+        "Zhuangzi parallel",
+        "dream",
+        "transformation"
+      ],
+      "rules_text": "On play: Give a friendly Figure +1 Health.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [
+        "spirit"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "korean-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 3,
+      "abilities": [
+        {
+          "id": "korean-020-ab0",
+          "label": "Chamsuri",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 1,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ],
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "korean-s1",
+      "name": "Spirit Bolt",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s1-ab0",
+          "label": "Spirit Bolt",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s1b",
+      "name": "Spirit Bolt",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Deal 3 damage to an enemy character.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_character",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 3
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s1b-ab0",
+          "label": "Spirit Bolt",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": "enemy_character",
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 3
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s2",
+      "name": "Ancestor's Blessing",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +0/+3 and Ward.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff",
+                "attack": 0,
+                "health": 3
+              },
+              {
+                "kind": "grant_keyword",
+                "keyword": "divine_shield"
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s2-ab0",
+          "label": "Ancestor's Blessing",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 0,
+              "health": 3,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff",
+              "amount": null
+            },
+            {
+              "attack": null,
+              "health": null,
+              "keyword": "divine_shield",
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "grant_keyword",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s3",
+      "name": "Ghost Wail",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Give a friendly Figure +2 Attack this turn.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "friendly_figure",
+            "effects": [
+              {
+                "kind": "buff_temp",
+                "attack": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s3-ab0",
+          "label": "Ghost Wail",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": 2,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "buff_temp",
+              "amount": null
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s4",
+      "name": "Mudang Vision",
+      "card_type": "spell",
+      "cost": 2,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw 2 cards.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s4-ab0",
+          "label": "Mudang Vision",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s5",
+      "name": "Haetae's Judgment",
+      "card_type": "spell",
+      "cost": 5,
+      "speed": "slow",
+      "rarity": "common",
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_all_enemies",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s5-ab0",
+          "label": "Haetae's Judgment",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_all_enemies",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s6",
+      "name": "Spirit Sight",
+      "card_type": "spell",
+      "cost": 1,
+      "speed": "burst",
+      "rarity": "common",
+      "rules_text": "Draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s6-ab0",
+          "label": "Spirit Sight",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-s7",
+      "name": "Spirit's Choice",
+      "card_type": "spell",
+      "cost": 3,
+      "speed": "fast",
+      "rarity": "common",
+      "rules_text": "Choose: Deal 4 damage to an enemy Figure OR Heal your Hero for 4.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_play",
+            "target_rule": "enemy_figure",
+            "effects": [
+              {
+                "kind": "deal_damage",
+                "amount": 4
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-s7-ab0",
+          "label": "Spirit's Choice",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage",
+              "amount": 4
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-r1",
+      "name": "Spirit Mirror",
+      "card_type": "relic",
+      "cost": 3,
+      "rarity": "rare",
+      "rules_text": "Activated (2 mana): Deal 2 damage to the enemy Hero.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "activated",
+            "cost": 2,
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "deal_damage_hero",
+                "amount": 2
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-r1-ab0",
+          "label": "Spirit Mirror",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": 2,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "deal_damage_hero",
+              "amount": 2
+            }
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "korean-r2",
+      "name": "Dokkaebi Lantern",
+      "card_type": "relic",
+      "cost": 2,
+      "rarity": "rare",
+      "rules_text": "After you cast a spell, draw a card.",
+      "extra": {
+        "abilities": [
+          {
+            "trigger": "on_spell_cast",
+            "target_rule": "none",
+            "effects": [
+              {
+                "kind": "draw_cards",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+      },
+      "culture_slug": "korean",
+      "keywords": [],
+      "speed": "",
+      "alignment": "",
+      "collectible": true,
+      "flavor_text": "",
+      "legendary": false,
+      "set_code": "v1",
+      "subtypes": [],
+      "token": false,
+      "traits": [],
+      "unique": false,
+      "attack": 0,
+      "health": 0,
+      "abilities": [
+        {
+          "id": "korean-r2-ab0",
+          "label": "Dokkaebi Lantern",
+          "timing": "slow",
+          "trigger": "on_spell_cast",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {
+              "attack": null,
+              "health": null,
+              "keyword": null,
+              "duration": null,
+              "scope": null,
+              "pool": null,
+              "card_id": null,
+              "extra": {},
+              "kind": "draw_cards",
+              "amount": 1
+            }
+          ],
+          "limit": null
+        }
+      ]
+    }
+  ]
+}

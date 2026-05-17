@@ -1,0 +1,102 @@
+{
+  "name": "korean deck",
+  "hero_id": "korean-hero-dangun-wanggeom",
+  "cards": [
+    {
+      "id": "korean-008",
+      "count": 1
+    },
+    {
+      "id": "korean-010",
+      "count": 1
+    },
+    {
+      "id": "korean-007",
+      "count": 1
+    },
+    {
+      "id": "korean-009",
+      "count": 1
+    },
+    {
+      "id": "korean-017",
+      "count": 1
+    },
+    {
+      "id": "korean-018",
+      "count": 1
+    },
+    {
+      "id": "korean-013",
+      "count": 1
+    },
+    {
+      "id": "korean-014",
+      "count": 1
+    },
+    {
+      "id": "korean-003",
+      "count": 1
+    },
+    {
+      "id": "korean-004",
+      "count": 1
+    },
+    {
+      "id": "korean-001",
+      "count": 1
+    },
+    {
+      "id": "korean-019",
+      "count": 1
+    },
+    {
+      "id": "korean-020",
+      "count": 1
+    },
+    {
+      "id": "korean-015",
+      "count": 1
+    },
+    {
+      "id": "korean-s1",
+      "count": 1
+    },
+    {
+      "id": "korean-s1b",
+      "count": 1
+    },
+    {
+      "id": "korean-s2",
+      "count": 1
+    },
+    {
+      "id": "korean-s3",
+      "count": 1
+    },
+    {
+      "id": "korean-s4",
+      "count": 1
+    },
+    {
+      "id": "korean-s5",
+      "count": 1
+    },
+    {
+      "id": "korean-s6",
+      "count": 1
+    },
+    {
+      "id": "korean-s7",
+      "count": 1
+    },
+    {
+      "id": "korean-r1",
+      "count": 1
+    },
+    {
+      "id": "korean-r2",
+      "count": 1
+    }
+  ]
+}

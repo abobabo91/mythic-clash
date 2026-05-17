@@ -1,0 +1,102 @@
+{
+  "name": "mandaean deck",
+  "hero_id": "mandaean-hero-hibil-ziwa",
+  "cards": [
+    {
+      "id": "mandaean-014",
+      "count": 1
+    },
+    {
+      "id": "mandaean-016",
+      "count": 1
+    },
+    {
+      "id": "mandaean-018",
+      "count": 1
+    },
+    {
+      "id": "mandaean-007",
+      "count": 1
+    },
+    {
+      "id": "mandaean-017",
+      "count": 1
+    },
+    {
+      "id": "mandaean-008",
+      "count": 1
+    },
+    {
+      "id": "mandaean-009",
+      "count": 1
+    },
+    {
+      "id": "mandaean-003",
+      "count": 1
+    },
+    {
+      "id": "mandaean-004",
+      "count": 1
+    },
+    {
+      "id": "mandaean-001",
+      "count": 1
+    },
+    {
+      "id": "mandaean-019",
+      "count": 1
+    },
+    {
+      "id": "mandaean-020",
+      "count": 1
+    },
+    {
+      "id": "mandaean-013",
+      "count": 1
+    },
+    {
+      "id": "mandaean-015",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s1",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s1b",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s2",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s3",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s4",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s5",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s6",
+      "count": 1
+    },
+    {
+      "id": "mandaean-s7",
+      "count": 1
+    },
+    {
+      "id": "mandaean-r1",
+      "count": 1
+    },
+    {
+      "id": "mandaean-r2",
+      "count": 1
+    }
+  ]
+}

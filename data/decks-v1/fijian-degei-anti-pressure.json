@@ -1,0 +1,102 @@
+{
+  "name": "fijian deck",
+  "hero_id": "fijian-hero-degei",
+  "cards": [
+    {
+      "id": "fijian-017",
+      "count": 1
+    },
+    {
+      "id": "fijian-019",
+      "count": 1
+    },
+    {
+      "id": "fijian-018",
+      "count": 1
+    },
+    {
+      "id": "fijian-007",
+      "count": 1
+    },
+    {
+      "id": "fijian-013",
+      "count": 1
+    },
+    {
+      "id": "fijian-014",
+      "count": 1
+    },
+    {
+      "id": "fijian-008",
+      "count": 1
+    },
+    {
+      "id": "fijian-009",
+      "count": 1
+    },
+    {
+      "id": "fijian-003",
+      "count": 1
+    },
+    {
+      "id": "fijian-004",
+      "count": 1
+    },
+    {
+      "id": "fijian-001",
+      "count": 1
+    },
+    {
+      "id": "fijian-020",
+      "count": 1
+    },
+    {
+      "id": "fijian-015",
+      "count": 1
+    },
+    {
+      "id": "fijian-016",
+      "count": 1
+    },
+    {
+      "id": "fijian-s1",
+      "count": 1
+    },
+    {
+      "id": "fijian-s1b",
+      "count": 1
+    },
+    {
+      "id": "fijian-s2",
+      "count": 1
+    },
+    {
+      "id": "fijian-s3",
+      "count": 1
+    },
+    {
+      "id": "fijian-s4",
+      "count": 1
+    },
+    {
+      "id": "fijian-s5",
+      "count": 1
+    },
+    {
+      "id": "fijian-s6",
+      "count": 1
+    },
+    {
+      "id": "fijian-s7",
+      "count": 1
+    },
+    {
+      "id": "fijian-r1",
+      "count": 1
+    },
+    {
+      "id": "fijian-r2",
+      "count": 1
+    }
+  ]
+}

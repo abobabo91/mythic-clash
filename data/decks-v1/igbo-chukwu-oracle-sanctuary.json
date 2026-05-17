@@ -1,0 +1,66 @@
+{
+  "name": "Chukwu Oracle Sanctuary",
+  "format": "mythic-clash-v1",
+  "hero_id": "igbo-hero-chukwu",
+  "notes": [
+    "Oracle-Sanctuary rollout deck for Igbo."
+  ],
+  "cards": [
+    {
+      "id": "igbo-001",
+      "count": 1
+    },
+    {
+      "id": "igbo-002",
+      "count": 1
+    },
+    {
+      "id": "igbo-019",
+      "count": 2
+    },
+    {
+      "id": "igbo-017",
+      "count": 2
+    },
+    {
+      "id": "igbo-014",
+      "count": 2
+    },
+    {
+      "id": "igbo-013",
+      "count": 2
+    },
+    {
+      "id": "igbo-007",
+      "count": 2
+    },
+    {
+      "id": "igbo-008",
+      "count": 2
+    },
+    {
+      "id": "igbo-004",
+      "count": 2
+    },
+    {
+      "id": "igbo-003",
+      "count": 2
+    },
+    {
+      "id": "igbo-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "igbo-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "igbo-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "igbo-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

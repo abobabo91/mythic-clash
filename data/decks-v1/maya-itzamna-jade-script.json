@@ -1,0 +1,102 @@
+{
+  "name": "maya deck",
+  "hero_id": "maya-hero-itzamna-sky-script",
+  "cards": [
+    {
+      "id": "maya-015",
+      "count": 1
+    },
+    {
+      "id": "maya-010",
+      "count": 1
+    },
+    {
+      "id": "maya-016",
+      "count": 1
+    },
+    {
+      "id": "maya-004",
+      "count": 1
+    },
+    {
+      "id": "maya-017",
+      "count": 1
+    },
+    {
+      "id": "maya-018",
+      "count": 1
+    },
+    {
+      "id": "maya-009",
+      "count": 1
+    },
+    {
+      "id": "maya-011",
+      "count": 1
+    },
+    {
+      "id": "maya-003",
+      "count": 1
+    },
+    {
+      "id": "maya-001",
+      "count": 1
+    },
+    {
+      "id": "maya-019",
+      "count": 1
+    },
+    {
+      "id": "maya-013",
+      "count": 1
+    },
+    {
+      "id": "maya-014",
+      "count": 1
+    },
+    {
+      "id": "maya-020",
+      "count": 1
+    },
+    {
+      "id": "maya-s1",
+      "count": 1
+    },
+    {
+      "id": "maya-s1b",
+      "count": 1
+    },
+    {
+      "id": "maya-s2",
+      "count": 1
+    },
+    {
+      "id": "maya-s2b",
+      "count": 1
+    },
+    {
+      "id": "maya-s3",
+      "count": 1
+    },
+    {
+      "id": "maya-s4",
+      "count": 1
+    },
+    {
+      "id": "maya-s5",
+      "count": 1
+    },
+    {
+      "id": "maya-s6",
+      "count": 1
+    },
+    {
+      "id": "maya-r1",
+      "count": 1
+    },
+    {
+      "id": "maya-r2",
+      "count": 1
+    }
+  ]
+}

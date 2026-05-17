@@ -1,0 +1,1144 @@
+{
+  "culture_slug": "neutral",
+  "set_code": "neutral-core-v1",
+  "cards": [
+    {
+      "id": "nc-mythic-bolt",
+      "name": "Mythic Bolt",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["fire"],
+      "rules_text": "Deal 3 damage to an enemy Figure or 2 damage to the enemy Hero.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-mythic-bolt-1",
+          "label": "Mythic Bolt",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "deal_damage", "amount": 3, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {"hero_amount": 2}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-oracle-insight",
+      "name": "Oracle Insight",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["wisdom"],
+      "rules_text": "Draw 2 cards.",
+      "cost": 3,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-oracle-insight-1",
+          "label": "Oracle Insight",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "draw_cards", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-ancient-blessing",
+      "name": "Ancient Blessing",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["light"],
+      "rules_text": "Give a friendly Figure +2/+2 this turn.",
+      "cost": 2,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-ancient-blessing-1",
+          "label": "Ancient Blessing",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "grant_stats", "amount": null, "attack": 2, "health": 2, "keyword": null, "duration": "turn", "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-path-of-memory",
+      "name": "Path of Memory",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["wisdom"],
+      "rules_text": "Look at the top 3 cards of your deck. Put one into your hand and the rest on the bottom.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-path-of-memory-1",
+          "label": "Path of Memory",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "discover_from_pool", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": "top_3_deck", "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-rallying-chant",
+      "name": "Rallying Chant",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["war"],
+      "rules_text": "Ready a friendly Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-rallying-chant-1",
+          "label": "Rallying Chant",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "ready", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-spirit-map",
+      "name": "Spirit Map",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["wisdom"],
+      "rules_text": "Once each turn, after you play your first Figure, reduce the cost of the next Spell you play this turn by 1.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-spirit-map-1",
+          "label": "Spirit Map",
+          "timing": "passive",
+          "trigger": "on_friendly_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "reduce_cost", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": "turn", "scope": "next_spell", "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-guiding-ember",
+      "name": "Guiding Ember",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["fire"],
+      "rules_text": "Gain 1 Ritual Mana.",
+      "cost": 0,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": true,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-guiding-ember-1",
+          "label": "Guiding Ember",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "gain_ritual_mana", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-coin-of-passage",
+      "name": "Coin of Passage",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "Draw a card.",
+      "cost": 1,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-coin-of-passage-1",
+          "label": "Coin of Passage",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-underworld-verdict",
+      "name": "Underworld Verdict",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "Destroy a damaged enemy Figure.",
+      "cost": 4,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-underworld-verdict-1",
+          "label": "Underworld Verdict",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "damaged_enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "destroy", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-sunfire-burst",
+      "name": "Sunfire Burst",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["sun", "fire"],
+      "rules_text": "Deal 2 damage to all enemy Figures.",
+      "cost": 5,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-sunfire-burst-1",
+          "label": "Sunfire Burst",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "deal_damage", "amount": 2, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-veil-of-ash",
+      "name": "Veil of Ash",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "Silence an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-veil-of-ash-1",
+          "label": "Veil of Ash",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "silence", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-sever-fate",
+      "name": "Sever Fate",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["trickery"],
+      "rules_text": "Return an enemy Figure with cost 3 or less to its owner's hand.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-sever-fate-1",
+          "label": "Sever Fate",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "return_to_hand", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {"max_cost": 3}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-shatter-relic",
+      "name": "Shatter Relic",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["destruction"],
+      "rules_text": "Destroy an enemy Relic.",
+      "cost": 2,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-shatter-relic-1",
+          "label": "Shatter Relic",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "enemy_relic",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "replace_relic", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-guardian-oath",
+      "name": "Guardian Oath",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["protection"],
+      "rules_text": "Summon two 1/3 Guardian tokens with Guard.",
+      "cost": 4,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-guardian-oath-1",
+          "label": "Guardian Oath",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "nc-token-guardian", "extra": {}},
+            {"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "nc-token-guardian", "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-bind-the-swift",
+      "name": "Bind the Swift",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["frost"],
+      "rules_text": "Freeze an enemy Figure.",
+      "cost": 2,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-bind-the-swift-1",
+          "label": "Bind the Swift",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "freeze", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-reckoning-brand",
+      "name": "Reckoning Brand",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["fire", "war"],
+      "rules_text": "The first time each turn an enemy Figure survives damage, deal 1 damage to it.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-reckoning-brand-1",
+          "label": "Reckoning Brand",
+          "timing": "passive",
+          "trigger": "on_damage_dealt",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [{"kind": "if_this_survived_damage", "value": null}],
+          "effects": [
+            {"kind": "deal_damage", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-spirit-mend",
+      "name": "Spirit Mend",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["healing"],
+      "rules_text": "Restore 4 Health to your Hero or a friendly Figure.",
+      "cost": 2,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-spirit-mend-1",
+          "label": "Spirit Mend",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "friendly_character",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "heal", "amount": 4, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-stone-resolve",
+      "name": "Stone Resolve",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["earth"],
+      "rules_text": "Gain 3 Armor.",
+      "cost": 2,
+      "speed": "burst",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-stone-resolve-1",
+          "label": "Stone Resolve",
+          "timing": "burst",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "gain_armor", "amount": 3, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-moonlit-reprieve",
+      "name": "Moonlit Reprieve",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["moon"],
+      "rules_text": "Prevent the next 3 damage to a friendly Figure this turn.",
+      "cost": 3,
+      "speed": "fast",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-moonlit-reprieve-1",
+          "label": "Moonlit Reprieve",
+          "timing": "fast",
+          "trigger": "manual",
+          "target_rule": "friendly_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "prevent_damage", "amount": 3, "attack": null, "health": null, "keyword": null, "duration": "turn", "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-ashen-renewal",
+      "name": "Ashen Renewal",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "Return a non-Legendary Figure that cost 3 or less from your discard to your hand.",
+      "cost": 4,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-ashen-renewal-1",
+          "label": "Ashen Renewal",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "return_from_discard", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {"max_cost": 3, "legendary_allowed": false}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-archive-of-echoes",
+      "name": "Archive of Echoes",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["wisdom"],
+      "rules_text": "At the end of your turn, if you played two or more cards this turn, draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-archive-of-echoes-1",
+          "label": "Archive of Echoes",
+          "timing": "passive",
+          "trigger": "on_turn_end",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-war-drum",
+      "name": "War Drum",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["war"],
+      "rules_text": "Your first attacking Figure each turn gets +1 Attack this combat.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-war-drum-1",
+          "label": "War Drum",
+          "timing": "passive",
+          "trigger": "on_attack_declared",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "grant_stats", "amount": null, "attack": 1, "health": null, "keyword": null, "duration": "combat", "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-tomb-lantern",
+      "name": "Tomb Lantern",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "The first time a friendly Figure dies each turn, summon a 1/1 Spirit token.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-tomb-lantern-1",
+          "label": "Tomb Lantern",
+          "timing": "passive",
+          "trigger": "on_death",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "summon_token", "amount": null, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": "nc-token-spirit", "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-shrine-of-balance",
+      "name": "Shrine of Balance",
+      "card_type": "relic",
+      "culture_slug": "neutral",
+      "rarity": "rare",
+      "alignment": "neutral",
+      "traits": ["healing", "light"],
+      "rules_text": "Once each turn, when you restore Health, give a random friendly Figure +1/+1.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-shrine-of-balance-1",
+          "label": "Shrine of Balance",
+          "timing": "passive",
+          "trigger": "on_heal",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "grant_stats", "amount": null, "attack": 1, "health": 1, "keyword": null, "duration": null, "scope": "random_friendly_figure", "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": "once_each_turn"
+        }
+      ]
+    },
+    {
+      "id": "nc-wandering-pilgrim",
+      "name": "Wandering Pilgrim",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["travel"],
+      "rules_text": "",
+      "cost": 1,
+      "speed": null,
+      "subtypes": ["human"],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "nc-ember-scout",
+      "name": "Ember Scout",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["fire"],
+      "rules_text": "On play: Deal 1 damage to an enemy Figure.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": ["human"],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 1,
+      "abilities": [
+        {
+          "id": "nc-ember-scout-1",
+          "label": "Ember Scout",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "enemy_figure",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "deal_damage", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-border-sentinel",
+      "name": "Border Sentinel",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["protection"],
+      "rules_text": "Guard.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": ["warrior"],
+      "keywords": ["guard"],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "nc-road-merchant",
+      "name": "Road Merchant",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["commerce"],
+      "rules_text": "On play: Draw a card.",
+      "cost": 2,
+      "speed": null,
+      "subtypes": ["human"],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 2,
+      "abilities": [
+        {
+          "id": "nc-road-merchant-1",
+          "label": "Trade Route",
+          "timing": "slow",
+          "trigger": "on_play",
+          "target_rule": "none",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "draw_cards", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-temple-guard",
+      "name": "Temple Guard",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["protection", "war"],
+      "rules_text": "Guard.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": ["warrior"],
+      "keywords": ["guard"],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 2,
+      "health": 4,
+      "abilities": []
+    },
+    {
+      "id": "nc-steppe-runner",
+      "name": "Steppe Runner",
+      "card_type": "figure",
+      "culture_slug": "neutral",
+      "rarity": "common",
+      "alignment": "neutral",
+      "traits": ["beasts", "travel"],
+      "rules_text": "Rush.",
+      "cost": 3,
+      "speed": null,
+      "subtypes": ["beast"],
+      "keywords": ["rush"],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 3,
+      "health": 2,
+      "abilities": []
+    },
+    {
+      "id": "nc-flame-wave",
+      "name": "Flame Wave",
+      "card_type": "spell",
+      "culture_slug": "neutral",
+      "rarity": "uncommon",
+      "alignment": "neutral",
+      "traits": ["fire"],
+      "rules_text": "Deal 1 damage to all enemy Figures.",
+      "cost": 3,
+      "speed": "slow",
+      "subtypes": [],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": null,
+      "health": null,
+      "abilities": [
+        {
+          "id": "nc-flame-wave-1",
+          "label": "Flame Wave",
+          "timing": "slow",
+          "trigger": "manual",
+          "target_rule": "all_enemy_figures",
+          "resource_cost": null,
+          "conditions": [],
+          "effects": [
+            {"kind": "deal_damage", "amount": 1, "attack": null, "health": null, "keyword": null, "duration": null, "scope": null, "pool": null, "card_id": null, "extra": {}}
+          ],
+          "limit": null
+        }
+      ]
+    },
+    {
+      "id": "nc-token-guardian",
+      "name": "Guardian Echo",
+      "card_type": "token",
+      "culture_slug": "neutral",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": ["protection"],
+      "rules_text": "Guard.",
+      "cost": 1,
+      "speed": null,
+      "subtypes": ["spirit"],
+      "keywords": ["guard"],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 3,
+      "abilities": []
+    },
+    {
+      "id": "nc-token-spirit",
+      "name": "Lingering Spirit",
+      "card_type": "token",
+      "culture_slug": "neutral",
+      "rarity": "token",
+      "alignment": "neutral",
+      "traits": ["death"],
+      "rules_text": "",
+      "cost": 0,
+      "speed": null,
+      "subtypes": ["spirit"],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": true,
+      "collectible": false,
+      "set_code": "neutral-core-v1",
+      "flavor_text": "",
+      "attack": 1,
+      "health": 1,
+      "abilities": []
+    }
+  ]
+}

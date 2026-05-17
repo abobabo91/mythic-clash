@@ -1,0 +1,102 @@
+{
+  "name": "akkadian deck",
+  "hero_id": "akkadian-hero-sargon-of-akkad",
+  "cards": [
+    {
+      "id": "akkadian-014",
+      "count": 1
+    },
+    {
+      "id": "akkadian-016",
+      "count": 1
+    },
+    {
+      "id": "akkadian-018",
+      "count": 1
+    },
+    {
+      "id": "akkadian-019",
+      "count": 1
+    },
+    {
+      "id": "akkadian-007",
+      "count": 1
+    },
+    {
+      "id": "akkadian-008",
+      "count": 1
+    },
+    {
+      "id": "akkadian-009",
+      "count": 1
+    },
+    {
+      "id": "akkadian-003",
+      "count": 1
+    },
+    {
+      "id": "akkadian-004",
+      "count": 1
+    },
+    {
+      "id": "akkadian-001",
+      "count": 1
+    },
+    {
+      "id": "akkadian-017",
+      "count": 1
+    },
+    {
+      "id": "akkadian-020",
+      "count": 1
+    },
+    {
+      "id": "akkadian-013",
+      "count": 1
+    },
+    {
+      "id": "akkadian-015",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s1",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s1b",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s2",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s3",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s4",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s5",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s6",
+      "count": 1
+    },
+    {
+      "id": "akkadian-s7",
+      "count": 1
+    },
+    {
+      "id": "akkadian-r1",
+      "count": 1
+    },
+    {
+      "id": "akkadian-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #0a0a18;
+  --bg-dark: #060612;
+  --bg-card: #151530;
+  --bg-card-hover: #1c1c40;
+  --border: #2a2a50;
+  --border-light: #3a3a60;
+  --text: #e0e0f0;
+  --text-dim: #6a6a8e;
+  --text-bright: #ffffff;
+  --accent: #f5a623;
+  --accent-glow: rgba(245, 166, 35, 0.4);
+  --mana: #4a9eff;
+  --mana-glow: rgba(74, 158, 255, 0.5);
+  --health: #ef4444;
+  --health-glow: rgba(239, 68, 68, 0.4);
+  --attack: #f5a623;
+  --attack-glow: rgba(245, 166, 35, 0.4);
+  --spell: #a855f7;
+  --spell-glow: rgba(168, 85, 247, 0.4);
+  --relic: #10b981;
+  --relic-glow: rgba(16, 185, 129, 0.4);
+  --green: #22c55e;
+  --green-glow: rgba(34, 197, 94, 0.4);
+  --board-line: rgba(100, 120, 180, 0.15);
+  --slot-bg: rgba(255, 255, 255, 0.02);
+  --slot-border: rgba(255, 255, 255, 0.04);
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Consolas', 'Courier New', monospace;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  transition: all 0.2s ease;
+  letter-spacing: 0.5px;
+}
+
+button:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-light);
+}
+button:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+button.primary {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  border-color: #3b82f6;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+button.primary:hover {
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  box-shadow: 0 0 20px rgba(37, 99, 235, 0.5);
+}
+
+select {
+  font-family: inherit;
+  font-size: 14px;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text);
+  border-radius: 6px;
+  outline: none;
+}
+select:focus {
+  border-color: #3b82f6;
+}

@@ -1,0 +1,10 @@
+{"slug_a": "aztec-mexica", "slug_b": "japanese-shinto", "winner_index": 0, "winner_slug": "aztec-mexica", "turns": 11, "steps": 117, "health_a": 10, "health_b": -5, "errors": 0}
+{"slug_a": "ancient-greek", "slug_b": "ancient-chinese", "winner_index": 1, "winner_slug": "ancient-chinese", "turns": 14, "steps": 160, "health_a": 0, "health_b": 4, "errors": 0}
+{"slug_a": "vedic-hindu", "slug_b": "haitian-vodou", "winner_index": 0, "winner_slug": "vedic-hindu", "turns": 11, "steps": 138, "health_a": 27, "health_b": -1, "errors": 0}
+{"slug_a": "inuit", "slug_b": "celtic-irish", "winner_index": 0, "winner_slug": "inuit", "turns": 16, "steps": 201, "health_a": 29, "health_b": 0, "errors": 0}
+{"slug_a": "norse-viking", "slug_b": "ancient-egyptian", "winner_index": 0, "winner_slug": "norse-viking", "turns": 14, "steps": 198, "health_a": 4, "health_b": -1, "errors": 0}
+{"slug_a": "ancient-chinese", "slug_b": "haitian-vodou", "winner_index": 0, "winner_slug": "ancient-chinese", "turns": 13, "steps": 157, "health_a": 27, "health_b": 0, "errors": 0}
+{"slug_a": "ancient-greek", "slug_b": "vedic-hindu", "winner_index": 0, "winner_slug": "ancient-greek", "turns": 7, "steps": 90, "health_a": 30, "health_b": -2, "errors": 0}
+{"slug_a": "japanese-shinto", "slug_b": "norse-viking", "winner_index": 1, "winner_slug": "norse-viking", "turns": 11, "steps": 159, "health_a": 0, "health_b": 29, "errors": 0}
+{"slug_a": "celtic-irish", "slug_b": "aztec-mexica", "winner_index": 0, "winner_slug": "celtic-irish", "turns": 8, "steps": 78, "health_a": 30, "health_b": 0, "errors": 0}
+{"slug_a": "inuit", "slug_b": "ancient-egyptian", "winner_index": 0, "winner_slug": "inuit", "turns": 15, "steps": 213, "health_a": 29, "health_b": -3, "errors": 0}

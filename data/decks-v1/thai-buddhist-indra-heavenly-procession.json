@@ -1,0 +1,102 @@
+{
+  "name": "thai-buddhist deck",
+  "hero_id": "thai-buddhist-hero-indra-tavatimsa-king",
+  "cards": [
+    {
+      "id": "thai-buddhist-018",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-014",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-020",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-013",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-009",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-003",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-004",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-001",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-019",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-015",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-016",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-005",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-006",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-007",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s1",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s1b",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s2",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s3",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s4",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s5",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s6",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-s7",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-r1",
+      "count": 1
+    },
+    {
+      "id": "thai-buddhist-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "mapuche deck",
+  "hero_id": "mapuche-hero-ngenechen-earth-sky",
+  "cards": [
+    {
+      "id": "mapuche-010",
+      "count": 1
+    },
+    {
+      "id": "mapuche-013",
+      "count": 1
+    },
+    {
+      "id": "mapuche-014",
+      "count": 1
+    },
+    {
+      "id": "mapuche-015",
+      "count": 1
+    },
+    {
+      "id": "mapuche-003",
+      "count": 1
+    },
+    {
+      "id": "mapuche-007",
+      "count": 1
+    },
+    {
+      "id": "mapuche-008",
+      "count": 1
+    },
+    {
+      "id": "mapuche-004",
+      "count": 1
+    },
+    {
+      "id": "mapuche-006",
+      "count": 1
+    },
+    {
+      "id": "mapuche-001",
+      "count": 1
+    },
+    {
+      "id": "mapuche-017",
+      "count": 1
+    },
+    {
+      "id": "mapuche-005",
+      "count": 1
+    },
+    {
+      "id": "mapuche-009",
+      "count": 1
+    },
+    {
+      "id": "mapuche-018",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s1",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s1b",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s2",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s3",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s4",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s5",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s6",
+      "count": 1
+    },
+    {
+      "id": "mapuche-s7",
+      "count": 1
+    },
+    {
+      "id": "mapuche-r1",
+      "count": 1
+    },
+    {
+      "id": "mapuche-r2",
+      "count": 1
+    }
+  ]
+}

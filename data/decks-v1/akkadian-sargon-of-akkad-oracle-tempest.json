@@ -1,0 +1,66 @@
+{
+  "name": "Sargon of Akkad Oracle Tempest",
+  "format": "mythic-clash-v1",
+  "hero_id": "akkadian-hero-sargon-of-akkad",
+  "notes": [
+    "Oracle-Tempest rollout deck for Akkadian."
+  ],
+  "cards": [
+    {
+      "id": "akkadian-001",
+      "count": 1
+    },
+    {
+      "id": "akkadian-002",
+      "count": 1
+    },
+    {
+      "id": "akkadian-017",
+      "count": 2
+    },
+    {
+      "id": "akkadian-020",
+      "count": 2
+    },
+    {
+      "id": "akkadian-013",
+      "count": 2
+    },
+    {
+      "id": "akkadian-014",
+      "count": 2
+    },
+    {
+      "id": "akkadian-007",
+      "count": 2
+    },
+    {
+      "id": "akkadian-008",
+      "count": 2
+    },
+    {
+      "id": "akkadian-004",
+      "count": 2
+    },
+    {
+      "id": "akkadian-006",
+      "count": 2
+    },
+    {
+      "id": "akkadian-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "akkadian-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "akkadian-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "akkadian-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

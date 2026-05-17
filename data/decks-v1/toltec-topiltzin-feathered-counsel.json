@@ -1,0 +1,102 @@
+{
+  "name": "toltec deck",
+  "hero_id": "toltec-hero-topiltzin-quetzalcoatl",
+  "cards": [
+    {
+      "id": "toltec-005",
+      "count": 1
+    },
+    {
+      "id": "toltec-014",
+      "count": 1
+    },
+    {
+      "id": "toltec-007",
+      "count": 1
+    },
+    {
+      "id": "toltec-011",
+      "count": 1
+    },
+    {
+      "id": "toltec-015",
+      "count": 1
+    },
+    {
+      "id": "toltec-019",
+      "count": 1
+    },
+    {
+      "id": "toltec-003",
+      "count": 1
+    },
+    {
+      "id": "toltec-004",
+      "count": 1
+    },
+    {
+      "id": "toltec-001",
+      "count": 1
+    },
+    {
+      "id": "toltec-006",
+      "count": 1
+    },
+    {
+      "id": "toltec-009",
+      "count": 1
+    },
+    {
+      "id": "toltec-013",
+      "count": 1
+    },
+    {
+      "id": "toltec-016",
+      "count": 1
+    },
+    {
+      "id": "toltec-017",
+      "count": 1
+    },
+    {
+      "id": "toltec-s1",
+      "count": 1
+    },
+    {
+      "id": "toltec-s1b",
+      "count": 1
+    },
+    {
+      "id": "toltec-s2",
+      "count": 1
+    },
+    {
+      "id": "toltec-s3",
+      "count": 1
+    },
+    {
+      "id": "toltec-s4",
+      "count": 1
+    },
+    {
+      "id": "toltec-s5",
+      "count": 1
+    },
+    {
+      "id": "toltec-s6",
+      "count": 1
+    },
+    {
+      "id": "toltec-s7",
+      "count": 1
+    },
+    {
+      "id": "toltec-r1",
+      "count": 1
+    },
+    {
+      "id": "toltec-r2",
+      "count": 1
+    }
+  ]
+}

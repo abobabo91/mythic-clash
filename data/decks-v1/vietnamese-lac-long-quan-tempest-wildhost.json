@@ -1,0 +1,102 @@
+{
+  "name": "vietnamese deck",
+  "hero_id": "vietnamese-hero-lac-long-quan",
+  "cards": [
+    {
+      "id": "vietnamese-014",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-016",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-018",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-007",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-017",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-008",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-009",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-003",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-004",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-001",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-019",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-020",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-013",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-015",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s1",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s1b",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s2",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s3",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s4",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s5",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s6",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-s7",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-r1",
+      "count": 1
+    },
+    {
+      "id": "vietnamese-r2",
+      "count": 1
+    }
+  ]
+}

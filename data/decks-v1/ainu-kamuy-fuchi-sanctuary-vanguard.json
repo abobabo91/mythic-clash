@@ -1,0 +1,102 @@
+{
+  "name": "ainu deck",
+  "hero_id": "ainu-hero-kamuy-fuchi",
+  "cards": [
+    {
+      "id": "ainu-014",
+      "count": 1
+    },
+    {
+      "id": "ainu-016",
+      "count": 1
+    },
+    {
+      "id": "ainu-018",
+      "count": 1
+    },
+    {
+      "id": "ainu-007",
+      "count": 1
+    },
+    {
+      "id": "ainu-017",
+      "count": 1
+    },
+    {
+      "id": "ainu-008",
+      "count": 1
+    },
+    {
+      "id": "ainu-009",
+      "count": 1
+    },
+    {
+      "id": "ainu-003",
+      "count": 1
+    },
+    {
+      "id": "ainu-004",
+      "count": 1
+    },
+    {
+      "id": "ainu-001",
+      "count": 1
+    },
+    {
+      "id": "ainu-019",
+      "count": 1
+    },
+    {
+      "id": "ainu-020",
+      "count": 1
+    },
+    {
+      "id": "ainu-013",
+      "count": 1
+    },
+    {
+      "id": "ainu-015",
+      "count": 1
+    },
+    {
+      "id": "ainu-s1",
+      "count": 1
+    },
+    {
+      "id": "ainu-s1b",
+      "count": 1
+    },
+    {
+      "id": "ainu-s2",
+      "count": 1
+    },
+    {
+      "id": "ainu-s3",
+      "count": 1
+    },
+    {
+      "id": "ainu-s4",
+      "count": 1
+    },
+    {
+      "id": "ainu-s5",
+      "count": 1
+    },
+    {
+      "id": "ainu-s6",
+      "count": 1
+    },
+    {
+      "id": "ainu-s7",
+      "count": 1
+    },
+    {
+      "id": "ainu-r1",
+      "count": 1
+    },
+    {
+      "id": "ainu-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "hero_id": "inuit-hero",
+  "name": "Inuit Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "inuit-001",
+      "count": 2
+    },
+    {
+      "id": "inuit-002",
+      "count": 2
+    },
+    {
+      "id": "inuit-003",
+      "count": 2
+    },
+    {
+      "id": "inuit-004",
+      "count": 2
+    },
+    {
+      "id": "inuit-005",
+      "count": 2
+    },
+    {
+      "id": "inuit-006",
+      "count": 2
+    },
+    {
+      "id": "inuit-008",
+      "count": 1
+    },
+    {
+      "id": "inuit-009",
+      "count": 1
+    },
+    {
+      "id": "inuit-sp-frost",
+      "count": 2
+    },
+    {
+      "id": "inuit-sp-blizzard",
+      "count": 2
+    },
+    {
+      "id": "inuit-sp-igloo",
+      "count": 2
+    },
+    {
+      "id": "inuit-sp-fish",
+      "count": 1
+    },
+    {
+      "id": "inuit-sp-heal",
+      "count": 1
+    },
+    {
+      "id": "inuit-rel-ice",
+      "count": 1
+    },
+    {
+      "id": "inuit-rel-lamp",
+      "count": 1
+    }
+  ]
+}

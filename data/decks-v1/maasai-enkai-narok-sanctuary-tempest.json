@@ -1,0 +1,102 @@
+{
+  "name": "maasai deck",
+  "hero_id": "maasai-hero-enkai-narok",
+  "cards": [
+    {
+      "id": "maasai-017",
+      "count": 1
+    },
+    {
+      "id": "maasai-020",
+      "count": 1
+    },
+    {
+      "id": "maasai-018",
+      "count": 1
+    },
+    {
+      "id": "maasai-007",
+      "count": 1
+    },
+    {
+      "id": "maasai-013",
+      "count": 1
+    },
+    {
+      "id": "maasai-014",
+      "count": 1
+    },
+    {
+      "id": "maasai-008",
+      "count": 1
+    },
+    {
+      "id": "maasai-009",
+      "count": 1
+    },
+    {
+      "id": "maasai-003",
+      "count": 1
+    },
+    {
+      "id": "maasai-004",
+      "count": 1
+    },
+    {
+      "id": "maasai-001",
+      "count": 1
+    },
+    {
+      "id": "maasai-019",
+      "count": 1
+    },
+    {
+      "id": "maasai-015",
+      "count": 1
+    },
+    {
+      "id": "maasai-016",
+      "count": 1
+    },
+    {
+      "id": "maasai-s1",
+      "count": 1
+    },
+    {
+      "id": "maasai-s1b",
+      "count": 1
+    },
+    {
+      "id": "maasai-s2",
+      "count": 1
+    },
+    {
+      "id": "maasai-s3",
+      "count": 1
+    },
+    {
+      "id": "maasai-s4",
+      "count": 1
+    },
+    {
+      "id": "maasai-s5",
+      "count": 1
+    },
+    {
+      "id": "maasai-s6",
+      "count": 1
+    },
+    {
+      "id": "maasai-s7",
+      "count": 1
+    },
+    {
+      "id": "maasai-r1",
+      "count": 1
+    },
+    {
+      "id": "maasai-r2",
+      "count": 1
+    }
+  ]
+}

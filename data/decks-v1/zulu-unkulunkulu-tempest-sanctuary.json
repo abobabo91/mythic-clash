@@ -1,0 +1,102 @@
+{
+  "name": "zulu deck",
+  "hero_id": "zulu-hero-unkulunkulu",
+  "cards": [
+    {
+      "id": "zulu-015",
+      "count": 1
+    },
+    {
+      "id": "zulu-007",
+      "count": 1
+    },
+    {
+      "id": "zulu-020",
+      "count": 1
+    },
+    {
+      "id": "zulu-014",
+      "count": 1
+    },
+    {
+      "id": "zulu-017",
+      "count": 1
+    },
+    {
+      "id": "zulu-008",
+      "count": 1
+    },
+    {
+      "id": "zulu-009",
+      "count": 1
+    },
+    {
+      "id": "zulu-003",
+      "count": 1
+    },
+    {
+      "id": "zulu-004",
+      "count": 1
+    },
+    {
+      "id": "zulu-001",
+      "count": 1
+    },
+    {
+      "id": "zulu-018",
+      "count": 1
+    },
+    {
+      "id": "zulu-019",
+      "count": 1
+    },
+    {
+      "id": "zulu-013",
+      "count": 1
+    },
+    {
+      "id": "zulu-016",
+      "count": 1
+    },
+    {
+      "id": "zulu-s1",
+      "count": 1
+    },
+    {
+      "id": "zulu-s1b",
+      "count": 1
+    },
+    {
+      "id": "zulu-s2",
+      "count": 1
+    },
+    {
+      "id": "zulu-s3",
+      "count": 1
+    },
+    {
+      "id": "zulu-s4",
+      "count": 1
+    },
+    {
+      "id": "zulu-s5",
+      "count": 1
+    },
+    {
+      "id": "zulu-s6",
+      "count": 1
+    },
+    {
+      "id": "zulu-s7",
+      "count": 1
+    },
+    {
+      "id": "zulu-r1",
+      "count": 1
+    },
+    {
+      "id": "zulu-r2",
+      "count": 1
+    }
+  ]
+}

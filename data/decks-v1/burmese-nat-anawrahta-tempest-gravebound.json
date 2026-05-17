@@ -1,0 +1,62 @@
+{
+  "name": "Anawrahta Tempest Gravebound",
+  "format": "mythic-clash-v1",
+  "hero_id": "burmese-nat-hero-anawrahta",
+  "notes": [
+    "Tempest-Gravebound rollout deck for Burmese NAT."
+  ],
+  "cards": [
+    {
+      "id": "burmese-nat-016",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-020",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-017",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-013",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-015",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-007",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-009",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-003",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-004",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-spell-storm-bolt",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-spell-sky-reading",
+      "count": 2
+    },
+    {
+      "id": "burmese-nat-spell-rain-blessing",
+      "count": 1
+    },
+    {
+      "id": "burmese-nat-relic-sky-seal",
+      "count": 1
+    }
+  ]
+}

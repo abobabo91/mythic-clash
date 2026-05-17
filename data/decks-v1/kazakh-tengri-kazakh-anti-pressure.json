@@ -1,0 +1,102 @@
+{
+  "name": "kazakh deck",
+  "hero_id": "kazakh-hero-tengri-kazakh",
+  "cards": [
+    {
+      "id": "kazakh-014",
+      "count": 1
+    },
+    {
+      "id": "kazakh-008",
+      "count": 1
+    },
+    {
+      "id": "kazakh-018",
+      "count": 1
+    },
+    {
+      "id": "kazakh-007",
+      "count": 1
+    },
+    {
+      "id": "kazakh-017",
+      "count": 1
+    },
+    {
+      "id": "kazakh-013",
+      "count": 1
+    },
+    {
+      "id": "kazakh-009",
+      "count": 1
+    },
+    {
+      "id": "kazakh-003",
+      "count": 1
+    },
+    {
+      "id": "kazakh-004",
+      "count": 1
+    },
+    {
+      "id": "kazakh-001",
+      "count": 1
+    },
+    {
+      "id": "kazakh-019",
+      "count": 1
+    },
+    {
+      "id": "kazakh-020",
+      "count": 1
+    },
+    {
+      "id": "kazakh-015",
+      "count": 1
+    },
+    {
+      "id": "kazakh-016",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s1",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s1b",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s2",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s3",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s4",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s5",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s6",
+      "count": 1
+    },
+    {
+      "id": "kazakh-s7",
+      "count": 1
+    },
+    {
+      "id": "kazakh-r1",
+      "count": 1
+    },
+    {
+      "id": "kazakh-r2",
+      "count": 1
+    }
+  ]
+}

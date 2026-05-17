@@ -1,0 +1,71 @@
+{
+  "hero_id": "maori-hero",
+  "name": "Tu Haka",
+  "notes": [],
+  "cards": [
+    {
+      "id": "maori-01",
+      "count": 2
+    },
+    {
+      "id": "maori-02",
+      "count": 2
+    },
+    {
+      "id": "maori-03",
+      "count": 2
+    },
+    {
+      "id": "maori-04",
+      "count": 2
+    },
+    {
+      "id": "maori-05",
+      "count": 2
+    },
+    {
+      "id": "maori-06",
+      "count": 2
+    },
+    {
+      "id": "maori-08",
+      "count": 1
+    },
+    {
+      "id": "maori-09",
+      "count": 1
+    },
+    {
+      "id": "maori-s1",
+      "count": 2
+    },
+    {
+      "id": "maori-s2",
+      "count": 2
+    },
+    {
+      "id": "maori-s3",
+      "count": 1
+    },
+    {
+      "id": "maori-s4",
+      "count": 1
+    },
+    {
+      "id": "maori-s5",
+      "count": 1
+    },
+    {
+      "id": "maori-s6",
+      "count": 1
+    },
+    {
+      "id": "maori-r1",
+      "count": 1
+    },
+    {
+      "id": "maori-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "indian-buddhist deck",
+  "hero_id": "indian-buddhist-hero-shakyamuni-buddha",
+  "cards": [
+    {
+      "id": "indian-buddhist-014",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-016",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-018",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-007",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-017",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-008",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-009",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-003",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-004",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-001",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-019",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-020",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-013",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-015",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s1",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s1b",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s2",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s3",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s4",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s5",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s6",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-s7",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-r1",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-r2",
+      "count": 1
+    }
+  ]
+}

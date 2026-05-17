@@ -1,0 +1,83 @@
+{
+  "hero_id": "ancient-greek-hero-athena",
+  "name": "Athena Spell Tempo",
+  "notes": [],
+  "cards": [
+    {
+      "id": "ancient-greek-001",
+      "count": 2
+    },
+    {
+      "id": "ancient-greek-002",
+      "count": 2
+    },
+    {
+      "id": "ancient-greek-004",
+      "count": 2
+    },
+    {
+      "id": "ancient-greek-005",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-008",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-010",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-011",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-012",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-016",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-spell-phalanx",
+      "count": 2
+    },
+    {
+      "id": "ancient-greek-spell-olympian-bolt",
+      "count": 2
+    },
+    {
+      "id": "ancient-greek-spell-oracle-vision",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-spell-aegis-ward",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-spell-odyssey",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-spell-heroic-charge",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-relic-aegis",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-relic-tripod",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-006",
+      "count": 1
+    },
+    {
+      "id": "ancient-greek-003",
+      "count": 1
+    }
+  ]
+}

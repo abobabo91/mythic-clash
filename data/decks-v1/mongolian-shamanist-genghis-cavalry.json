@@ -1,0 +1,71 @@
+{
+  "hero_id": "mongolian-shamanist-hero",
+  "name": "Genghis Cavalry",
+  "notes": [],
+  "cards": [
+    {
+      "id": "mongolian-shamanist-01",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-02",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-03",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-04",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-05",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-06",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-08",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-09",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-s1",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-s2",
+      "count": 2
+    },
+    {
+      "id": "mongolian-shamanist-s3",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-s4",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-s5",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-s6",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-r1",
+      "count": 1
+    },
+    {
+      "id": "mongolian-shamanist-r2",
+      "count": 1
+    }
+  ]
+}

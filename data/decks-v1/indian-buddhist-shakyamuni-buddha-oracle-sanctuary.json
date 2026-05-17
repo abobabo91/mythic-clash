@@ -1,0 +1,66 @@
+{
+  "name": "Shakyamuni Buddha Oracle Sanctuary",
+  "format": "mythic-clash-v1",
+  "hero_id": "indian-buddhist-hero-shakyamuni-buddha",
+  "notes": [
+    "Oracle-Sanctuary rollout deck for Indian Buddhist."
+  ],
+  "cards": [
+    {
+      "id": "indian-buddhist-001",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-002",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-017",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-018",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-013",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-014",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-007",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-008",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-004",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-006",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "indian-buddhist-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "indian-buddhist-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

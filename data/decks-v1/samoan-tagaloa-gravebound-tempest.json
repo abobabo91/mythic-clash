@@ -1,0 +1,66 @@
+{
+  "name": "Tagaloa Gravebound Tempest",
+  "format": "mythic-clash-v1",
+  "hero_id": "samoan-hero-tagaloa",
+  "notes": [
+    "Gravebound-Tempest rollout deck for Samoan."
+  ],
+  "cards": [
+    {
+      "id": "samoan-001",
+      "count": 1
+    },
+    {
+      "id": "samoan-002",
+      "count": 1
+    },
+    {
+      "id": "samoan-020",
+      "count": 2
+    },
+    {
+      "id": "samoan-018",
+      "count": 2
+    },
+    {
+      "id": "samoan-014",
+      "count": 2
+    },
+    {
+      "id": "samoan-016",
+      "count": 2
+    },
+    {
+      "id": "samoan-007",
+      "count": 2
+    },
+    {
+      "id": "samoan-008",
+      "count": 2
+    },
+    {
+      "id": "samoan-003",
+      "count": 2
+    },
+    {
+      "id": "samoan-004",
+      "count": 2
+    },
+    {
+      "id": "samoan-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "samoan-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "samoan-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "samoan-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

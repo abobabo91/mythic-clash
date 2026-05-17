@@ -1,0 +1,102 @@
+{
+  "name": "berber-amazigh deck",
+  "hero_id": "berber-amazigh-hero-ammon",
+  "cards": [
+    {
+      "id": "berber-amazigh-014",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-016",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-018",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-019",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-007",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-008",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-009",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-003",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-004",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-001",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-017",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-020",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-013",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-015",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s1",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s1b",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s2",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s3",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s4",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s5",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s6",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-s7",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-r1",
+      "count": 1
+    },
+    {
+      "id": "berber-amazigh-r2",
+      "count": 1
+    }
+  ]
+}

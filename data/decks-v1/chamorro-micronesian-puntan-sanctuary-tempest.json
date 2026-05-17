@@ -1,0 +1,102 @@
+{
+  "name": "chamorro-micronesian deck",
+  "hero_id": "chamorro-micronesian-hero-puntan",
+  "cards": [
+    {
+      "id": "chamorro-micronesian-017",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-014",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-018",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-007",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-013",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-008",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-009",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-003",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-004",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-001",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-019",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-020",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-015",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-016",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s1",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s1b",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s2",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s3",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s4",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s5",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s6",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-s7",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-r1",
+      "count": 1
+    },
+    {
+      "id": "chamorro-micronesian-r2",
+      "count": 1
+    }
+  ]
+}

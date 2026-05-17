@@ -1,0 +1,10 @@
+{"slug_a": "babylonian", "slug_b": "hawaiian-polynesian", "winner_index": 1, "winner_slug": "hawaiian-polynesian", "turns": 12, "steps": 153, "health_a": 0, "health_b": 16, "errors": 0}
+{"slug_a": "zoroastrian-persian", "slug_b": "maori", "winner_index": 1, "winner_slug": "maori", "turns": 17, "steps": 202, "health_a": -2, "health_b": 15, "errors": 0}
+{"slug_a": "yoruba", "slug_b": "mongolian-shamanist", "winner_index": 0, "winner_slug": "yoruba", "turns": 8, "steps": 94, "health_a": 30, "health_b": 0, "errors": 0}
+{"slug_a": "sikh", "slug_b": "aboriginal-australian", "winner_index": 1, "winner_slug": "aboriginal-australian", "turns": 12, "steps": 136, "health_a": 0, "health_b": 28, "errors": 0}
+{"slug_a": "slavic", "slug_b": "roman", "winner_index": 0, "winner_slug": "slavic", "turns": 13, "steps": 144, "health_a": 30, "health_b": -2, "errors": 0}
+{"slug_a": "maori", "slug_b": "mongolian-shamanist", "winner_index": 0, "winner_slug": "maori", "turns": 15, "steps": 187, "health_a": 12, "health_b": -4, "errors": 0}
+{"slug_a": "zoroastrian-persian", "slug_b": "yoruba", "winner_index": 0, "winner_slug": "zoroastrian-persian", "turns": 15, "steps": 171, "health_a": 12, "health_b": -6, "errors": 0}
+{"slug_a": "hawaiian-polynesian", "slug_b": "slavic", "winner_index": 0, "winner_slug": "hawaiian-polynesian", "turns": 18, "steps": 195, "health_a": 18, "health_b": -2, "errors": 0}
+{"slug_a": "aboriginal-australian", "slug_b": "babylonian", "winner_index": 0, "winner_slug": "aboriginal-australian", "turns": 8, "steps": 82, "health_a": 30, "health_b": 0, "errors": 0}
+{"slug_a": "sikh", "slug_b": "roman", "winner_index": 0, "winner_slug": "sikh", "turns": 13, "steps": 140, "health_a": 30, "health_b": -4, "errors": 0}

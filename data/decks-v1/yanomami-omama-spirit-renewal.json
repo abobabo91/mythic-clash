@@ -1,0 +1,102 @@
+{
+  "name": "yanomami deck",
+  "hero_id": "yanomami-hero-omama-forest-breath",
+  "cards": [
+    {
+      "id": "yanomami-004",
+      "count": 1
+    },
+    {
+      "id": "yanomami-008",
+      "count": 1
+    },
+    {
+      "id": "yanomami-009",
+      "count": 1
+    },
+    {
+      "id": "yanomami-015",
+      "count": 1
+    },
+    {
+      "id": "yanomami-005",
+      "count": 1
+    },
+    {
+      "id": "yanomami-006",
+      "count": 1
+    },
+    {
+      "id": "yanomami-010",
+      "count": 1
+    },
+    {
+      "id": "yanomami-007",
+      "count": 1
+    },
+    {
+      "id": "yanomami-020",
+      "count": 1
+    },
+    {
+      "id": "yanomami-001",
+      "count": 1
+    },
+    {
+      "id": "yanomami-012",
+      "count": 1
+    },
+    {
+      "id": "yanomami-013",
+      "count": 1
+    },
+    {
+      "id": "yanomami-016",
+      "count": 1
+    },
+    {
+      "id": "yanomami-003",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s1",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s1b",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s2",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s3",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s4",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s5",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s6",
+      "count": 1
+    },
+    {
+      "id": "yanomami-s7",
+      "count": 1
+    },
+    {
+      "id": "yanomami-r1",
+      "count": 1
+    },
+    {
+      "id": "yanomami-r2",
+      "count": 1
+    }
+  ]
+}

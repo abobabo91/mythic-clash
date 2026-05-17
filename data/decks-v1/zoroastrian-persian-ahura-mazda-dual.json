@@ -1,0 +1,71 @@
+{
+  "hero_id": "zoroastrian-persian-hero",
+  "name": "Ahura Mazda Dual",
+  "notes": [],
+  "cards": [
+    {
+      "id": "zoroastrian-persian-01",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-02",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-03",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-04",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-05",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-06",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-08",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-09",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-s1",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-s2",
+      "count": 2
+    },
+    {
+      "id": "zoroastrian-persian-s3",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-s4",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-s5",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-s6",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-r1",
+      "count": 1
+    },
+    {
+      "id": "zoroastrian-persian-r2",
+      "count": 1
+    }
+  ]
+}

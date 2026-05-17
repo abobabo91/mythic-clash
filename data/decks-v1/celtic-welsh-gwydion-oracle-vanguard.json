@@ -1,0 +1,66 @@
+{
+  "name": "Gwydion Oracle Vanguard",
+  "format": "mythic-clash-v1",
+  "hero_id": "celtic-welsh-hero-gwydion",
+  "notes": [
+    "Oracle-Vanguard rollout deck for Celtic Welsh."
+  ],
+  "cards": [
+    {
+      "id": "celtic-welsh-001",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-002",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-017",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-018",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-013",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-014",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-007",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-008",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-004",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-005",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "celtic-welsh-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "celtic-welsh-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

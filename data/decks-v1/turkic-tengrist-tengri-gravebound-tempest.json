@@ -1,0 +1,102 @@
+{
+  "name": "turkic-tengrist deck",
+  "hero_id": "turkic-tengrist-hero-tengri",
+  "cards": [
+    {
+      "id": "turkic-tengrist-014",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-008",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-018",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-016",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-017",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-007",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-009",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-003",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-004",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-001",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-019",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-020",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-013",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-015",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s1",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s1b",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s2",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s3",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s4",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s5",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s6",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-s7",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-r1",
+      "count": 1
+    },
+    {
+      "id": "turkic-tengrist-r2",
+      "count": 1
+    }
+  ]
+}

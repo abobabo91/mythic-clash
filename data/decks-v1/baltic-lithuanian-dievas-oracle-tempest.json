@@ -1,0 +1,66 @@
+{
+  "name": "Dievas Oracle Tempest",
+  "format": "mythic-clash-v1",
+  "hero_id": "baltic-lithuanian-hero-dievas",
+  "notes": [
+    "Oracle-Tempest rollout deck for Baltic Lithuanian."
+  ],
+  "cards": [
+    {
+      "id": "baltic-lithuanian-001",
+      "count": 1
+    },
+    {
+      "id": "baltic-lithuanian-002",
+      "count": 1
+    },
+    {
+      "id": "baltic-lithuanian-017",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-018",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-013",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-014",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-007",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-009",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-003",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-004",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "baltic-lithuanian-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "baltic-lithuanian-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

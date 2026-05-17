@@ -1,0 +1,102 @@
+{
+  "name": "jain deck",
+  "hero_id": "jain-hero-rishabhadeva",
+  "cards": [
+    {
+      "id": "jain-014",
+      "count": 1
+    },
+    {
+      "id": "jain-016",
+      "count": 1
+    },
+    {
+      "id": "jain-018",
+      "count": 1
+    },
+    {
+      "id": "jain-007",
+      "count": 1
+    },
+    {
+      "id": "jain-017",
+      "count": 1
+    },
+    {
+      "id": "jain-008",
+      "count": 1
+    },
+    {
+      "id": "jain-009",
+      "count": 1
+    },
+    {
+      "id": "jain-003",
+      "count": 1
+    },
+    {
+      "id": "jain-004",
+      "count": 1
+    },
+    {
+      "id": "jain-001",
+      "count": 1
+    },
+    {
+      "id": "jain-019",
+      "count": 1
+    },
+    {
+      "id": "jain-020",
+      "count": 1
+    },
+    {
+      "id": "jain-013",
+      "count": 1
+    },
+    {
+      "id": "jain-015",
+      "count": 1
+    },
+    {
+      "id": "jain-s1",
+      "count": 1
+    },
+    {
+      "id": "jain-s1b",
+      "count": 1
+    },
+    {
+      "id": "jain-s2",
+      "count": 1
+    },
+    {
+      "id": "jain-s3",
+      "count": 1
+    },
+    {
+      "id": "jain-s4",
+      "count": 1
+    },
+    {
+      "id": "jain-s5",
+      "count": 1
+    },
+    {
+      "id": "jain-s6",
+      "count": 1
+    },
+    {
+      "id": "jain-s7",
+      "count": 1
+    },
+    {
+      "id": "jain-r1",
+      "count": 1
+    },
+    {
+      "id": "jain-r2",
+      "count": 1
+    }
+  ]
+}

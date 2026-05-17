@@ -1,0 +1,102 @@
+{
+  "name": "yakut-sakha deck",
+  "hero_id": "yakut-sakha-hero-aiyy-toyon",
+  "cards": [
+    {
+      "id": "yakut-sakha-020",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-014",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-018",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-019",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-013",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-007",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-008",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-009",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-003",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-004",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-001",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-017",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-015",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-016",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s1",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s1b",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s2",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s3",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s4",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s5",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s6",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-s7",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-r1",
+      "count": 1
+    },
+    {
+      "id": "yakut-sakha-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "hero_id": "aboriginal-australian-hero",
+  "name": "Rainbow Serpent Dream",
+  "notes": [],
+  "cards": [
+    {
+      "id": "aboriginal-australian-01",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-02",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-03",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-04",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-05",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-06",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-08",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-09",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-s1",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-s2",
+      "count": 2
+    },
+    {
+      "id": "aboriginal-australian-s3",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-s4",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-s5",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-s6",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-r1",
+      "count": 1
+    },
+    {
+      "id": "aboriginal-australian-r2",
+      "count": 1
+    }
+  ]
+}

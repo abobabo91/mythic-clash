@@ -1,0 +1,102 @@
+{
+  "name": "lao deck",
+  "hero_id": "lao-hero-phra-ram-lao",
+  "cards": [
+    {
+      "id": "lao-017",
+      "count": 1
+    },
+    {
+      "id": "lao-014",
+      "count": 1
+    },
+    {
+      "id": "lao-018",
+      "count": 1
+    },
+    {
+      "id": "lao-020",
+      "count": 1
+    },
+    {
+      "id": "lao-013",
+      "count": 1
+    },
+    {
+      "id": "lao-007",
+      "count": 1
+    },
+    {
+      "id": "lao-008",
+      "count": 1
+    },
+    {
+      "id": "lao-009",
+      "count": 1
+    },
+    {
+      "id": "lao-003",
+      "count": 1
+    },
+    {
+      "id": "lao-004",
+      "count": 1
+    },
+    {
+      "id": "lao-001",
+      "count": 1
+    },
+    {
+      "id": "lao-019",
+      "count": 1
+    },
+    {
+      "id": "lao-015",
+      "count": 1
+    },
+    {
+      "id": "lao-016",
+      "count": 1
+    },
+    {
+      "id": "lao-s1",
+      "count": 1
+    },
+    {
+      "id": "lao-s1b",
+      "count": 1
+    },
+    {
+      "id": "lao-s2",
+      "count": 1
+    },
+    {
+      "id": "lao-s3",
+      "count": 1
+    },
+    {
+      "id": "lao-s4",
+      "count": 1
+    },
+    {
+      "id": "lao-s5",
+      "count": 1
+    },
+    {
+      "id": "lao-s6",
+      "count": 1
+    },
+    {
+      "id": "lao-s7",
+      "count": 1
+    },
+    {
+      "id": "lao-r1",
+      "count": 1
+    },
+    {
+      "id": "lao-r2",
+      "count": 1
+    }
+  ]
+}

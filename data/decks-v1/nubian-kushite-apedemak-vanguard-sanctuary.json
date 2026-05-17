@@ -1,0 +1,102 @@
+{
+  "name": "nubian-kushite deck",
+  "hero_id": "nubian-kushite-hero-apedemak",
+  "cards": [
+    {
+      "id": "nubian-kushite-014",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-015",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-018",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-020",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-007",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-008",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-009",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-003",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-004",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-001",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-017",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-019",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-013",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-016",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s1",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s1b",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s2",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s3",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s4",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s5",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s6",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-s7",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-r1",
+      "count": 1
+    },
+    {
+      "id": "nubian-kushite-r2",
+      "count": 1
+    }
+  ]
+}

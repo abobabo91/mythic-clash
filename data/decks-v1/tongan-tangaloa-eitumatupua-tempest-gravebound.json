@@ -1,0 +1,102 @@
+{
+  "name": "tongan deck",
+  "hero_id": "tongan-hero-tangaloa-eitumatupua",
+  "cards": [
+    {
+      "id": "tongan-016",
+      "count": 1
+    },
+    {
+      "id": "tongan-008",
+      "count": 1
+    },
+    {
+      "id": "tongan-017",
+      "count": 1
+    },
+    {
+      "id": "tongan-018",
+      "count": 1
+    },
+    {
+      "id": "tongan-013",
+      "count": 1
+    },
+    {
+      "id": "tongan-007",
+      "count": 1
+    },
+    {
+      "id": "tongan-009",
+      "count": 1
+    },
+    {
+      "id": "tongan-003",
+      "count": 1
+    },
+    {
+      "id": "tongan-004",
+      "count": 1
+    },
+    {
+      "id": "tongan-001",
+      "count": 1
+    },
+    {
+      "id": "tongan-019",
+      "count": 1
+    },
+    {
+      "id": "tongan-020",
+      "count": 1
+    },
+    {
+      "id": "tongan-014",
+      "count": 1
+    },
+    {
+      "id": "tongan-015",
+      "count": 1
+    },
+    {
+      "id": "tongan-s1",
+      "count": 1
+    },
+    {
+      "id": "tongan-s1b",
+      "count": 1
+    },
+    {
+      "id": "tongan-s2",
+      "count": 1
+    },
+    {
+      "id": "tongan-s3",
+      "count": 1
+    },
+    {
+      "id": "tongan-s4",
+      "count": 1
+    },
+    {
+      "id": "tongan-s5",
+      "count": 1
+    },
+    {
+      "id": "tongan-s6",
+      "count": 1
+    },
+    {
+      "id": "tongan-s7",
+      "count": 1
+    },
+    {
+      "id": "tongan-r1",
+      "count": 1
+    },
+    {
+      "id": "tongan-r2",
+      "count": 1
+    }
+  ]
+}

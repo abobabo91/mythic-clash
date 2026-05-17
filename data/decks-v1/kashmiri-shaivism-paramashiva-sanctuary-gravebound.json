@@ -1,0 +1,102 @@
+{
+  "name": "kashmiri-shaivism deck",
+  "hero_id": "kashmiri-shaivism-hero-paramashiva",
+  "cards": [
+    {
+      "id": "kashmiri-shaivism-014",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-016",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-018",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-007",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-017",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-008",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-009",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-003",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-004",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-001",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-019",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-020",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-013",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-015",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s1",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s1b",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s2",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s3",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s4",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s5",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s6",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-s7",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-r1",
+      "count": 1
+    },
+    {
+      "id": "kashmiri-shaivism-r2",
+      "count": 1
+    }
+  ]
+}

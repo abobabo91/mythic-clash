@@ -1,0 +1,76 @@
+{
+  "candidate": "mongolian-shamanist",
+  "benchmarks": [
+    "ancient-greek"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 1,
+      "losses": 3,
+      "draws": 0,
+      "average_turn": 9.0,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 8,
+          "steps": 60,
+          "candidate_health": 0,
+          "benchmark_health": 16
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 12,
+          "steps": 98,
+          "candidate_health": 0,
+          "benchmark_health": 13
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 9,
+          "steps": 64,
+          "candidate_health": 14,
+          "benchmark_health": -1
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 41,
+          "candidate_health": 0,
+          "benchmark_health": 18
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 140
+}

@@ -1,0 +1,102 @@
+{
+  "name": "taino-caribbean deck",
+  "hero_id": "taino-caribbean-hero-yucahu-sea-root",
+  "cards": [
+    {
+      "id": "taino-caribbean-012",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-014",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-017",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-019",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-016",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-005",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-008",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-002",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-004",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-001",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-010",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-018",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-020",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-009",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s1",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s1b",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s2",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s3",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s4",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s5",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s6",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-s7",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-r1",
+      "count": 1
+    },
+    {
+      "id": "taino-caribbean-r2",
+      "count": 1
+    }
+  ]
+}

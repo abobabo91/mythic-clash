@@ -1,0 +1,71 @@
+{
+  "hero_id": "sikh-hero",
+  "name": "Guru Gobind Armor",
+  "notes": [],
+  "cards": [
+    {
+      "id": "sikh-01",
+      "count": 2
+    },
+    {
+      "id": "sikh-02",
+      "count": 2
+    },
+    {
+      "id": "sikh-03",
+      "count": 2
+    },
+    {
+      "id": "sikh-04",
+      "count": 2
+    },
+    {
+      "id": "sikh-05",
+      "count": 2
+    },
+    {
+      "id": "sikh-06",
+      "count": 2
+    },
+    {
+      "id": "sikh-08",
+      "count": 1
+    },
+    {
+      "id": "sikh-09",
+      "count": 1
+    },
+    {
+      "id": "sikh-s1",
+      "count": 2
+    },
+    {
+      "id": "sikh-s2",
+      "count": 2
+    },
+    {
+      "id": "sikh-s3",
+      "count": 1
+    },
+    {
+      "id": "sikh-s4",
+      "count": 1
+    },
+    {
+      "id": "sikh-s5",
+      "count": 1
+    },
+    {
+      "id": "sikh-s6",
+      "count": 1
+    },
+    {
+      "id": "sikh-r1",
+      "count": 1
+    },
+    {
+      "id": "sikh-r2",
+      "count": 1
+    }
+  ]
+}

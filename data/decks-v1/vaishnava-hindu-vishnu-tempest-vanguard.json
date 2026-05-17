@@ -1,0 +1,102 @@
+{
+  "name": "vaishnava-hindu deck",
+  "hero_id": "vaishnava-hindu-hero-vishnu",
+  "cards": [
+    {
+      "id": "vaishnava-hindu-014",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-016",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-018",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-007",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-017",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-008",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-009",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-003",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-004",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-001",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-019",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-020",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-013",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-015",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s1",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s1b",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s2",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s3",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s4",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s5",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s6",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-s7",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-r1",
+      "count": 1
+    },
+    {
+      "id": "vaishnava-hindu-r2",
+      "count": 1
+    }
+  ]
+}

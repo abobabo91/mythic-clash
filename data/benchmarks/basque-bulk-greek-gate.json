@@ -1,0 +1,76 @@
+{
+  "candidate": "basque",
+  "benchmarks": [
+    "ancient-greek"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 1,
+      "losses": 3,
+      "draws": 0,
+      "average_turn": 8.5,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 45,
+          "candidate_health": -3,
+          "benchmark_health": 14
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 9,
+          "steps": 59,
+          "candidate_health": -2,
+          "benchmark_health": 24
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 11,
+          "steps": 90,
+          "candidate_health": 8,
+          "benchmark_health": -2
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 7,
+          "steps": 40,
+          "candidate_health": 0,
+          "benchmark_health": 25
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 140
+}

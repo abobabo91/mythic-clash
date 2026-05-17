@@ -1,0 +1,120 @@
+{
+  "candidate": "zulu",
+  "benchmarks": [
+    "ancient-greek",
+    "haitian-vodou",
+    "inuit"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 2,
+      "losses": 0,
+      "draws": 0,
+      "average_turn": 8.5,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 9,
+          "steps": 61,
+          "candidate_health": 5,
+          "benchmark_health": -1
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 53,
+          "candidate_health": 1,
+          "benchmark_health": 0
+        }
+      ]
+    },
+    "haitian-vodou": {
+      "label": "Haitian Vodou",
+      "wins": 2,
+      "losses": 0,
+      "draws": 0,
+      "average_turn": 8.0,
+      "runs": [
+        {
+          "benchmark": "haitian-vodou",
+          "benchmark_label": "Haitian Vodou",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 61,
+          "candidate_health": 14,
+          "benchmark_health": 0
+        },
+        {
+          "benchmark": "haitian-vodou",
+          "benchmark_label": "Haitian Vodou",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 55,
+          "candidate_health": 19,
+          "benchmark_health": 0
+        }
+      ]
+    },
+    "inuit": {
+      "label": "Inuit",
+      "wins": 2,
+      "losses": 0,
+      "draws": 0,
+      "average_turn": 8.0,
+      "runs": [
+        {
+          "benchmark": "inuit",
+          "benchmark_label": "Inuit",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 50,
+          "candidate_health": 17,
+          "benchmark_health": 0
+        },
+        {
+          "benchmark": "inuit",
+          "benchmark_label": "Inuit",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 53,
+          "candidate_health": 13,
+          "benchmark_health": 0
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 140
+}

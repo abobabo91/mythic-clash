@@ -1,0 +1,102 @@
+{
+  "name": "iroquois-haudenosaunee deck",
+  "hero_id": "iroquois-haudenosaunee-hero-sky-woman-first-garden",
+  "cards": [
+    {
+      "id": "iroquois-haudenosaunee-010",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-014",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-018",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-007",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-015",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-017",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-008",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-009",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-003",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-004",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-001",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-016",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-019",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-020",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s1",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s1b",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s2",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s3",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s4",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s5",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s6",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-s7",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-r1",
+      "count": 1
+    },
+    {
+      "id": "iroquois-haudenosaunee-r2",
+      "count": 1
+    }
+  ]
+}

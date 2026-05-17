@@ -1,0 +1,102 @@
+{
+  "name": "hopi deck",
+  "hero_id": "hopi-hero-spider-grandmother",
+  "cards": [
+    {
+      "id": "hopi-012",
+      "count": 1
+    },
+    {
+      "id": "hopi-018",
+      "count": 1
+    },
+    {
+      "id": "hopi-009",
+      "count": 1
+    },
+    {
+      "id": "hopi-010",
+      "count": 1
+    },
+    {
+      "id": "hopi-013",
+      "count": 1
+    },
+    {
+      "id": "hopi-016",
+      "count": 1
+    },
+    {
+      "id": "hopi-005",
+      "count": 1
+    },
+    {
+      "id": "hopi-003",
+      "count": 1
+    },
+    {
+      "id": "hopi-004",
+      "count": 1
+    },
+    {
+      "id": "hopi-001",
+      "count": 1
+    },
+    {
+      "id": "hopi-017",
+      "count": 1
+    },
+    {
+      "id": "hopi-007",
+      "count": 1
+    },
+    {
+      "id": "hopi-011",
+      "count": 1
+    },
+    {
+      "id": "hopi-008",
+      "count": 1
+    },
+    {
+      "id": "hopi-s1",
+      "count": 1
+    },
+    {
+      "id": "hopi-s1b",
+      "count": 1
+    },
+    {
+      "id": "hopi-s2",
+      "count": 1
+    },
+    {
+      "id": "hopi-s3",
+      "count": 1
+    },
+    {
+      "id": "hopi-s4",
+      "count": 1
+    },
+    {
+      "id": "hopi-s5",
+      "count": 1
+    },
+    {
+      "id": "hopi-s6",
+      "count": 1
+    },
+    {
+      "id": "hopi-s7",
+      "count": 1
+    },
+    {
+      "id": "hopi-r1",
+      "count": 1
+    },
+    {
+      "id": "hopi-r2",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "shaiva-hindu deck",
+  "hero_id": "shaiva-hindu-hero-shiva",
+  "cards": [
+    {
+      "id": "shaiva-hindu-014",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-008",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-018",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-016",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-017",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-007",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-009",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-003",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-004",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-001",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-019",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-020",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-013",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-015",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s1",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s1b",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s2",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s3",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s4",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s5",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s6",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-s7",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-r1",
+      "count": 1
+    },
+    {
+      "id": "shaiva-hindu-r2",
+      "count": 1
+    }
+  ]
+}

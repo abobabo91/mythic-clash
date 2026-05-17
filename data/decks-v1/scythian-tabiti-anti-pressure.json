@@ -1,0 +1,102 @@
+{
+  "name": "scythian deck",
+  "hero_id": "scythian-hero-tabiti",
+  "cards": [
+    {
+      "id": "scythian-015",
+      "count": 1
+    },
+    {
+      "id": "scythian-016",
+      "count": 1
+    },
+    {
+      "id": "scythian-018",
+      "count": 1
+    },
+    {
+      "id": "scythian-007",
+      "count": 1
+    },
+    {
+      "id": "scythian-017",
+      "count": 1
+    },
+    {
+      "id": "scythian-008",
+      "count": 1
+    },
+    {
+      "id": "scythian-009",
+      "count": 1
+    },
+    {
+      "id": "scythian-003",
+      "count": 1
+    },
+    {
+      "id": "scythian-004",
+      "count": 1
+    },
+    {
+      "id": "scythian-001",
+      "count": 1
+    },
+    {
+      "id": "scythian-019",
+      "count": 1
+    },
+    {
+      "id": "scythian-020",
+      "count": 1
+    },
+    {
+      "id": "scythian-013",
+      "count": 1
+    },
+    {
+      "id": "scythian-014",
+      "count": 1
+    },
+    {
+      "id": "scythian-s1",
+      "count": 1
+    },
+    {
+      "id": "scythian-s1b",
+      "count": 1
+    },
+    {
+      "id": "scythian-s2",
+      "count": 1
+    },
+    {
+      "id": "scythian-s3",
+      "count": 1
+    },
+    {
+      "id": "scythian-s4",
+      "count": 1
+    },
+    {
+      "id": "scythian-s5",
+      "count": 1
+    },
+    {
+      "id": "scythian-s6",
+      "count": 1
+    },
+    {
+      "id": "scythian-s7",
+      "count": 1
+    },
+    {
+      "id": "scythian-r1",
+      "count": 1
+    },
+    {
+      "id": "scythian-r2",
+      "count": 1
+    }
+  ]
+}

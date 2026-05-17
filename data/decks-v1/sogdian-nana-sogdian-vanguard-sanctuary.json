@@ -1,0 +1,102 @@
+{
+  "name": "sogdian deck",
+  "hero_id": "sogdian-hero-nana-sogdian",
+  "cards": [
+    {
+      "id": "sogdian-017",
+      "count": 1
+    },
+    {
+      "id": "sogdian-018",
+      "count": 1
+    },
+    {
+      "id": "sogdian-007",
+      "count": 1
+    },
+    {
+      "id": "sogdian-011",
+      "count": 1
+    },
+    {
+      "id": "sogdian-013",
+      "count": 1
+    },
+    {
+      "id": "sogdian-014",
+      "count": 1
+    },
+    {
+      "id": "sogdian-008",
+      "count": 1
+    },
+    {
+      "id": "sogdian-003",
+      "count": 1
+    },
+    {
+      "id": "sogdian-004",
+      "count": 1
+    },
+    {
+      "id": "sogdian-001",
+      "count": 1
+    },
+    {
+      "id": "sogdian-019",
+      "count": 1
+    },
+    {
+      "id": "sogdian-020",
+      "count": 1
+    },
+    {
+      "id": "sogdian-015",
+      "count": 1
+    },
+    {
+      "id": "sogdian-016",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s1",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s1b",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s2",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s3",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s4",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s5",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s6",
+      "count": 1
+    },
+    {
+      "id": "sogdian-s7",
+      "count": 1
+    },
+    {
+      "id": "sogdian-r1",
+      "count": 1
+    },
+    {
+      "id": "sogdian-r2",
+      "count": 1
+    }
+  ]
+}

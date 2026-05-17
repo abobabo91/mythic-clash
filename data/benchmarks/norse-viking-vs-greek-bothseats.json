@@ -1,0 +1,76 @@
+{
+  "candidate": "norse-viking",
+  "benchmarks": [
+    "ancient-greek"
+  ],
+  "seeds": [
+    31,
+    47
+  ],
+  "overall_record": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "by_benchmark": {
+    "ancient-greek": {
+      "label": "Ancient Greek",
+      "wins": 1,
+      "losses": 3,
+      "draws": 0,
+      "average_turn": 8.25,
+      "runs": [
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "a",
+          "result": "win",
+          "winner": "Candidate",
+          "turn_number": 8,
+          "steps": 50,
+          "candidate_health": 22,
+          "benchmark_health": 0
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 31,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 9,
+          "steps": 52,
+          "candidate_health": 0,
+          "benchmark_health": 24
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "a",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 8,
+          "steps": 54,
+          "candidate_health": 0,
+          "benchmark_health": 17
+        },
+        {
+          "benchmark": "ancient-greek",
+          "benchmark_label": "Ancient Greek",
+          "seed": 47,
+          "candidate_seat": "b",
+          "result": "loss",
+          "winner": "Ancient Greek",
+          "turn_number": 8,
+          "steps": 51,
+          "candidate_health": 0,
+          "benchmark_health": 26
+        }
+      ]
+    }
+  },
+  "player_kind": "rollout",
+  "max_steps": 140
+}

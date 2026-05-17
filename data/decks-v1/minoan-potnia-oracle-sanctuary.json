@@ -1,0 +1,102 @@
+{
+  "name": "minoan deck",
+  "hero_id": "minoan-hero-potnia",
+  "cards": [
+    {
+      "id": "minoan-014",
+      "count": 1
+    },
+    {
+      "id": "minoan-016",
+      "count": 1
+    },
+    {
+      "id": "minoan-018",
+      "count": 1
+    },
+    {
+      "id": "minoan-007",
+      "count": 1
+    },
+    {
+      "id": "minoan-017",
+      "count": 1
+    },
+    {
+      "id": "minoan-008",
+      "count": 1
+    },
+    {
+      "id": "minoan-009",
+      "count": 1
+    },
+    {
+      "id": "minoan-003",
+      "count": 1
+    },
+    {
+      "id": "minoan-004",
+      "count": 1
+    },
+    {
+      "id": "minoan-001",
+      "count": 1
+    },
+    {
+      "id": "minoan-019",
+      "count": 1
+    },
+    {
+      "id": "minoan-020",
+      "count": 1
+    },
+    {
+      "id": "minoan-013",
+      "count": 1
+    },
+    {
+      "id": "minoan-015",
+      "count": 1
+    },
+    {
+      "id": "minoan-s1",
+      "count": 1
+    },
+    {
+      "id": "minoan-s1b",
+      "count": 1
+    },
+    {
+      "id": "minoan-s2",
+      "count": 1
+    },
+    {
+      "id": "minoan-s3",
+      "count": 1
+    },
+    {
+      "id": "minoan-s4",
+      "count": 1
+    },
+    {
+      "id": "minoan-s5",
+      "count": 1
+    },
+    {
+      "id": "minoan-s6",
+      "count": 1
+    },
+    {
+      "id": "minoan-s7",
+      "count": 1
+    },
+    {
+      "id": "minoan-r1",
+      "count": 1
+    },
+    {
+      "id": "minoan-r2",
+      "count": 1
+    }
+  ]
+}

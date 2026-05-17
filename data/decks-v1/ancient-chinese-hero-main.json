@@ -1,0 +1,67 @@
+{
+  "hero_id": "ancient-chinese-hero",
+  "name": "Ancient Chinese Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "ancient-chinese-001",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-002",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-003",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-004",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-005",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-006",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-009",
+      "count": 1
+    },
+    {
+      "id": "ancient-chinese-010",
+      "count": 1
+    },
+    {
+      "id": "ancient-chinese-sp-harmony",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-sp-jade",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-sp-bolt",
+      "count": 2
+    },
+    {
+      "id": "ancient-chinese-sp-scroll",
+      "count": 1
+    },
+    {
+      "id": "ancient-chinese-sp-balance",
+      "count": 1
+    },
+    {
+      "id": "ancient-chinese-rel-scroll",
+      "count": 1
+    },
+    {
+      "id": "ancient-chinese-rel-gong",
+      "count": 1
+    }
+  ]
+}

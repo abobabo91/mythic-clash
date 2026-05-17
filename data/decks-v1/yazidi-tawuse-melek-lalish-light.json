@@ -1,0 +1,102 @@
+{
+  "name": "yazidi deck",
+  "hero_id": "yazidi-hero-tawuse-melek-peacock-light",
+  "cards": [
+    {
+      "id": "yazidi-017",
+      "count": 1
+    },
+    {
+      "id": "yazidi-020",
+      "count": 1
+    },
+    {
+      "id": "yazidi-018",
+      "count": 1
+    },
+    {
+      "id": "yazidi-014",
+      "count": 1
+    },
+    {
+      "id": "yazidi-013",
+      "count": 1
+    },
+    {
+      "id": "yazidi-009",
+      "count": 1
+    },
+    {
+      "id": "yazidi-010",
+      "count": 1
+    },
+    {
+      "id": "yazidi-011",
+      "count": 1
+    },
+    {
+      "id": "yazidi-003",
+      "count": 1
+    },
+    {
+      "id": "yazidi-004",
+      "count": 1
+    },
+    {
+      "id": "yazidi-001",
+      "count": 1
+    },
+    {
+      "id": "yazidi-019",
+      "count": 1
+    },
+    {
+      "id": "yazidi-015",
+      "count": 1
+    },
+    {
+      "id": "yazidi-016",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s1",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s1b",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s2",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s3",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s4",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s5",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s6",
+      "count": 1
+    },
+    {
+      "id": "yazidi-s7",
+      "count": 1
+    },
+    {
+      "id": "yazidi-r1",
+      "count": 1
+    },
+    {
+      "id": "yazidi-r2",
+      "count": 1
+    }
+  ]
+}

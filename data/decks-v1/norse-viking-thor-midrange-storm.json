@@ -1,0 +1,79 @@
+{
+  "hero_id": "norse-viking-hero-thor",
+  "name": "Thor Midrange Storm",
+  "notes": [],
+  "cards": [
+    {
+      "id": "norse-viking-001",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-003",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-004",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-007",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-008",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-011",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-012",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-013",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-016",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-battle-rage",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-lightning-bolt",
+      "count": 2
+    },
+    {
+      "id": "norse-viking-spell-ragnarok-axe",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-rune-sight",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-frost-axe",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-spell-valhalla-call",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-relic-horn",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-relic-mjolnir",
+      "count": 1
+    },
+    {
+      "id": "norse-viking-017",
+      "count": 1
+    }
+  ]
+}

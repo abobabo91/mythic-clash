@@ -1,0 +1,71 @@
+{
+  "hero_id": "haitian-vodou-hero",
+  "name": "Haitian Vodou Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "haitian-vodou-001",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-002",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-003",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-004",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-005",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-006",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-007",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-009",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-010",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-sp-hex",
+      "count": 2
+    },
+    {
+      "id": "haitian-vodou-sp-ritual",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-sp-possess",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-sp-rebirth",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-sp-draw",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-rel-altar",
+      "count": 1
+    },
+    {
+      "id": "haitian-vodou-rel-drum",
+      "count": 1
+    }
+  ]
+}

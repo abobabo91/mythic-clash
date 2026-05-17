@@ -1,0 +1,67 @@
+{
+  "hero_id": "vedic-hindu-hero",
+  "name": "Vedic Hindu Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "vedic-hindu-001",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-002",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-003",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-004",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-005",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-006",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-008",
+      "count": 1
+    },
+    {
+      "id": "vedic-hindu-009",
+      "count": 1
+    },
+    {
+      "id": "vedic-hindu-sp-mantra",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-sp-flame",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-sp-shield",
+      "count": 2
+    },
+    {
+      "id": "vedic-hindu-sp-sight",
+      "count": 1
+    },
+    {
+      "id": "vedic-hindu-sp-smite",
+      "count": 1
+    },
+    {
+      "id": "vedic-hindu-rel-lotus",
+      "count": 1
+    },
+    {
+      "id": "vedic-hindu-rel-trident",
+      "count": 1
+    }
+  ]
+}

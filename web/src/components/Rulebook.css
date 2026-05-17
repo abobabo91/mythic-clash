@@ -1,0 +1,159 @@
+.rulebook-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  backdrop-filter: blur(4px);
+}
+
+.rulebook-panel {
+  width: 680px;
+  max-height: 85vh;
+  background: linear-gradient(160deg, #14142e 0%, #0e0e20 100%);
+  border: 1px solid #2a2a50;
+  border-radius: 12px;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+  overflow: hidden;
+}
+
+.rulebook-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid #3a3a60;
+  background: #1a1a38;
+  color: #8a8aaa;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+}
+.rulebook-close:hover {
+  background: #2a2a50;
+  color: white;
+}
+
+.rulebook-content {
+  padding: 32px 36px;
+  overflow-y: auto;
+  max-height: 85vh;
+}
+
+.rulebook-content::-webkit-scrollbar { width: 4px; }
+.rulebook-content::-webkit-scrollbar-thumb { background: #2a2a50; border-radius: 2px; }
+
+.rulebook-content h1 {
+  font-size: 28px;
+  color: var(--accent);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 2px;
+  text-shadow: 0 0 12px var(--accent-glow);
+}
+
+.rulebook-content .subtitle {
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+
+.rulebook-content section {
+  margin-bottom: 20px;
+}
+
+.rulebook-content h2 {
+  font-size: 14px;
+  color: var(--mana);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid rgba(74, 158, 255, 0.15);
+}
+
+.rulebook-content p {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #b0b0cc;
+  margin-bottom: 6px;
+}
+
+.rulebook-content ul, .rulebook-content ol {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #b0b0cc;
+  padding-left: 20px;
+  margin-bottom: 6px;
+}
+
+.rulebook-content li {
+  margin-bottom: 3px;
+}
+
+.rulebook-content strong {
+  color: #d0d0e8;
+}
+
+.rulebook-content em {
+  color: var(--accent);
+  font-style: normal;
+}
+
+.card-types {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.ct {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid #1a1a38;
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+}
+
+.ct-icon {
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+
+.ct h3 {
+  font-size: 12px;
+  color: var(--text);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ct p, .ct ul {
+  font-size: 11px;
+  text-align: left;
+}
+
+.keywords-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 16px;
+  font-size: 11px;
+  color: #a0a0c0;
+  line-height: 1.5;
+}
+
+.keywords-grid strong {
+  color: var(--accent);
+}

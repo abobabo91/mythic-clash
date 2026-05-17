@@ -1,0 +1,102 @@
+{
+  "name": "hittite deck",
+  "hero_id": "hittite-hero-tarhunt",
+  "cards": [
+    {
+      "id": "hittite-014",
+      "count": 1
+    },
+    {
+      "id": "hittite-015",
+      "count": 1
+    },
+    {
+      "id": "hittite-016",
+      "count": 1
+    },
+    {
+      "id": "hittite-007",
+      "count": 1
+    },
+    {
+      "id": "hittite-017",
+      "count": 1
+    },
+    {
+      "id": "hittite-018",
+      "count": 1
+    },
+    {
+      "id": "hittite-008",
+      "count": 1
+    },
+    {
+      "id": "hittite-009",
+      "count": 1
+    },
+    {
+      "id": "hittite-003",
+      "count": 1
+    },
+    {
+      "id": "hittite-004",
+      "count": 1
+    },
+    {
+      "id": "hittite-001",
+      "count": 1
+    },
+    {
+      "id": "hittite-019",
+      "count": 1
+    },
+    {
+      "id": "hittite-020",
+      "count": 1
+    },
+    {
+      "id": "hittite-013",
+      "count": 1
+    },
+    {
+      "id": "hittite-s1",
+      "count": 1
+    },
+    {
+      "id": "hittite-s1b",
+      "count": 1
+    },
+    {
+      "id": "hittite-s2",
+      "count": 1
+    },
+    {
+      "id": "hittite-s3",
+      "count": 1
+    },
+    {
+      "id": "hittite-s4",
+      "count": 1
+    },
+    {
+      "id": "hittite-s5",
+      "count": 1
+    },
+    {
+      "id": "hittite-s6",
+      "count": 1
+    },
+    {
+      "id": "hittite-s7",
+      "count": 1
+    },
+    {
+      "id": "hittite-r1",
+      "count": 1
+    },
+    {
+      "id": "hittite-r2",
+      "count": 1
+    }
+  ]
+}

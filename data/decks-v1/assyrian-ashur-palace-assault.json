@@ -1,0 +1,102 @@
+{
+  "name": "assyrian deck",
+  "hero_id": "assyrian-hero-ashur-war-banner",
+  "cards": [
+    {
+      "id": "assyrian-012",
+      "count": 1
+    },
+    {
+      "id": "assyrian-019",
+      "count": 1
+    },
+    {
+      "id": "assyrian-018",
+      "count": 1
+    },
+    {
+      "id": "assyrian-014",
+      "count": 1
+    },
+    {
+      "id": "assyrian-017",
+      "count": 1
+    },
+    {
+      "id": "assyrian-007",
+      "count": 1
+    },
+    {
+      "id": "assyrian-008",
+      "count": 1
+    },
+    {
+      "id": "assyrian-009",
+      "count": 1
+    },
+    {
+      "id": "assyrian-003",
+      "count": 1
+    },
+    {
+      "id": "assyrian-004",
+      "count": 1
+    },
+    {
+      "id": "assyrian-001",
+      "count": 1
+    },
+    {
+      "id": "assyrian-013",
+      "count": 1
+    },
+    {
+      "id": "assyrian-015",
+      "count": 1
+    },
+    {
+      "id": "assyrian-016",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s1",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s1b",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s2",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s3",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s4",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s5",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s6",
+      "count": 1
+    },
+    {
+      "id": "assyrian-s7",
+      "count": 1
+    },
+    {
+      "id": "assyrian-r1",
+      "count": 1
+    },
+    {
+      "id": "assyrian-r2",
+      "count": 1
+    }
+  ]
+}

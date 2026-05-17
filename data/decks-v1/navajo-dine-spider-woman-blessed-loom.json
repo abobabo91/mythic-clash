@@ -1,0 +1,102 @@
+{
+  "name": "navajo-dine deck",
+  "hero_id": "navajo-dine-hero-spider-woman",
+  "cards": [
+    {
+      "id": "navajo-dine-014",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-019",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-009",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-004",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-003",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-005",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-002",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-007",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-001",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-011",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-012",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-013",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-020",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-006",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s1",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s1b",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s2",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s3",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s4",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s5",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s6",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-s7",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-r1",
+      "count": 1
+    },
+    {
+      "id": "navajo-dine-r2",
+      "count": 1
+    }
+  ]
+}

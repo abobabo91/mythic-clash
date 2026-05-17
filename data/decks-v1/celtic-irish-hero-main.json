@@ -1,0 +1,71 @@
+{
+  "hero_id": "celtic-irish-hero",
+  "name": "Celtic Irish Hero Main",
+  "notes": [],
+  "cards": [
+    {
+      "id": "celtic-irish-001",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-002",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-003",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-004",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-005",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-006",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-007",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-009",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-010",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-sp-trick",
+      "count": 2
+    },
+    {
+      "id": "celtic-irish-sp-mist",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-sp-bolt",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-sp-cauldron",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-sp-ward",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-rel-cauldron",
+      "count": 1
+    },
+    {
+      "id": "celtic-irish-rel-stone",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "algonquian-ojibwe deck",
+  "hero_id": "algonquian-ojibwe-hero-nanabozho",
+  "cards": [
+    {
+      "id": "algonquian-ojibwe-014",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-016",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-018",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-007",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-017",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-008",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-009",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-003",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-004",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-001",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-019",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-020",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-013",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-015",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s1",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s1b",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s2",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s3",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s4",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s5",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s6",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-s7",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-r1",
+      "count": 1
+    },
+    {
+      "id": "algonquian-ojibwe-r2",
+      "count": 1
+    }
+  ]
+}

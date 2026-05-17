@@ -1,0 +1,412 @@
+{
+  "cultures": 100,
+  "figures": 2000,
+  "body_ready": 2000,
+  "body_ready_pct": 100.0,
+  "keyword_ready": 785,
+  "keyword_ready_pct": 39.2,
+  "ability_blueprint_ready": 752,
+  "ability_blueprint_ready_pct": 37.6,
+  "requires_manual_design": 1248,
+  "requires_manual_design_pct": 62.4,
+  "top_keywords": [
+    [
+      "rush",
+      241
+    ],
+    [
+      "guard",
+      234
+    ],
+    [
+      "ward",
+      126
+    ],
+    [
+      "reborn",
+      113
+    ],
+    [
+      "lifesteal",
+      98
+    ],
+    [
+      "poisonous",
+      82
+    ],
+    [
+      "charge",
+      66
+    ]
+  ],
+  "unsupported_concepts": [
+    [
+      "five_stat_system",
+      913
+    ],
+    [
+      "alignment_subsystem",
+      87
+    ],
+    [
+      "hidden_info_subsystem",
+      40
+    ],
+    [
+      "resource_subsystem",
+      32
+    ],
+    [
+      "non_launch_status_terms",
+      20
+    ],
+    [
+      "board_geometry_subsystem",
+      16
+    ],
+    [
+      "special_ability_subsystem",
+      12
+    ]
+  ],
+  "most_duplicate_ability_descriptions": [
+    {
+      "description": "Pull one enemy out of position and lower its speed by 3.",
+      "count": 54
+    },
+    {
+      "description": "All allied attackers gain +3 power and +1 speed this turn.",
+      "count": 46
+    },
+    {
+      "description": "Grant one ally +4 defense and create a shield that absorbs 6 damage.",
+      "count": 44
+    },
+    {
+      "description": "Heal all allies for 3 HP and negate the next fire effect played against them.",
+      "count": 40
+    },
+    {
+      "description": "Create a 5/5/5/5/5 spirit token with the same alignment as this card.",
+      "count": 33
+    },
+    {
+      "description": "Phase through danger, avoid the next hit, and gain +2 magic.",
+      "count": 31
+    },
+    {
+      "description": "Reveal hidden enemies and grant all allies +2 magic.",
+      "count": 30
+    },
+    {
+      "description": "Double resource growth for 1 turn and heal all allies for 2 HP.",
+      "count": 30
+    },
+    {
+      "description": "Look at the top 3 cards, draw 1, and give an ally +2 wisdom.",
+      "count": 29
+    },
+    {
+      "description": "Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn.",
+      "count": 26
+    },
+    {
+      "description": "Revive one fallen ally at half stats or deal 7 damage to an injured enemy.",
+      "count": 26
+    },
+    {
+      "description": "Burn the opposing field for 3 damage now and 2 more next turn.",
+      "count": 26
+    },
+    {
+      "description": "Poison one enemy for 2 turns and steal 2 speed from it.",
+      "count": 25
+    },
+    {
+      "description": "Strike all enemies for 4 damage and stun the fastest target.",
+      "count": 25
+    },
+    {
+      "description": "Summon a wild ally token and heal your weakest card for 4 HP.",
+      "count": 25
+    }
+  ],
+  "lowest_blueprint_ready_cultures": [
+    {
+      "culture_slug": "hopi",
+      "figure_count": 20,
+      "blueprint_ready": 0,
+      "blueprint_ready_pct": 0.0
+    },
+    {
+      "culture_slug": "taiwanese-aboriginal",
+      "figure_count": 20,
+      "blueprint_ready": 1,
+      "blueprint_ready_pct": 5.0
+    },
+    {
+      "culture_slug": "buryat-mongol",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "fijian",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "kashmiri-shaivism",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "tamil-dravidian",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "tongan",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "yakut-sakha",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "yazidi",
+      "figure_count": 20,
+      "blueprint_ready": 3,
+      "blueprint_ready_pct": 15.0
+    },
+    {
+      "culture_slug": "iroquois-haudenosaunee",
+      "figure_count": 20,
+      "blueprint_ready": 4,
+      "blueprint_ready_pct": 20.0
+    },
+    {
+      "culture_slug": "shaiva-hindu",
+      "figure_count": 20,
+      "blueprint_ready": 4,
+      "blueprint_ready_pct": 20.0
+    },
+    {
+      "culture_slug": "toltec",
+      "figure_count": 20,
+      "blueprint_ready": 4,
+      "blueprint_ready_pct": 20.0
+    },
+    {
+      "culture_slug": "zoroastrian-persian",
+      "figure_count": 20,
+      "blueprint_ready": 4,
+      "blueprint_ready_pct": 20.0
+    },
+    {
+      "culture_slug": "aboriginal-australian",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "ancient-greek",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "armenian",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "assyrian",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "haida",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "inca-andean",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    },
+    {
+      "culture_slug": "melanesian-papuan",
+      "figure_count": 20,
+      "blueprint_ready": 5,
+      "blueprint_ready_pct": 25.0
+    }
+  ],
+  "sample_translations": [
+    {
+      "id": "aboriginal-australian-001",
+      "name": "Rainbow Serpent",
+      "card_type": "figure",
+      "culture_slug": "aboriginal-australian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "serpent",
+        "water",
+        "creation",
+        "earth"
+      ],
+      "rules_text": "Coiled Fate: Poison one enemy for 2 turns and steal 2 speed from it.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "creature"
+      ],
+      "keywords": [
+        "guard",
+        "poisonous",
+        "rush"
+      ],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "",
+      "flavor_text": "",
+      "attack": 4,
+      "health": 9,
+      "abilities": []
+    },
+    {
+      "id": "aboriginal-australian-002",
+      "name": "Baiame",
+      "card_type": "figure",
+      "culture_slug": "aboriginal-australian",
+      "rarity": "legendary",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "creation",
+        "wisdom",
+        "law"
+      ],
+      "rules_text": "Vault of Heaven: Reveal hidden enemies and grant all allies +2 magic.",
+      "cost": 6,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": true,
+      "legendary": true,
+      "token": false,
+      "collectible": true,
+      "set_code": "",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 8,
+      "abilities": []
+    },
+    {
+      "id": "aboriginal-australian-003",
+      "name": "Bunjil",
+      "card_type": "figure",
+      "culture_slug": "aboriginal-australian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "light",
+        "eagle",
+        "creation"
+      ],
+      "rules_text": "Vault of Heaven: Reveal hidden enemies and grant all allies +2 magic.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 7,
+      "abilities": []
+    },
+    {
+      "id": "aboriginal-australian-004",
+      "name": "Yhi",
+      "card_type": "figure",
+      "culture_slug": "aboriginal-australian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sun",
+        "light",
+        "creation",
+        "fire"
+      ],
+      "rules_text": "Solar Ascendance: Deal 8 damage to one dark-aligned enemy and grant allied cards +2 power this turn.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "goddess"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 8,
+      "abilities": []
+    },
+    {
+      "id": "aboriginal-australian-005",
+      "name": "Daramulum",
+      "card_type": "figure",
+      "culture_slug": "aboriginal-australian",
+      "rarity": "rare",
+      "alignment": "light",
+      "traits": [
+        "sky",
+        "law",
+        "initiation",
+        "justice"
+      ],
+      "rules_text": "Vault of Heaven: Reveal hidden enemies and grant all allies +2 magic.",
+      "cost": 5,
+      "speed": null,
+      "subtypes": [
+        "god"
+      ],
+      "keywords": [],
+      "unique": false,
+      "legendary": false,
+      "token": false,
+      "collectible": true,
+      "set_code": "",
+      "flavor_text": "",
+      "attack": 5,
+      "health": 8,
+      "abilities": []
+    }
+  ]
+}

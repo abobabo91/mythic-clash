@@ -1,0 +1,102 @@
+{
+  "name": "sumerian deck",
+  "hero_id": "sumerian-hero-an",
+  "cards": [
+    {
+      "id": "sumerian-014",
+      "count": 1
+    },
+    {
+      "id": "sumerian-016",
+      "count": 1
+    },
+    {
+      "id": "sumerian-018",
+      "count": 1
+    },
+    {
+      "id": "sumerian-019",
+      "count": 1
+    },
+    {
+      "id": "sumerian-007",
+      "count": 1
+    },
+    {
+      "id": "sumerian-008",
+      "count": 1
+    },
+    {
+      "id": "sumerian-009",
+      "count": 1
+    },
+    {
+      "id": "sumerian-003",
+      "count": 1
+    },
+    {
+      "id": "sumerian-004",
+      "count": 1
+    },
+    {
+      "id": "sumerian-001",
+      "count": 1
+    },
+    {
+      "id": "sumerian-017",
+      "count": 1
+    },
+    {
+      "id": "sumerian-020",
+      "count": 1
+    },
+    {
+      "id": "sumerian-013",
+      "count": 1
+    },
+    {
+      "id": "sumerian-015",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s1",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s1b",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s2",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s3",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s4",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s5",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s6",
+      "count": 1
+    },
+    {
+      "id": "sumerian-s7",
+      "count": 1
+    },
+    {
+      "id": "sumerian-r1",
+      "count": 1
+    },
+    {
+      "id": "sumerian-r2",
+      "count": 1
+    }
+  ]
+}

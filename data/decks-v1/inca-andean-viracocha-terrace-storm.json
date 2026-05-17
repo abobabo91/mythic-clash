@@ -1,0 +1,102 @@
+{
+  "name": "inca-andean deck",
+  "hero_id": "inca-andean-hero-viracocha-world-path",
+  "cards": [
+    {
+      "id": "inca-andean-019",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-007",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-016",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-013",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-015",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-008",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-009",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-003",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-004",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-001",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-017",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-011",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-012",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-018",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s1",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s1b",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s2",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s3",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s4",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s5",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s6",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-s7",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-r1",
+      "count": 1
+    },
+    {
+      "id": "inca-andean-r2",
+      "count": 1
+    }
+  ]
+}

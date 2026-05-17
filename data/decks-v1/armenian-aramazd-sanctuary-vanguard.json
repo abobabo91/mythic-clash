@@ -1,0 +1,102 @@
+{
+  "name": "armenian deck",
+  "hero_id": "armenian-hero-aramazd",
+  "cards": [
+    {
+      "id": "armenian-014",
+      "count": 1
+    },
+    {
+      "id": "armenian-016",
+      "count": 1
+    },
+    {
+      "id": "armenian-017",
+      "count": 1
+    },
+    {
+      "id": "armenian-018",
+      "count": 1
+    },
+    {
+      "id": "armenian-007",
+      "count": 1
+    },
+    {
+      "id": "armenian-008",
+      "count": 1
+    },
+    {
+      "id": "armenian-009",
+      "count": 1
+    },
+    {
+      "id": "armenian-003",
+      "count": 1
+    },
+    {
+      "id": "armenian-004",
+      "count": 1
+    },
+    {
+      "id": "armenian-001",
+      "count": 1
+    },
+    {
+      "id": "armenian-019",
+      "count": 1
+    },
+    {
+      "id": "armenian-020",
+      "count": 1
+    },
+    {
+      "id": "armenian-013",
+      "count": 1
+    },
+    {
+      "id": "armenian-015",
+      "count": 1
+    },
+    {
+      "id": "armenian-s1",
+      "count": 1
+    },
+    {
+      "id": "armenian-s1b",
+      "count": 1
+    },
+    {
+      "id": "armenian-s2",
+      "count": 1
+    },
+    {
+      "id": "armenian-s3",
+      "count": 1
+    },
+    {
+      "id": "armenian-s4",
+      "count": 1
+    },
+    {
+      "id": "armenian-s5",
+      "count": 1
+    },
+    {
+      "id": "armenian-s6",
+      "count": 1
+    },
+    {
+      "id": "armenian-s7",
+      "count": 1
+    },
+    {
+      "id": "armenian-r1",
+      "count": 1
+    },
+    {
+      "id": "armenian-r2",
+      "count": 1
+    }
+  ]
+}

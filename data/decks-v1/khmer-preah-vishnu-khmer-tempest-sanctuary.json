@@ -1,0 +1,102 @@
+{
+  "name": "khmer deck",
+  "hero_id": "khmer-hero-preah-vishnu-khmer",
+  "cards": [
+    {
+      "id": "khmer-017",
+      "count": 1
+    },
+    {
+      "id": "khmer-013",
+      "count": 1
+    },
+    {
+      "id": "khmer-018",
+      "count": 1
+    },
+    {
+      "id": "khmer-020",
+      "count": 1
+    },
+    {
+      "id": "khmer-014",
+      "count": 1
+    },
+    {
+      "id": "khmer-007",
+      "count": 1
+    },
+    {
+      "id": "khmer-008",
+      "count": 1
+    },
+    {
+      "id": "khmer-009",
+      "count": 1
+    },
+    {
+      "id": "khmer-003",
+      "count": 1
+    },
+    {
+      "id": "khmer-004",
+      "count": 1
+    },
+    {
+      "id": "khmer-001",
+      "count": 1
+    },
+    {
+      "id": "khmer-019",
+      "count": 1
+    },
+    {
+      "id": "khmer-015",
+      "count": 1
+    },
+    {
+      "id": "khmer-016",
+      "count": 1
+    },
+    {
+      "id": "khmer-s1",
+      "count": 1
+    },
+    {
+      "id": "khmer-s1b",
+      "count": 1
+    },
+    {
+      "id": "khmer-s2",
+      "count": 1
+    },
+    {
+      "id": "khmer-s3",
+      "count": 1
+    },
+    {
+      "id": "khmer-s4",
+      "count": 1
+    },
+    {
+      "id": "khmer-s5",
+      "count": 1
+    },
+    {
+      "id": "khmer-s6",
+      "count": 1
+    },
+    {
+      "id": "khmer-s7",
+      "count": 1
+    },
+    {
+      "id": "khmer-r1",
+      "count": 1
+    },
+    {
+      "id": "khmer-r2",
+      "count": 1
+    }
+  ]
+}

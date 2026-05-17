@@ -1,0 +1,66 @@
+{
+  "name": "Tengri (Kazakh) Gravebound Vanguard",
+  "format": "mythic-clash-v1",
+  "hero_id": "kazakh-hero-tengri-kazakh",
+  "notes": [
+    "Gravebound-Vanguard rollout deck for Kazakh."
+  ],
+  "cards": [
+    {
+      "id": "kazakh-001",
+      "count": 1
+    },
+    {
+      "id": "kazakh-003",
+      "count": 1
+    },
+    {
+      "id": "kazakh-017",
+      "count": 2
+    },
+    {
+      "id": "kazakh-019",
+      "count": 2
+    },
+    {
+      "id": "kazakh-016",
+      "count": 2
+    },
+    {
+      "id": "kazakh-014",
+      "count": 2
+    },
+    {
+      "id": "kazakh-007",
+      "count": 2
+    },
+    {
+      "id": "kazakh-008",
+      "count": 2
+    },
+    {
+      "id": "kazakh-004",
+      "count": 2
+    },
+    {
+      "id": "kazakh-005",
+      "count": 2
+    },
+    {
+      "id": "kazakh-spell-mythic-bolt",
+      "count": 2
+    },
+    {
+      "id": "kazakh-spell-mythic-reading",
+      "count": 2
+    },
+    {
+      "id": "kazakh-spell-mythic-renewal",
+      "count": 1
+    },
+    {
+      "id": "kazakh-relic-mythic-idol",
+      "count": 1
+    }
+  ]
+}

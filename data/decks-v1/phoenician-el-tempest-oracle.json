@@ -1,0 +1,102 @@
+{
+  "name": "phoenician deck",
+  "hero_id": "phoenician-hero-el",
+  "cards": [
+    {
+      "id": "phoenician-019",
+      "count": 1
+    },
+    {
+      "id": "phoenician-014",
+      "count": 1
+    },
+    {
+      "id": "phoenician-018",
+      "count": 1
+    },
+    {
+      "id": "phoenician-007",
+      "count": 1
+    },
+    {
+      "id": "phoenician-013",
+      "count": 1
+    },
+    {
+      "id": "phoenician-008",
+      "count": 1
+    },
+    {
+      "id": "phoenician-009",
+      "count": 1
+    },
+    {
+      "id": "phoenician-003",
+      "count": 1
+    },
+    {
+      "id": "phoenician-004",
+      "count": 1
+    },
+    {
+      "id": "phoenician-001",
+      "count": 1
+    },
+    {
+      "id": "phoenician-017",
+      "count": 1
+    },
+    {
+      "id": "phoenician-020",
+      "count": 1
+    },
+    {
+      "id": "phoenician-015",
+      "count": 1
+    },
+    {
+      "id": "phoenician-016",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s1",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s1b",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s2",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s3",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s4",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s5",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s6",
+      "count": 1
+    },
+    {
+      "id": "phoenician-s7",
+      "count": 1
+    },
+    {
+      "id": "phoenician-r1",
+      "count": 1
+    },
+    {
+      "id": "phoenician-r2",
+      "count": 1
+    }
+  ]
+}

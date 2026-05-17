@@ -1,0 +1,79 @@
+{
+  "hero_id": "ancient-egyptian-hero-isis",
+  "name": "Isis Token Swarm",
+  "notes": [],
+  "cards": [
+    {
+      "id": "ancient-egyptian-001",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-003",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-004",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-005",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-006",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-009",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-010",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-013",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-014",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-embalm",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-scarab-swarm",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-spell-book-dead",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-spell-solar-lash",
+      "count": 2
+    },
+    {
+      "id": "ancient-egyptian-spell-divine-shield",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-relic-canopic",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-relic-rod",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-015",
+      "count": 1
+    },
+    {
+      "id": "ancient-egyptian-018",
+      "count": 1
+    }
+  ]
+}

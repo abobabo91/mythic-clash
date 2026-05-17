@@ -1,0 +1,102 @@
+{
+  "name": "cherokee deck",
+  "hero_id": "cherokee-hero-selu-cornmother",
+  "cards": [
+    {
+      "id": "cherokee-004",
+      "count": 1
+    },
+    {
+      "id": "cherokee-008",
+      "count": 1
+    },
+    {
+      "id": "cherokee-012",
+      "count": 1
+    },
+    {
+      "id": "cherokee-015",
+      "count": 1
+    },
+    {
+      "id": "cherokee-006",
+      "count": 1
+    },
+    {
+      "id": "cherokee-007",
+      "count": 1
+    },
+    {
+      "id": "cherokee-010",
+      "count": 1
+    },
+    {
+      "id": "cherokee-002",
+      "count": 1
+    },
+    {
+      "id": "cherokee-005",
+      "count": 1
+    },
+    {
+      "id": "cherokee-001",
+      "count": 1
+    },
+    {
+      "id": "cherokee-011",
+      "count": 1
+    },
+    {
+      "id": "cherokee-016",
+      "count": 1
+    },
+    {
+      "id": "cherokee-018",
+      "count": 1
+    },
+    {
+      "id": "cherokee-003",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s1",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s1b",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s2",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s3",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s4",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s5",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s6",
+      "count": 1
+    },
+    {
+      "id": "cherokee-s7",
+      "count": 1
+    },
+    {
+      "id": "cherokee-r1",
+      "count": 1
+    },
+    {
+      "id": "cherokee-r2",
+      "count": 1
+    }
+  ]
+}

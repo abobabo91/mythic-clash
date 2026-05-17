@@ -1,0 +1,102 @@
+{
+  "name": "tibetan-bon deck",
+  "hero_id": "tibetan-bon-hero-padmasambhava",
+  "cards": [
+    {
+      "id": "tibetan-bon-014",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-016",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-018",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-007",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-017",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-008",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-009",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-003",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-004",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-001",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-019",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-020",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-013",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-015",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s1",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s1b",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s2",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s3",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s4",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s5",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s6",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-s7",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-r1",
+      "count": 1
+    },
+    {
+      "id": "tibetan-bon-r2",
+      "count": 1
+    }
+  ]
+}

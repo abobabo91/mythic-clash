@@ -1,0 +1,71 @@
+{
+  "hero_id": "yoruba-hero",
+  "name": "Ogun Spirits",
+  "notes": [],
+  "cards": [
+    {
+      "id": "yoruba-01",
+      "count": 2
+    },
+    {
+      "id": "yoruba-02",
+      "count": 2
+    },
+    {
+      "id": "yoruba-03",
+      "count": 2
+    },
+    {
+      "id": "yoruba-04",
+      "count": 2
+    },
+    {
+      "id": "yoruba-05",
+      "count": 2
+    },
+    {
+      "id": "yoruba-06",
+      "count": 2
+    },
+    {
+      "id": "yoruba-08",
+      "count": 1
+    },
+    {
+      "id": "yoruba-09",
+      "count": 1
+    },
+    {
+      "id": "yoruba-s1",
+      "count": 2
+    },
+    {
+      "id": "yoruba-s2",
+      "count": 2
+    },
+    {
+      "id": "yoruba-s3",
+      "count": 1
+    },
+    {
+      "id": "yoruba-s4",
+      "count": 1
+    },
+    {
+      "id": "yoruba-s5",
+      "count": 1
+    },
+    {
+      "id": "yoruba-s6",
+      "count": 1
+    },
+    {
+      "id": "yoruba-r1",
+      "count": 1
+    },
+    {
+      "id": "yoruba-r2",
+      "count": 1
+    }
+  ]
+}
