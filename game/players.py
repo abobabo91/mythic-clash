@@ -680,8 +680,8 @@ MODEL_PRESETS: dict[str, dict[str, Any]] = {
     "gpt-4o-mini": {"provider": "openai", "model": "gpt-4o-mini", "thinking": False},
     "o4-mini": {"provider": "openai", "model": "o4-mini", "thinking": False},
     # Gemini
-    "gemini-lite": {"provider": "gemini", "model": "gemini-3.1-flash-lite-preview", "thinking": False},
-    "gemini-flash": {"provider": "gemini", "model": "gemini-3.1-flash-lite-preview", "thinking": False},
+    "gemini-lite": {"provider": "gemini", "model": "gemini-3.1-flash-lite", "thinking": False},
+    "gemini-flash": {"provider": "gemini", "model": "gemini-3.1-flash-lite", "thinking": False},
     "gemini-pro": {"provider": "gemini", "model": "gemini-3.1-pro-preview", "thinking": True, "budget": 5000},
 }
 
