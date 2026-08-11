@@ -12,13 +12,13 @@ Cultures covered here:
 
 Related files:
 
-- [scripts/build-wave-3-v1.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/build-wave-3-v1.py:1)
-- [data/cards-v1/cherokee-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/cherokee-v1.json:1)
-- [data/decks-v1/cherokee-selu-harvest-storm.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/cherokee-selu-harvest-storm.json:1)
-- [data/cards-v1/muisca-colombian-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/muisca-colombian-v1.json:1)
-- [data/decks-v1/muisca-colombian-bochica-golden-bastion.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/muisca-colombian-bochica-golden-bastion.json:1)
-- [data/cards-v1/yanomami-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/yanomami-v1.json:1)
-- [data/decks-v1/yanomami-omama-spirit-renewal.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/yanomami-omama-spirit-renewal.json:1)
+- [scripts/build-wave-3-v1.py](../scripts/build-wave-3-v1.py)
+- [data/cards-v1/cherokee-v1.json](../data/cards-v1/cherokee-v1.json)
+- [data/decks-v1/cherokee-selu-harvest-storm.json](../data/decks-v1/cherokee-selu-harvest-storm.json)
+- [data/cards-v1/muisca-colombian-v1.json](../data/cards-v1/muisca-colombian-v1.json)
+- [data/decks-v1/muisca-colombian-bochica-golden-bastion.json](../data/decks-v1/muisca-colombian-bochica-golden-bastion.json)
+- [data/cards-v1/yanomami-v1.json](../data/cards-v1/yanomami-v1.json)
+- [data/decks-v1/yanomami-omama-spirit-renewal.json](../data/decks-v1/yanomami-omama-spirit-renewal.json)
 
 ## Structural Result
 

@@ -1,6 +1,6 @@
 # Mythic Clash
 
-Browser-based mythological card game. 100 cultures × 20 mythological figures = **2,000 figures** with v1 card packs and legal sample decks. Headless duel engine for testing + rules + web UI (React + Vite). README has phase progress (Phase 4 in progress: competitive tuning + explicit card export + expanded support cards; Phase 5 = playable UI; Phase 6 = card artwork).
+Browser-based mythological card game. 100 cultures × 20 mythological figures = **2,000 figures** with v1 card packs and legal sample decks. Headless duel engine for testing + rules + web UI (React + Vite). README has phase progress (Phase 4 in progress: competitive tuning + explicit card export + expanded support cards; Phase 5 partial: local play vs bot/LLM works, deckbuilder and polish do not; Phase 6 = card artwork).
 
 ## Critical rules
 
@@ -59,4 +59,4 @@ Browser-based mythological card game. 100 cultures × 20 mythological figures = 
 - **100 cultures × 20 figures = a LOT of data files.** A naive `git status` can be slow when modifying scripts that touch every culture. Use targeted scripts and verify with the analysis tools.
 - **Competitive tuning** is the active phase. Don't ship rule changes that haven't been tournament-tested — the data overhead of having 100 cultures × decks is exactly what enables proper testing.
 - Card artwork is **Phase 6** (not started). Don't reference artwork that doesn't exist when building UI components.
-- For broader competitive-game design patterns: `tools/knowledge base/competitive games understanding.md` (the sister knowledge-base file that informs this project's design choices).
+- The API/WebSocket URLs in `web/src/App.tsx` are hardcoded to `localhost:8000`, and `server/app.py` never mounts `StaticFiles` — the server does not serve the built UI. Run the Vite dev server alongside it.

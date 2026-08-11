@@ -6,10 +6,10 @@ This document records what happened when `Haitian Vodou` was translated into the
 
 Related files:
 
-- [data/cards-v1/haitian-vodou-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/haitian-vodou-v1.json:1)
-- [data/decks-v1/haitian-vodou-legba-spirits.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/haitian-vodou-legba-spirits.json:1)
-- [scripts/build-haitian-vodou-v1.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/build-haitian-vodou-v1.py:1)
-- [scripts/validate-v1-deck.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/validate-v1-deck.py:1)
+- [data/cards-v1/haitian-vodou-v1.json](../data/cards-v1/haitian-vodou-v1.json)
+- [data/decks-v1/haitian-vodou-legba-spirits.json](../data/decks-v1/haitian-vodou-legba-spirits.json)
+- [scripts/build-haitian-vodou-v1.py](../scripts/build-haitian-vodou-v1.py)
+- [scripts/validate-v1-deck.py](../scripts/validate-v1-deck.py)
 
 ## What Was Tested
 

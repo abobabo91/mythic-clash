@@ -23,7 +23,6 @@ export function GameBoard({ state, actions, onAction, hint, onHint, hasActions }
   const [selectedCard, setSelectedCard] = useState<number | null>(null);
   const [selectedAttacker, setSelectedAttacker] = useState<string | null>(null);
 
-  const isMyTurn = actions.length > 0;
   const you = state.you;
   const opp = state.opponent;
 

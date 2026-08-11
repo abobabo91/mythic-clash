@@ -17,13 +17,13 @@ Cultures covered here:
 
 Related files:
 
-- [scripts/build-wave-2-v1.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/build-wave-2-v1.py:1)
-- [data/cards-v1/zoroastrian-persian-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/zoroastrian-persian-v1.json:1)
-- [data/decks-v1/zoroastrian-persian-ahura-bastion.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/zoroastrian-persian-ahura-bastion.json:1)
-- [data/cards-v1/japanese-shinto-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/japanese-shinto-v1.json:1)
-- [data/decks-v1/japanese-shinto-amaterasu-tempo.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/japanese-shinto-amaterasu-tempo.json:1)
-- [data/cards-v1/maori-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/maori-v1.json:1)
-- [data/decks-v1/maori-maui-tidal-growth.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/maori-maui-tidal-growth.json:1)
+- [scripts/build-wave-2-v1.py](../scripts/build-wave-2-v1.py)
+- [data/cards-v1/zoroastrian-persian-v1.json](../data/cards-v1/zoroastrian-persian-v1.json)
+- [data/decks-v1/zoroastrian-persian-ahura-bastion.json](../data/decks-v1/zoroastrian-persian-ahura-bastion.json)
+- [data/cards-v1/japanese-shinto-v1.json](../data/cards-v1/japanese-shinto-v1.json)
+- [data/decks-v1/japanese-shinto-amaterasu-tempo.json](../data/decks-v1/japanese-shinto-amaterasu-tempo.json)
+- [data/cards-v1/maori-v1.json](../data/cards-v1/maori-v1.json)
+- [data/decks-v1/maori-maui-tidal-growth.json](../data/decks-v1/maori-maui-tidal-growth.json)
 
 ## Structural Result
 

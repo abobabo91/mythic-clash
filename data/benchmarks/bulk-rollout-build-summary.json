@@ -3,455 +3,455 @@
     "culture": "aboriginal-australian",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\aboriginal-australian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\aboriginal-australian-rainbow-serpent-tempest-sanctuary.json"
+    "pack": "data/cards-v1/aboriginal-australian-v1.json",
+    "deck": "data/decks-v1/aboriginal-australian-rainbow-serpent-tempest-sanctuary.json"
   },
   {
     "culture": "ainu",
     "primary_family": "Sanctuary",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\ainu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\ainu-kamuy-fuchi-sanctuary-vanguard.json"
+    "pack": "data/cards-v1/ainu-v1.json",
+    "deck": "data/decks-v1/ainu-kamuy-fuchi-sanctuary-vanguard.json"
   },
   {
     "culture": "akan",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\akan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\akan-nyame-tempest-sanctuary.json"
+    "pack": "data/cards-v1/akan-v1.json",
+    "deck": "data/decks-v1/akan-nyame-tempest-sanctuary.json"
   },
   {
     "culture": "akkadian",
     "primary_family": "Oracle",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\akkadian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\akkadian-sargon-of-akkad-oracle-tempest.json"
+    "pack": "data/cards-v1/akkadian-v1.json",
+    "deck": "data/decks-v1/akkadian-sargon-of-akkad-oracle-tempest.json"
   },
   {
     "culture": "algonquian-ojibwe",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\algonquian-ojibwe-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\algonquian-ojibwe-nanabozho-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/algonquian-ojibwe-v1.json",
+    "deck": "data/decks-v1/algonquian-ojibwe-nanabozho-sanctuary-gravebound.json"
   },
   {
     "culture": "armenian",
     "primary_family": "Sanctuary",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\armenian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\armenian-aramazd-sanctuary-vanguard.json"
+    "pack": "data/cards-v1/armenian-v1.json",
+    "deck": "data/decks-v1/armenian-aramazd-sanctuary-vanguard.json"
   },
   {
     "culture": "aztec-mexica",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\aztec-mexica-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\aztec-mexica-huitzilopochtli-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/aztec-mexica-v1.json",
+    "deck": "data/decks-v1/aztec-mexica-huitzilopochtli-sanctuary-gravebound.json"
   },
   {
     "culture": "babylonian",
     "primary_family": "Oracle",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\babylonian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\babylonian-marduk-oracle-tempest.json"
+    "pack": "data/cards-v1/babylonian-v1.json",
+    "deck": "data/decks-v1/babylonian-marduk-oracle-tempest.json"
   },
   {
     "culture": "balinese-hindu-buddhist",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\balinese-hindu-buddhist-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\balinese-hindu-buddhist-sanghyang-widhi-wasa-oracle-sanctuary.json"
+    "pack": "data/cards-v1/balinese-hindu-buddhist-v1.json",
+    "deck": "data/decks-v1/balinese-hindu-buddhist-sanghyang-widhi-wasa-oracle-sanctuary.json"
   },
   {
     "culture": "baltic-lithuanian",
     "primary_family": "Oracle",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\baltic-lithuanian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\baltic-lithuanian-dievas-oracle-tempest.json"
+    "pack": "data/cards-v1/baltic-lithuanian-v1.json",
+    "deck": "data/decks-v1/baltic-lithuanian-dievas-oracle-tempest.json"
   },
   {
     "culture": "basque",
     "primary_family": "Sanctuary",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\basque-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\basque-mari-sanctuary-tempest.json"
+    "pack": "data/cards-v1/basque-v1.json",
+    "deck": "data/decks-v1/basque-mari-sanctuary-tempest.json"
   },
   {
     "culture": "bengali-hindu",
     "primary_family": "Sanctuary",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\bengali-hindu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\bengali-hindu-durga-sanctuary-vanguard.json"
+    "pack": "data/cards-v1/bengali-hindu-v1.json",
+    "deck": "data/decks-v1/bengali-hindu-durga-sanctuary-vanguard.json"
   },
   {
     "culture": "berber-amazigh",
     "primary_family": "Tempest",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\berber-amazigh-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\berber-amazigh-ammon-tempest-vanguard.json"
+    "pack": "data/cards-v1/berber-amazigh-v1.json",
+    "deck": "data/decks-v1/berber-amazigh-ammon-tempest-vanguard.json"
   },
   {
     "culture": "burmese-nat",
     "primary_family": "Tempest",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\burmese-nat-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\burmese-nat-anawrahta-tempest-gravebound.json"
+    "pack": "data/cards-v1/burmese-nat-v1.json",
+    "deck": "data/decks-v1/burmese-nat-anawrahta-tempest-gravebound.json"
   },
   {
     "culture": "buryat-mongol",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\buryat-mongol-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\buryat-mongol-geser-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/buryat-mongol-v1.json",
+    "deck": "data/decks-v1/buryat-mongol-geser-vanguard-sanctuary.json"
   },
   {
     "culture": "canaanite",
     "primary_family": "Tempest",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\canaanite-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\canaanite-baal-hadad-tempest-gravebound.json"
+    "pack": "data/cards-v1/canaanite-v1.json",
+    "deck": "data/decks-v1/canaanite-baal-hadad-tempest-gravebound.json"
   },
   {
     "culture": "celtic-welsh",
     "primary_family": "Oracle",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\celtic-welsh-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\celtic-welsh-gwydion-oracle-vanguard.json"
+    "pack": "data/cards-v1/celtic-welsh-v1.json",
+    "deck": "data/decks-v1/celtic-welsh-gwydion-oracle-vanguard.json"
   },
   {
     "culture": "chamorro-micronesian",
     "primary_family": "Sanctuary",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\chamorro-micronesian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\chamorro-micronesian-puntan-sanctuary-tempest.json"
+    "pack": "data/cards-v1/chamorro-micronesian-v1.json",
+    "deck": "data/decks-v1/chamorro-micronesian-puntan-sanctuary-tempest.json"
   },
   {
     "culture": "dogon",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\dogon-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\dogon-amma-tempest-sanctuary.json"
+    "pack": "data/cards-v1/dogon-v1.json",
+    "deck": "data/decks-v1/dogon-amma-tempest-sanctuary.json"
   },
   {
     "culture": "etruscan",
     "primary_family": "Gravebound",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\etruscan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\etruscan-tinia-gravebound-tempest.json"
+    "pack": "data/cards-v1/etruscan-v1.json",
+    "deck": "data/decks-v1/etruscan-tinia-gravebound-tempest.json"
   },
   {
     "culture": "evenki-tungusic",
     "primary_family": "Tempest",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\evenki-tungusic-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\evenki-tungusic-buga-tempest-vanguard.json"
+    "pack": "data/cards-v1/evenki-tungusic-v1.json",
+    "deck": "data/decks-v1/evenki-tungusic-buga-tempest-vanguard.json"
   },
   {
     "culture": "fijian",
     "primary_family": "Gravebound",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\fijian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\fijian-degei-gravebound-tempest.json"
+    "pack": "data/cards-v1/fijian-v1.json",
+    "deck": "data/decks-v1/fijian-degei-gravebound-tempest.json"
   },
   {
     "culture": "filipino-tagalog",
     "primary_family": "Tempest",
     "secondary_family": "Wildhost",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\filipino-tagalog-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\filipino-tagalog-bathala-tempest-wildhost.json"
+    "pack": "data/cards-v1/filipino-tagalog-v1.json",
+    "deck": "data/decks-v1/filipino-tagalog-bathala-tempest-wildhost.json"
   },
   {
     "culture": "finnish-karelian",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\finnish-karelian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\finnish-karelian-v-in-m-inen-tempest-sanctuary.json"
+    "pack": "data/cards-v1/finnish-karelian-v1.json",
+    "deck": "data/decks-v1/finnish-karelian-v-in-m-inen-tempest-sanctuary.json"
   },
   {
     "culture": "fon-ewe-dahomey",
     "primary_family": "Vanguard",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\fon-ewe-dahomey-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\fon-ewe-dahomey-mawu-vanguard-tempest.json"
+    "pack": "data/cards-v1/fon-ewe-dahomey-v1.json",
+    "deck": "data/decks-v1/fon-ewe-dahomey-mawu-vanguard-tempest.json"
   },
   {
     "culture": "hawaiian-polynesian",
     "primary_family": "Sanctuary",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\hawaiian-polynesian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\hawaiian-polynesian-kane-sanctuary-tempest.json"
+    "pack": "data/cards-v1/hawaiian-polynesian-v1.json",
+    "deck": "data/decks-v1/hawaiian-polynesian-kane-sanctuary-tempest.json"
   },
   {
     "culture": "hittite",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\hittite-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\hittite-tarhunt-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/hittite-v1.json",
+    "deck": "data/decks-v1/hittite-tarhunt-vanguard-sanctuary.json"
   },
   {
     "culture": "igbo",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\igbo-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\igbo-chukwu-oracle-sanctuary.json"
+    "pack": "data/cards-v1/igbo-v1.json",
+    "deck": "data/decks-v1/igbo-chukwu-oracle-sanctuary.json"
   },
   {
     "culture": "indian-buddhist",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\indian-buddhist-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\indian-buddhist-shakyamuni-buddha-oracle-sanctuary.json"
+    "pack": "data/cards-v1/indian-buddhist-v1.json",
+    "deck": "data/decks-v1/indian-buddhist-shakyamuni-buddha-oracle-sanctuary.json"
   },
   {
     "culture": "jain",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\jain-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\jain-rishabhadeva-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/jain-v1.json",
+    "deck": "data/decks-v1/jain-rishabhadeva-sanctuary-gravebound.json"
   },
   {
     "culture": "javanese-kejawen",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\javanese-kejawen-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\javanese-kejawen-sang-hyang-wenang-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/javanese-kejawen-v1.json",
+    "deck": "data/decks-v1/javanese-kejawen-sang-hyang-wenang-vanguard-sanctuary.json"
   },
   {
     "culture": "jewish-mysticism",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\jewish-mysticism-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\jewish-mysticism-metatron-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/jewish-mysticism-v1.json",
+    "deck": "data/decks-v1/jewish-mysticism-metatron-vanguard-sanctuary.json"
   },
   {
     "culture": "kashmiri-shaivism",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\kashmiri-shaivism-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\kashmiri-shaivism-paramashiva-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/kashmiri-shaivism-v1.json",
+    "deck": "data/decks-v1/kashmiri-shaivism-paramashiva-sanctuary-gravebound.json"
   },
   {
     "culture": "kazakh",
     "primary_family": "Gravebound",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\kazakh-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\kazakh-tengri-kazakh-gravebound-vanguard.json"
+    "pack": "data/cards-v1/kazakh-v1.json",
+    "deck": "data/decks-v1/kazakh-tengri-kazakh-gravebound-vanguard.json"
   },
   {
     "culture": "khmer",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\khmer-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\khmer-preah-vishnu-khmer-tempest-sanctuary.json"
+    "pack": "data/cards-v1/khmer-v1.json",
+    "deck": "data/decks-v1/khmer-preah-vishnu-khmer-tempest-sanctuary.json"
   },
   {
     "culture": "korean",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\korean-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\korean-dangun-wanggeom-oracle-sanctuary.json"
+    "pack": "data/cards-v1/korean-v1.json",
+    "deck": "data/decks-v1/korean-dangun-wanggeom-oracle-sanctuary.json"
   },
   {
     "culture": "lakota-sioux",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\lakota-sioux-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\lakota-sioux-wakan-tanka-tempest-sanctuary.json"
+    "pack": "data/cards-v1/lakota-sioux-v1.json",
+    "deck": "data/decks-v1/lakota-sioux-wakan-tanka-tempest-sanctuary.json"
   },
   {
     "culture": "lao",
     "primary_family": "Tempest",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\lao-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\lao-phra-ram-lao-tempest-vanguard.json"
+    "pack": "data/cards-v1/lao-v1.json",
+    "deck": "data/decks-v1/lao-phra-ram-lao-tempest-vanguard.json"
   },
   {
     "culture": "maasai",
     "primary_family": "Sanctuary",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\maasai-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\maasai-enkai-narok-sanctuary-tempest.json"
+    "pack": "data/cards-v1/maasai-v1.json",
+    "deck": "data/decks-v1/maasai-enkai-narok-sanctuary-tempest.json"
   },
   {
     "culture": "mandaean",
     "primary_family": "Gravebound",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\mandaean-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\mandaean-hibil-ziwa-gravebound-sanctuary.json"
+    "pack": "data/cards-v1/mandaean-v1.json",
+    "deck": "data/decks-v1/mandaean-hibil-ziwa-gravebound-sanctuary.json"
   },
   {
     "culture": "melanesian-papuan",
     "primary_family": "Sanctuary",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\melanesian-papuan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\melanesian-papuan-qat-sanctuary-tempest.json"
+    "pack": "data/cards-v1/melanesian-papuan-v1.json",
+    "deck": "data/decks-v1/melanesian-papuan-qat-sanctuary-tempest.json"
   },
   {
     "culture": "minoan",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\minoan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\minoan-potnia-oracle-sanctuary.json"
+    "pack": "data/cards-v1/minoan-v1.json",
+    "deck": "data/decks-v1/minoan-potnia-oracle-sanctuary.json"
   },
   {
     "culture": "mongolian-shamanist",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\mongolian-shamanist-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\mongolian-shamanist-tengri-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/mongolian-shamanist-v1.json",
+    "deck": "data/decks-v1/mongolian-shamanist-tengri-sanctuary-gravebound.json"
   },
   {
     "culture": "nubian-kushite",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\nubian-kushite-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\nubian-kushite-apedemak-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/nubian-kushite-v1.json",
+    "deck": "data/decks-v1/nubian-kushite-apedemak-vanguard-sanctuary.json"
   },
   {
     "culture": "phoenician",
     "primary_family": "Tempest",
     "secondary_family": "Oracle",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\phoenician-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\phoenician-el-tempest-oracle.json"
+    "pack": "data/cards-v1/phoenician-v1.json",
+    "deck": "data/decks-v1/phoenician-el-tempest-oracle.json"
   },
   {
     "culture": "phrygian",
     "primary_family": "Gravebound",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\phrygian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\phrygian-cybele-gravebound-sanctuary.json"
+    "pack": "data/cards-v1/phrygian-v1.json",
+    "deck": "data/decks-v1/phrygian-cybele-gravebound-sanctuary.json"
   },
   {
     "culture": "rajput-rajasthani",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\rajput-rajasthani-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\rajput-rajasthani-eklingji-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/rajput-rajasthani-v1.json",
+    "deck": "data/decks-v1/rajput-rajasthani-eklingji-vanguard-sanctuary.json"
   },
   {
     "culture": "sami",
     "primary_family": "Sanctuary",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\sami-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\sami-radien-attje-sanctuary-gravebound.json"
+    "pack": "data/cards-v1/sami-v1.json",
+    "deck": "data/decks-v1/sami-radien-attje-sanctuary-gravebound.json"
   },
   {
     "culture": "samoan",
     "primary_family": "Gravebound",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\samoan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\samoan-tagaloa-gravebound-tempest.json"
+    "pack": "data/cards-v1/samoan-v1.json",
+    "deck": "data/decks-v1/samoan-tagaloa-gravebound-tempest.json"
   },
   {
     "culture": "scythian",
     "primary_family": "Tempest",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\scythian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\scythian-tabiti-tempest-vanguard.json"
+    "pack": "data/cards-v1/scythian-v1.json",
+    "deck": "data/decks-v1/scythian-tabiti-tempest-vanguard.json"
   },
   {
     "culture": "shaiva-hindu",
     "primary_family": "Oracle",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\shaiva-hindu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\shaiva-hindu-shiva-oracle-sanctuary.json"
+    "pack": "data/cards-v1/shaiva-hindu-v1.json",
+    "deck": "data/decks-v1/shaiva-hindu-shiva-oracle-sanctuary.json"
   },
   {
     "culture": "sikh",
     "primary_family": "Vanguard",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\sikh-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\sikh-guru-nanak-vanguard-gravebound.json"
+    "pack": "data/cards-v1/sikh-v1.json",
+    "deck": "data/decks-v1/sikh-guru-nanak-vanguard-gravebound.json"
   },
   {
     "culture": "sogdian",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\sogdian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\sogdian-nana-sogdian-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/sogdian-v1.json",
+    "deck": "data/decks-v1/sogdian-nana-sogdian-vanguard-sanctuary.json"
   },
   {
     "culture": "sumerian",
     "primary_family": "Vanguard",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\sumerian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\sumerian-an-vanguard-tempest.json"
+    "pack": "data/cards-v1/sumerian-v1.json",
+    "deck": "data/decks-v1/sumerian-an-vanguard-tempest.json"
   },
   {
     "culture": "tamil-dravidian",
     "primary_family": "Vanguard",
     "secondary_family": "Wildhost",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\tamil-dravidian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\tamil-dravidian-murugan-vanguard-wildhost.json"
+    "pack": "data/cards-v1/tamil-dravidian-v1.json",
+    "deck": "data/decks-v1/tamil-dravidian-murugan-vanguard-wildhost.json"
   },
   {
     "culture": "thracian",
     "primary_family": "Vanguard",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\thracian-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\thracian-orpheus-vanguard-gravebound.json"
+    "pack": "data/cards-v1/thracian-v1.json",
+    "deck": "data/decks-v1/thracian-orpheus-vanguard-gravebound.json"
   },
   {
     "culture": "tibetan-bon",
     "primary_family": "Gravebound",
     "secondary_family": "Oracle",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\tibetan-bon-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\tibetan-bon-padmasambhava-gravebound-oracle.json"
+    "pack": "data/cards-v1/tibetan-bon-v1.json",
+    "deck": "data/decks-v1/tibetan-bon-padmasambhava-gravebound-oracle.json"
   },
   {
     "culture": "tongan",
     "primary_family": "Tempest",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\tongan-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\tongan-tangaloa-eitumatupua-tempest-gravebound.json"
+    "pack": "data/cards-v1/tongan-v1.json",
+    "deck": "data/decks-v1/tongan-tangaloa-eitumatupua-tempest-gravebound.json"
   },
   {
     "culture": "turkic-tengrist",
     "primary_family": "Gravebound",
     "secondary_family": "Tempest",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\turkic-tengrist-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\turkic-tengrist-tengri-gravebound-tempest.json"
+    "pack": "data/cards-v1/turkic-tengrist-v1.json",
+    "deck": "data/decks-v1/turkic-tengrist-tengri-gravebound-tempest.json"
   },
   {
     "culture": "vaishnava-hindu",
     "primary_family": "Tempest",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\vaishnava-hindu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\vaishnava-hindu-vishnu-tempest-vanguard.json"
+    "pack": "data/cards-v1/vaishnava-hindu-v1.json",
+    "deck": "data/decks-v1/vaishnava-hindu-vishnu-tempest-vanguard.json"
   },
   {
     "culture": "vedic-hindu",
     "primary_family": "Tempest",
     "secondary_family": "Gravebound",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\vedic-hindu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\vedic-hindu-indra-tempest-gravebound.json"
+    "pack": "data/cards-v1/vedic-hindu-v1.json",
+    "deck": "data/decks-v1/vedic-hindu-indra-tempest-gravebound.json"
   },
   {
     "culture": "vietnamese",
     "primary_family": "Tempest",
     "secondary_family": "Wildhost",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\vietnamese-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\vietnamese-lac-long-quan-tempest-wildhost.json"
+    "pack": "data/cards-v1/vietnamese-v1.json",
+    "deck": "data/decks-v1/vietnamese-lac-long-quan-tempest-wildhost.json"
   },
   {
     "culture": "yakut-sakha",
     "primary_family": "Sanctuary",
     "secondary_family": "Vanguard",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\yakut-sakha-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\yakut-sakha-aiyy-toyon-sanctuary-vanguard.json"
+    "pack": "data/cards-v1/yakut-sakha-v1.json",
+    "deck": "data/decks-v1/yakut-sakha-aiyy-toyon-sanctuary-vanguard.json"
   },
   {
     "culture": "yoruba",
     "primary_family": "Vanguard",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\yoruba-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\yoruba-orunmila-vanguard-sanctuary.json"
+    "pack": "data/cards-v1/yoruba-v1.json",
+    "deck": "data/decks-v1/yoruba-orunmila-vanguard-sanctuary.json"
   },
   {
     "culture": "zulu",
     "primary_family": "Tempest",
     "secondary_family": "Sanctuary",
-    "pack": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\cards-v1\\zulu-v1.json",
-    "deck": "c:\\Users\\abele\\Desktop\\github\\mythic-clash\\data\\decks-v1\\zulu-unkulunkulu-tempest-sanctuary.json"
+    "pack": "data/cards-v1/zulu-v1.json",
+    "deck": "data/decks-v1/zulu-unkulunkulu-tempest-sanctuary.json"
   }
 ]

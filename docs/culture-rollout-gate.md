@@ -177,8 +177,8 @@ Do **not** update all `100` cultures yet.
 
 Instead:
 
-1. use [docs/culture-rollout-rubric-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/culture-rollout-rubric-v1.md:1) as the working translation standard
-2. use [docs/culture-translation-checklist.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/culture-translation-checklist.md:1) for each pack
+1. use [docs/culture-rollout-rubric-v1.md](culture-rollout-rubric-v1.md) as the working translation standard
+2. use [docs/culture-translation-checklist.md](culture-translation-checklist.md) for each pack
 3. translate and test `3` to `5` more cultures from different families
 4. if those still feel good, then batch-convert the rest much more confidently
 

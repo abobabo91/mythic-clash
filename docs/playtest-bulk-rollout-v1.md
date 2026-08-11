@@ -6,10 +6,10 @@ This report covers the remaining `65` cultures that were converted after the fir
 
 Primary automation:
 
-- [scripts/run-v1-bulk-rollout.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/run-v1-bulk-rollout.py:1)
-- [data/benchmarks/bulk-rollout-build-summary.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-build-summary.json:1)
-- [data/benchmarks/bulk-rollout-test-report.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-test-report.json:1)
-- [data/benchmarks/bulk-rollout-test-report-with-greek-gate.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-test-report-with-greek-gate.json:1)
+- [scripts/run-v1-bulk-rollout.py](../scripts/run-v1-bulk-rollout.py)
+- [data/benchmarks/bulk-rollout-build-summary.json](../data/benchmarks/bulk-rollout-build-summary.json)
+- [data/benchmarks/bulk-rollout-test-report.json](../data/benchmarks/bulk-rollout-test-report.json)
+- [data/benchmarks/bulk-rollout-test-report-with-greek-gate.json](../data/benchmarks/bulk-rollout-test-report-with-greek-gate.json)
 
 ## Coverage
 

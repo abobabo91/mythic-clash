@@ -5,8 +5,8 @@ Last updated: 2026-05-04
 ## Coverage Snapshot
 
 - `100 / 100` cultures have been compatibility-checked against the new `CardSpec` translation layer.
-- `100 / 100` cultures now have a real `v1` pack in [data/cards-v1](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1:1).
-- `100 / 100` cultures now have a legal `24`-card sample deck in [data/decks-v1](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1:1).
+- `100 / 100` cultures now have a real `v1` pack in [data/cards-v1](../data/cards-v1).
+- `100 / 100` cultures now have a legal `24`-card sample deck in [data/decks-v1](../data/decks-v1).
 - `100 / 100` cultures now have rollout-tier gameplay testing through the fast smoke gauntlet.
 - the remaining gap is no longer translation coverage; it is competitive balance and deeper engine/testing work
 
@@ -62,28 +62,28 @@ These `35` cultures were translated in curated waves before the bulk pass and ha
 
 Key references:
 
-- [docs/playtest-ancient-greek-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-ancient-greek-v1.md:1)
-- [docs/playtest-haitian-vodou-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-haitian-vodou-v1.md:1)
-- [docs/playtest-inuit-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-inuit-v1.md:1)
-- [docs/playtest-wave-2-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-2-v1.md:1)
-- [docs/playtest-wave-3-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-3-v1.md:1)
-- [docs/playtest-wave-4-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-4-v1.md:1)
-- [docs/playtest-wave-5-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-5-v1.md:1)
-- [docs/playtest-wave-6-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-6-v1.md:1)
-- [docs/playtest-wave-7-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-7-v1.md:1)
-- [docs/playtest-wave-8-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-8-v1.md:1)
-- [docs/playtest-wave-9-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-9-v1.md:1)
-- [docs/playtest-wave-10-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-10-v1.md:1)
-- [docs/playtest-wave-11-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-wave-11-v1.md:1)
+- [docs/playtest-ancient-greek-v1.md](playtest-ancient-greek-v1.md)
+- [docs/playtest-haitian-vodou-v1.md](playtest-haitian-vodou-v1.md)
+- [docs/playtest-inuit-v1.md](playtest-inuit-v1.md)
+- [docs/playtest-wave-2-v1.md](playtest-wave-2-v1.md)
+- [docs/playtest-wave-3-v1.md](playtest-wave-3-v1.md)
+- [docs/playtest-wave-4-v1.md](playtest-wave-4-v1.md)
+- [docs/playtest-wave-5-v1.md](playtest-wave-5-v1.md)
+- [docs/playtest-wave-6-v1.md](playtest-wave-6-v1.md)
+- [docs/playtest-wave-7-v1.md](playtest-wave-7-v1.md)
+- [docs/playtest-wave-8-v1.md](playtest-wave-8-v1.md)
+- [docs/playtest-wave-9-v1.md](playtest-wave-9-v1.md)
+- [docs/playtest-wave-10-v1.md](playtest-wave-10-v1.md)
+- [docs/playtest-wave-11-v1.md](playtest-wave-11-v1.md)
 
 ## Bulk Rollout Cultures
 
 The remaining `65` cultures were converted in one reproducible bulk pass and then validated plus smoke-tested:
 
-- [docs/playtest-bulk-rollout-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/playtest-bulk-rollout-v1.md:1)
-- [data/benchmarks/bulk-rollout-build-summary.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-build-summary.json:1)
-- [data/benchmarks/bulk-rollout-test-report.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-test-report.json:1)
-- [data/benchmarks/bulk-rollout-test-report-with-greek-gate.json](/c:/Users/abele/Desktop/github/mythic-clash/data/benchmarks/bulk-rollout-test-report-with-greek-gate.json:1)
+- [docs/playtest-bulk-rollout-v1.md](playtest-bulk-rollout-v1.md)
+- [data/benchmarks/bulk-rollout-build-summary.json](../data/benchmarks/bulk-rollout-build-summary.json)
+- [data/benchmarks/bulk-rollout-test-report.json](../data/benchmarks/bulk-rollout-test-report.json)
+- [data/benchmarks/bulk-rollout-test-report-with-greek-gate.json](../data/benchmarks/bulk-rollout-test-report-with-greek-gate.json)
 
 Bulk rollout headline:
 

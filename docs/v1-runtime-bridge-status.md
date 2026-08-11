@@ -21,8 +21,8 @@ The engine can now:
 
 Main code:
 
-- [game/engine.py](/c:/Users/abele/Desktop/github/mythic-clash/game/engine.py:1)
-- [scripts/run-self-play.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/run-self-play.py:1)
+- [game/engine.py](../game/engine.py)
+- [scripts/run-self-play.py](../scripts/run-self-play.py)
 
 ## Supported Runtime Pieces
 

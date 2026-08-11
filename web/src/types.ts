@@ -68,11 +68,12 @@ export interface ActionInfo {
 }
 
 export interface ServerMessage {
-  type: "state" | "game_over" | "error";
+  type: "state" | "game_over" | "hint" | "error";
   state?: GameState;
   actions?: ActionInfo[];
   winner?: string;
   message?: string;
+  label?: string;
   last_action?: { player: number; action: string };
 }
 

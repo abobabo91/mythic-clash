@@ -6,10 +6,10 @@ This document records what happened when `Inuit` was translated into the new `v1
 
 Related files:
 
-- [data/cards-v1/inuit-v1.json](/c:/Users/abele/Desktop/github/mythic-clash/data/cards-v1/inuit-v1.json:1)
-- [data/decks-v1/inuit-sedna-tidehunt.json](/c:/Users/abele/Desktop/github/mythic-clash/data/decks-v1/inuit-sedna-tidehunt.json:1)
-- [scripts/build-inuit-v1.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/build-inuit-v1.py:1)
-- [scripts/validate-v1-deck.py](/c:/Users/abele/Desktop/github/mythic-clash/scripts/validate-v1-deck.py:1)
+- [data/cards-v1/inuit-v1.json](../data/cards-v1/inuit-v1.json)
+- [data/decks-v1/inuit-sedna-tidehunt.json](../data/decks-v1/inuit-sedna-tidehunt.json)
+- [scripts/build-inuit-v1.py](../scripts/build-inuit-v1.py)
+- [scripts/validate-v1-deck.py](../scripts/validate-v1-deck.py)
 
 ## What Was Tested
 

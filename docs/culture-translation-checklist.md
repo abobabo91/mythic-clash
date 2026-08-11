@@ -4,7 +4,7 @@ Use this checklist each time a culture is translated into a `v1` pack.
 
 Related standard:
 
-- [docs/culture-rollout-rubric-v1.md](/c:/Users/abele/Desktop/github/mythic-clash/docs/culture-rollout-rubric-v1.md:1)
+- [docs/culture-rollout-rubric-v1.md](culture-rollout-rubric-v1.md)
 
 ## Identity
 
