@@ -1,6 +1,6 @@
 # Mythic Clash vs Competitive Games Knowledge Base
 
-Status: design comparison against `tools/knowledge base/competitive games understanding.md`
+Status: design comparison against [`competitive-games-principles.md`](competitive-games-principles.md)
 
 This note compares the broader competitive-game design research against the current Mythic Clash direction.
 

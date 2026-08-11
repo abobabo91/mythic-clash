@@ -116,6 +116,7 @@ docs/                   design, rules, rollout and playtest notes
 - [docs/exact-rules-v1.md](docs/exact-rules-v1.md) — target ruleset
 - [docs/card-system-v1.md](docs/card-system-v1.md) — card architecture and rules primitives
 - [docs/competitive-gameplay-foundation.md](docs/competitive-gameplay-foundation.md) — why the format is shaped this way
+- [docs/competitive-games-principles.md](docs/competitive-games-principles.md) — format-agnostic: what keeps any competitive game fun
 - [docs/culture-identity-matrix.md](docs/culture-identity-matrix.md) — culture gameplay families and signature-character framework
 - [docs/culture-testing-status.md](docs/culture-testing-status.md) — per-culture rollout and testing status
 - [docs/playtest-bulk-rollout-v1.md](docs/playtest-bulk-rollout-v1.md) — bulk rollout results
